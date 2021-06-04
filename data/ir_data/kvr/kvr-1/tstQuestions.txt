@@ -1,0 +1,807 @@
+1 remind me to take my pills
+2 i need to take my pills at 7pm
+1 what gas_stations are here
+2 that s good please pick the quickest route to get there and avoid all heavy_traffic
+3 what is the address
+4 perfect thank you
+1 what s the temperature going to be like on friday
+2 alhambra
+3 and the temperature
+4 thank you
+1 give me directions to the closest grocery_store
+2 i need the one that avoids all heavy_traffic
+3 thank you
+1 what will the weather in fresno be in the next 48 hours
+2 thanks
+1 where is home
+2 okay how far away am i and send me the quickest route
+3 thank you very much car
+4 no response needed
+1 where is the closest grocery_store
+2 safeway
+3 pick the quickest route to go there and send the info on my screen please
+1 give me directions to the closest grocery_store
+2 what is the next closest location
+3 ok well make a route to the willows_market then try to avoid the car accident
+4 that s great thank you car
+1 where does my friend live
+2 i was thinking about something that happened to jill yesterday long story please pick a quick route to get there thank you
+3 thank you
+1 what is the highest_temperature in brentwood over the next two_days
+2 thank you very much car
+1 set reminder for dinner at 11am with mom on friday
+2 thank you we are done for now
+1 what time is dinner tonight
+1 what are the directions to the closest parking_garage
+2 thank you
+1 give me directions to the nearest shopping_center
+2 thanks
+1 find the address to a hospital or clinic
+2 thank you
+1 is it going to snow this week
+2 corona
+3 thank you car
+1 i need a reminder for dinner
+2 set my reminder for dinner at 7pm for the_6th of this month with my beloved marie
+3 thanks
+1 will it be warm in compton on wednesday
+2 thank you
+1 set me a reminder for football_activity at 1pm this month on the_11th with marie
+2 thanks buddy
+1 set an appointment for swimming
+2 at 3pm on saturday please
+1 i need gas
+2 what is the address
+3 can i have some route details i would like to avoid any heavy_traffic there
+4 it s okay thank you car
+1 take me to my friend s house
+2 what about the address of my home
+3 thanks for the help
+1 where can i go shopping
+2 sounds amazing set the gps to go there
+3 thanks
+1 does the forecast call for snow today
+2 cleveland
+3 thanks
+1 get me directions to a local cafe
+2 yes
+3 thanks can you provide the address and is this the fastest route
+1 schedule conference with sales_team on the_11th of this month 9am
+2 thanks
+1 what time is my doctor apartment and who is it with
+2 the one on wednesday
+3 and how about the one on the_5th
+1 what s the weather forecast for today and tomorrow
+2 los_angeles
+3 thanks
+1 give me directions to the nearest shopping mall
+2 yes please that sounds perfect
+3 that will be all thanks
+1 find me the quickest route to the grocery_store
+2 ok please give me the address and directions via the quickest route
+3 thank you
+1 give me the forecast for the next 7 days
+2 downtown_chicago
+3 okay thank you car
+1 car find the date and time for my tennis_activity
+2 thanks
+1 schedule meeting
+2 i need it for saturday at 1pm with sales_team to go_over_budget
+3 okay nice thank you
+1 what is the weather going to be today and tomorrow
+2 i want to know if it will drizzle in durham
+3 thank you
+1 check forecast for today and tomorrow
+2 mountain_view
+3 thanks
+1 what s the weather going to be like this week
+2 will it be hot in brentwood
+3 thank you
+1 where is a nearby parking_garage
+2 oh great job thanks
+1 will there be drizzle in redwood_city this weekend
+2 thanks
+1 car please send me the fastest route to go back home
+2 what is the address
+3 please send me the fastest route on screen and let s go there thank you
+4 thanks for all your help
+1 make an appointment for the doctor on the_12th
+2 set it at 7pm please
+3 thank you
+1 what is the temperature for the next 7 days weather forecast
+2 compton
+3 thank you very much car
+1 what will be the highest_temperature on friday in mountain_view
+2 thanks
+1 remind me about my yoga_activity with mother on the_15th of this month it is at 3pm
+2 schedule it for 3pm
+1 what time is my next tennis_activity and who will be attending
+2 thanks
+1 car i need a hospital please send me a quick route to the one near me in the direction we re driving
+2 please pick a quick route and let s go there thank you
+3 ok thanks car
+1 schedule a swimming_activity on monday the_1st with my father at 4pm
+2 thanks
+1 will there be clear_skies in danville on thursday
+2 thank you
+1 is it gonna snow in durham during the week
+2 thank you
+1 what is the weather like this week
+2 cleveland
+3 thank
+1 will it be dry in new_york on wednesday
+2 thank you so much
+1 check weather forecast for seattle
+2 please tell me the forecast in seattle this week
+3 thank you
+1 find me a chinese_restaurant with a no_traffic route
+2 send me the address anyway
+3 please pick a route with no_traffic to get there thanks
+4 that is ok thank you
+1 can you find me a chinese_restaurant that is within 5_miles
+2 how is the traffic to there
+3 sounds good set the gps please
+1 what is the weather forecast for the weekend
+2 compton what is the forecast for this week
+3 thanks
+1 will it be humid in fresno during the next_week
+2 thanks
+1 find out the parties joining me and date for my doctor_appointment
+2 cool thanks
+1 when s my tennis match
+2 okay great thank you
+1 when is my dentist_appointment the date and time
+2 that will do thanks
+1 will it rain next_week
+2 los_angeles please
+3 thank you
+1 will it be warm in grand_rapids on saturday
+2 thank you
+3 bye
+1 i need directions to a local fast food restaurant please
+2 please give me the address and directions to whichever restaurant is on a route where i can avoid heavy_traffic
+3 sounds good set the gps for the there thanks
+1 get me the weather report for this week
+2 exeter
+3 thanks
+1 what will be the temperature in manhattan on wednesday
+2 thank you car
+1 tell me all the events and meeting scheduled on my calendar for today
+2 thank you
+1 what s the weather like today and tomorrow
+2 i need to know if it is going to be foggy in fresno today and tomorrow car
+3 thanks buddy
+1 will there be drizzle in cleveland tomorrow
+2 thanks
+1 tell me the weather report in durham for this week
+2 the entire week
+3 perfect
+1 schedule a conference with the vice_president on the_5th at 11am
+2 perfect
+1 when is my dentist_appointment
+2 thank you
+1 please give me the address and directions via the fastest route to a pizza_restaurant within 4_miles of me
+2 ok please direct me there via the fastest route
+3 okay thanks
+1 pull up directions to 5672_barringer_street
+2 pick a route with no_traffic and let s go there thank you
+3 yes patience i need to get there anyway thank you car send the info on my screen please
+4 thanks
+1 car i need to go back home it s in the area please pick a route with no_traffic
+2 what is my address
+3 set gps for a route home with zero to no_traffic
+4 thank you
+1 where can i get tea
+2 yes
+3 sounds great thank you
+1 is it going to be overcast or cloudy at all any day this week
+2 i need this forecast information for the city of carson
+3 thanks
+1 set reminder for doctor_appointment on the_12th at 4 50
+1 i need shopping_center
+2 yes please
+3 thank you car pick the shortest distance for me please
+1 what s the weather forecast
+2 grand_rapids
+3 thank you very much car
+1 schedule a football_activity with ana for today at 11am
+2 thank you
+1 make a note that at 5pm on the_12th i have yoga
+1 what is the weather like right now
+2 please check exeter is it humid
+3 thank you
+1 will it be raining this week in redwood_city
+2 thank you
+1 what is the weather going to be like tomorrow show me the 7 day forecast
+2 fresno there will be hail tomorrow
+3 so no hail tomorrow in fresno
+4 thanks
+1 what is the weather like in the city
+2 what is the weather in compton on sunday
+3 thanks
+1 what time is my doctorappointment
+1 what s the temperature going to be like today and tomorrow
+2 seattle
+3 thank you
+1 is there a parking_garage within 2_miles
+2 that s great please pick the quickest route and send me the address on screen thank you
+3 fantastic thanks car
+1 find starbucks
+2 is is the quickest one available i really need my morning coffee
+3 where is the starbucks
+4 thank you
+1 will it be foggy on tuesday in redwood_city
+2 thank you
+1 directions to the mall
+2 thank you car please pick the fastest route
+3 sounds great and can you tell me the address
+4 awesome goodbye
+1 what time do i go to yoga and who is going with me
+2 thanks
+1 check the date and time of my doctorappointment
+1 car i need to get to a gas_station please show me the nearest one
+2 alright where is it located
+3 please pick the fastest route to get there
+4 thank you car
+1 i want to find the agenda location and time for my meeting
+2 thanks
+1 tell me when is my next meeting and who are invited in the meeting and what are the agenda of the next meeting
+1 take me to the parking_garage closest to my destination
+2 sure thank you just pick the quickest route and send me the address on screen
+1 schedule a swimming_activity with jon for december 10th at 3pm
+2 thank you
+1 i would like to know who is attending my meeting and when it is
+2 thanks
+1 is it going to snow this week
+2 mountain_view please
+3 thanks
+1 i need to schedule a doctorappointment
+2 it s at 1pm today
+1 show me the nearest shopping mall
+2 okay where is it located
+3 direction please
+4 thank you
+5 [ end conversation ]
+1 car i need a rest_stop in the area please pick something and avoid all heavy_traffic
+2 sounds great send me that address
+3 sure please do
+1 can you find out for me the date and parties attending my dinner
+2 thanks
+1 look up san_francisco s two_day weather info to see if it will be warm
+2 thank you
+1 i need to find out the date and time for my lab_appointment
+2 thanks that will do car
+1 is it going to rain in the next 7 days
+2 in san_francisco
+3 thanks
+1 what s the weather like today and tomorrow
+2 seatlle i want to know if it will be foggy today and tomorrow
+3 thanks
+1 show me the weather for the next 7 days
+2 will it be humid in compton
+3 thanks
+1 where does my friend live
+2 ok set the gps thanks
+1 remind me to watch the football game on the_1st
+2 at 2pm please
+3 thanks
+1 check doctorappointment date
+1 give me weather forecast for today
+2 downtown_chicago please
+3 thanks
+1 which temperature there will be in alhambra on thursday
+2 thanks
+1 what day and time is my dental appointment set for
+1 what is the weather like in the city
+2 i am in durham
+3 will there be a blizzard
+4 thanks
+1 what s the weather like in new_york
+2 i need to know about friday please
+3 thanks
+1 schedule taking_medicine at 6pm on the_13th of next month with my brother
+1 is it cloudy in cleveland today
+2 thanks
+1 i need the closest hospital
+2 yes please give me directions via the route with no_traffic
+3 thank you car
+1 info about football please
+2 thanks that s all
+1 take me to the nearest grocery_store
+2 yes
+3 thank you car pick a route with no_traffic and let s go there
+4 where is the nearest grocery_store with no_traffic
+5 yes please set the gps for there
+6 thank you
+1 is it currently hailing in manhattan
+2 thank you car
+1 is it going to be cloudy this week
+2 boston
+3 thanks car that works
+1 check weather for new_york city
+2 i need current weather data about new_york specifically information about the temperature
+3 awesome
+1 what s the temperature going to be like this week
+2 i m in manhattan
+3 thank you very much car
+1 set a reminder for me to take my medicine at 9am on sunday with by brother frank
+2 thank you
+1 i need to know my conference agenda date and who is attending
+2 great and who all will be there
+3 thanks
+4 thank you
+1 where does my friend live
+2 thanks
+1 get me directions to the nearest starbucks
+2 any coffee shops locally
+3 ok please give me the directions via the fastest route
+4 great thank you
+1 where can i find a parking_garage
+2 is that the quickest route
+3 ok thanks for the notification
+1 which day is my appointment on
+1 will there be clear_skies in fresno on wednesday
+2 thank you
+1 directions to the grocery_store
+2 ok please give me directions via the quickest route
+3 ok thank you
+1 what time is my next dinner event and who will be attending
+2 that will do thanks
+1 schedule swimming time
+1 is there a chance of snow in this weeks weather forecast
+2 san_mateo please
+3 thank you
+1 what is the current temperature
+2 alameda
+3 okay thank you
+1 will there be clear_skies in san_francisco on friday
+2 thanks
+1 find me a hotel somewhere near my current location
+2 can you send me the fastest route to go there
+3 thank you
+1 what is the weather going to be like today and tomorrow
+2 los_angeles
+3 awesome thanks
+1 what s the weather forecast
+2 find out if there is hail outside right now for seattle please
+3 thank you
+1 will it snow this week
+2 alameda
+3 thank you car
+1 remind me to watch football on sunday
+2 2pm
+3 thank you
+1 schedule a dentist_appointment at 3 next month on the_12th
+2 can you confirm you set the dentist_appointment for next month on the_12th
+1 where is the closest tea house
+2 how s the traffic
+3 sounds good let s get going
+4 thanks for the help
+1 will you find me the fastest route to a rest_stop
+2 pick the fastest route please thank you car
+3 thank you car
+1 who s showing up for tennis and what s the date on that
+2 what time will they be there
+3 thank you assistant
+1 what s the forecast report
+2 camarillo please tell me if it will be foggy on friday
+3 thank you
+1 will it snow in fresno during this week
+2 thank you very much
+1 what day is the football game
+1 what is on my schedule today
+1 check my agenda for my meeting
+2 okay i want to find out what time my meeting is and where and what day please
+3 perfect thank you
+1 will it be cloudy in inglewood next_week
+2 okay thanks
+1 when am i going swimming
+2 thank you kindly
+1 navigate home
+2 is that route avoiding heavy_traffic
+3 that is ok
+1 schedule a swimming_activity with marie on sunday at 6pm
+2 thank you
+1 find the nearest hotel
+2 yes sounds great
+3 set my gps for the quickest route possible please
+4 thank you car
+1 what is a quick route home
+2 please direct me via the quickest possible route
+3 thank you car
+1 will the weather be cloudy next_week
+2 grand_rapids
+3 thanks
+1 where is there a parking_garage
+2 what is the quickest route there
+3 okay perfect thanks
+1 what time is my doctorappointment and who is going with me
+2 okay perfect thank you
+1 assistant schedule an appointment at the dentist 9am of the_12th of current month bring martha with me
+2 thank you
+1 set a reminder for my swimming plans
+2 at 11am on friday
+3 perfect nothing else for now
+1 what is the agenda of my meeting today
+1 where can i get tea
+2 which one is the quickest is there any traffic
+3 yes teavana please
+4 ok can you tell me the address please
+5 thanks for all the help
+1 is it gonna be any blizzard on tuesday in alhambra
+2 thank you
+1 is it gonna be foggy in exeter on next_week
+2 thanks
+1 give me directions to the local starbucks
+2 yes please which one is its address there is any quick route available
+3 perfect
+1 what s the highest_temperature going to be in cleveland this week
+2 thank you
+1 i need a route to the shopping_center with no_traffic
+2 what does the traffic look like
+3 ouch patience please pick the route with least traffic and let s go there thank you
+4 thank you car
+1 find out the date and parties attending for my optometrist_appointment
+2 thanks for the info
+1 find a coffee place
+2 sounds great let s go there
+3 thank you
+1 can you give me the weather this week for new_york city
+2 then no clear_skies for me i m sad thank you car
+1 i need the quickest route to a pizza_restaurant near me
+2 pick the quickest route and let s go there please
+1 where are there chinese_restaurant around
+2 whichever is the fastest to get to
+3 what is the address
+4 thank you
+1 what is the rest_stop with the quickest route nearby
+2 what is the address
+3 is there a quick route to reach
+4 thank you car
+5 have a good day
+1 check the weather forecast
+2 i want to know if it will be stormy in manhattan over the next 7 days
+3 thank you car
+1 please give me the address and directions via a route with no_traffic to the nearest pizza_restaurant
+2 yes let s go thank you
+1 this week will it be warm in los_angeles
+2 thank you car
+1 find location and address to home that is nearest me
+2 thanks set the gps for there
+1 what time is my dinner reservation
+1 please give me the address and directions via a route that avoids all heavy_traffic to a hospital around me
+2 thank you very much car
+1 set a reminder for my dentist_appointment with dad on the first at 2pm
+1 set an appointment to swim next_week
+2 thursday at 10am please
+3 thanks
+1 i need to find out the parties attending and the date for my lab_appointment thanks
+2 great thank you so much
+3 thank you
+1 find me the nearest gas_station
+2 please pick the quickest route to get there thank you
+3 display address on screen please
+4 thanks for the information
+1 what is the weather forecast in cleveland for thursday
+2 thanks
+1 need the quickest route to home
+2 could you confirm the address for me please
+3 thank you
+1 is it going to be hot this weekend in boston
+2 i was asking about boston not seattle do you have information for boston too
+3 thank you so much for the information
+1 schedule a swimming_activity with my brother for the_7th at 11am
+2 great thank you
+1 where is the nearby shopping_center
+2 please pick the quickest route to go there and send me the info on screen thanks
+3 thanks
+1 what is the date and location for my conference and who is attending
+2 the one at 6pm please
+3 thanks
+1 what time do i take my medicine and who is attending
+1 who will be at the meeting friday
+1 will it be windy in los_angeles on sunday
+2 thanks
+1 what time is my lab_appointment for
+1 schedule a dentist_appointment on the_8th at 1pm ana will be joining you
+2 thanks
+1 i need a rest_stop within a 2_miles radius
+2 what is the address
+3 set gps for shortest route
+4 thanks
+1 when am i playing tennis
+1 what date is my dentist_appointment and who is attending
+2 thank you that was helpful
+1 what is the date of my yoga_activity and who will be attending it
+2 thank you
+1 schedule taking_medicine with martha at 5pm next wednesday
+2 thank you
+1 is the weather cloudy right now
+2 fresno
+3 thanks
+1 give me the location for the nearest starbucks
+2 yes please
+3 okay thank you
+4 please set the gps to avoid all heavy_traffic and let s go there thank you
+1 find directions to the nearest starbucks
+2 let s go at cafe_venetia please send the address on my screen and pich the quickest route
+3 yes set gps for the quickest route now
+4 thanks
+1 is it supposed to snow today
+2 i want to know about corona please
+3 thank you so much
+1 give me directions to a place to sleep
+2 yes please pick a quick route
+3 thanks
+1 i m desiring to eat at some chinese_restaurant is there anything in this local area
+2 yes please and pick a route to avoid all heavy_traffic
+3 what is the address
+4 sounds good set the navigation there please
+1 which days are rain forecasted
+2 tell me if it is raining in oakland right now
+3 thanks
+1 schedule a conference at 6pm on the tenth with sales_team
+2 thank you
+1 please set a reminder to take medicine at 7pm tuesday with ana
+2 thanks
+1 find me a gas_station
+2 are there any other locations that will take less time to reach
+3 ok send me the address please
+4 thank you
+5 great
+1 schedule a reminder to take medicine with martha for saturday at 2pm
+1 are there any chinese_restaurant nearby
+2 which one has the fastest route
+3 what is the address
+4 how long will it take to get there
+5 thank you
+1 where is the nearest hospital that we can get to quick
+2 yes sounds great
+1 give me the location for the nearest starbucks
+2 sure just pick the fastest route for me thanks
+1 remind me to go swimming at 4 50
+2 at 4 50pm the_12th of this month
+3 thanks
+1 please tell me the location time and parties that are attending my meeting
+2 great thank you so much
+3 that is all thanks
+1 what s the current weather in san_francisco
+2 okay thanks
+1 what time is the doctor_appointment and who is attending
+2 the_9th thank you
+1 set a reminder for the conference
+2 it is on august 14th at 4pm
+3 make sure you add the executive_team to that reminder
+4 thanks
+1 car find out the time and parties attending for my tennis_activity
+2 thanks
+1 what s the temperature going to be this week
+2 san_jose please
+3 thanks
+1 how is gonna be the weather forecast in san_mateo for the next_weekend
+2 okay thank you
+1 what s the temperature going to be like this week
+2 los_angeles
+3 thanks
+1 find out when my next conference
+1 please check the weather for this week
+2 will it be stormy in camarillo
+3 thank you
+1 schedule a conference with the boss for this month on the_5th at 1pm
+2 great thanks
+1 schedule a tennis_activity with martha for friday at 4pm
+2 thanks
+1 will it be windy in atherton in the next two_days
+2 thanks
+1 where is a nearby rest_stop
+2 yes please give me directions via the fastest route
+3 thank you
+1 hi car i would like to schedule a reminder for my tennis_activity at 5pm on the tenth with jon
+2 perfect thank you
+1 what is the address of my friend s house
+2 get me the address to my friends_house nearest my current location
+3 set the gps for the quickest route possible
+4 thanks
+1 i need to find out some info for my optometrist_appointment the date and time please
+2 that will do thanks
+1 get me directions to the mall
+2 let s go at ravenswood_shopping_center and pick a route with no_traffic please
+3 what s the address
+4 thanks so much for all your help
+1 is there a grocery_store within 3_miles of me
+2 ok please give me directions via the route with least traffic
+3 thank you
+1 find out if it s supposed to rain
+2 redwood_city
+3 thank you
+1 show me the nearby hospital
+2 does stanford_express_care have heavy_traffic nearby
+3 does stanford_express_care have heavy_traffic nearby
+4 any other local hospital s with no heavy_traffic
+5 quickly reboot your system car and then send me the address thank you
+1 i need a coffee shop within 4_miles
+2 is there a quickest route to reach it
+3 thanks
+1 find me a hotel that is near my location
+2 please pick a quick route to go there
+3 thanks what is the address
+4 ok set the gps please thanks for the help
+1 where can i buy groceries
+2 what is the address
+3 ouch this sounds awful but patience please set the gps to go there
+4 thank you car
+1 what is the date and time of my next meeting
+1 what s the temperature going to be this week
+2 fresno
+3 thanks
+1 what is the weather going to be like today and tomorrow
+2 seatlle will it be windy
+3 thank you
+1 get me directions to the nearest starbucks
+2 then let s go there car please send me its address on screen and pick the fastest route for me
+3 thanks so much for the information
+1 is it gonna be dry in redwood_city in next_few_days
+2 the next_few_days please
+3 thanks
+1 which one is gonna be the highest_temperature in fresno this week
+2 thank you
+1 schedule a swimming_activity with tom on the_6th of this month at 2pm
+2 thank you
+1 i have an eye doctor_appointment on the_12th at 5pm
+1 take me to the mall to buy some clothes
+2 yes
+3 i wish to find a route with no_traffic but it s okay please send the info on the gps thanks
+4 thank you car
+1 i need the address to my friend s house please
+2 could you please send on my screen the fastest route to get there
+3 will do thank you
+1 find me a tea house
+2 is there an alternate route and is this the quickest way there
+3 thank you
+1 when is the football game
+2 thank you
+1 what s the temperature going to be for the week
+2 durham
+3 thank you car
+1 where do i live
+2 it should be nearby please pick a quick route to get there
+3 thanks
+1 car please give me the address of a good pizza_restaurant in the shortest possible distance
+2 nice what s the address there
+3 set gps for shortest route now
+1 find the nearest shopping mall on the map
+2 let s go to ravenswood then
+3 okay thanks
+1 where can i get groceries
+2 okay tell me the quickest route there
+3 sounds great set the navigation for there
+1 i want tea
+2 yes what is the address
+3 thanks
+1 take me to a place where i can get some hot tea
+2 how s the traffic
+3 give me the address
+4 is there an alternate route with no_traffic
+5 it sounds great thank you car let s navigate there please
+1 directions to nearest barista
+2 is there another coffee shop that situated on a route with no_traffic
+3 ok thank you
+1 schedule an appointment for yoga
+1 when is the next cloudy day
+2 manhattan please will it be cloudy on monday
+3 thank you
+1 what s the weather forecast for tomorrow
+2 will it be hot in atherton tomorrow
+3 thank you
+1 are there clear_skies in the forecast today
+2 i would like to know about san_jose
+3 thanks
+1 closest coffee
+2 is there any available
+3 please direct me there via the shortest distance
+4 thank you car
+1 is it going to be windy in san_francisco tomorrow
+2 thank you car
+1 please let me know the weather forecast for tomorrow
+2 los_angeles
+3 thank you
+1 please give me information about my conference
+2 thanks
+1 what time is my meeting tomorrow and what is the agenda
+2 thanks
+3 thanks again
+1 schedule a lab_appointment at 6pm on august 3 alex is coming along
+1 is there snow in the forecast for the week
+2 i need it for san_jose
+3 thanks
+1 can you tell me the next day that i have an appointment with the eye doctor
+1 when s the football_activity and who s attending
+2 thanks
+1 set a reminder for a football_activity at 10am on friday with tom
+2 thanks for your help
+1 please give the directions to a nearby hospital
+2 and how is the traffic
+3 could you give me the address and directions via a quick route
+4 okay thank you
+1 set reminder for doctorappointment for the tenth
+2 yes please 1pm
+1 give me directions to the closest shopping mall
+2 is the route to town and county shopping_center the fastest
+3 give me the address
+4 thanks
+1 car what is the temperature going to be today and tomorrow
+2 grand_rapids
+3 thanks
+1 where can i get coffee
+2 is that the shortest route available
+3 yes please thanks
+1 is it going to snow today
+2 please check for oakland
+3 thank you car
+1 what day is the swimming party and who will be attending
+2 thanks
+1 what time is my lab_appointment and who will be attending
+2 thanks
+1 what is a good chinese_restaurant
+2 the nearby one please
+3 is that the fastest option
+4 okay great please set the navigation to take me there
+5 thank you car
+1 what is the date and time of my next meeting and who will be attending it
+2 thank you
+1 check today s forecast for rain
+2 fresno thanks
+3 thank you
+1 i need to find out the date and time for my swimming_activity
+2 thanks
+1 search today s forecast
+2 will it be humid in oakland today
+3 thank you
+1 schedule a meeting at 6pm on the_5th of this month with boss to go_over_quarterly_report
+1 what s the weather like in grand_rapids
+2 i would like to know the weather for friday
+3 thank you
+4 thanks again
+1 what is the weather like in new_york city
+2 yes today s weather report please
+3 thank you
+1 is it raining today
+2 i need it for new_york
+3 thank you
+1 remind me about my lab_appointment
+2 my doctorappointment is at 7pm on monday the_1st
+3 ok thanks
+1 please give me the address and directions to home within 5_miles of here avoiding all heavy_traffic
+2 ok that will do thank you
+1 is it snowing in redwood_city right now
+2 but it s not snowing
+3 thank you
+1 take me to the mall to buy some clothes
+2 i am guessing ravenswood would be faster let s go there
+3 thank you very much car
+1 what is the date and time for my yoga_activity
+2 thank you
+1 navigate home
+2 okay thank you
+3 [ end conversation ]
+1 i m in the mood for some tea can you show me directions to the nearest cafe
+2 hope it doesn t have any traffic
+3 what is the address
+4 thank you very much car
+1 remind me about tennis at 10am at the end of march with martha
+2 just set it for the end of march
+3 thanks
+1 please give me the address and directions via the shortest distance to the nearest pizza place
+2 yes please show me the route with the shortest distance thank you
+3 thank you car
+1 give me a location to a local parking lot
+2 yes and please provide a quick route to get there
+3 please pick the quickest route thank you
+1 what is the forecast for the next 7 days
+2 cleveland will it be windy
+3 thank you
+1 show me directions to the nearest grocery_store
+2 pick the fastest route and with least traffic then send the address on my screen please
+3 hope you picked the fastest route or no more gasoline for you car just kidding thank you
+1 schedule a conference with the executive_team for the_15th of this month at 9am
+2 thanks

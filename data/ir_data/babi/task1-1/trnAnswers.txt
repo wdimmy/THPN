@@ -1,0 +1,6024 @@
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian paris two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian london eight cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call british bombay two moderate
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british bombay two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian london six moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call spanish madrid four expensive
+hello what can i help you with today
+i'm on it
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call indian madrid two cheap
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call french paris four moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call indian paris eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+ok let me look into some options for you
+api_call italian madrid six cheap
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call spanish paris two cheap
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call french madrid eight cheap
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call italian madrid six expensive
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call italian rome four moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+ok let me look into some options for you
+api_call french paris eight expensive
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call british bombay four cheap
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian paris eight moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian bombay eight expensive
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call french paris six cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian rome eight cheap
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call italian bombay eight expensive
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call indian paris six moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian bombay six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+ok let me look into some options for you
+api_call italian madrid two moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+ok let me look into some options for you
+api_call french paris eight expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call italian paris eight moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french rome eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call spanish rome eight cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call spanish rome two expensive
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian bombay four expensive
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call indian madrid eight cheap
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call italian rome eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+which price range are looking for
+ok let me look into some options for you
+api_call spanish rome two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+ok let me look into some options for you
+api_call indian london eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+which price range are looking for
+ok let me look into some options for you
+api_call indian bombay eight expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call indian madrid eight cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call indian rome six cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call italian paris two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+ok let me look into some options for you
+api_call indian paris two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish paris two cheap
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call french bombay two cheap
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call indian madrid eight expensive
+hello what can i help you with today
+i'm on it
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call italian madrid six cheap
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call french london eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british paris two moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+ok let me look into some options for you
+api_call british paris two moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call spanish madrid four expensive
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call indian london six moderate
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call spanish paris two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian madrid two moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call british bombay two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+ok let me look into some options for you
+api_call british rome two cheap
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian rome four expensive
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call indian madrid eight cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call italian london six cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french bombay two expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call spanish paris two cheap
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british rome two cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call spanish bombay eight moderate
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call french london eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french rome six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian rome eight cheap
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian rome four expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french madrid six cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+ok let me look into some options for you
+api_call spanish bombay two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british rome six moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+ok let me look into some options for you
+api_call italian madrid four moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french madrid two moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian paris eight cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call spanish rome six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian rome eight cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call indian rome two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call spanish rome eight moderate
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call indian madrid eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french paris eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british madrid four expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call spanish london eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french london two expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call british rome six cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+which price range are looking for
+ok let me look into some options for you
+api_call italian madrid six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+which price range are looking for
+ok let me look into some options for you
+api_call french bombay two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian madrid four moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call spanish madrid two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french london eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish bombay four expensive
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call indian paris eight moderate
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french madrid two moderate
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian paris two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call british rome six expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call spanish rome two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian rome six expensive
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british bombay six moderate
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call british paris two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+which price range are looking for
+ok let me look into some options for you
+api_call spanish london eight cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french paris two moderate
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call italian paris two cheap
+hello what can i help you with today
+i'm on it
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call spanish paris four moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french paris eight expensive
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british rome four cheap
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call italian rome six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian rome four expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call spanish madrid two cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french paris four expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call spanish bombay two cheap
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call british rome six cheap
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call spanish london eight cheap
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian bombay eight moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call british bombay eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french paris four cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+ok let me look into some options for you
+api_call french madrid six moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call british madrid four expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian madrid two moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call italian london two moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call british london six moderate
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call spanish madrid four expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian bombay eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call spanish rome two moderate
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish rome six moderate
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish madrid four expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call indian rome eight expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call spanish rome two expensive
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call spanish bombay two cheap
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call spanish bombay two expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call italian rome four moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french rome six expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french bombay four cheap
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call indian london eight expensive
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call british london eight expensive
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call indian bombay eight cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call indian rome two expensive
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british bombay two moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british london six moderate
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british paris two moderate
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish paris two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish paris four cheap
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call indian london eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+which price range are looking for
+ok let me look into some options for you
+api_call spanish bombay eight cheap
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call italian london six cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french paris six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish rome six moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian madrid six expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call british madrid two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call indian madrid two moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish london eight cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french london two expensive
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian bombay four expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call indian paris six cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call italian rome six expensive
+hello what can i help you with today
+i'm on it
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call spanish rome two cheap
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call italian madrid four moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call british london six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish madrid eight moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian rome six cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian london eight cheap
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british bombay two moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british rome two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish paris eight expensive
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call italian london six cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian london two cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french rome six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+ok let me look into some options for you
+api_call spanish madrid four expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british bombay eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+ok let me look into some options for you
+api_call british madrid four expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french bombay two moderate
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call spanish madrid eight moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian bombay two expensive
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call british bombay two moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish london eight cheap
+hello what can i help you with today
+i'm on it
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call italian bombay two moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british london six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian madrid eight moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian paris two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+which price range are looking for
+ok let me look into some options for you
+api_call french london eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian madrid four moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french bombay two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+ok let me look into some options for you
+api_call british london six cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british bombay two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish paris eight expensive
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish london eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call french madrid six cheap
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call spanish london eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call spanish paris eight moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+which price range are looking for
+ok let me look into some options for you
+api_call french bombay eight expensive
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call french paris four expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call indian bombay two moderate
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call french bombay four moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish bombay four cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british bombay four cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french paris four expensive
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call spanish rome eight moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish rome six moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call french madrid eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian paris eight cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call italian london six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian rome two cheap
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish london eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian rome four expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british bombay eight expensive
+hello what can i help you with today
+i'm on it
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call french london four expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call italian rome six expensive
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish bombay two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call spanish madrid two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian madrid six moderate
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french rome two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian london six moderate
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call british london eight expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call spanish rome two cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call british bombay two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish rome eight cheap
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call british paris two moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british london eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish rome two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish madrid eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian rome six moderate
+hello what can i help you with today
+i'm on it
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call british madrid two expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french madrid six moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call indian madrid eight cheap
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call british london eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish rome six expensive
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call italian madrid eight expensive
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call italian rome two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call french rome six cheap
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call italian rome six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian bombay two moderate
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call spanish paris four moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call british bombay eight moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call british madrid six moderate
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call spanish madrid eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish paris six moderate
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call indian rome four expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british rome four cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian bombay eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish rome six moderate
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call indian bombay six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british london four expensive
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call french paris six expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call british london six moderate
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call british london six cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call british bombay two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish bombay four cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+ok let me look into some options for you
+api_call spanish rome six moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call british madrid four expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian rome four moderate
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call italian madrid two moderate
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call italian madrid two moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french bombay two expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call spanish bombay four expensive
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish paris six moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call spanish madrid two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call spanish rome two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french rome eight cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call italian london six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call spanish madrid eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british rome two cheap
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call italian bombay eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call italian rome four moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish madrid eight moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call indian bombay eight expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french bombay two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call spanish rome two cheap
+hello what can i help you with today
+i'm on it
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call spanish rome two moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french rome six cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish bombay two moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french bombay eight expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french bombay four cheap
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french madrid four expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish london eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french madrid two moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french london two expensive
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call british london four expensive
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian paris two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+which price range are looking for
+ok let me look into some options for you
+api_call british madrid six moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call british london eight expensive
+hello what can i help you with today
+i'm on it
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call french paris eight expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call british bombay eight moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call spanish bombay two expensive
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french bombay two moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call british rome six moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british bombay eight moderate
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call french madrid four expensive
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call british rome two expensive
+hello what can i help you with today
+i'm on it
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call british madrid two expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call british paris eight cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call spanish bombay four cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call italian paris two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call italian paris eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+which price range are looking for
+ok let me look into some options for you
+api_call spanish paris eight moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british paris six cheap
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian bombay two expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call indian paris eight moderate
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call indian paris six moderate
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian bombay two moderate
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french bombay four moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french london two expensive
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british london eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish paris eight expensive
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call indian paris two moderate
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call indian rome eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call french rome six expensive
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish paris four moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish paris two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+ok let me look into some options for you
+api_call british bombay eight moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian bombay eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call italian madrid six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call italian paris two cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call indian london eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian london six moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian london two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french bombay eight expensive
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call spanish paris eight moderate
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish bombay eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call french rome six expensive
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call italian paris two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french london eight cheap
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call italian rome two cheap
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call spanish madrid eight moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call french rome six moderate
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call french rome eight moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call british bombay eight moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french paris six expensive
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call french london eight moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call spanish rome two moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call british london six moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call spanish rome eight moderate
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call british bombay eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish london eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+ok let me look into some options for you
+api_call british madrid two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call spanish bombay four expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call spanish madrid four expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call french paris two moderate
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call spanish madrid six cheap
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call british paris two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call french paris eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call spanish bombay six cheap
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call british rome six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+ok let me look into some options for you
+api_call spanish bombay eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call italian london six expensive
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call indian rome two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british bombay two moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british london eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian paris two cheap
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call italian london six cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french rome two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian london two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call indian madrid two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french london two moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call british rome six cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call spanish rome two expensive
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call french london eight moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+which price range are looking for
+ok let me look into some options for you
+api_call spanish paris two cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call italian rome eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call spanish bombay two moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call italian rome eight cheap
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call spanish madrid six moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian bombay eight cheap
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call indian paris eight expensive
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish madrid eight moderate
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call french paris four expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call french paris six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish paris two cheap
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french london eight cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french paris six expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call italian rome eight moderate
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian paris two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french paris six moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french bombay two moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french london eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call spanish bombay two moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call french madrid four expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call french madrid four expensive
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call indian paris two moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish madrid eight moderate
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call british bombay two moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian madrid eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british bombay eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+ok let me look into some options for you
+api_call french madrid six moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british paris six cheap
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french madrid six moderate
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call italian london two cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call indian london six moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call italian rome two cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french london eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call british london six cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian paris two moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french paris six expensive
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call spanish rome two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish rome two cheap
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish rome two moderate
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french rome six expensive
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call italian madrid two moderate
+hello what can i help you with today
+i'm on it
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call indian madrid eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call indian madrid two moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call italian madrid four moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish bombay two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+which price range are looking for
+ok let me look into some options for you
+api_call british bombay eight moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+ok let me look into some options for you
+api_call spanish rome six moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call british madrid two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call french london eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian bombay eight moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french rome eight cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call british london eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish bombay two expensive
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish paris eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british london four expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british rome two cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call spanish rome two moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish rome two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british paris two expensive
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call spanish paris two cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call british rome four cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call italian rome eight moderate
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call french bombay two moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call british paris four cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+ok let me look into some options for you
+api_call indian madrid two moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french paris four expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call italian bombay six expensive
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call french bombay four moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french bombay four expensive
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call indian paris eight moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call spanish paris eight moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french paris two moderate
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call italian madrid two moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call spanish madrid two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call french paris eight cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call indian rome two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian madrid eight moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+which price range are looking for
+ok let me look into some options for you
+api_call french paris two moderate
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call british paris two moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call italian rome two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian madrid eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish madrid eight moderate
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french madrid two cheap
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british london six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian paris eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian bombay eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call french rome eight cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call spanish madrid two cheap
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call british london six cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian rome six moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call indian madrid two cheap
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian paris six expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call spanish rome six moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british london four expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call italian rome two cheap
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call french bombay four moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call italian rome six moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british paris four cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+ok let me look into some options for you
+api_call italian paris eight moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call indian paris six cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call spanish paris eight moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french paris four cheap
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian rome four expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call british bombay eight moderate
+hello what can i help you with today
+i'm on it
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call italian madrid four moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french london two expensive
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call spanish london eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+ok let me look into some options for you
+api_call italian bombay two moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french london eight moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian rome two cheap
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call italian london two moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british madrid two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call french madrid four expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call french madrid two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call british paris six cheap
+hello what can i help you with today
+i'm on it
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call spanish madrid eight moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call indian rome eight expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call italian london two moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call indian bombay two moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish bombay two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian paris two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+ok let me look into some options for you
+api_call indian bombay eight moderate
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian paris six moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish paris six moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french paris six moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian madrid eight expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call british london six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call french madrid two moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+which price range are looking for
+ok let me look into some options for you
+api_call british london four moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british bombay six moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+ok let me look into some options for you
+api_call spanish paris eight expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call spanish bombay six cheap
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian bombay six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian madrid eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian london six cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call indian rome four cheap
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french london eight moderate
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british london six expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call british bombay eight moderate
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call spanish rome eight moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+which price range are looking for
+ok let me look into some options for you
+api_call french rome six cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french rome six moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call indian madrid eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french london two expensive
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call british rome six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish london four expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call italian paris four cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian london eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian rome eight expensive
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian paris two moderate
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call italian london two cheap
+hello what can i help you with today
+i'm on it
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call indian madrid eight expensive
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call spanish rome two cheap
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call british bombay eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call spanish paris two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish madrid four expensive
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call indian rome eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian paris two cheap
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call italian madrid six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+ok let me look into some options for you
+api_call italian london two expensive
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call british rome two expensive
+hello what can i help you with today
+i'm on it
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call british madrid four cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french bombay four moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call italian paris eight moderate
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call french paris four moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call french rome two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+which price range are looking for
+ok let me look into some options for you
+api_call british london six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french madrid two moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call indian madrid six moderate
+hello what can i help you with today
+i'm on it
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call french london eight cheap
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call spanish madrid four expensive
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british bombay two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian madrid eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call indian paris eight expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call indian madrid eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call italian madrid six cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian madrid eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian bombay two expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call spanish bombay two cheap
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british london six cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call french madrid two moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french bombay two moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call indian bombay eight cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call spanish bombay four cheap
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call spanish london eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish madrid six cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call french paris four moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call spanish madrid eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french madrid two moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call british london six expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call italian madrid eight moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british bombay six expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call spanish rome six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call spanish london eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian madrid six cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian london eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call french rome two expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call indian paris eight moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call spanish madrid two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french bombay four expensive
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian madrid two moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french bombay two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british london six cheap
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call british rome six moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call italian bombay two moderate
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian london six expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french paris two moderate
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call french rome six cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call indian paris six cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian bombay six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+ok let me look into some options for you
+api_call british madrid four expensive
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call spanish bombay six cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call italian madrid two moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call indian paris six cheap
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call french bombay two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian paris six cheap
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call indian paris two cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call spanish london eight cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call indian rome six cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call indian bombay eight cheap
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call british paris two moderate
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british london eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish bombay four cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british madrid two cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french madrid eight cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call indian rome two cheap
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call british rome six cheap
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call french rome six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call spanish paris eight moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british rome four cheap
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call spanish bombay four cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+which price range are looking for
+ok let me look into some options for you
+api_call french paris six cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call indian paris eight moderate
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call british bombay eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call british paris two expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call spanish madrid eight moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french bombay four expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian bombay two moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call indian rome two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french rome eight cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call italian london two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish london eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french bombay four moderate
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call indian madrid two cheap
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call spanish london four expensive
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call spanish madrid six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call french paris four cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call spanish rome six expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french rome two cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french rome two cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call italian madrid two moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish rome six moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call british madrid four cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish rome two expensive
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call british rome two expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french london eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call spanish paris six moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian paris two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish madrid eight moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call indian rome two cheap
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call indian paris two cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call italian rome two cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call indian paris six moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call french paris four expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call british london six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+ok let me look into some options for you
+api_call french rome two expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call indian paris six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british bombay six expensive
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british bombay six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call french paris four moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call italian london eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian london four cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call spanish rome eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian madrid four cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call spanish rome eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british rome two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+ok let me look into some options for you
+api_call italian rome two cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call spanish bombay four cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call british london six cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+ok let me look into some options for you
+api_call french rome two expensive
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french rome eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian madrid six moderate
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call spanish madrid eight moderate
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call british madrid four expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+which price range are looking for
+ok let me look into some options for you
+api_call italian rome six moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british bombay two expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call british paris two moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian london four expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british london eight cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call indian bombay six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british madrid six moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french madrid six cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french paris six moderate
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french bombay four expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+ok let me look into some options for you
+api_call spanish rome eight cheap
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call indian paris six moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+which price range are looking for
+ok let me look into some options for you
+api_call british bombay six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian rome eight moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish paris four cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call british madrid four cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british rome two cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call british madrid six moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call indian london eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian rome six expensive
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french bombay four cheap
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call british london six cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french london eight cheap
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call indian bombay eight moderate
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call spanish madrid six cheap
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call indian rome two expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call british bombay two moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish paris eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call spanish paris eight moderate
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call french bombay two moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian rome two cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call indian rome two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french bombay two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french rome six cheap
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call british rome six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french rome eight moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call spanish paris four moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian paris two expensive
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian paris two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+ok let me look into some options for you
+api_call spanish rome two expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french rome eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian madrid two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian paris eight moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call french bombay eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+which price range are looking for
+ok let me look into some options for you
+api_call french bombay four moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call french london two expensive
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call indian bombay eight expensive
+hello what can i help you with today
+i'm on it
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call british rome four cheap
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french rome six expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call spanish madrid two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british bombay two moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call british rome four cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+which price range are looking for
+ok let me look into some options for you
+api_call french london eight moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+which price range are looking for
+ok let me look into some options for you
+api_call french madrid six moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call british london six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call french paris four cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+ok let me look into some options for you
+api_call french rome eight moderate
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call french london eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+ok let me look into some options for you
+api_call french london four expensive
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish rome two cheap
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call spanish rome two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+ok let me look into some options for you
+api_call spanish rome two expensive
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call spanish bombay four expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+ok let me look into some options for you
+api_call french paris eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french paris four cheap
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call italian london two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian bombay eight expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call italian london eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call spanish paris four moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish rome two moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call indian rome four cheap
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call british london four moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian rome eight moderate
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian rome two cheap
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call indian paris two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish madrid six cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian london two expensive
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call british paris two moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call indian rome four expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+ok let me look into some options for you
+api_call indian madrid eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+ok let me look into some options for you
+api_call french bombay four moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french bombay four moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian bombay two moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call british rome six cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+ok let me look into some options for you
+api_call british bombay eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british bombay eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+which price range are looking for
+ok let me look into some options for you
+api_call french rome six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+ok let me look into some options for you
+api_call french rome eight moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british london six moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french rome six moderate
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british london four expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish madrid six expensive
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call italian paris two cheap
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call indian paris eight moderate
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call italian paris two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call spanish bombay six cheap
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call french paris six expensive
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call spanish madrid four expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call italian bombay six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call french paris six moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call french bombay four expensive
+hello what can i help you with today
+i'm on it
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call french madrid two cheap
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian bombay four expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british paris four cheap
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish paris four moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+ok let me look into some options for you
+api_call indian madrid four cheap
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call italian madrid eight moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french bombay two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call british rome six moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian bombay four expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call spanish rome six moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british rome six moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french rome two expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call british madrid four cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call british london six cheap
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call italian london six cheap
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french paris six moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call british london eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call indian paris eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british madrid two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call italian madrid four moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call french paris six cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call indian paris six cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call french london eight moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+ok let me look into some options for you
+api_call indian madrid eight expensive
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian paris two moderate
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british paris six cheap
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french bombay two moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call indian london six moderate
+hello what can i help you with today
+i'm on it
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call italian madrid eight expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french paris six expensive
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call french london two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call french rome two cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call italian madrid six cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+ok let me look into some options for you
+api_call spanish paris eight expensive
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call french bombay four cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french madrid eight cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call italian london six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call british rome six cheap
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish madrid two cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call british london four moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call spanish bombay six cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish london eight cheap
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian london two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian madrid four cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call indian rome two expensive
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian london four cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french paris two moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french london four expensive
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french london two moderate
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british madrid six moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian bombay eight moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call italian paris two cheap
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call spanish madrid eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+ok let me look into some options for you
+api_call french paris eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british bombay eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian london six moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call french bombay four expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+which price range are looking for
+ok let me look into some options for you
+api_call italian paris eight moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french bombay four expensive
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call italian london two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+ok let me look into some options for you
+api_call spanish rome two moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+ok let me look into some options for you
+api_call indian paris six expensive
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british rome four cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french bombay two moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call french madrid six moderate
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call italian london two cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call italian bombay eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call indian paris eight moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call british paris eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call british madrid two cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french bombay eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian london two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian madrid two moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call french bombay four moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+which price range are looking for
+ok let me look into some options for you
+api_call british paris two moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call indian madrid four cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+ok let me look into some options for you
+api_call indian paris six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+ok let me look into some options for you
+api_call british bombay two expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call british london six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+ok let me look into some options for you
+api_call british rome four cheap
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call italian london six cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french paris four expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian paris two moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+which price range are looking for
+ok let me look into some options for you
+api_call british london six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian rome four moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian paris eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call indian paris six cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+ok let me look into some options for you
+api_call british paris eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+ok let me look into some options for you
+api_call french madrid six cheap
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call indian london four expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call french madrid two cheap
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british bombay six moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian paris two moderate
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call spanish bombay eight cheap
+hello what can i help you with today
+i'm on it
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call french bombay eight expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call spanish bombay six cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call british london six cheap
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call italian rome four moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian paris six moderate
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call italian madrid six cheap
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian madrid eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+ok let me look into some options for you
+api_call french paris six expensive
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call french london eight expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call spanish madrid six cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french madrid four expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian london two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french bombay two moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french bombay four expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call british paris four cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french bombay four moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french rome eight moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian rome four moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french paris six moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian madrid six cheap
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian paris eight cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call italian madrid two moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french bombay two expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call british bombay eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian rome eight cheap
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call italian paris two cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call indian paris eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call british paris two moderate
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call spanish paris six moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+ok let me look into some options for you
+api_call italian rome two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french rome two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian rome four moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call french bombay two moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call spanish paris eight moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+ok let me look into some options for you
+api_call indian rome four expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+ok let me look into some options for you
+api_call spanish madrid two cheap
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian madrid four moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call indian rome four moderate
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call french london two moderate
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call british rome four cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call spanish bombay eight cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call italian madrid six expensive
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call british paris four cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call indian rome four cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call british madrid two cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french paris six moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call indian rome two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian madrid four cheap
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british bombay two expensive
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call french bombay two expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french rome six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call spanish bombay two cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call british paris four cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call indian madrid two moderate
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british bombay eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call british madrid two cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french madrid six moderate
+hello what can i help you with today
+i'm on it
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call indian paris six moderate
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call french bombay eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british rome six cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british paris two moderate
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call italian bombay eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french rome eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french paris four moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french paris four expensive
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british paris eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call british rome six expensive
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian rome two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian rome six cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call french bombay two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call british london eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call italian london six cheap
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call british paris four cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call british london eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french paris eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call british paris two moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british rome six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call indian paris six moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call spanish paris six moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call british paris two expensive
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call french bombay four expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call british rome six cheap
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call spanish bombay six cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call indian paris eight moderate
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call french rome two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+ok let me look into some options for you
+api_call british paris six cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french madrid two moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call indian madrid four cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian rome four cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call indian rome two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+which price range are looking for
+ok let me look into some options for you
+api_call spanish bombay two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+ok let me look into some options for you
+api_call british paris eight cheap
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call british bombay two moderate
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call british london six moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call spanish london four expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+which price range are looking for
+ok let me look into some options for you
+api_call indian paris six moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call indian bombay eight moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call spanish madrid six cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call italian madrid six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian london two expensive
+hello what can i help you with today
+i'm on it
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call french london four expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call french paris four cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call italian paris two cheap
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call french paris six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call spanish paris eight moderate
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french madrid two moderate
+hello what can i help you with today
+i'm on it
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call indian bombay eight moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish madrid six cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian madrid six cheap
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call indian bombay eight cheap
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call british london six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian madrid eight expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french paris six moderate
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call french bombay two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+which price range are looking for
+ok let me look into some options for you
+api_call spanish bombay four cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call british rome six moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british paris four cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british bombay two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french bombay four expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish rome two expensive
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish madrid four expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+ok let me look into some options for you
+api_call french london eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british madrid six moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish london eight expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call indian paris six moderate
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call british paris four cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call french rome eight moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call british madrid six moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+which price range are looking for
+ok let me look into some options for you
+api_call british london six expensive
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british madrid four expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call indian madrid eight cheap
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish bombay four expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french paris six cheap
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british paris two moderate
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call spanish rome two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+ok let me look into some options for you
+api_call french paris six expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call indian rome two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+ok let me look into some options for you
+api_call indian london four expensive
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call british paris two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian london eight moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call spanish rome six expensive
+hello what can i help you with today
+i'm on it
+where should it be
+ok let me look into some options for you
+api_call british madrid four expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+ok let me look into some options for you
+api_call french rome six moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french london two moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french paris four moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call indian paris six expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call french madrid six moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian rome four cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call french bombay four moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian london eight moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call spanish madrid two cheap
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian bombay two expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british london four expensive
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian madrid eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+ok let me look into some options for you
+api_call indian bombay eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+ok let me look into some options for you
+api_call italian madrid eight moderate
+hello what can i help you with today
+i'm on it
+which price range are looking for
+ok let me look into some options for you
+api_call british rome six moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call spanish rome two cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call spanish paris two expensive
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian bombay two moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call french london eight cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call italian rome eight moderate
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call indian rome eight moderate
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call indian bombay eight expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call british paris four cheap
+hello what can i help you with today
+i'm on it
+any preference on a type of cuisine
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call french rome eight moderate
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call indian rome two expensive
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+which price range are looking for
+ok let me look into some options for you
+api_call british bombay four cheap
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call british london four expensive
+hello what can i help you with today
+i'm on it
+where should it be
+how many people would be in your party
+ok let me look into some options for you
+api_call french bombay two expensive
+hello what can i help you with today
+i'm on it
+ok let me look into some options for you
+api_call spanish paris six moderate
+hello what can i help you with today
+i'm on it
+how many people would be in your party
+ok let me look into some options for you
+api_call french rome eight moderate

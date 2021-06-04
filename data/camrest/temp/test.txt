@@ -1,0 +1,2233 @@
+1 bangkok_city address 24_green_street_city_centre
+1 bangkok_city area centre
+1 bangkok_city food thai
+1 bangkok_city location 52.206504,0.119157
+1 bangkok_city phone 01223_354382
+1 bangkok_city pricerange expensive
+1 bangkok_city postcode c.b_2,_3_j.x
+1 bangkok_city type restaurant
+1 bangkok_city id 19236
+0 i need the address and phone number of a restaurant that serves polish.	there's no resturant serving polish food. do you want something else ?	['bangkok_city_type']
+1 ok, how about a thai restaurant? i want address and phone number.	bangkok_city is a bangkok_city_food bangkok_city_type. it's address is 24_green_street_city_bangkok_city_area and phone number is bangkok_city_phone	['bangkok_city_area','bangkok_city_type','bangkok_city_food','bangkok_city_address','bangkok_city_phone','bangkok_city']
+2 thank you, goodbye.	thank you for using the cambridge bangkok_city_type system. goodbye.	['bangkok_city_type']
+
+1 la_mimosa address thompsons_lane_fen_ditton
+1 la_mimosa area centre
+1 la_mimosa food mediterranean
+1 la_mimosa location 52.210012999999996,0.118007
+1 la_mimosa phone 01223_362525
+1 la_mimosa pricerange expensive
+1 la_mimosa postcode c.b_5,_8_a.q
+1 la_mimosa type restaurant
+1 la_mimosa id 19268
+1 the_gardenia address 2_rose_crescent_city_centre
+1 the_gardenia area centre
+1 the_gardenia food mediterranean
+1 the_gardenia location 52.206098,0.118713
+1 the_gardenia phone 01223_356354
+1 the_gardenia pricerange cheap
+1 the_gardenia postcode c.b_2,_3_l.l
+1 the_gardenia type restaurant
+1 the_gardenia id 19238
+0 i am looking for a restaurant serving mediterranean food.	la_mimosa is an la_mimosa_pricerange restaurant in the city centre that serves mediterranean food.	['centre','restaurant','la_mimosa_pricerange','mediterranean','la_mimosa']
+1 is there another venue?	there is the_gardenia if you're looking for a the_gardenia_pricerange restaurant.	['the_gardenia_pricerange','restaurant','the_gardenia']
+2 what is the address and phone number?	the_gardenia is located at the_gardenia_address and their phone number is the_gardenia_phone.	['centre','the_gardenia_address','the_gardenia_phone','the_gardenia']
+3 thank you, goodbye.	you're welcome, good bye	[]
+4 i don't care about the price. thank you goodbye.	thank you. goodbye.	[]
+
+1 grafton_hotel_restaurant address grafton_hotel_619_newmarket_road_fen_ditton
+1 grafton_hotel_restaurant area east
+1 grafton_hotel_restaurant food british
+1 grafton_hotel_restaurant location 52.212992,0.157569
+1 grafton_hotel_restaurant phone 01223_241387
+1 grafton_hotel_restaurant pricerange expensive
+1 grafton_hotel_restaurant postcode c.b_5,_8_p.a
+1 grafton_hotel_restaurant type restaurant
+1 grafton_hotel_restaurant id 19271
+0 i would like an expensive restaurant in the east part of town, please.	do you have a preference as to food type? i found matches for grafton_hotel_restaurant_food, indian, chinese, and gastropub.	['grafton_hotel_restaurant_type','grafton_hotel_restaurant_area','indian','grafton_hotel_restaurant_pricerange','chinese','grafton_hotel_restaurant_food','gastropub']
+1 i don't have a preference.	the grafton_hotel_grafton_hotel_restaurant_type is an grafton_hotel_restaurant_pricerange grafton_hotel_restaurant_type in the grafton_hotel_restaurant_area part of town that serves grafton_hotel_restaurant_food food.	['grafton_hotel_restaurant_type','grafton_hotel_restaurant_area','grafton_hotel_restaurant_pricerange','grafton_hotel_restaurant_food','grafton_hotel_restaurant']
+2 what is the address?	the address of the grafton_hotel_grafton_hotel_restaurant_type is grafton hotel 619 newmarket_road_fen_ditton.	['grafton_hotel_restaurant_type','newmarket_road_fen_ditton','grafton_hotel_restaurant']
+3 thank you and good bye.	you're welcome. good bye.	[]
+4 bye.	enjoy your meal.	[]
+5 goodbye.	good bye	[]
+
+1 saint_johns_chop_house address 21_-_24_northampton_street
+1 saint_johns_chop_house area west
+1 saint_johns_chop_house food british
+1 saint_johns_chop_house location 52.21031,0.11381
+1 saint_johns_chop_house phone 01223_353110
+1 saint_johns_chop_house pricerange moderate
+1 saint_johns_chop_house postcode c.b_3,_0_a.d
+1 saint_johns_chop_house type restaurant
+1 saint_johns_chop_house id 14810
+0 moderately priced restaurant in the west part of town please	there are two italian and one saint_johns_chop_house_food moderatley priced saint_johns_chop_house_types. are there any you would like to know more information on?	['italian','saint_johns_chop_house_type','saint_johns_chop_house_pricerange','saint_johns_chop_house_food','saint_johns_chop_house_area']
+1 please give me the address of the british restaurant.	saint_johns_chop_house is a saint_johns_chop_house_food saint_johns_chop_house_type located at saint_johns_chop_house_address.	['saint_johns_chop_house_type','saint_johns_chop_house_food','north','saint_johns_chop_house_address','saint_johns_chop_house']
+2 what type of food do they serve ?	saint_johns_chop_house serves saint_johns_chop_house_food food .	['saint_johns_chop_house_food','saint_johns_chop_house']
+3 thank you, goodbye.	thank you for using this system. goodbye.	[]
+
+1 stazione_restaurant_and_coffee_bar address market_hill_city_centre
+1 stazione_restaurant_and_coffee_bar area centre
+1 stazione_restaurant_and_coffee_bar food italian
+1 stazione_restaurant_and_coffee_bar location 52.205442,0.119706
+1 stazione_restaurant_and_coffee_bar phone 01223_352607
+1 stazione_restaurant_and_coffee_bar pricerange expensive
+1 stazione_restaurant_and_coffee_bar postcode c.b_2,_3_n.j
+1 stazione_restaurant_and_coffee_bar type restaurant
+1 stazione_restaurant_and_coffee_bar id 19240
+0 i am interested in finding an expensive restaurant serving italian food.	there are stazione_restaurant_and_coffee_bar_pricerange stazione_stazione_restaurant_and_coffee_bar_type_and_coffee_bar_food stazione_restaurant_and_coffee_bar_types in stazione_stazione_restaurant_and_coffee_bar_type_and_coffee_bar_area and south. do you have a preferred area?	['stazione_restaurant_and_coffee_bar_area','stazione_restaurant_and_coffee_bar_food','stazione_restaurant_and_coffee_bar_type','stazione_restaurant_and_coffee_bar_pricerange','south']
+1 i don't care which area the restaurant is located in.	there is a very nice stazione_stazione_restaurant_and_coffee_bar_type_and_coffee_bar_food stazione_restaurant_and_coffee_bar_type called stazione_stazione_restaurant_and_coffee_bar_type_and_coffee_bar in the stazione_stazione_restaurant_and_coffee_bar_type_and_coffee_bar_area of town.	['stazione_restaurant_and_coffee_bar_area','stazione_restaurant_and_coffee_bar_food','stazione_restaurant_and_coffee_bar_type','stazione_restaurant_and_coffee_bar']
+2 can i have the address and phone number please?	the phone number for stazione_stazione_restaurant_and_coffee_bar_type_and_coffee_bar is stazione_restaurant_and_coffee_bar_phone and they are located at market_hill_city_stazione_stazione_restaurant_and_coffee_bar_type_and_coffee_bar_area.	['stazione_restaurant_and_coffee_bar_area','stazione_restaurant_and_coffee_bar_type','stazione_restaurant_and_coffee_bar_address','stazione_restaurant_and_coffee_bar_phone','stazione_restaurant_and_coffee_bar']
+3 what type of food do they serve?	they serve stazione_restaurant_and_coffee_bar_food food.	['stazione_restaurant_and_coffee_bar_food']
+4 thank you	you're very welcome. have a nice day!	[]
+
+1 saigon_city address 169_high_street_chesterton_chesterton
+1 saigon_city area north
+1 saigon_city food asian_oriental
+1 saigon_city location 52.218164,0.143209
+1 saigon_city phone 01223_356555
+1 saigon_city pricerange expensive
+1 saigon_city postcode c.b_4,_1_n.l
+1 saigon_city type restaurant
+1 saigon_city id 19261
+1 kymmoy address 52_mill_road_city_centre
+1 kymmoy area centre
+1 kymmoy food asian_oriental
+1 kymmoy location 52.200422,0.135784
+1 kymmoy phone 01223_311911
+1 kymmoy pricerange expensive
+1 kymmoy postcode c.b_1,_2_a.s
+1 kymmoy type restaurant
+1 kymmoy id 19181
+0 i'm looking for malaysian food.	sorry i cannot find any malaysian restaurants. can i offer you something else?	['restaurant']
+1 how about asian_oriental type of food?	there are five search results.  are you interested in a particular area or price range?	['asian_oriental']
+2 no particular area, but i'm looking for an expensive restaurant.	there is saigon_city at saigon_city_address, phone saigon_city_phone.	['restaurant','expensive','saigon_city_address','saigon_city_phone','saigon_city']
+3 is there anything else?	there is also kymmoy in the kymmoy_area of town, at 52 mill_road_city_kymmoy_area. their phone number is kymmoy_phone.	['kymmoy_area','mill_road_city_centre','kymmoy_phone','kymmoy']
+4 thank you, goodbye	thank you, and enjoy your meal!	[]
+
+1 golden_wok address 191_histon_road_chesterton
+1 golden_wok area north
+1 golden_wok food chinese
+1 golden_wok location 52.220757,0.111564
+1 golden_wok phone 01223_350688
+1 golden_wok pricerange moderate
+1 golden_wok postcode c.b_4,_3_h.l
+1 golden_wok type restaurant
+1 golden_wok id 19265
+0 hello, i am looking for a moderately priced restaurant on the north side of town.	golden_wok is a golden_wok_pricerangely priced golden_wok_type in the golden_wok_area part of town, that serves golden_wok_food food.	['golden_wok_type','golden_wok_food','golden_wok_pricerange','golden_wok_area','golden_wok']
+1 what is their address?	the golden_wok is located at golden_wok_address. is there anything else i can help you with today?	['golden_wok_address','golden_wok']
+2 thank you good  bye	you're welcome, goodbye.	[]
+
+1 sala_thong address 35_newnham_road_newnham
+1 sala_thong area west
+1 sala_thong food thai
+1 sala_thong location 52.199012,0.113196
+1 sala_thong phone 01223_323178
+1 sala_thong pricerange expensive
+1 sala_thong postcode c.b_3,_9_e.y
+1 sala_thong type restaurant
+1 sala_thong id 19256
+0 i would like some lebanese food in the west part of town. are there any available?	i'm sorry we don't have any lebanese sala_thong_types located in the sala_thong_area part of town.  would you like to try a different type of food?	['sala_thong_type','sala_thong_area','lebanese']
+1 how about thai food?	sala_thong serves sala_thong_food food and is located in the sala_thong_area part of town. would you like more information for them?	['sala_thong_area','sala_thong_food','sala_thong']
+2 yes, the address, phone number, and their price range please.	sala_thong is an sala_thong_pricerange sala_thong_type located at sala_thong_address. the phone number is sala_thong_phone.	['sala_thong_type','sala_thong_pricerange','sala_thong_address','sala_thong_phone','sala_thong']
+3 thank you goodbye.	thank you and good bye	[]
+
+1 nandos address cambridge_leisure_park_clifton_way
+1 nandos area south
+1 nandos food portuguese
+1 nandos location 52.19017,0.13699
+1 nandos phone 01223_327908
+1 nandos pricerange cheap
+1 nandos postcode c.b_1,_7_d.y
+1 nandos type restaurant
+1 nandos id 12238
+1 the_lucky_star address cambridge_leisure_park_clifton_way_cherry_hinton
+1 the_lucky_star area south
+1 the_lucky_star food chinese
+1 the_lucky_star location 52.190176,0.13699
+1 the_lucky_star phone 01223_244277
+1 the_lucky_star pricerange cheap
+1 the_lucky_star postcode c.b_1,_7_d.y
+1 the_lucky_star type restaurant
+1 the_lucky_star id 19197
+0 can you recommend a restaurant to me in the south part of town?  i don't want to spend a lot of money.	what type of food are you looking for?	['restaurant','south']
+1 the type of food doesn't matter to me.	two results with cheap price range in the south area of town. one is nandos which is nandos_food food. the other is the_lucky_star, which is the_lucky_star_food food.	['cheap','south','the_lucky_star_food','nandos_food','nandos','the_lucky_star']
+2 is there anything else?	the_lucky_star is a the_lucky_star_food restaurant that is cheap and on the south side of town.	['cheap','restaurant','south','the_lucky_star_food','the_lucky_star']
+3 what is the phone number?	the phone number of the_lucky_star is the_lucky_star_phone.	['the_lucky_star_phone','the_lucky_star']
+4 that will be good. thank you!	thank you, goodbye.	[]
+
+1 royal_spice address victoria_avenue_chesterton
+1 royal_spice area north
+1 royal_spice food indian
+1 royal_spice location 52.213853,0.125509
+1 royal_spice phone 01733_553355
+1 royal_spice pricerange cheap
+1 royal_spice postcode c.b_4,_1_e.h
+1 royal_spice type restaurant
+1 royal_spice id 19257
+1 da_vinci_pizzeria address 20_milton_road_chesterton
+1 da_vinci_pizzeria area north
+1 da_vinci_pizzeria food italian
+1 da_vinci_pizzeria location 52.215311,0.12593
+1 da_vinci_pizzeria phone 01223_351707
+1 da_vinci_pizzeria pricerange cheap
+1 da_vinci_pizzeria postcode c.b_4,_1_j.y
+1 da_vinci_pizzeria type restaurant
+1 da_vinci_pizzeria id 19259
+0 is there a cheap restaurant in the north part of town?	may i suggest royal_spice, a cheap royal_spice_food restaurant in the north?	['cheap','restaurant','royal_spice_food','north','royal_spice']
+1 is there anything else?	da_vinci_pizzeria is a cheap da_vinci_pizzeria_food restraunt in the north area of town.	['da_vinci_pizzeria_food','cheap','north','da_vinci_pizzeria']
+2 what is the address and phone number?	da_vinci_pizzeria is at da_vinci_pizzeria_address, and their phone number is da_vinci_pizzeria_phone.	['da_vinci_pizzeria_address','da_vinci_pizzeria_phone','da_vinci_pizzeria']
+3 thank you goodbye.	thank you and goodbye!	[]
+
+1 pizza_hut_cherry_hinton address g4_cambridge_leisure_park_clifton_way_cherry_hinton
+1 pizza_hut_cherry_hinton area south
+1 pizza_hut_cherry_hinton food italian
+1 pizza_hut_cherry_hinton location 52.190176,0.13699
+1 pizza_hut_cherry_hinton phone 01223_323737
+1 pizza_hut_cherry_hinton pricerange moderate
+1 pizza_hut_cherry_hinton postcode c.b_1,_7_d.y
+1 pizza_hut_cherry_hinton type restaurant
+1 pizza_hut_cherry_hinton id 19196
+0 hi.  can you please help me find a moderately priced restaurant in the south part of town?	here is a list of pizza_hut_cherry_hinton_types located in the pizza_hut_cherry_hinton_area side of town in the pizza_hut_cherry_hinton_pricerange price range	['pizza_hut_cherry_hinton_type','pizza_hut_cherry_hinton_area','pizza_hut_cherry_hinton_pricerange']
+1 may i have the address and phone number please	pizza_hut_cherry_hinton is at pizza_hut_cherry_hinton_address and phone number is pizza_hut_cherry_hinton_phone.	['pizza_hut_cherry_hinton_phone','pizza_hut_cherry_hinton_address','pizza_hut_cherry_hinton']
+2 thank you. goodbye.	thank you!  goodbye.	[]
+
+1 nandos address cambridge_leisure_park_clifton_way
+1 nandos area south
+1 nandos food portuguese
+1 nandos location 52.19017,0.13699
+1 nandos phone 01223_327908
+1 nandos pricerange cheap
+1 nandos postcode c.b_1,_7_d.y
+1 nandos type restaurant
+1 nandos id 12238
+0 i'm looking for a cheap restaurant in the south part of town.	nandos is a nandos_food nandos_type in the nandos_area of town and is in the nandos_pricerange price range.	['nandos_pricerange','nandos_type','nandos_area','nandos_food','nandos']
+1 can i have the address and phone number?	the address is 3-34 saint andrews street, and the phone number is nandos_phone. do you need anything else?	['nandos_phone']
+2 no, thank you goodbye	have a wonderful day and enjoy your food.	[]
+
+1 meghna address 205_victoria_road_chesterton
+1 meghna area west
+1 meghna food indian
+1 meghna location 52.215077,0.112421
+1 meghna phone 01223_727410
+1 meghna pricerange moderate
+1 meghna postcode c.b_4,_3_l.f
+1 meghna type restaurant
+1 meghna id 19267
+0 i am looking for a restaurant that is in the moderate price range and in the west part of town.	do you have a particular food type in mind today?	['meghna_type','meghna_pricerange','meghna_area']
+1 any type of food will be fine as long as it is moderately priced and in the west part of town.	meghna is an meghna_food meghna_type in the meghna_area part of town and is in the meghna_pricerange price range.	['meghna_type','meghna_food','meghna_pricerange','meghna_area','meghna']
+2 great, can i please have their address and postcode?	meghna is at meghna_address, and the postal code is  meghna_postcode.  can i help you with anything else?	['meghna_address','meghna_postcode','meghna']
+3 thank you good bye.	thank you good bye.	[]
+
+1 the_varsity_restaurant address 35_saint_andrews_street_city_centre
+1 the_varsity_restaurant area centre
+1 the_varsity_restaurant food international
+1 the_varsity_restaurant location 52.202793,0.123488
+1 the_varsity_restaurant phone 01223_356060
+1 the_varsity_restaurant pricerange moderate
+1 the_varsity_restaurant postcode c.b_2,_3_a.r
+1 the_varsity_restaurant type restaurant
+1 the_varsity_restaurant id 19235
+0 i am looking for a restaurant that serves catalan food in any price range.	where would like it to be located?	['the_varsity_restaurant_type']
+1 it does not matter.	do you have a certain price range?	[]
+2 no, i don't care	i'm sorry, but there are no the_varsity_restaurant_types serving catalan food.	['the_varsity_restaurant_type']
+3 is there a restaurant that serves international food? can you give me the address?	there are three. how about the_varsity_the_varsity_restaurant_type, their address is 35_saint_andrews_street_city_the_varsity_the_varsity_restaurant_type_area	['the_varsity_restaurant_area','the_varsity_restaurant_type','the_varsity_restaurant_food','the_varsity_restaurant_address','the_varsity_restaurant']
+4 i will try that one.  thank you and good bye.	thank you for calling this system. goodbye.	[]
+
+1 meghna address 205_victoria_road_chesterton
+1 meghna area west
+1 meghna food indian
+1 meghna location 52.215077,0.112421
+1 meghna phone 01223_727410
+1 meghna pricerange moderate
+1 meghna postcode c.b_4,_3_l.f
+1 meghna type restaurant
+1 meghna id 19267
+0 can i have a moderately priced restaurant in the west ?	i found several. would you care for a specific type of food?	['meghna_type','meghna_pricerange','meghna_area']
+1 i do not care.	there are three options which match your request. how about meghna, which serves meghna_food food?	['meghna_food','meghna']
+2 yes it will do. can i have the phone number please ?	meghna's phone number is meghna_phone	['meghna_phone','meghna']
+3 thank you , good bye.	you're welcome, good bye.	[]
+
+1 chiquito_restaurant_bar address 2g_cambridge_leisure_park_cherry_hinton_road_cherry_hinton
+1 chiquito_restaurant_bar area south
+1 chiquito_restaurant_bar food mexican
+1 chiquito_restaurant_bar location 52.190176,0.13699
+1 chiquito_restaurant_bar phone 01223_400170
+1 chiquito_restaurant_bar pricerange expensive
+1 chiquito_restaurant_bar postcode c.b_1,_7_d.y
+1 chiquito_restaurant_bar type restaurant
+1 chiquito_restaurant_bar id 19194
+1 frankie_and_bennys address cambridge_leisure_park_clifton_way_cherry_hinton
+1 frankie_and_bennys area south
+1 frankie_and_bennys food italian
+1 frankie_and_bennys location 52.190176,0.13699
+1 frankie_and_bennys phone 01223_412430
+1 frankie_and_bennys pricerange expensive
+1 frankie_and_bennys postcode c.b_1,_7_d.y
+1 frankie_and_bennys type restaurant
+1 frankie_and_bennys id 19195
+0 hello, i'm looking for an expensive restaurant located in the south part of town.	do you want particular food type?	['restaurant','expensive','south']
+1 i don't care	chiquito_restaurant_bar serves chiquito_restaurant_bar_food food, in the expensive price range and in the south part of town	['restaurant','expensive','south','chiquito_restaurant_bar_food','chiquito_restaurant_bar']
+2 are there any other options?	frankie_and_bennys serves frankie_and_bennys_food food, in the expensive price range and it is in the south part of town, is there anything else i can help you with?	['frankie_and_bennys_food','expensive','south','frankie_and_bennys']
+3 yes, please give me the phone number, address, and postcode.	the address is cambridge_leisure_park_clifton_way cherry hinton, the postcode is cb17dy, and the phone number is frankie_and_bennys_phone.	['cambridge_leisure_park_clifton_way','frankie_and_bennys_phone']
+4 what is the postcode again?	the postcode for frankie_and_bennys is c.b. 1 7 d.y	['frankie_and_bennys']
+5 thank you, goodbye	have a nice day	[]
+
+0 i am looking for a cheap restaurant in the north part of town. i will need their address.	there is a cheap italian restaurant at 20_milton_road_chesterton, or one that serves indian food at victoria_avenue_chesterton.	['italian','cheap','restaurant','indian','20_milton_road_chesterton','north','victoria_avenue_chesterton']
+1 thank you goodbye.	thank you, goodbye!	[]
+
+1 anatolia address 30_bridge_street_city_centre
+1 anatolia area centre
+1 anatolia food turkish
+1 anatolia location 52.209632,0.117213
+1 anatolia phone 01223_362372
+1 anatolia pricerange moderate
+1 anatolia postcode c.b_2,_1_u.j
+1 anatolia type restaurant
+1 anatolia id 19232
+1 efes_restaurant address king_street_city_centre
+1 efes_restaurant area centre
+1 efes_restaurant food turkish
+1 efes_restaurant location 52.207312,0.124201
+1 efes_restaurant phone 01223_500005
+1 efes_restaurant pricerange moderate
+1 efes_restaurant postcode c.b_1,_1_l.n
+1 efes_restaurant type restaurant
+1 efes_restaurant id 19178
+0 i need a restaurant that serves turkish food.	there are two moderately priced turkish restaurants and one expensive one, all in centre area.  do you have a price range preference?	['centre','restaurant','expensive','moderate','turkish']
+1 i do not have a preference.	anatolia serves turkish food in the moderate price range	['moderate','turkish','anatolia']
+2 what is the other turkish restaurant in the moderate price range?	efes_restaurant. do you have any additional questions?	['restaurant','moderate','turkish','efes_restaurant']
+3 what is the address and price range?	they are in the moderate price range and the address is efes_restaurant_address	['centre','moderate','efes_restaurant_address']
+4 what is the food type they are good at ?	they serve turkish food.	['turkish']
+5 thank you goodbye.	good bye. thank you for contacting us.	[]
+
+1 nandos address cambridge_leisure_park_clifton_way
+1 nandos area south
+1 nandos food portuguese
+1 nandos location 52.19017,0.13699
+1 nandos phone 01223_327908
+1 nandos pricerange cheap
+1 nandos postcode c.b_1,_7_d.y
+1 nandos type restaurant
+1 nandos id 12238
+0 looking for a cheap restaurant.	i have found some. would you like italian, chinese, asian_oriental, indian, or spanish food?	['italian','nandos_pricerange','nandos_type','indian','chinese','spanish','asian_oriental']
+1 do you have brazilian or portuguese?	nandos is a nandos_food nandos_type in the nandos_area side of town with a nandos_pricerange price range.	['nandos_pricerange','nandos_type','nandos_area','nandos_food','nandos']
+2 what is the address?	the address is nandos_address.	['nandos_address']
+
+1 curry_prince address 451_newmarket_road_fen_ditton
+1 curry_prince area east
+1 curry_prince food indian
+1 curry_prince location 52.213072,0.149771
+1 curry_prince phone 01223_566388
+1 curry_prince pricerange moderate
+1 curry_prince postcode c.b_5,_8_j.j
+1 curry_prince type restaurant
+1 curry_prince id 19270
+0 i'm looking for a restaurant in the east part of town that serves cantonese food.	i'm sorry but there is not cantonese curry_prince_type in the curry_prince_area, can i offer you something else?	['curry_prince_type','curry_prince_area']
+1 what about an indian restaurant?	curry_prince is an curry_prince_food curry_prince_type in the curry_prince_area part of town.	['curry_prince_type','curry_prince_area','curry_prince_food','curry_prince']
+2 what is the phone number?	their phone number is 01223_324351	['01223_324351']
+3 address please	curry_prince is at curry_prince_address.	['curry_prince_address','curry_prince']
+4 thank you. good bye.	thank you good bye	[]
+
+1 la_tasca address 14_-16_bridge_street
+1 la_tasca area centre
+1 la_tasca food spanish
+1 la_tasca location 52.20903,0.1183
+1 la_tasca phone 01223_464630
+1 la_tasca pricerange moderate
+1 la_tasca postcode c.b_2,_1_u.f
+1 la_tasca type restaurant
+1 la_tasca id 12566
+1 la_raza address 4_-_6_rose_crescent
+1 la_raza area centre
+1 la_raza food spanish
+1 la_raza location 52.206098,0.118713
+1 la_raza phone 01223_464550
+1 la_raza pricerange cheap
+1 la_raza postcode c.b_2,_3_l.l
+1 la_raza type restaurant
+1 la_raza id 19237
+0 i'm looking for a restaurant the serves spanish food.	would you prefer la_raza_pricerange or la_tasca_pricerange price range?	['la_raza_pricerange','restaurant','la_tasca_pricerange','spanish']
+1 i have no preference.	two selections fit your requirements. la_tasca and la_raza are both located in the centre part of town. do either of those interest you?	['centre','la_tasca','la_raza']
+2 yes, i would like the address of la_raza please.	la_raza's address is la_raza_address.  is there anything else i can do for you?	['la_raza_address','la_raza']
+3 no. thank you, goodbye.	you're welcome, goodbye.	[]
+
+1 nandos address cambridge_leisure_park_clifton_way
+1 nandos area south
+1 nandos food portuguese
+1 nandos location 52.19017,0.13699
+1 nandos phone 01223_327908
+1 nandos pricerange cheap
+1 nandos postcode c.b_1,_7_d.y
+1 nandos type restaurant
+1 nandos id 12238
+0 i want a cheap portuguese restaurant. give me their address, phone number, and area, please.	nandos is a nandos_pricerange nandos_food nandos_type in the nandos_area area. the phone number is nandos_phone and the address is nandos_address	['nandos_pricerange','nandos_type','nandos_area','nandos_address','nandos_food','nandos_phone','nandos']
+1 thank you, goodbye	you're welcome, goodbye.	[]
+
+1 the_lucky_star address cambridge_leisure_park_clifton_way_cherry_hinton
+1 the_lucky_star area south
+1 the_lucky_star food chinese
+1 the_lucky_star location 52.190176,0.13699
+1 the_lucky_star phone 01223_244277
+1 the_lucky_star pricerange cheap
+1 the_lucky_star postcode c.b_1,_7_d.y
+1 the_lucky_star type restaurant
+1 the_lucky_star id 19197
+1 nandos address cambridge_leisure_park_clifton_way
+1 nandos area south
+1 nandos food portuguese
+1 nandos location 52.19017,0.13699
+1 nandos phone 01223_327908
+1 nandos pricerange cheap
+1 nandos postcode c.b_1,_7_d.y
+1 nandos type restaurant
+1 nandos id 12238
+0 i want to find a cheap restaurant in the south part of town.	the_lucky_star is an inexpensive the_lucky_star_food restaurant in the south part of town.	['cheap','restaurant','expensive','south','the_lucky_star_food','the_lucky_star']
+1 are there any other places?	nandos is a cheap nandos_food restaurant in the south. would you like their information?	['cheap','restaurant','south','nandos_food','nandos']
+2 sorry what is the food type of that restaurant ?	they serve nandos_food food.	['restaurant','nandos_food']
+3 what is the price range ?	they are in the cheap price range.	['cheap']
+4 that sounds yummy. what is their address and phone number?	nandos's address is nandos_address and the phone number is nandos_phone.  is there anything else i can help you with?	['nandos_address','nandos_phone','nandos']
+5 no thank you.  bye bye!	you're welcome. goodbye.	[]
+
+0 i'm looking for an english restaurant that's moderately priced..	there are no restaurants matching your request. may i help you find a different restaurant?	['restaurant','moderate']
+1 okay, then i'm looking for a restaurant with chinese food that's moderately priced.	i have four restaurants matching your request, would you like to hear them all or narrow your request?	['restaurant','chinese','moderate']
+
+1 golden_wok address 191_histon_road_chesterton
+1 golden_wok area north
+1 golden_wok food chinese
+1 golden_wok location 52.220757,0.111564
+1 golden_wok phone 01223_350688
+1 golden_wok pricerange moderate
+1 golden_wok postcode c.b_4,_3_h.l
+1 golden_wok type restaurant
+1 golden_wok id 19265
+1 the_nirala address 7_milton_road_chesterton
+1 the_nirala area north
+1 the_nirala food indian
+1 the_nirala location 52.215157,0.125015
+1 the_nirala phone 01223_360966
+1 the_nirala pricerange moderate
+1 the_nirala postcode c.b_4,_1_u.y
+1 the_nirala type restaurant
+1 the_nirala id 19263
+0 i would like a moderately priced restaurant in the north part of town	golden_wok is  a moderately priced restaurant in the north part of town	['restaurant','moderate','north','golden_wok']
+1 is there anything else?	the_nirala is moderately priced restaurant in the north of town as well.	['restaurant','moderate','north','the_nirala']
+2 what kind of food does the_nirala serve?	the_nirala serves the_nirala_food	['the_nirala_food','the_nirala']
+3 what is their phone number?	the phone number for the_nirala is the_nirala_phone.  can i help you with anything else today?	['the_nirala_phone','the_nirala']
+4 no, thank you. i have all the information that i need now.	thank you for using our system. good bye	[]
+5 good bye	goodbye.	[]
+
+1 la_mimosa address thompsons_lane_fen_ditton
+1 la_mimosa area centre
+1 la_mimosa food mediterranean
+1 la_mimosa location 52.210012999999996,0.118007
+1 la_mimosa phone 01223_362525
+1 la_mimosa pricerange expensive
+1 la_mimosa postcode c.b_5,_8_a.q
+1 la_mimosa type restaurant
+1 la_mimosa id 19268
+0 i'm looking for a swedish restaurant, preferably in the expensive price range.	i am sorry.  there are no swedish la_mimosa_types in this city.  is there another type of la_mimosa_type you would like me to help you find?	['la_mimosa_type','la_mimosa_pricerange']
+1 mediterranean food.	there are 3 la_mimosa_types that serve la_mimosa_food food.  what price range are you looking for?	['la_mimosa_type','la_mimosa_food']
+2 i prefer the expensive price range.	la_mimosa serves la_mimosa_food food and is in the la_mimosa_pricerange price range.  their phone number is la_mimosa_phone and they are located at la_mimosa_address.	['la_mimosa_pricerange','la_mimosa_food','la_mimosa_address','la_mimosa_phone','la_mimosa']
+3 thank you. goodbye.	you're welcome, thank you for using this system. goodbye.	[]
+
+1 sala_thong address 35_newnham_road_newnham
+1 sala_thong area west
+1 sala_thong food thai
+1 sala_thong location 52.199012,0.113196
+1 sala_thong phone 01223_323178
+1 sala_thong pricerange expensive
+1 sala_thong postcode c.b_3,_9_e.y
+1 sala_thong type restaurant
+1 sala_thong id 19256
+1 bangkok_city address 24_green_street_city_centre
+1 bangkok_city area centre
+1 bangkok_city food thai
+1 bangkok_city location 52.206504,0.119157
+1 bangkok_city phone 01223_354382
+1 bangkok_city pricerange expensive
+1 bangkok_city postcode c.b_2,_3_j.x
+1 bangkok_city type restaurant
+1 bangkok_city id 19236
+0 is there an expensive restaurant serving caribbean food?	i'm sorry but there aren't any venues offering caribbean food in the expensive price range.	['restaurant','expensive']
+1 how about thai?	there's bangkok_city in the bangkok_city_area of town, and sala_thong on the sala_thong_area side.	['bangkok_city_area','sala_thong_area','thai','sala_thong','bangkok_city']
+2 great, what is the address and phone number for bangkok_city?	their phone number is bangkok_city_phone and address is 24_green_street_city_bangkok_city_area.	['bangkok_city_area','bangkok_city_address','bangkok_city_phone','bangkok_city']
+
+1 cocum address 71_castle_street_city_centre
+1 cocum area west
+1 cocum food indian
+1 cocum location 52.212444,0.112823
+1 cocum phone 01223_366668
+1 cocum pricerange expensive
+1 cocum postcode c.b_3,_0_a.h
+1 cocum type restaurant
+1 cocum id 19249
+0 i would like a hungarian restaurant in the west of town.	there are no hungarian cocum_types in the cocum_area of town. would you like to change your query?	['cocum_type','cocum_area']
+1 is there any indian food on the west side of town.	there are 6 cocum_food cocum_types in the cocum_area part of town. what price range do you have in mind?	['cocum_type','cocum_food','cocum_area']
+2 the price range doesn't matter.	would you like the name, address and phone number of a few of them?	[]
+3 yes, but just for one.	cocum is located at cocum_address and their phone number is cocum_phone.   their price range is cocum_pricerange.	['centre','cocum_pricerange','cocum_address','cocum_phone','cocum']
+4 thank you!	you're welcome. may i help with another query?	[]
+5 nope, i'm good. thanks again.	goodbye.	[]
+
+1 bangkok_city address 24_green_street_city_centre
+1 bangkok_city area centre
+1 bangkok_city food thai
+1 bangkok_city location 52.206504,0.119157
+1 bangkok_city phone 01223_354382
+1 bangkok_city pricerange expensive
+1 bangkok_city postcode c.b_2,_3_j.x
+1 bangkok_city type restaurant
+1 bangkok_city id 19236
+0 is there a thai restaurant in the centre of town?	yes, there is one bangkok_city_food bangkok_city_type in that area. would you like more details on this bangkok_city_type?	['bangkok_city_area','bangkok_city_type','bangkok_city_food']
+1 what is the address?	the address is 24_green_street_city_bangkok_city_area	['bangkok_city_area','bangkok_city_address']
+2 what is the phone number and price range?	bangkok_city is bangkok_city_pricerange. their phone number is bangkok_city_phone. is there anything else i can help you find?	['bangkok_city_pricerange','bangkok_city_phone','bangkok_city']
+3 no, that's all the information i needed. thank you. good bye.	thank you, goodbye!	[]
+
+1 cambridge_lodge_restaurant address cambridge_lodge_hotel_139_huntingdon_road_city_centre
+1 cambridge_lodge_restaurant area west
+1 cambridge_lodge_restaurant food european
+1 cambridge_lodge_restaurant location 52.217736,0.102505
+1 cambridge_lodge_restaurant phone 01223_355166
+1 cambridge_lodge_restaurant pricerange expensive
+1 cambridge_lodge_restaurant postcode c.b_3,_0_d.q
+1 cambridge_lodge_restaurant type restaurant
+1 cambridge_lodge_restaurant id 19252
+0 i am looking for an expensive restaurant that serves persian food.	there are no persian cambridge_lodge_restaurant_types listed. is there something else i can search for?	['cambridge_lodge_restaurant_type','cambridge_lodge_restaurant_pricerange']
+1 how about a restaurant that serves european food?	there are 4 cambridge_lodge_restaurant_types that meet those specification. do you have a preference of the area of town it is located at?	['cambridge_lodge_restaurant_type','cambridge_lodge_restaurant_food']
+2 the area doesn't matter.	okay, i suggest the cambridge_lodge_cambridge_lodge_restaurant_type. they serve great cambridge_lodge_restaurant_food food and are located in the cambridge_lodge_restaurant_area part of town. would you like their phone number?	['cambridge_lodge_restaurant_type','cambridge_lodge_restaurant_food','cambridge_lodge_restaurant_area','cambridge_lodge_restaurant']
+3 yes please. and the address as well.	their address is hotel 139 huntingdon_road_city_centre and their phone number is cambridge_lodge_restaurant_phone.	['centre','cambridge_lodge_restaurant_phone','huntingdon_road_city_centre']
+4 thank you goodbye.	goodbye.	[]
+
+1 la_mimosa address thompsons_lane_fen_ditton
+1 la_mimosa area centre
+1 la_mimosa food mediterranean
+1 la_mimosa location 52.210012999999996,0.118007
+1 la_mimosa phone 01223_362525
+1 la_mimosa pricerange expensive
+1 la_mimosa postcode c.b_5,_8_a.q
+1 la_mimosa type restaurant
+1 la_mimosa id 19268
+0 i want a moroccan restaurant.	what price range would you like?	['la_mimosa_type']
+1 any price range will be fine.	i am sorry, i can't find any moroccan la_mimosa_type. do you prefer any other type of food?	['la_mimosa_type']
+2 yes. can you find any mediterranean restaurant please	la_mimosa is a la_mimosa_type serving la_mimosa_food food in the la_mimosa_area of town, and is in the la_mimosa_pricerange price range.	['la_mimosa_area','la_mimosa_type','la_mimosa_pricerange','la_mimosa_food','la_mimosa']
+3 i would like the address, phone number, and post code information for la_mimosa please. thank you!	the phone number for la_mimosa is la_mimosa_phone and they are located at la_mimosa_address.  the postcode is la_mimosa_postcode.  would you like anything else today?	['la_mimosa_address','la_mimosa_phone','la_mimosa_postcode','la_mimosa']
+4 that's it. thank you, goodbye	thank you for using the cambridge la_mimosa_type system.  good bye.	['la_mimosa_type']
+
+1 nandos address cambridge_leisure_park_clifton_way
+1 nandos area south
+1 nandos food portuguese
+1 nandos location 52.19017,0.13699
+1 nandos phone 01223_327908
+1 nandos pricerange cheap
+1 nandos postcode c.b_1,_7_d.y
+1 nandos type restaurant
+1 nandos id 12238
+0 i would like a cheap restaurant in the south part of town.	nandos is a nandos_food nandos_type in nandos_area. is this ok?	['nandos_pricerange','nandos_type','nandos_area','nandos_food','nandos']
+1 what is the price range there?	nandos is in the nandos_pricerange price range.	['nandos_pricerange','nandos']
+2 excellent. what is their address and phone number?	the phone number and address are nandos_phone nandos_address	['nandos_address','nandos_phone']
+3 thank you, goodbye!	you're welcome.  good bye.	[]
+
+1 yu_garden address 529_newmarket_road_fen_ditton
+1 yu_garden area east
+1 yu_garden food chinese
+1 yu_garden location 52.212992,0.157569
+1 yu_garden phone 01223_248882
+1 yu_garden pricerange expensive
+1 yu_garden postcode c.b_5,_8_p.a
+1 yu_garden type restaurant
+1 yu_garden id 19273
+0 i'd like to find an east side restaurant that is expensive.	there are five yu_garden_types matching your request. what kind of food would you like?	['yu_garden_type','yu_garden_area','yu_garden_pricerange']
+1 chinese food sound good.	yu_garden serves yu_garden_food food, is in the yu_garden_area part of town and is in the yu_garden_pricerange price range.  would you like their location?	['yu_garden_area','yu_garden_pricerange','yu_garden_food','yu_garden']
+2 what is their address and postcode?	yu_garden yu_garden_food yu_garden_area yu_garden_pricerange yu_garden_phone yu_garden_address yu_garden_postcode	['yu_garden_area','yu_garden_pricerange','yu_garden_food','yu_garden_address','yu_garden_phone','yu_garden_postcode','yu_garden']
+3 thank you goodbye.	thank you  and good bye	[]
+
+1 da_vinci_pizzeria address 20_milton_road_chesterton
+1 da_vinci_pizzeria area north
+1 da_vinci_pizzeria food italian
+1 da_vinci_pizzeria location 52.215311,0.12593
+1 da_vinci_pizzeria phone 01223_351707
+1 da_vinci_pizzeria pricerange cheap
+1 da_vinci_pizzeria postcode c.b_4,_1_j.y
+1 da_vinci_pizzeria type restaurant
+1 da_vinci_pizzeria id 19259
+0 is there a cheap restaurant serving belgian food?	what area are you interested in?	['da_vinci_pizzeria_pricerange','da_vinci_pizzeria_type']
+1 i do not care what area it is in.	there are no da_vinci_pizzeria_pricerange belgian da_vinci_pizzeria_types. would you like to change your query?	['da_vinci_pizzeria_pricerange','da_vinci_pizzeria_type']
+2 how about a cheap restaurant serving italian food?	da_vinci_pizzeria serves da_vinci_pizzeria_food food in the da_vinci_pizzeria_pricerange price range and in the centre of town, is there anything else i can help you with?	['centre','da_vinci_pizzeria_food','da_vinci_pizzeria_pricerange','da_vinci_pizzeria_type','da_vinci_pizzeria']
+
+1 royal_standard address 290_mill_road_city_centre
+1 royal_standard area east
+1 royal_standard food gastropub
+1 royal_standard location 52.196967,0.149286
+1 royal_standard phone 01223_247877
+1 royal_standard pricerange expensive
+1 royal_standard postcode c.b_1,_3_n.l
+1 royal_standard type restaurant
+1 royal_standard id 19190
+0 i want an expensive restaurant in the east part of town. i would also like its phone number.	hi! royal_standard is an excellent royal_standard_pricerange royal_standard_food in the royal_standard_area area. their number is 01223247877, anything else?	['royal_standard_type','royal_standard_area','royal_standard_pricerange','royal_standard_food','royal_standard']
+1 i appreciate your help. good bye.	have a great evening!  goodbye!	[]
+
+1 little_seoul address 108_regent_street_city_centre
+1 little_seoul area centre
+1 little_seoul food korean
+1 little_seoul location 52.200187,0.126407
+1 little_seoul phone 01223_308681
+1 little_seoul pricerange expensive
+1 little_seoul postcode c.b_2,_1_d.p
+1 little_seoul type restaurant
+1 little_seoul id 19216
+0 i am looking for an expensive restaurant that serves welsh food.	i apologize, there are no little_seoul_types in the little_seoul_pricerange price range that serve welsh food. would you like a different type of food?	['little_seoul_type','little_seoul_pricerange']
+1 how about korean food?	little_seoul is an little_seoul_pricerange little_seoul_food little_seoul_type. is there anything else i can help you with?	['little_seoul_type','little_seoul_pricerange','little_seoul_food','little_seoul']
+2 yes, i would like their address and what part of town they are located in.	little_seoul is located in the little_seoul_area of town and the address is 108 regent_street_city_little_seoul_area.	['regent_street_city_centre','little_seoul_area','little_seoul']
+3 thank you, goodbye.	have a nice day!  goodbye.	[]
+
+1 bangkok_city address 24_green_street_city_centre
+1 bangkok_city area centre
+1 bangkok_city food thai
+1 bangkok_city location 52.206504,0.119157
+1 bangkok_city phone 01223_354382
+1 bangkok_city pricerange expensive
+1 bangkok_city postcode c.b_2,_3_j.x
+1 bangkok_city type restaurant
+1 bangkok_city id 19236
+0 i am looking for a restaurant that serves thai food and is in the expensive price range.	bangkok_city is a recommended bangkok_city_food bangkok_city_type in the bangkok_city_area.	['bangkok_city_area','bangkok_city_type','bangkok_city_pricerange','bangkok_city_food','bangkok_city']
+1 what is the address and phone number ?	bangkok_city is at 24_green_street_city_bangkok_city_area, and the phone number is bangkok_city_phone. can i help you with anything else?	['bangkok_city_area','bangkok_city_address','bangkok_city_phone','bangkok_city']
+2 thank you good bye.	thank you for using our system. goodbye.	[]
+3 no further assistance needed. goodbye.	thank you.	[]
+
+1 nandos address cambridge_leisure_park_clifton_way
+1 nandos area south
+1 nandos food portuguese
+1 nandos location 52.19017,0.13699
+1 nandos phone 01223_327908
+1 nandos pricerange cheap
+1 nandos postcode c.b_1,_7_d.y
+1 nandos type restaurant
+1 nandos id 12238
+1 nandos_city_centre address 33-34_saint_andrews_street
+1 nandos_city_centre area centre
+1 nandos_city_centre food portuguese
+1 nandos_city_centre location 52.203,0.12375
+1 nandos_city_centre phone 01223_327908
+1 nandos_city_centre pricerange cheap
+1 nandos_city_centre postcode c.b_2,_3_a.r
+1 nandos_city_centre type restaurant
+1 nandos_city_centre id 12237
+0 i need some portuguese food! i need a restaurant in any area. please give me a phone number.	nandos is located in the nandos_area area. address is nandos_address and phone number is 01223_327908.	['restaurant','nandos_area','nandos_address','portuguese','01223_327908','nandos']
+1 is there anything else?	nandos_city_nandos_city_centre_area is in the nandos_city_centre_area part of town.  their phone number is 01223_327908	['nandos_city_centre_area','01223_327908','nandos','nandos_city_centre']
+2 thank you. goodbye.	thank you, goodbye.	[]
+
+1 la_raza address 4_-_6_rose_crescent
+1 la_raza area centre
+1 la_raza food spanish
+1 la_raza location 52.206098,0.118713
+1 la_raza phone 01223_464550
+1 la_raza pricerange cheap
+1 la_raza postcode c.b_2,_3_l.l
+1 la_raza type restaurant
+1 la_raza id 19237
+0 is there a restaurant in the centre of town serving halal food?	no, there are no la_raza_types in the center of town serving halal food.	['la_raza_area','la_raza_type']
+1 is there any restaurant in the centre serving spanish food?	there are two la_raza_food la_raza_types in the city la_raza_area. what price range are you looking for?	['la_raza_area','la_raza_type','la_raza_food']
+2 i don't care.	la_raza is located int he la_raza_area of town and is in the la_raza_pricerange price range.	['la_raza_area','la_raza_pricerange','la_raza']
+3 la_raza sounds lovely. may i have the number and postcode please?	of course! their number is la_raza_phone and their postcode is la_raza_postcode. is there anything else i can do for you?	['la_raza_postcode','la_raza_phone','la_raza']
+4 no, thank you, i have all i need.  goodbye!	good bye. it was a pleasure to assist you.	[]
+5 again, goodbye!	goodbye.	[]
+
+1 la_tasca address 14_-16_bridge_street
+1 la_tasca area centre
+1 la_tasca food spanish
+1 la_tasca location 52.20903,0.1183
+1 la_tasca phone 01223_464630
+1 la_tasca pricerange moderate
+1 la_tasca postcode c.b_2,_1_u.f
+1 la_tasca type restaurant
+1 la_tasca id 12566
+0 i am looking for a restaurant that serves caribbean food and in the moderate price range.	there is not a caribbean la_tasca_type in the la_tasca_pricerange price range. would you like a different la_tasca_type?	['la_tasca_type','la_tasca_pricerange']
+1 are there any spanish restaurants?	yes. la_tasca is a nice la_tasca_food la_tasca_type in the la_tasca_pricerange price range.	['la_tasca_type','la_tasca_pricerange','la_tasca_food','la_tasca']
+2 what is the address, phone number, and postcode?	la_tasca is located at la_tasca_address and the postcode is la_tasca_postcode.  their phone number is la_tasca_phone.  may i help you with anything else?	['la_tasca_postcode','la_tasca_address','la_tasca_phone','la_tasca']
+3 thank you good bye.	you're welcome, goodbye.	[]
+
+1 anatolia address 30_bridge_street_city_centre
+1 anatolia area centre
+1 anatolia food turkish
+1 anatolia location 52.209632,0.117213
+1 anatolia phone 01223_362372
+1 anatolia pricerange moderate
+1 anatolia postcode c.b_2,_1_u.j
+1 anatolia type restaurant
+1 anatolia id 19232
+0 need a restrauant serving turkish style venue	ok, so you would like a anatolia_food anatolia_type. in what area would you like to eat?	['anatolia_type','anatolia_food']
+1 any area would be fine! could i please get the address and postcode of a turkish restaurant?	anatolia is a anatolia_food anatolia_type at 30_bridge_street_city_anatolia_area, anatolia_postcode. is there anything else i can help you with today?	['anatolia_area','anatolia_type','anatolia_food','anatolia_address','anatolia_postcode','anatolia']
+2 thank you goodbye.	thank you, goodbye.	[]
+
+1 prezzo address 21_-_24_northampton_road
+1 prezzo area west
+1 prezzo food italian
+1 prezzo location 52.21032,0.11367
+1 prezzo phone 01799_521260
+1 prezzo pricerange moderate
+1 prezzo postcode c.b_3,_0_a.d
+1 prezzo type restaurant
+1 prezzo id 12700
+0 i need the phone number of a restaurant in the west part of town that serves italian ood.	prezzo is an prezzo_food prezzo_type in the prezzo_area part of town, their phone number is prezzo_phone.	['prezzo_food','prezzo_type','prezzo_area','prezzo_phone','prezzo']
+1 thank you, goodbye.	thank you.  goodbye!	[]
+
+1 royal_spice address victoria_avenue_chesterton
+1 royal_spice area north
+1 royal_spice food indian
+1 royal_spice location 52.213853,0.125509
+1 royal_spice phone 01733_553355
+1 royal_spice pricerange cheap
+1 royal_spice postcode c.b_4,_1_e.h
+1 royal_spice type restaurant
+1 royal_spice id 19257
+0 i want to find a cheap restaurant serving swedish food	i'm sorry, i can't find any royal_spice_pricerange swedish royal_spice_types. would you like to look for a different style of food, or increase your price range?	['royal_spice_pricerange','royal_spice_type']
+1 how about indian food?	there are three royal_spice_pricerange royal_spice_food royal_spice_types in the centre part of town, or royal_spice is a royal_spice_pricerange royal_spice_food royal_spice_type in the royal_spice_area. do any of these interest you?	['centre','royal_spice_pricerange','royal_spice_type','royal_spice_food','royal_spice_area','royal_spice']
+2 yes, what is the address for royal_spice please?	royal_spice is located at royal_spice_address.  do you need any other information?	['royal_spice_address','royal_spice']
+3 thank you. goodbye.	thank you for calling us and please use our system again. goodbye.	[]
+
+1 golden_wok address 191_histon_road_chesterton
+1 golden_wok area north
+1 golden_wok food chinese
+1 golden_wok location 52.220757,0.111564
+1 golden_wok phone 01223_350688
+1 golden_wok pricerange moderate
+1 golden_wok postcode c.b_4,_3_h.l
+1 golden_wok type restaurant
+1 golden_wok id 19265
+1 the_nirala address 7_milton_road_chesterton
+1 the_nirala area north
+1 the_nirala food indian
+1 the_nirala location 52.215157,0.125015
+1 the_nirala phone 01223_360966
+1 the_nirala pricerange moderate
+1 the_nirala postcode c.b_4,_1_u.y
+1 the_nirala type restaurant
+1 the_nirala id 19263
+0 i want something in the north part of town. moderately priced.	what kind of food would you like?	['moderate','north']
+1 any type of food will be fine as long as it's moderately priced and in the north part of town.	golden_wok is located in the north part of town, is moderately priced and serves golden_wok_food food.	['golden_wok_food','moderate','north','golden_wok']
+2 i've actually had a bad experience at the gold wok. is there another moderately priced restaurant in the north?	would you instead be interested in the_nirala, which serves the_nirala_food food?	['restaurant','the_nirala_food','moderate','north','the_nirala']
+3 sounds good.  what is the postcode and phone number?	the post code and phone number for the_nirala is the_nirala_postcode and phone is the_nirala_phone	['the_nirala_phone','the_nirala_postcode','the_nirala']
+4 thank you. goodbye.	goodbye.	[]
+
+1 da_vinci_pizzeria address 20_milton_road_chesterton
+1 da_vinci_pizzeria area north
+1 da_vinci_pizzeria food italian
+1 da_vinci_pizzeria location 52.215311,0.12593
+1 da_vinci_pizzeria phone 01223_351707
+1 da_vinci_pizzeria pricerange cheap
+1 da_vinci_pizzeria postcode c.b_4,_1_j.y
+1 da_vinci_pizzeria type restaurant
+1 da_vinci_pizzeria id 19259
+0 i want to find a cheap restaurant in the north part of town. what is the phone number?	da_vinci_pizzeria is in the da_vinci_pizzeria_area part of town and in the da_vinci_pizzeria_pricerange price range. their phone number is da_vinci_pizzeria_phone	['da_vinci_pizzeria_pricerange','da_vinci_pizzeria_type','da_vinci_pizzeria_area','da_vinci_pizzeria_phone','da_vinci_pizzeria']
+1 thank you. goodbye.	enjoy your dinner!	[]
+
+1 the_lucky_star address cambridge_leisure_park_clifton_way_cherry_hinton
+1 the_lucky_star area south
+1 the_lucky_star food chinese
+1 the_lucky_star location 52.190176,0.13699
+1 the_lucky_star phone 01223_244277
+1 the_lucky_star pricerange cheap
+1 the_lucky_star postcode c.b_1,_7_d.y
+1 the_lucky_star type restaurant
+1 the_lucky_star id 19197
+0 i'd like information about a restaurant in south that serves english food.	i'm sorry, there are no the_lucky_star_types in the the_lucky_star_area that serve english food. can i look for something else?	['the_lucky_star_type','the_lucky_star_area']
+1 how about chinese food?	there are three the_lucky_star_types that serve the_lucky_star_food food in the the_lucky_star_area part of town. what price range would you like?	['the_lucky_star_type','the_lucky_star_area','the_lucky_star_food']
+2 cheap price range	the_lucky_star is the only the_lucky_star_food the_lucky_star_type in the the_lucky_star_area part of town. would you like any specific contact information for them?	['the_lucky_star_pricerange','the_lucky_star_type','the_lucky_star_area','the_lucky_star_food','the_lucky_star']
+3 yes, i would like to know the address please	the_lucky_star is located at cambridge_leisure_park_clifton_way cherry hinton.  can i help you with anything else?	['cambridge_leisure_park_clifton_way','the_lucky_star']
+4 thank you, goodbye.	thank you, goodbye!	[]
+
+1 restaurant_two_two address 22_chesterton_road_chesterton
+1 restaurant_two_two area north
+1 restaurant_two_two food french
+1 restaurant_two_two location 52.213742,0.1242
+1 restaurant_two_two phone 01223_351880
+1 restaurant_two_two pricerange expensive
+1 restaurant_two_two postcode c.b_4,_3_a.x
+1 restaurant_two_two type restaurant
+1 restaurant_two_two id 19264
+0 i need to find a restaurant in the north side of town	ok. did you have a certain price range of cuisine in mind?	['restaurant_two_two_type','restaurant_two_two_area']
+1 i don't have a price range. i'm looking for a restaurant that serves catalan food.	i'm sorry, there are no restaurant_two_two_types listed serving catalan food in the restaurant_two_two_area part of town.  would you like to try something else?	['restaurant_two_two_type','restaurant_two_two_area']
+2 how about french type food?	restaurant_two_two_type_two_two is in the restaurant_two_two_area area and serving restaurant_two_two_food food, can i help you with anything else?	['restaurant_two_two_type','restaurant_two_two_area','restaurant_two_two_food','restaurant_two_two']
+3 yes. can i get the name and phone number of one of those restaurants?	yes, restaurant_two_two_type_two_two can be reached at restaurant_two_two_phone.	['restaurant_two_two_type','restaurant_two_two_phone','restaurant_two_two']
+4 what is the area again sorry ?	it is located in the restaurant_two_two_area part of town	['restaurant_two_two_area']
+5 thank you for your help. have a great evening.	thank you. goodbye.	[]
+
+1 golden_wok address 191_histon_road_chesterton
+1 golden_wok area north
+1 golden_wok food chinese
+1 golden_wok location 52.220757,0.111564
+1 golden_wok phone 01223_350688
+1 golden_wok pricerange moderate
+1 golden_wok postcode c.b_4,_3_h.l
+1 golden_wok type restaurant
+1 golden_wok id 19265
+0 i would like a moderately priced restaurant in the north part of town.	golden_wok is a golden_wok_pricerangely priced golden_wok_type in the golden_wok_area side of town.	['golden_wok_type','golden_wok_pricerange','golden_wok_area','golden_wok']
+1 what type of food does golden_wok serve?	the golden_wok serves golden_wok_food food.  would you like more information?	['golden_wok_food','golden_wok']
+2 yes what is the address for the business?	they are located at golden_wok_address	['golden_wok_address']
+3 great. i have everything i need, thank you	you're welconme	[]
+
+1 nandos address cambridge_leisure_park_clifton_way
+1 nandos area south
+1 nandos food portuguese
+1 nandos location 52.19017,0.13699
+1 nandos phone 01223_327908
+1 nandos pricerange cheap
+1 nandos postcode c.b_1,_7_d.y
+1 nandos type restaurant
+1 nandos id 12238
+0 hi.  i'm trying to find a good restaurant in the south part of town.	there are several good nandos_types in the nandos_area part of town. do you have a preference for the type of food or price range?	['nandos_type','nandos_area']
+1 yes, i'd like a restaurant that serves portuguese food.	nandos is the only nandos_type i can find in the nandos_area that serves nandos_food.	['nandos_type','nandos_area','nandos_food','nandos']
+2 nandos sounds great. thank you.	thank you good bye	['nandos']
+3 goodbye.	goodbye.	[]
+
+1 taj_tandoori address 64_cherry_hinton_road_cherry_hinton
+1 taj_tandoori area south
+1 taj_tandoori food indian
+1 taj_tandoori location 52.188747,0.138941
+1 taj_tandoori phone 01223_412299
+1 taj_tandoori pricerange expensive
+1 taj_tandoori postcode c.b_1,_7_a.a
+1 taj_tandoori type restaurant
+1 taj_tandoori id 19191
+0 can you give me the address for an indian restaurant in the south part of town?	taj_tandoori is the only one matching your request. you can contact them at taj_tandoori_phone.	['taj_tandoori_type','taj_tandoori_food','taj_tandoori_area','taj_tandoori_phone','taj_tandoori']
+1 what is the address and price range?	the address of the venue is taj_tandoori_address and in taj_tandoori_pricerange price range.	['taj_tandoori_pricerange','taj_tandoori_address']
+2 thank you, goodbye.	thank you and come again.	[]
+
+1 rajmahal address 7_barnwell_road_fen_ditton
+1 rajmahal area east
+1 rajmahal food indian
+1 rajmahal location 52.211144,0.163247
+1 rajmahal phone 01223_244955
+1 rajmahal pricerange moderate
+1 rajmahal postcode c.b_5,_8_r.g
+1 rajmahal type restaurant
+1 rajmahal id 19274
+0 i'm trying to find a moderately priced restaurant in the east part of town.  can you recommend one to me?	there are three rajmahal_types in the rajmahal_area part of town in the rajmahal_pricerange price range.  would you prefer rajmahal_food or italian food?	['italian','rajmahal_type','rajmahal_area','rajmahal_food','rajmahal_pricerange']
+1 can you suggest me some indian ones ?	i would recommend rajmahal, a nice rajmahal_food place in the rajmahal_area .	['rajmahal_area','rajmahal_food','rajmahal']
+2 thank you, can you please give me the address and phone number?	certainly.  the address for rajmahal is rajmahal_address and their phone number is rajmahal_phone. is there anything else i can help you with today?	['rajmahal_address','rajmahal_phone','rajmahal']
+3 thank you, goodbye	you're welcome.  good bye.	[]
+
+1 golden_wok address 191_histon_road_chesterton
+1 golden_wok area north
+1 golden_wok food chinese
+1 golden_wok location 52.220757,0.111564
+1 golden_wok phone 01223_350688
+1 golden_wok pricerange moderate
+1 golden_wok postcode c.b_4,_3_h.l
+1 golden_wok type restaurant
+1 golden_wok id 19265
+0 i would like a moderately priced restaurant in the north part of town	there are two golden_wok_pricerangely priced golden_wok_types in the golden_wok_area part of town. one golden_wok_food and one indian. please specify the desired cuisine type.	['golden_wok_type','indian','golden_wok_food','golden_wok_pricerange','golden_wok_area']
+1 can i have the phone number of the chinese place please?	golden_wok is located in the golden_wok_area side of town, serves golden_wok_food food and is in the golden_wok_pricerange price range.   their phone number is golden_wok_phone.	['golden_wok_food','golden_wok_pricerange','golden_wok_area','golden_wok_phone','golden_wok']
+2 ok,  thank you	goodbye.	[]
+
+1 da_vinci_pizzeria address 20_milton_road_chesterton
+1 da_vinci_pizzeria area north
+1 da_vinci_pizzeria food italian
+1 da_vinci_pizzeria location 52.215311,0.12593
+1 da_vinci_pizzeria phone 01223_351707
+1 da_vinci_pizzeria pricerange cheap
+1 da_vinci_pizzeria postcode c.b_4,_1_j.y
+1 da_vinci_pizzeria type restaurant
+1 da_vinci_pizzeria id 19259
+1 royal_spice address victoria_avenue_chesterton
+1 royal_spice area north
+1 royal_spice food indian
+1 royal_spice location 52.213853,0.125509
+1 royal_spice phone 01733_553355
+1 royal_spice pricerange cheap
+1 royal_spice postcode c.b_4,_1_e.h
+1 royal_spice type restaurant
+1 royal_spice id 19257
+0 i am looking for a cheap restaurant in the north part of town.	what food type are you looking for?	['cheap','restaurant','north']
+1 i don't care what type of food it is.	there is da_vinci_pizzeria and royal_spice, both are in the north area and in the cheap price range.	['cheap','north','da_vinci_pizzeria','royal_spice']
+2 what are their phone numbers?	da_vinci_pizzeria is at da_vinci_pizzeria_phone, and royal_spice is at royal_spice_phone.	['da_vinci_pizzeria_phone','da_vinci_pizzeria','royal_spice_phone','royal_spice']
+3 thank you good bye.	thanks	[]
+
+1 the_river_bar_steakhouse_and_grill address quayside_off_bridge_street
+1 the_river_bar_steakhouse_and_grill area centre
+1 the_river_bar_steakhouse_and_grill food modern_european
+1 the_river_bar_steakhouse_and_grill location 52.20984,0.11793
+1 the_river_bar_steakhouse_and_grill phone 01223_307030
+1 the_river_bar_steakhouse_and_grill pricerange cheap
+1 the_river_bar_steakhouse_and_grill postcode c.b_5,_8_a.q
+1 the_river_bar_steakhouse_and_grill type restaurant
+1 the_river_bar_steakhouse_and_grill id 7236
+0 i want to find a cheap restaurant serving hungarian food.	what area would you like to look in?	['the_river_bar_steakhouse_and_grill_pricerange','the_river_bar_steakhouse_and_grill_type']
+1 i do not care about the area as long as it is hungarian food and cheap.	there are no hungarian the_river_bar_steakhouse_and_grill_types i can direct you to.  would you like another type of food?	['the_river_bar_steakhouse_and_grill_pricerange','the_river_bar_steakhouse_and_grill_type']
+2 yes, how about a restaurant that serves modern_european food?	the the_river_bar_steakhouse_and_grill is the_river_bar_steakhouse_and_grill_pricerange and serves the_river_bar_steakhouse_and_grill_food food	['the_river_bar_steakhouse_and_grill_pricerange','the_river_bar_steakhouse_and_grill_type','the_river_bar_steakhouse_and_grill_food','european','the_river_bar_steakhouse_and_grill']
+3 can i get the address and postcode?	their address is the_river_bar_steakhouse_and_grill_address and the postcode is the_river_bar_steakhouse_and_grill_postcode. may i help you with anything else?	['the_river_bar_steakhouse_and_grill_postcode','the_river_bar_steakhouse_and_grill_address']
+4 that's it, thank you, goodbye	you're welcome and good bye.	[]
+
+1 graffiti address hotel_felix_whitehouse_lane_huntingdon_road
+1 graffiti area west
+1 graffiti food british
+1 graffiti location 52.22414,0.09194
+1 graffiti phone 01223_277977
+1 graffiti pricerange expensive
+1 graffiti postcode c.b_3,_0_l.x
+1 graffiti type restaurant
+1 graffiti id 7492
+0 hello, i am looking for an expensive restaurant that serves irish food.	i'm sorry, there is not graffiti_types matching your request. would you like to try something else?	['graffiti_type','graffiti_pricerange']
+1 yes, i would like an expensive restaurant that serves british food. can i have the phone number please?	how about graffiti, they serve graffiti_food food and are in the graffiti_pricerange price range, their phone number is 01223_352500.	['graffiti_type','graffiti_pricerange','graffiti_food','01223_352500','graffiti']
+2 perfect! thanks, good-bye!	you're welcome.  good bye.	[]
+
+1 de_luca_cucina_and_bar address 83_regent_street
+1 de_luca_cucina_and_bar area centre
+1 de_luca_cucina_and_bar food modern_european
+1 de_luca_cucina_and_bar location 52.2002,0.1268
+1 de_luca_cucina_and_bar phone 01223_356666
+1 de_luca_cucina_and_bar pricerange moderate
+1 de_luca_cucina_and_bar postcode c.b_2,_1_a.w
+1 de_luca_cucina_and_bar type restaurant
+1 de_luca_cucina_and_bar id 3697
+1 curry_prince address 451_newmarket_road_fen_ditton
+1 curry_prince area east
+1 curry_prince food indian
+1 curry_prince location 52.213072,0.149771
+1 curry_prince phone 01223_566388
+1 curry_prince pricerange moderate
+1 curry_prince postcode c.b_5,_8_j.j
+1 curry_prince type restaurant
+1 curry_prince id 19270
+0 hi.  i'm looking for a moderately priced restaurant.	de_luca_cucina_and_bar is a de_luca_cucina_and_bar_food restaurant in the de_luca_cucina_and_bar_area	['de_luca_cucina_and_bar_area','restaurant','moderate','de_luca_cucina_and_bar_food','european','de_luca_cucina_and_bar']
+1 i need something that's in the east part of town.	curry_prince is moderately priced and located at curry_prince_address curry_prince_phone.	['curry_prince_area','moderate','curry_prince_address','curry_prince_phone','curry_prince']
+2 what is the phone number?	curry_prince's phone number is curry_prince_phone. is there anything else i can help you with today?	['curry_prince_phone','curry_prince']
+3 no thank you.  that is all i needed.  bye bye!	you're welcome. have a good evening.	[]
+
+1 saigon_city address 169_high_street_chesterton_chesterton
+1 saigon_city area north
+1 saigon_city food asian_oriental
+1 saigon_city location 52.218164,0.143209
+1 saigon_city phone 01223_356555
+1 saigon_city pricerange expensive
+1 saigon_city postcode c.b_4,_1_n.l
+1 saigon_city type restaurant
+1 saigon_city id 19261
+0 i am looking for a cantonese restaurant in the north part of town.	what price range are you looking for?	['saigon_city_type','saigon_city_area']
+1 i don't care.	unfortunately, there are no cantonese saigon_city_types in the saigon_city_area part of town.	['saigon_city_type','saigon_city_area']
+2 okay then, how about a restaurant that serves asian_oriental type of food in the north part of town then?	saigon_city serves saigon_city_food food and is located in the saigon_city_area part of town.  would you like their location?	['saigon_city_type','saigon_city_area','saigon_city_food','saigon_city']
+3 what is the address and phone number?	the address for saigon_city is saigon_city_address and the phone number is saigon_city_phone.	['saigon_city_address','saigon_city_phone','saigon_city']
+4 thank you for the information. bye now	thank you.	[]
+
+1 fitzbillies_restaurant address 51_trumpington_street_city_centre
+1 fitzbillies_restaurant area centre
+1 fitzbillies_restaurant food british
+1 fitzbillies_restaurant location 52.202598,0.118342
+1 fitzbillies_restaurant phone 01223_352500
+1 fitzbillies_restaurant pricerange expensive
+1 fitzbillies_restaurant postcode c.b_2,_1_r.g
+1 fitzbillies_restaurant type restaurant
+1 fitzbillies_restaurant id 19224
+0 i am looking for a restaurant in the center of town that serves russian food.	there are no russian fitzbillies_restaurant_types in the fitzbillies_fitzbillies_restaurant_type_area of town. would you like something else?	['fitzbillies_restaurant_area','fitzbillies_restaurant_type']
+1 yes please, is there any restaurant serve british food?	there is one moderately priced fitzbillies_restaurant_food fitzbillies_restaurant_type and one fitzbillies_restaurant_pricerange fitzbillies_restaurant_type. do you have a preference?	['fitzbillies_restaurant_type','fitzbillies_restaurant_pricerange','moderate','fitzbillies_restaurant_food']
+2 no. what is the address and phone number?	fitzbillies_fitzbillies_restaurant_type's phone number is fitzbillies_restaurant_phone. their address is 51_trumpington_street_city_fitzbillies_fitzbillies_restaurant_type_area	['fitzbillies_restaurant_area','fitzbillies_restaurant_type','fitzbillies_restaurant_address','fitzbillies_restaurant_phone','fitzbillies_restaurant']
+3 thank you, good bye	thank you good bye	[]
+
+1 rajmahal address 7_barnwell_road_fen_ditton
+1 rajmahal area east
+1 rajmahal food indian
+1 rajmahal location 52.211144,0.163247
+1 rajmahal phone 01223_244955
+1 rajmahal pricerange moderate
+1 rajmahal postcode c.b_5,_8_r.g
+1 rajmahal type restaurant
+1 rajmahal id 19274
+0 find a moderately priced place for me please.	what type of food do you want?	['rajmahal_pricerange']
+1 i don't care.	which area would you like?	[]
+2 on the east side of town, please.	rajmahal is a rajmahal_pricerangely priced rajmahal_type in the rajmahal_area part of town.	['rajmahal_type','rajmahal_area','rajmahal_pricerange','rajmahal']
+3 great! what is the phone number?	the phone number is rajmahal_phone, is there anything i can help you with?	['rajmahal_phone']
+4 thank you, goodbye.	thank you for using the cambridge rajmahal_type phone system. enjoy your meal!	['rajmahal_type']
+
+1 royal_spice address victoria_avenue_chesterton
+1 royal_spice area north
+1 royal_spice food indian
+1 royal_spice location 52.213853,0.125509
+1 royal_spice phone 01733_553355
+1 royal_spice pricerange cheap
+1 royal_spice postcode c.b_4,_1_e.h
+1 royal_spice type restaurant
+1 royal_spice id 19257
+0 a north part of town restaurant	do you have a price range preference? we have several royal_spice_types in the royal_spice_area part of town	['royal_spice_type','royal_spice_area']
+1 i do not care about the price range but would like somewhere serving indian food.	there is a fairly royal_spice_pricerange royal_spice_food royal_spice_type named royal_spice in the royal_spice_area part of town.	['royal_spice_pricerange','royal_spice_type','royal_spice_food','royal_spice_area','royal_spice']
+2 what is the address and phone number?	royal_spice is located at royal_spice_address and its phone number is 01223_360966. is there anything else i can help you with?	['01223_360966','royal_spice_address','royal_spice']
+3 nope, that was all i needed.  thank you.  bye bye.	thank you.	[]
+
+1 golden_wok address 191_histon_road_chesterton
+1 golden_wok area north
+1 golden_wok food chinese
+1 golden_wok location 52.220757,0.111564
+1 golden_wok phone 01223_350688
+1 golden_wok pricerange moderate
+1 golden_wok postcode c.b_4,_3_h.l
+1 golden_wok type restaurant
+1 golden_wok id 19265
+0 do you know of any moderately priced restaurants in the north part of town? i'll need the address and phone number.	the golden_wok is located at golden_wok_address. it's phone number is golden_wok_phone.	['golden_wok_type','golden_wok_pricerange','golden_wok_area','golden_wok_address','golden_wok_phone','golden_wok']
+1 thank you good bye.	enjoy your stay, good bye.	[]
+
+1 ali_baba address 59_hills_road_city_centre
+1 ali_baba area centre
+1 ali_baba food lebanese
+1 ali_baba location 52.195416,0.13114
+1 ali_baba phone 01462_432565
+1 ali_baba pricerange moderate
+1 ali_baba postcode c.b_2,_1_n.t
+1 ali_baba type restaurant
+1 ali_baba id 19221
+0 hello! i am looking for the address and phone number of a lebanese restaurant in the centre.	ali_baba is a ali_baba_food ali_baba_type in the ali_baba_area area. its address is 59 hills road city. phone number is ali_baba_phone	['ali_baba_area','ali_baba_type','ali_baba_food','ali_baba_phone','ali_baba']
+1 thank you, goodbye.	thank you.	[]
+
+1 kohinoor address 74_mill_road_city_centre
+1 kohinoor area centre
+1 kohinoor food indian
+1 kohinoor location 52.200422,0.135784
+1 kohinoor phone 01223_323639
+1 kohinoor pricerange cheap
+1 kohinoor postcode c.b_1,_2_a.s
+1 kohinoor type restaurant
+1 kohinoor id 19180
+0 hello. i want a cheap barbeque restaurant.	there is not a kohinoor_type matching your request.  would you like a different kohinoor_type?	['kohinoor_pricerange','kohinoor_type']
+1 are there any cheap indian restaurants?	there are four listings for the provided criteria. do you prefer the kohinoor_area or south area?	['kohinoor_area','kohinoor_pricerange','kohinoor_type','kohinoor_food','south']
+2 i don't care.	kohinoor is a kohinoor_pricerange kohinoor_food kohinoor_type in the kohinoor_area of town. would you like their address?	['kohinoor_area','kohinoor_pricerange','kohinoor_type','kohinoor_food','kohinoor']
+3 yes please	the address is 74_mill_road_city_kohinoor_area.	['kohinoor_area','kohinoor_address']
+4 thank you, goodbye.	thank you, goodbye.	[]
+
+1 cote address bridge_street_city_centre
+1 cote area centre
+1 cote food french
+1 cote location 52.209028,0.118296
+1 cote phone 01223_311053
+1 cote pricerange expensive
+1 cote postcode c.b_2,_1_u.f
+1 cote type restaurant
+1 cote id 19230
+1 restaurant_two_two address 22_chesterton_road_chesterton
+1 restaurant_two_two area north
+1 restaurant_two_two food french
+1 restaurant_two_two location 52.213742,0.1242
+1 restaurant_two_two phone 01223_351880
+1 restaurant_two_two pricerange expensive
+1 restaurant_two_two postcode c.b_4,_3_a.x
+1 restaurant_two_two type restaurant
+1 restaurant_two_two id 19264
+0 i am looking for an expensive restaurant.	what kind of food are you interested in?	['restaurant','expensive']
+1 french food.	there are expensive french restaurants in the cote_area and restaurant_two_two_area areas of town. do you have a preference for location?	['cote_area','restaurant','expensive','restaurant_two_two_area','french']
+2 i don't care.	how about cote, which is in the expensive price range and serves french food?	['expensive','french','cote']
+3 i really have no desire for cote. are there other restaurants available?	you could also try restaurant_two_two.	['restaurant','restaurant_two_two','cote']
+4 ok i will try this one. i would like the address and phone number please.	restaurant_two_two address is restaurant_two_two_address and the phone is restaurant_two_two_phone is there anything else i can help you with?	['restaurant','restaurant_two_two_address','restaurant_two_two_phone','restaurant_two_two']
+5 no, thank you.	thank you. good bye	[]
+
+1 grafton_hotel_restaurant address grafton_hotel_619_newmarket_road_fen_ditton
+1 grafton_hotel_restaurant area east
+1 grafton_hotel_restaurant food british
+1 grafton_hotel_restaurant location 52.212992,0.157569
+1 grafton_hotel_restaurant phone 01223_241387
+1 grafton_hotel_restaurant pricerange expensive
+1 grafton_hotel_restaurant postcode c.b_5,_8_p.a
+1 grafton_hotel_restaurant type restaurant
+1 grafton_hotel_restaurant id 19271
+0 i want to find an expensive restaurant in the east part of town. what is the phone number and type of food?	grafton_hotel_grafton_hotel_restaurant_type serves grafton_hotel_restaurant_food food, is in the grafton_hotel_restaurant_area part of town and in the grafton_hotel_restaurant_pricerange price range.  their phone number is grafton_hotel_restaurant_phone	['grafton_hotel_restaurant_type','grafton_hotel_restaurant_area','grafton_hotel_restaurant_pricerange','grafton_hotel_restaurant_food','grafton_hotel_restaurant_phone','grafton_hotel_restaurant']
+1 ok, thank you.	you're welcome.	[]
+
+0 i'm looking for a good restaurant anywhere in town serving french food. could you please give me their phone numbers?	there is a very good french restaurant in the centre of town. their phone number is 01223_311053.	['centre','restaurant','french','01223_311053']
+1 thank you, goodbye.	you're welcome.  good bye.	[]
+
+1 the_lucky_star address cambridge_leisure_park_clifton_way_cherry_hinton
+1 the_lucky_star area south
+1 the_lucky_star food chinese
+1 the_lucky_star location 52.190176,0.13699
+1 the_lucky_star phone 01223_244277
+1 the_lucky_star pricerange cheap
+1 the_lucky_star postcode c.b_1,_7_d.y
+1 the_lucky_star type restaurant
+1 the_lucky_star id 19197
+0 looking for a restaurant on the south part of town?	what type of food would you like?	['the_lucky_star_type','the_lucky_star_area']
+1 i do not have a preference.	do you have any preference on the cost?	[]
+2 i would like something in the cheap price range, please.	there is a very popular the_lucky_star_food the_lucky_star_type in the the_lucky_star_area part of town called the_lucky_star, it is in the the_lucky_star_pricerange price range.	['the_lucky_star_pricerange','the_lucky_star_type','the_lucky_star_area','the_lucky_star_food','the_lucky_star']
+3 can i have the address and phone number please?	their number is the_lucky_star_phone and they are located at cambridge_leisure_park_clifton_way cherry hinton. can i be of any further assistance?	['cambridge_leisure_park_clifton_way','the_lucky_star_phone']
+4 thank you goodbye.	thank you for using the cambridge the_lucky_star_type system. goodbye.	['the_lucky_star_type']
+
+1 taj_tandoori address 64_cherry_hinton_road_cherry_hinton
+1 taj_tandoori area south
+1 taj_tandoori food indian
+1 taj_tandoori location 52.188747,0.138941
+1 taj_tandoori phone 01223_412299
+1 taj_tandoori pricerange expensive
+1 taj_tandoori postcode c.b_1,_7_a.a
+1 taj_tandoori type restaurant
+1 taj_tandoori id 19191
+0 i want to find a restaurant in the south part of town serving singaporean food.	i'm sorry, there is not a taj_tandoori_type serving singaporean food in the taj_tandoori_area part of town.  would you like to try taj_tandoori_food food?	['taj_tandoori_type','taj_tandoori_food','taj_tandoori_area']
+1 indian food of course and what is the phone number?	taj_tandoori serves taj_tandoori_food food on the taj_tandoori_area part of town. their number is taj_tandoori_phone. is there anything else i can help you with today?	['taj_tandoori_food','taj_tandoori_area','taj_tandoori_phone','taj_tandoori']
+2 no that will be all. thank you, goodbye.	thank you for using our system..good bye	[]
+
+1 la_tasca address 14_-16_bridge_street
+1 la_tasca area centre
+1 la_tasca food spanish
+1 la_tasca location 52.20903,0.1183
+1 la_tasca phone 01223_464630
+1 la_tasca pricerange moderate
+1 la_tasca postcode c.b_2,_1_u.f
+1 la_tasca type restaurant
+1 la_tasca id 12566
+0 what's a good mid price restaurant?	is there a specific part of town or type of food you're interested in?	['la_tasca_type']
+1 i would like catalan food.	i'm sorry, there are no la_tasca_types serving catalan food in your price range. would you like to try something else?	['la_tasca_type']
+2 how about spanish food?	la_tasca serves la_tasca_food food and is in the la_tasca_pricerange price range.	['la_tasca_pricerange','la_tasca_food','la_tasca']
+3 could i have the address, phone number and postcode please?	the phone number for la_tasca is la_tasca_phone and they are located at la_tasca_address.  the postcode is la_tasca_postcode.	['la_tasca_postcode','la_tasca_address','la_tasca_phone','la_tasca']
+4 thank you, goodbye	thank you, goodbye.	[]
+5 bye.	call us again! goodbye.	[]
+
+1 backstreet_bistro address 2_sturton_street_city_centre
+1 backstreet_bistro area centre
+1 backstreet_bistro food gastropub
+1 backstreet_bistro location 52.202449,0.141062
+1 backstreet_bistro phone 01223_306306
+1 backstreet_bistro pricerange expensive
+1 backstreet_bistro postcode c.b_1,_2_q.a
+1 backstreet_bistro type restaurant
+1 backstreet_bistro id 19188
+1 pipasha_restaurant address newmarket_road_fen_ditton
+1 pipasha_restaurant area east
+1 pipasha_restaurant food indian
+1 pipasha_restaurant location 52.212992,0.157569
+1 pipasha_restaurant phone 01223_577786
+1 pipasha_restaurant pricerange expensive
+1 pipasha_restaurant postcode c.b_5,_8_p.a
+1 pipasha_restaurant type restaurant
+1 pipasha_restaurant id 19272
+1 grafton_hotel_restaurant address grafton_hotel_619_newmarket_road_fen_ditton
+1 grafton_hotel_restaurant area east
+1 grafton_hotel_restaurant food british
+1 grafton_hotel_restaurant location 52.212992,0.157569
+1 grafton_hotel_restaurant phone 01223_241387
+1 grafton_hotel_restaurant pricerange expensive
+1 grafton_hotel_restaurant postcode c.b_5,_8_p.a
+1 grafton_hotel_restaurant type restaurant
+1 grafton_hotel_restaurant id 19271
+0 looking for an expensive restaurant	there are quite a few diverse, expensive restaurants all located in the backstreet_bistro_area area. i recommend the backstreet_bistro at 2_sturton_street_city_backstreet_bistro_area.	['backstreet_bistro_area','restaurant','expensive','backstreet_bistro_address','backstreet_bistro']
+1 are there any in the east part of town?	there are a few, if you prefer grafton_hotel_restaurant_food food, there is the grafton_hotel_restaurant, but if you want pipasha_restaurant_food food, there is one called pipasha_restaurant.	['restaurant','east','pipasha_restaurant_food','grafton_hotel_restaurant_food','pipasha_restaurant','grafton_hotel_restaurant']
+2 what is the phone number and post code of pipasha_restaurant?	phone number is pipasha_restaurant_phone and postcode is c.b_5,_8_p.a.	['restaurant','c.b_5,_8_p.a','pipasha_restaurant_phone','pipasha_restaurant']
+3 thank you, goodbye.	thank you, goodbye	[]
+
+1 darrys_cookhouse_and_wine_shop address 40270_king_street_city_centre
+1 darrys_cookhouse_and_wine_shop area centre
+1 darrys_cookhouse_and_wine_shop food modern_european
+1 darrys_cookhouse_and_wine_shop location 52.207312,0.124201
+1 darrys_cookhouse_and_wine_shop phone 01223_505015
+1 darrys_cookhouse_and_wine_shop pricerange expensive
+1 darrys_cookhouse_and_wine_shop postcode c.b_1,_1_l.n
+1 darrys_cookhouse_and_wine_shop type restaurant
+1 darrys_cookhouse_and_wine_shop id 19177
+0 i want to find a restaurant in the centre part of town and serves barbeque food. if not then how about modern_european food?	there are four venues serving darrys_cookhouse_and_wine_shop_food food in the darrys_cookhouse_and_wine_shop_area of town. what price range do you want?	['darrys_cookhouse_and_wine_shop_area','darrys_cookhouse_and_wine_shop_type','darrys_cookhouse_and_wine_shop_food','european']
+1 i want the most expensive one available.	darrys_cookhouse_and_wine_shop is the most darrys_cookhouse_and_wine_shop_pricerange darrys_cookhouse_and_wine_shop_food darrys_cookhouse_and_wine_shop_type.	['darrys_cookhouse_and_wine_shop_type','darrys_cookhouse_and_wine_shop_pricerange','darrys_cookhouse_and_wine_shop_food','european','darrys_cookhouse_and_wine_shop']
+2 what is the address?	darrys_cookhouse_and_wine_shop's address is 40270_king_street_city_darrys_cookhouse_and_wine_shop_area.	['darrys_cookhouse_and_wine_shop_area','darrys_cookhouse_and_wine_shop_address','darrys_cookhouse_and_wine_shop']
+
+1 frankie_and_bennys address cambridge_leisure_park_clifton_way_cherry_hinton
+1 frankie_and_bennys area south
+1 frankie_and_bennys food italian
+1 frankie_and_bennys location 52.190176,0.13699
+1 frankie_and_bennys phone 01223_412430
+1 frankie_and_bennys pricerange expensive
+1 frankie_and_bennys postcode c.b_1,_7_d.y
+1 frankie_and_bennys type restaurant
+1 frankie_and_bennys id 19195
+0 i would like an expensive restaurant in the south of town.	there are five frankie_and_bennys_types matching your description. would you like a specific food type or would you like all their names?	['frankie_and_bennys_type','frankie_and_bennys_pricerange','frankie_and_bennys_area']
+1 i don't care.	frankie_and_bennys is an frankie_and_bennys_pricerange frankie_and_bennys_food frankie_and_bennys_type in the frankie_and_bennys_area part of town.	['frankie_and_bennys_food','frankie_and_bennys_type','frankie_and_bennys_pricerange','frankie_and_bennys_area','frankie_and_bennys']
+2 can you tell me what type of food they serve and give me the phone number?	it is an frankie_and_bennys_food frankie_and_bennys_type and the phone number is frankie_and_bennys_phone.	['frankie_and_bennys_food','frankie_and_bennys_type','frankie_and_bennys_phone']
+
+1 peking_restaurant address 10_homerton_street_city_centre
+1 peking_restaurant area south
+1 peking_restaurant food chinese
+1 peking_restaurant location 52.189484,0.135465
+1 peking_restaurant phone 01223_354755
+1 peking_restaurant pricerange expensive
+1 peking_restaurant postcode c.b_2,_8_n.x
+1 peking_restaurant type restaurant
+1 peking_restaurant id 19246
+0 i would like a restaurant in the south part of town that serves christmas food	i'm sorry but there are no peking_restaurant_types serving christmas food. can i find anything else?	['peking_restaurant_type','peking_restaurant_area']
+1 how about chinese food?	there are three peking_restaurant_types in the peking_restaurant_area part of town that serve peking_restaurant_food food. what price range would you like?	['peking_restaurant_type','peking_restaurant_area','peking_restaurant_food']
+2 i dont care	i would recommend peking_peking_restaurant_type, which is a nice peking_restaurant_type in the peking_restaurant_area .	['peking_restaurant_type','peking_restaurant_area','peking_restaurant']
+3 can i have the address of them, also the price range ?	peking_peking_restaurant_type is peking_restaurant_pricerange, its location is at peking_restaurant_address.	['centre','peking_restaurant_type','peking_restaurant_pricerange','peking_restaurant_address','peking_restaurant']
+4 thank you good bye	enjoy your meal, goodbye.	[]
+
+1 caffe_uno address 32_bridge_street_city_centre
+1 caffe_uno area centre
+1 caffe_uno food italian
+1 caffe_uno location 52.209632,0.117213
+1 caffe_uno phone 01223_448620
+1 caffe_uno pricerange expensive
+1 caffe_uno postcode c.b_2,_1_u.j
+1 caffe_uno type restaurant
+1 caffe_uno id 19234
+0 i would like a restaurant that serves world food. it should be a really good restaurant, and it's ok if it's expensive.	there are no matching caffe_uno_types	['caffe_uno_type','caffe_uno_pricerange']
+1 how about italian ? i would like to go to nice place with great atmosphere and expensive, i would like the address, phone number and area	caffe_uno is located at 32 bridge_street_city_caffe_uno_area and their phone number is caffe_uno_phone.	['caffe_uno_area','caffe_uno_food','caffe_uno_pricerange','bridge_street_city_centre','caffe_uno_phone','caffe_uno']
+2 thank you goodbye	enjoy your meal!	[]
+
+0 is there a moderate priced restaurant?	i found several.  do you have a preference on location?	['restaurant','moderate']
+1 yes, in the east part of town.	there are three results with your preferences of east area and moderate price range.	['east','moderate']
+2 what is the address of one of them?	451_newmarket_road_fen_ditton	['451_newmarket_road_fen_ditton']
+3 excellent, thanks!	is there anything else i can help you with?	[]
+4 that's it, goodbye	you are welcome goodbye	[]
+
+1 the_missing_sock address finders_corner_newmarket_road
+1 the_missing_sock area east
+1 the_missing_sock food international
+1 the_missing_sock location 52.21768,0.224907
+1 the_missing_sock phone 01223_812660
+1 the_missing_sock pricerange cheap
+1 the_missing_sock postcode c.b_25,_9_a.q
+1 the_missing_sock type restaurant
+1 the_missing_sock id 30650
+0 i would like a cheap restaurant in the east part of town, please.	the only the_missing_sock_pricerange the_missing_sock_type in the the_missing_sock_area part of tow is the_missing_sock.	['the_missing_sock_pricerange','the_missing_sock_type','the_missing_sock_area','the_missing_sock']
+1 address and phone number, please	the address for the_missing_sock is the_missing_sock_address and the phone number is the_missing_sock_phone.	['the_missing_sock_address','the_missing_sock_phone','the_missing_sock']
+2 thank you good bye	thank you for calling. goodbye.	[]
+3 thanks so much.  bye bye.	have a nice day	[]
+
+1 da_vinci_pizzeria address 20_milton_road_chesterton
+1 da_vinci_pizzeria area north
+1 da_vinci_pizzeria food italian
+1 da_vinci_pizzeria location 52.215311,0.12593
+1 da_vinci_pizzeria phone 01223_351707
+1 da_vinci_pizzeria pricerange cheap
+1 da_vinci_pizzeria postcode c.b_4,_1_j.y
+1 da_vinci_pizzeria type restaurant
+1 da_vinci_pizzeria id 19259
+0 i am interested in a restaurant located in the north part of town that specializes in indonesian food, please.	there are no da_vinci_pizzeria_types serving indonesian food in the da_vinci_pizzeria_area part of town. would you like me to look in another part of town?	['da_vinci_pizzeria_type','da_vinci_pizzeria_area']
+1 what about italian food?	da_vinci_pizzeria is a da_vinci_pizzeria_type serving da_vinci_pizzeria_food food in the da_vinci_pizzeria_area part of town. would you like any additional information?	['da_vinci_pizzeria_food','da_vinci_pizzeria_type','da_vinci_pizzeria_area','da_vinci_pizzeria']
+2 yes, may i have the address and phone number please?	the address is da_vinci_pizzeria_address and the phone number is da_vinci_pizzeria_phone.	['da_vinci_pizzeria_address','da_vinci_pizzeria_phone']
+3 thank you, goodbye.	goodbye.	[]
+4 bye.	have a good evening.	[]
+
+1 ali_baba address 59_hills_road_city_centre
+1 ali_baba area centre
+1 ali_baba food lebanese
+1 ali_baba location 52.195416,0.13114
+1 ali_baba phone 01462_432565
+1 ali_baba pricerange moderate
+1 ali_baba postcode c.b_2,_1_n.t
+1 ali_baba type restaurant
+1 ali_baba id 19221
+0 hello, i am looking for a lebanese restaurant in the centre of town.	ali_baba is a ali_baba_food ali_baba_type in the ali_baba_pricerange price range in the ali_baba_area part of town.	['ali_baba_area','ali_baba_type','ali_baba_pricerange','ali_baba_food','ali_baba']
+1 what is the address and phone number?	ali_baba is located at 59_hills_road_city_ali_baba_area and the phone number is ali_baba_phone.	['ali_baba_area','ali_baba_address','ali_baba_phone','ali_baba']
+2 thank  you. good bye.	you're very welcome. have a good night.	[]
+
+1 curry_prince address 451_newmarket_road_fen_ditton
+1 curry_prince area east
+1 curry_prince food indian
+1 curry_prince location 52.213072,0.149771
+1 curry_prince phone 01223_566388
+1 curry_prince pricerange moderate
+1 curry_prince postcode c.b_5,_8_j.j
+1 curry_prince type restaurant
+1 curry_prince id 19270
+0 caribbean food in the east part of town. if no such place, indian.	i couldn't find any caribbean curry_prince_types in the curry_prince_area part of town. i will search for curry_prince_food curry_prince_types next.	['curry_prince_type','curry_prince_area','curry_prince_food']
+1 great!  did you find any indian restaurants in the east part of town?	yes, there are four options.  two are curry_prince_pricerangely priced and two are expensive.  do you have a preferred price range?	['curry_prince_type','curry_prince_area','curry_prince_food','expensive','curry_prince_pricerange']
+2 no.	the curry_prince is in the curry_prince_area part of town and is in the curry_prince_pricerange price range.  would you like more information for them?	['curry_prince_area','curry_prince_pricerange','curry_prince']
+3 yes, i'd like the address and phone number please.	the address is curry_prince_address. the phone number is curry_prince_phone.	['curry_prince_address','curry_prince_phone']
+4 thank you goodbye.	thank you, have a nice day!	[]
+
+1 peking_restaurant address 10_homerton_street_city_centre
+1 peking_restaurant area south
+1 peking_restaurant food chinese
+1 peking_restaurant location 52.189484,0.135465
+1 peking_restaurant phone 01223_354755
+1 peking_restaurant pricerange expensive
+1 peking_restaurant postcode c.b_2,_8_n.x
+1 peking_restaurant type restaurant
+1 peking_restaurant id 19246
+0 i need a south restaurant with british food.	i'm sorry but i cannot find any british food located in the peking_restaurant_area part of town.	['peking_restaurant_type','peking_restaurant_area','british']
+1 is there a chinese restaurant in the south part of town?	i've found three peking_restaurant_food peking_restaurant_types in the peking_restaurant_area part of town. does price range matter to you?	['peking_restaurant_type','peking_restaurant_area','peking_restaurant_food']
+2 no, any price range is fine. i would just like to know the address and price range of one of the restaurants.	peking_peking_restaurant_type is an peking_restaurant_pricerange peking_restaurant_food peking_restaurant_type that is located at peking_restaurant_address. is there anything else i can help you with today?	['centre','peking_restaurant_type','peking_restaurant_pricerange','peking_restaurant_food','peking_restaurant_address','peking_restaurant']
+3 no, thank you.	thank you.	[]
+
+1 curry_prince address 451_newmarket_road_fen_ditton
+1 curry_prince area east
+1 curry_prince food indian
+1 curry_prince location 52.213072,0.149771
+1 curry_prince phone 01223_566388
+1 curry_prince pricerange moderate
+1 curry_prince postcode c.b_5,_8_j.j
+1 curry_prince type restaurant
+1 curry_prince id 19270
+0 can i get the address and cuisine type of a  moderately priced restaurant in the east part of town?	the curry_prince is in the curry_prince_area part of town and in the moderatre price range. the address for the curry_prince is, curry_prince_address. is there anything else i can help you with?	['curry_prince_type','curry_prince_area','curry_prince_pricerange','curry_prince_address','curry_prince']
+1 what type of food do they serve?	the curry_prince serve's curry_prince_food food, may i help you with anything else?	['curry_prince_food','curry_prince']
+2 thank you goodbye.	your welcome, have a good day	[]
+
+1 cambridge_lodge_restaurant address cambridge_lodge_hotel_139_huntingdon_road_city_centre
+1 cambridge_lodge_restaurant area west
+1 cambridge_lodge_restaurant food european
+1 cambridge_lodge_restaurant location 52.217736,0.102505
+1 cambridge_lodge_restaurant phone 01223_355166
+1 cambridge_lodge_restaurant pricerange expensive
+1 cambridge_lodge_restaurant postcode c.b_3,_0_d.q
+1 cambridge_lodge_restaurant type restaurant
+1 cambridge_lodge_restaurant id 19252
+0 get me a restaurant that serves european food.	there are several cambridge_lodge_restaurant_types serving cambridge_lodge_restaurant_food food.  would you like the cambridge_lodge_restaurant_area, center or south part of town?	['cambridge_lodge_restaurant_type','south','cambridge_lodge_restaurant_food','cambridge_lodge_restaurant_area']
+1 i dont really care.	which price range are you looking for?	[]
+2 any price range is fine.	cambridge_lodge_cambridge_lodge_restaurant_type serves cambridge_lodge_restaurant_food food. is there anything else i can help you with?	['cambridge_lodge_restaurant_type','cambridge_lodge_restaurant_food','cambridge_lodge_restaurant']
+3 could i have the phone number and postcode for that restaurant please?	the phone number is cambridge_lodge_restaurant_phone and the post code is cambridge_lodge_restaurant_postcode.  is there anything else?	['cambridge_lodge_restaurant_type','cambridge_lodge_restaurant_phone','cambridge_lodge_restaurant_postcode']
+4 no, thank you.	thank you.	[]
+
+1 chiquito_restaurant_bar address 2g_cambridge_leisure_park_cherry_hinton_road_cherry_hinton
+1 chiquito_restaurant_bar area south
+1 chiquito_restaurant_bar food mexican
+1 chiquito_restaurant_bar location 52.190176,0.13699
+1 chiquito_restaurant_bar phone 01223_400170
+1 chiquito_restaurant_bar pricerange expensive
+1 chiquito_restaurant_bar postcode c.b_1,_7_d.y
+1 chiquito_restaurant_bar type restaurant
+1 chiquito_restaurant_bar id 19194
+1 the_good_luck_chinese_food_takeaway address 82_cherry_hinton_road_cherry_hinton
+1 the_good_luck_chinese_food_takeaway area south
+1 the_good_luck_chinese_food_takeaway food chinese
+1 the_good_luck_chinese_food_takeaway location 52.188528,0.140627
+1 the_good_luck_chinese_food_takeaway phone 01223_244149
+1 the_good_luck_chinese_food_takeaway pricerange expensive
+1 the_good_luck_chinese_food_takeaway postcode c.b_1,_7_a.g
+1 the_good_luck_chinese_food_takeaway type restaurant
+1 the_good_luck_chinese_food_takeaway id 19192
+1 taj_tandoori address 64_cherry_hinton_road_cherry_hinton
+1 taj_tandoori area south
+1 taj_tandoori food indian
+1 taj_tandoori location 52.188747,0.138941
+1 taj_tandoori phone 01223_412299
+1 taj_tandoori pricerange expensive
+1 taj_tandoori postcode c.b_1,_7_a.a
+1 taj_tandoori type restaurant
+1 taj_tandoori id 19191
+1 peking_restaurant address 10_homerton_street_city_centre
+1 peking_restaurant area south
+1 peking_restaurant food chinese
+1 peking_restaurant location 52.189484,0.135465
+1 peking_restaurant phone 01223_354755
+1 peking_restaurant pricerange expensive
+1 peking_restaurant postcode c.b_2,_8_n.x
+1 peking_restaurant type restaurant
+1 peking_restaurant id 19246
+1 frankie_and_bennys address cambridge_leisure_park_clifton_way_cherry_hinton
+1 frankie_and_bennys area south
+1 frankie_and_bennys food italian
+1 frankie_and_bennys location 52.190176,0.13699
+1 frankie_and_bennys phone 01223_412430
+1 frankie_and_bennys pricerange expensive
+1 frankie_and_bennys postcode c.b_1,_7_d.y
+1 frankie_and_bennys type restaurant
+1 frankie_and_bennys id 19195
+0 i want your most expensive restaurant in the south town.	there are five restaurants that are in the south part of town and in the expensive price range. what type of food would you like?	['restaurant','expensive','south']
+1 i don't care	chiquito_restaurant_bar is a nice restaurant that serves chiquito_restaurant_bar_food food in the expensive price range and is in the south part of town.	['restaurant','expensive','south','chiquito_restaurant_bar_food','chiquito_restaurant_bar']
+2 ok, can you tell me the other restaurants?	yes, there are four other restaurants that meet your criteria. there is frankie_and_bennys, peking_restaurant, taj_tandoori, and the_good_luck_chinese_food_takeaway.	['restaurant','chinese','the_good_luck_chinese_food_takeaway','taj_tandoori','peking_restaurant','frankie_and_bennys']
+3 great! can you please tell me the address and the phone number of frankie_and_bennys?	the address is cambridge_leisure_park_clifton_way cherry hinton and the phone number is frankie_and_bennys_phone.	['cambridge_leisure_park_clifton_way','frankie_and_bennys_phone','frankie_and_bennys']
+4 thank you, goodbye.	thank you, goodbye.	[]
+
+1 the_missing_sock address finders_corner_newmarket_road
+1 the_missing_sock area east
+1 the_missing_sock food international
+1 the_missing_sock location 52.21768,0.224907
+1 the_missing_sock phone 01223_812660
+1 the_missing_sock pricerange cheap
+1 the_missing_sock postcode c.b_25,_9_a.q
+1 the_missing_sock type restaurant
+1 the_missing_sock id 30650
+0 i need a really inexpensive restaurant on the east side.	what type of food are you looking for?	['the_missing_sock_type','the_missing_sock_area','expensive']
+1 i don't care.	there's a the_missing_sock_type that serves the_missing_sock_food food called the_missing_sock. does that sound good?	['the_missing_sock_type','the_missing_sock_food','the_missing_sock']
+2 what is the address?	their address is the_missing_sock_address.	['the_missing_sock_address']
+3 how about their postcode?	their postcode is c.b. 1 7 d.y	[]
+4 thank you, goodbye.	thank you. good bye	[]
+
+1 chiquito_restaurant_bar address 2g_cambridge_leisure_park_cherry_hinton_road_cherry_hinton
+1 chiquito_restaurant_bar area south
+1 chiquito_restaurant_bar food mexican
+1 chiquito_restaurant_bar location 52.190176,0.13699
+1 chiquito_restaurant_bar phone 01223_400170
+1 chiquito_restaurant_bar pricerange expensive
+1 chiquito_restaurant_bar postcode c.b_1,_7_d.y
+1 chiquito_restaurant_bar type restaurant
+1 chiquito_restaurant_bar id 19194
+0 i'm looking for an expensive restaurant in the south.	hi! we have chiquito_restaurant_bar_food, italian, indian, and chinese chiquito_restaurant_bar_types that fit the bill. do you have any preferences?	['italian','chiquito_restaurant_bar_type','indian','chiquito_restaurant_bar_pricerange','chiquito_restaurant_bar_area','chinese','chiquito_restaurant_bar_food']
+1 i don't have any preference.	chiquito_chiquito_restaurant_bar_type_bar is located in the chiquito_restaurant_bar_area part of town and in the chiquito_restaurant_bar_pricerange price range.	['chiquito_restaurant_bar_type','chiquito_restaurant_bar_pricerange','chiquito_restaurant_bar_area','chiquito_restaurant_bar']
+2 do you have a phone number for them?	the number is chiquito_restaurant_bar_phone.	['chiquito_restaurant_bar_phone']
+3 have a good evening.	have a good evening.	[]
+
+1 da_vinci_pizzeria address 20_milton_road_chesterton
+1 da_vinci_pizzeria area north
+1 da_vinci_pizzeria food italian
+1 da_vinci_pizzeria location 52.215311,0.12593
+1 da_vinci_pizzeria phone 01223_351707
+1 da_vinci_pizzeria pricerange cheap
+1 da_vinci_pizzeria postcode c.b_4,_1_j.y
+1 da_vinci_pizzeria type restaurant
+1 da_vinci_pizzeria id 19259
+1 royal_spice address victoria_avenue_chesterton
+1 royal_spice area north
+1 royal_spice food indian
+1 royal_spice location 52.213853,0.125509
+1 royal_spice phone 01733_553355
+1 royal_spice pricerange cheap
+1 royal_spice postcode c.b_4,_1_e.h
+1 royal_spice type restaurant
+1 royal_spice id 19257
+0 i'm looking for a cheap restaurant in the north part of town.	there are 2 cheap restaurants in the north part of town. do you prefer da_vinci_pizzeria_food or royal_spice_food food?	['da_vinci_pizzeria_food','cheap','restaurant','royal_spice_food','north']
+1 i do not have a preference.	the two restaurants are da_vinci_pizzeria and royal_spice.	['restaurant','da_vinci_pizzeria','royal_spice']
+2 da_vinci_pizzeria serves italian food. it is in the north part of town.	do you need the address?	['da_vinci_pizzeria_food','north','da_vinci_pizzeria']
+3 of course!	it is at da_vinci_pizzeria_address. do you need any other information.	['da_vinci_pizzeria_address']
+4 no, thank you. that is all.	ok. thank you and good bye.	[]
+
+1 taj_tandoori address 64_cherry_hinton_road_cherry_hinton
+1 taj_tandoori area south
+1 taj_tandoori food indian
+1 taj_tandoori location 52.188747,0.138941
+1 taj_tandoori phone 01223_412299
+1 taj_tandoori pricerange expensive
+1 taj_tandoori postcode c.b_1,_7_a.a
+1 taj_tandoori type restaurant
+1 taj_tandoori id 19191
+0 i'm looking for an indian restaurant in the south area of town.	which price range are you looking for?	['taj_tandoori_type','taj_tandoori_food','taj_tandoori_area']
+1 i don't care. what have you found?	there is taj_tandoori. would you like the information?	['taj_tandoori']
+2 yes, please. phone number and address	their phone number is taj_tandoori_phone and their address is taj_tandoori_address.	['taj_tandoori_address','taj_tandoori_phone']
+3 thank you. bye.	you're welcome. goodbye.	[]
+
+1 backstreet_bistro address 2_sturton_street_city_centre
+1 backstreet_bistro area centre
+1 backstreet_bistro food gastropub
+1 backstreet_bistro location 52.202449,0.141062
+1 backstreet_bistro phone 01223_306306
+1 backstreet_bistro pricerange expensive
+1 backstreet_bistro postcode c.b_1,_2_q.a
+1 backstreet_bistro type restaurant
+1 backstreet_bistro id 19188
+0 i'm looking for a gastropub restaurant.	the backstreet_bistro serves backstreet_bistro_food food.	['backstreet_bistro_type','backstreet_bistro_food','backstreet_bistro']
+1 can i have the address and postcode.	the address is 2_sturton_street_city_backstreet_bistro_area , c.b 1,2 q.a.	['backstreet_bistro_area','backstreet_bistro_address']
+2 thank you, goodbye	thank you for using the cambridge backstreet_bistro_type system phone line. enjoy your meal!	['backstreet_bistro_type']
+
+1 restaurant_two_two address 22_chesterton_road_chesterton
+1 restaurant_two_two area north
+1 restaurant_two_two food french
+1 restaurant_two_two location 52.213742,0.1242
+1 restaurant_two_two phone 01223_351880
+1 restaurant_two_two pricerange expensive
+1 restaurant_two_two postcode c.b_4,_3_a.x
+1 restaurant_two_two type restaurant
+1 restaurant_two_two id 19264
+0 hello, i am looking for a malaysian restaurant on the north side of town.	i'm sorry. i don't show any results for malaysian restaurant_two_two_types on the restaurant_two_two_area side of town. would you like me to search any other areas?	['restaurant_two_two_type','restaurant_two_two_area']
+1 no, how about a french restaurant instead?	how about restaurant_two_two_type_two_two at restaurant_two_two_address	['restaurant_two_two_type','restaurant_two_two_address','restaurant_two_two_food','restaurant_two_two']
+2 phone number, please.	their phone number is restaurant_two_two_phone.	['restaurant_two_two_phone']
+3 thanks, goodbye!	you're quite welcome.  good bye.	[]
+
+1 little_seoul address 108_regent_street_city_centre
+1 little_seoul area centre
+1 little_seoul food korean
+1 little_seoul location 52.200187,0.126407
+1 little_seoul phone 01223_308681
+1 little_seoul pricerange expensive
+1 little_seoul postcode c.b_2,_1_d.p
+1 little_seoul type restaurant
+1 little_seoul id 19216
+0 hi, i want a tuscan restaurant that's expensively priced.	i'm sorry, there are no tuscan little_seoul_types in the little_seoul_pricerange price range.  would you like to try something else?	['little_seoul_type','little_seoul_pricerange']
+1 how about korean food?	little_seoul is an little_seoul_pricerange little_seoul_type in the little_seoul_area area. would you like the address?	['little_seoul_area','little_seoul_type','little_seoul_pricerange','little_seoul_food','little_seoul']
+2 yes please.	the address is 108 regent_street_city_little_seoul_area. do you need any further information?	['regent_street_city_centre','little_seoul_area']
+3 no, thank you.	enjoy your meal!	[]
+
+1 wagamama address 36_saint_andrews_street
+1 wagamama area centre
+1 wagamama food japanese
+1 wagamama location 52.203,0.12375
+1 wagamama phone 01223_462354
+1 wagamama pricerange expensive
+1 wagamama postcode c.b_2,_3_a.r
+1 wagamama type restaurant
+1 wagamama id 12638
+0 hello, i am looking for a restaurant that serves japanese food.	wagamama is a wagamama_food wagamama_type that's in the wagamama_area part of town.	['wagamama_area','wagamama_type','wagamama_food','wagamama']
+1 can i please have the phone number and address ?	their phone number is wagamama_phone and their address is wagamama_address.	['wagamama_address','wagamama_phone']
+2 thank you goodbye.	you're welcome.	[]
+
+1 anatolia address 30_bridge_street_city_centre
+1 anatolia area centre
+1 anatolia food turkish
+1 anatolia location 52.209632,0.117213
+1 anatolia phone 01223_362372
+1 anatolia pricerange moderate
+1 anatolia postcode c.b_2,_1_u.j
+1 anatolia type restaurant
+1 anatolia id 19232
+1 efes_restaurant address king_street_city_centre
+1 efes_restaurant area centre
+1 efes_restaurant food turkish
+1 efes_restaurant location 52.207312,0.124201
+1 efes_restaurant phone 01223_500005
+1 efes_restaurant pricerange moderate
+1 efes_restaurant postcode c.b_1,_1_l.n
+1 efes_restaurant type restaurant
+1 efes_restaurant id 19178
+0 i would like an expensive restaurant that serves turkish food	i'm sorry, we don't have any expensive turkish restaurants.	['restaurant','expensive','turkish']
+1 how about a moderate one ?	anatolia and efes_restaurant are both moderately priced turkish restaurants, and both are in the centre of town. would you like an address or phone number for one of them?	['centre','restaurant','moderate','turkish','anatolia','efes_restaurant']
+2 yes. address and phone number for anatolia.	anatolia is at anatolia_address, and the phone number is anatolia_phone. can i get you any further information?	['centre','anatolia_address','anatolia_phone','anatolia']
+3 what is the postcode?	the postcode is anatolia is anatolia_postcode.	['anatolia_postcode','anatolia']
+4 thank you goodbye.	you're welcome. goodbye.	[]
+
+1 frankie_and_bennys address cambridge_leisure_park_clifton_way_cherry_hinton
+1 frankie_and_bennys area south
+1 frankie_and_bennys food italian
+1 frankie_and_bennys location 52.190176,0.13699
+1 frankie_and_bennys phone 01223_412430
+1 frankie_and_bennys pricerange expensive
+1 frankie_and_bennys postcode c.b_1,_7_d.y
+1 frankie_and_bennys type restaurant
+1 frankie_and_bennys id 19195
+0 i need a south restaurant with some greek food.	is there a specific price range you are looking for?	['frankie_and_bennys_type','frankie_and_bennys_area']
+1 no, any price range is fine.	i'm sorry, but there are no greek frankie_and_bennys_types in the frankie_and_bennys_area part of town.	['frankie_and_bennys_type','frankie_and_bennys_area']
+2 how about italian?	frankie_and_bennys is an frankie_and_bennys_food frankie_and_bennys_type in the frankie_and_bennys_area part of town.  would you like their location?	['frankie_and_bennys_food','frankie_and_bennys_type','frankie_and_bennys_area','frankie_and_bennys']
+3 phone number and postcode, please.	the postcode is frankie_and_bennys_postcode and the phone number is frankie_and_bennys_phone	['frankie_and_bennys_postcode','frankie_and_bennys_phone']
+4 thank you goodbye.	okay thank you	[]
+5 thank you goodbye.	thank you good bye	[]
+
+1 curry_prince address 451_newmarket_road_fen_ditton
+1 curry_prince area east
+1 curry_prince food indian
+1 curry_prince location 52.213072,0.149771
+1 curry_prince phone 01223_566388
+1 curry_prince pricerange moderate
+1 curry_prince postcode c.b_5,_8_j.j
+1 curry_prince type restaurant
+1 curry_prince id 19270
+0 a moderately priced restaurant in the east part of town	three curry_prince_types meet your specifications. one is italian and two serve curry_prince_food food. do you have a preference?	['italian','curry_prince_type','curry_prince_area','curry_prince_food','curry_prince_pricerange']
+1 is there anything else?	the curry_prince is in the curry_prince_area part of town and is in the curry_prince_pricerange price range.  would you like their information?	['curry_prince_area','curry_prince_pricerange','curry_prince']
+2 address and phone number please	the address of the curry_prince is curry_prince_address and the phone number is curry_prince_phone.	['curry_prince_address','curry_prince_phone','curry_prince']
+3 that's all i need.. thank you and good bye.	goodbye	[]
+
+1 the_nirala address 7_milton_road_chesterton
+1 the_nirala area north
+1 the_nirala food indian
+1 the_nirala location 52.215157,0.125015
+1 the_nirala phone 01223_360966
+1 the_nirala pricerange moderate
+1 the_nirala postcode c.b_4,_1_u.y
+1 the_nirala type restaurant
+1 the_nirala id 19263
+1 golden_wok address 191_histon_road_chesterton
+1 golden_wok area north
+1 golden_wok food chinese
+1 golden_wok location 52.220757,0.111564
+1 golden_wok phone 01223_350688
+1 golden_wok pricerange moderate
+1 golden_wok postcode c.b_4,_3_h.l
+1 golden_wok type restaurant
+1 golden_wok id 19265
+0 can you recommend me a moderately priced restaurant in the north part of town ?	i found two restaurants.  would you prefer golden_wok_food or the_nirala_food food?	['restaurant','the_nirala_food','golden_wok_food','moderate','north']
+1 i do not care what kind of food.	there are two restaurants in the moderate price range and north area. there is golden_wok and there is the_nirala.	['restaurant','moderate','north','the_nirala','golden_wok']
+2 what is the address and phone number of the golden_wok?	the golden_wok address is golden_wok_address and the phone number is golden_wok_phone. is there anything else i can help you with?	['golden_wok_address','golden_wok_phone','golden_wok']
+3 thank you, goodbye.	thank you for using the cambridge restaurant system. please call again! goodbye.	['restaurant']
+
+1 da_vinci_pizzeria address 20_milton_road_chesterton
+1 da_vinci_pizzeria area north
+1 da_vinci_pizzeria food italian
+1 da_vinci_pizzeria location 52.215311,0.12593
+1 da_vinci_pizzeria phone 01223_351707
+1 da_vinci_pizzeria pricerange cheap
+1 da_vinci_pizzeria postcode c.b_4,_1_j.y
+1 da_vinci_pizzeria type restaurant
+1 da_vinci_pizzeria id 19259
+1 city_stop_restaurant address cambridge_city_football_club_milton_road_chesterton
+1 city_stop_restaurant area north
+1 city_stop_restaurant location 52.215157,0.125015
+1 city_stop_restaurant phone 01223_363270
+1 city_stop_restaurant pricerange expensive
+1 city_stop_restaurant postcode c.b_4,_1_u.y
+1 city_stop_restaurant type restaurant
+1 city_stop_restaurant id 19262
+1 royal_spice address victoria_avenue_chesterton
+1 royal_spice area north
+1 royal_spice food indian
+1 royal_spice location 52.213853,0.125509
+1 royal_spice phone 01733_553355
+1 royal_spice pricerange cheap
+1 royal_spice postcode c.b_4,_1_e.h
+1 royal_spice type restaurant
+1 royal_spice id 19257
+0 i would like a cheap restaurant in the north part of town, please.	da_vinci_pizzeria is an da_vinci_pizzeria_food restaraunt in the north part of town.  would you like their phone number or address?	['da_vinci_pizzeria_food','cheap','restaurant','north','da_vinci_pizzeria']
+1 is there anything else?	city_stop_restaurant is in the north part of town, and it is in the cheap price range.	['cheap','restaurant','north','city_stop_restaurant']
+2 is there anything else in the cheap price range on the north side of town?	royal_spice is a cheap restaurant on the north side of town.  would you like their address?	['cheap','restaurant','north','royal_spice']
+3 address and phone number for royal_spice, yes please.	the phone number for royal_spice is royal_spice_phone and they are located at royal_spice_address.  can i help you with anything else?	['royal_spice_address','royal_spice_phone','royal_spice']
+4 no, that's everything. thank you. goodbye.	thank you, goodbye.	[]
+
+1 yu_garden address 529_newmarket_road_fen_ditton
+1 yu_garden area east
+1 yu_garden food chinese
+1 yu_garden location 52.212992,0.157569
+1 yu_garden phone 01223_248882
+1 yu_garden pricerange expensive
+1 yu_garden postcode c.b_5,_8_p.a
+1 yu_garden type restaurant
+1 yu_garden id 19273
+0 i am looking for an expensive restaurant in the east part of town.	i have found several. would you like british, indian, gastropub, or yu_garden_food?	['yu_garden_type','yu_garden_area','indian','yu_garden_pricerange','yu_garden_food','british','gastropub']
+1 is there anything else?	there are no other types of yu_garden_pricerange yu_garden_types in the yu_garden_area, would you like to try another area?	['yu_garden_type','yu_garden_area','yu_garden_pricerange']
+2 no, that's okay. what chinese restaurants are there on the east side?	yu_garden is on the yu_garden_area side, would you like the phone number?	['yu_garden_type','yu_garden_area','yu_garden_food','yu_garden']
+3 is there another chinese restaurant in the east?	yu_garden is the only yu_garden_food yu_garden_type on the yu_garden_area side of town in the yu_garden_pricerange price range.	['yu_garden_type','yu_garden_area','yu_garden_pricerange','yu_garden_food','yu_garden']
+4 what is the phone number for yu_garden?	the phone number for yu_garden is yu_garden_phone. may i help you with anything else?	['yu_garden_phone','yu_garden']
+5 no, i think that's it. thank you for your help.	you are very welcome.  goodbye.	[]
+
+1 pizza_hut_cherry_hinton address g4_cambridge_leisure_park_clifton_way_cherry_hinton
+1 pizza_hut_cherry_hinton area south
+1 pizza_hut_cherry_hinton food italian
+1 pizza_hut_cherry_hinton location 52.190176,0.13699
+1 pizza_hut_cherry_hinton phone 01223_323737
+1 pizza_hut_cherry_hinton pricerange moderate
+1 pizza_hut_cherry_hinton postcode c.b_1,_7_d.y
+1 pizza_hut_cherry_hinton type restaurant
+1 pizza_hut_cherry_hinton id 19196
+1 restaurant_alimentum address 152_-_154_hills_road
+1 restaurant_alimentum area south
+1 restaurant_alimentum food modern_european
+1 restaurant_alimentum location 52.18889,0.13589
+1 restaurant_alimentum phone 01223_413000
+1 restaurant_alimentum pricerange moderate
+1 restaurant_alimentum postcode c.b_2,_8_p.b
+1 restaurant_alimentum type restaurant
+1 restaurant_alimentum id 14731
+0 a moderately priced restaurant in the south, please.	there are two restaurants in the south area, pizza_hut_cherry_hinton and restaurant_alimentum which serves restaurant_alimentum_food. would you like more information?	['restaurant','south','moderate','pizza_hut_cherry_hinton','restaurant_alimentum_food','restaurant_alimentum','european']
+1 i would like the address and phone number for one of those restaurants please.	pizza_hut_cherry_hinton is at pizza_hut_cherry_hinton_address and its number is pizza_hut_cherry_hinton_phone.	['pizza_hut_cherry_hinton_phone','restaurant','pizza_hut_cherry_hinton_address','pizza_hut_cherry_hinton']
+2 what is the postcode?	the postcode for pizza_hut_cherry_hinton is c.b.1 7 d.y	['pizza_hut_cherry_hinton']
+3 thank you, that'll be all!	thank you and good bye.	[]
+
+1 restaurant_two_two address 22_chesterton_road_chesterton
+1 restaurant_two_two area north
+1 restaurant_two_two food french
+1 restaurant_two_two location 52.213742,0.1242
+1 restaurant_two_two phone 01223_351880
+1 restaurant_two_two pricerange expensive
+1 restaurant_two_two postcode c.b_4,_3_a.x
+1 restaurant_two_two type restaurant
+1 restaurant_two_two id 19264
+1 cote address bridge_street_city_centre
+1 cote area centre
+1 cote food french
+1 cote location 52.209028,0.118296
+1 cote phone 01223_311053
+1 cote pricerange expensive
+1 cote postcode c.b_2,_1_u.f
+1 cote type restaurant
+1 cote id 19230
+0 is there an expensive french restaurant in town?	i show two french restaurants. cote and restaurant_two_two.	['restaurant','expensive','french','restaurant_two_two','cote']
+1 which is closest to me?	what area is closer to you, restaurant_two_two_area or cote_area?	['cote_area','restaurant_two_two_area']
+2 what is the food type they serve ?	they serve french food .	['french']
+3 i don't know.	cote is located at bridge_street_city_cote_area, and restaurant_two_two is at restaurant_two_two_address. how else may i assist you?	['cote_area','restaurant','restaurant_two_two_address','restaurant_two_two','cote_address','cote']
+4 thank you	thank you. good bye.	[]
+
+1 charlie_chan address regent_street_city_centre
+1 charlie_chan area centre
+1 charlie_chan food chinese
+1 charlie_chan location 52.201743,0.124843
+1 charlie_chan phone 01223_361763
+1 charlie_chan pricerange cheap
+1 charlie_chan postcode c.b_2,_1_d.b
+1 charlie_chan type restaurant
+1 charlie_chan id 19212
+1 golden_house address 12_lensfield_road_city_centre
+1 golden_house area centre
+1 golden_house food chinese
+1 golden_house location 52.198696,0.12578
+1 golden_house phone 01842_753771
+1 golden_house pricerange cheap
+1 golden_house postcode c.b_2,_1_e.g
+1 golden_house type restaurant
+1 golden_house id 19219
+0 do you have any restaurants that serve caribbean food?	there are no caribbean restaurants. would you like something else?	['restaurant']
+1 what about a restaurant that serves chinese food? what is their phone number?	there are many chinese restaurants to choose from. do you have a preferred area of town?	['restaurant','chinese']
+2 no, it doesn't matter	let me provide you with a couple options, charlie_chan- phone charlie_chan_phone or golden_house - phone golden_house_phone	['charlie_chan_phone','charlie_chan','golden_house_phone','golden_house']
+3 thank you, goodbye	thank you for calling. goodbye.	[]
+
+1 golden_wok address 191_histon_road_chesterton
+1 golden_wok area north
+1 golden_wok food chinese
+1 golden_wok location 52.220757,0.111564
+1 golden_wok phone 01223_350688
+1 golden_wok pricerange moderate
+1 golden_wok postcode c.b_4,_3_h.l
+1 golden_wok type restaurant
+1 golden_wok id 19265
+0 a moderately priced restaurant in the north part of town, please.	the golden_wok is a nice golden_wok_type in the golden_wok_area part of town and is in the golden_wok_pricerange price range.  would you like their location?	['golden_wok_type','golden_wok_pricerange','golden_wok_area','golden_wok']
+1 yes please.	the golden_wok is located at golden_wok_address	['golden_wok_address','golden_wok']
+2 phone number?	the golden_wok's phone number is golden_wok_phone. is there anything else i can help you with?	['golden_wok_phone','golden_wok']
+3 that's it, thank you. good bye.	thank you for using the cambridge golden_wok_type system. goodbye.	['golden_wok_type']
+
+1 meghna address 205_victoria_road_chesterton
+1 meghna area west
+1 meghna food indian
+1 meghna location 52.215077,0.112421
+1 meghna phone 01223_727410
+1 meghna pricerange moderate
+1 meghna postcode c.b_4,_3_l.f
+1 meghna type restaurant
+1 meghna id 19267
+0 yes. i am looking for a moderately priced restaurant in the west part of town.	would you prefer british, meghna_food, or italian food?	['italian','meghna_type','meghna_food','meghna_pricerange','british','meghna_area']
+1 indian, please.	meghna is an meghna_food meghna_type.  would you like the phone number?	['meghna_type','meghna_food','meghna']
+2 yes, please. and also the address.	the address is meghna_address and the phone number is meghna_phone.	['meghna_address','meghna_phone']
+3 thank you goodbye.	thank you. have a nice day!	[]
+
+1 thanh_binh address 17_magdalene_street_city_centre
+1 thanh_binh area west
+1 thanh_binh food vietnamese
+1 thanh_binh location 52.210226,0.115646
+1 thanh_binh phone 01223_362456
+1 thanh_binh pricerange cheap
+1 thanh_binh postcode c.b_3,_0_a.f
+1 thanh_binh type restaurant
+1 thanh_binh id 19248
+0 i want to find a restaurant in any area and servings persian food.	sorry, there are no thanh_binh_types serving persian food available.  may i help you find a different sort of food?	['thanh_binh_type']
+1 vietnamese, please. give me their address and phone number as well.	yes, the thanh_binh_type name is thanh_binh, the phone number is thanh_binh_phone. the address is thanh_binh_address	['centre','thanh_binh_type','thanh_binh_address','thanh_binh_food','thanh_binh_phone','thanh_binh']
+
+1 chiquito_restaurant_bar address 2g_cambridge_leisure_park_cherry_hinton_road_cherry_hinton
+1 chiquito_restaurant_bar area south
+1 chiquito_restaurant_bar food mexican
+1 chiquito_restaurant_bar location 52.190176,0.13699
+1 chiquito_restaurant_bar phone 01223_400170
+1 chiquito_restaurant_bar pricerange expensive
+1 chiquito_restaurant_bar postcode c.b_1,_7_d.y
+1 chiquito_restaurant_bar type restaurant
+1 chiquito_restaurant_bar id 19194
+0 i want to visit an expensive restaurant in the south part of town. i need the address, phone number, and type of food.	there are five chiquito_restaurant_bar_pricerange chiquito_restaurant_bar_types available in the chiquito_restaurant_bar_area part of the city.  chiquito_restaurant_bar_food, italian, indian, and two chinese chiquito_restaurant_bar_types are available.  what type of food would you like?	['italian','chiquito_restaurant_bar_type','indian','chiquito_restaurant_bar_pricerange','chiquito_restaurant_bar_area','chinese','chiquito_restaurant_bar_food']
+1 mexican will be fine. could i have the address and phone please?	chiquito_chiquito_restaurant_bar_type_bar is a chiquito_restaurant_bar_food chiquito_restaurant_bar_type located in the chiquito_restaurant_bar_area part of town in the chiquito_restaurant_bar_pricerange price range.  their phone number is chiquito_restaurant_bar_phone and their address is chiquito_restaurant_bar_address.	['chiquito_restaurant_bar_type','chiquito_restaurant_bar_pricerange','chiquito_restaurant_bar_area','chiquito_restaurant_bar_address','chiquito_restaurant_bar_food','chiquito_restaurant_bar_phone','chiquito_restaurant_bar']
+2 thank you. goodbye.	goodbye.	[]
+
+1 curry_prince address 451_newmarket_road_fen_ditton
+1 curry_prince area east
+1 curry_prince food indian
+1 curry_prince location 52.213072,0.149771
+1 curry_prince phone 01223_566388
+1 curry_prince pricerange moderate
+1 curry_prince postcode c.b_5,_8_j.j
+1 curry_prince type restaurant
+1 curry_prince id 19270
+1 pipasha_restaurant address newmarket_road_fen_ditton
+1 pipasha_restaurant area east
+1 pipasha_restaurant food indian
+1 pipasha_restaurant location 52.212992,0.157569
+1 pipasha_restaurant phone 01223_577786
+1 pipasha_restaurant pricerange expensive
+1 pipasha_restaurant postcode c.b_5,_8_p.a
+1 pipasha_restaurant type restaurant
+1 pipasha_restaurant id 19272
+1 rajmahal address 7_barnwell_road_fen_ditton
+1 rajmahal area east
+1 rajmahal food indian
+1 rajmahal location 52.211144,0.163247
+1 rajmahal phone 01223_244955
+1 rajmahal pricerange moderate
+1 rajmahal postcode c.b_5,_8_r.g
+1 rajmahal type restaurant
+1 rajmahal id 19274
+1 sitar_tandoori address 43_high_street_cherry_hinton_cherry_hinton
+1 sitar_tandoori area east
+1 sitar_tandoori food indian
+1 sitar_tandoori location 52.186739,0.173048
+1 sitar_tandoori phone 01223_249955
+1 sitar_tandoori pricerange expensive
+1 sitar_tandoori postcode c.b_1,_9_h.x
+1 sitar_tandoori type restaurant
+1 sitar_tandoori id 19198
+0 i'd like a place that serves world food in the east part of town.	sorry but no world food restaurants in the east is found. can i provide you something else.	['restaurant','east']
+1 how about indian food?	your options are curry_prince, pipasha_restaurant, rajmahal, and sitar_tandoori. which one would you like more information regarding?	['restaurant','indian','curry_prince','pipasha_restaurant','rajmahal','sitar_tandoori']
+2 i would like the address and phone number of curry_prince.	the curry_prince is located at curry_prince_address and their phone number is curry_prince_phone.  can i help you with anything else today?	['curry_prince_address','curry_prince_phone','curry_prince']
+3 no, thank you goobye.	thank you, goodbye	[]
+
+0 can you find me a restaurant in the north part of the city?	there are 9 matching records in the north, what price range do you want ?	['restaurant','north']
+1 i don't care.	is there a certain type of food that you would like?	[]
+2 yes, i would like world food.	i am sorry, i can't find any restaurant serves world food in the north . is there another type of food or area you might be interested in today?	['restaurant','north']
+3 maybe some indian food?	great hit	['indian']
+
+1 prezzo address 21_-_24_northampton_road
+1 prezzo area west
+1 prezzo food italian
+1 prezzo location 52.21032,0.11367
+1 prezzo phone 01799_521260
+1 prezzo pricerange moderate
+1 prezzo postcode c.b_3,_0_a.d
+1 prezzo type restaurant
+1 prezzo id 12700
+1 la_margherita address 15_magdalene_street_city_centre
+1 la_margherita area west
+1 la_margherita food italian
+1 la_margherita location 52.210226,0.115646
+1 la_margherita phone 01223_315232
+1 la_margherita pricerange cheap
+1 la_margherita postcode c.b_3,_0_a.f
+1 la_margherita type restaurant
+1 la_margherita id 19247
+0 i am looking for a german restaurant in the west part of town.	there are no german restaurants in the west part of town. would you like to make another query?	['restaurant','west']
+1 how about italian?	there are several italian restaurants in the west part of town.  la_margherita is la_margherita_pricerange and prezzo is prezzo_pricerange.  would you like the address of one of those?	['italian','la_margherita_pricerange','restaurant','prezzo_pricerange','west','prezzo','la_margherita']
+2 what is the phone number of one of them?	the phone number to prezzo, which is prezzo_pricerangely priced, is prezzo_phone. is there anything else i can assist you with today?	['prezzo_pricerange','prezzo_phone','prezzo']
+3 thank you goodbye.	thank you. good bye	[]
+
+1 royal_standard address 290_mill_road_city_centre
+1 royal_standard area east
+1 royal_standard food gastropub
+1 royal_standard location 52.196967,0.149286
+1 royal_standard phone 01223_247877
+1 royal_standard pricerange expensive
+1 royal_standard postcode c.b_1,_3_n.l
+1 royal_standard type restaurant
+1 royal_standard id 19190
+0 i would like to find a restaurant in the east part of town that serves gastropub food.	the royal_standard is located at 290 mill road city.	['royal_standard_type','royal_standard_area','royal_standard_food','royal_standard']
+1 what is the phone number?	you can reach them at royal_standard_phone .	['royal_standard_phone']
+2 thank you very much, bye	you're welcome, have a good day.	[]
+
+1 ask address 12_bridge_street_city_centre
+1 ask area centre
+1 ask food italian
+1 ask location 52.209028,0.118296
+1 ask phone 01223_364917
+1 ask pricerange cheap
+1 ask postcode c.b_2,_1_u.f
+1 ask type restaurant
+1 ask id 19229
+0 i would like inexpensive turkish food.	i'm sorry i do not show anything available. would you like to try something else?	['expensive','turkish']
+1 ok, how about an italian restaurant?	there are 5 listings matching your criteria. do you have a preference on the area?	['ask_food','ask_type']
+2 i do not have a preference of area as long as it's cheap. please make a suggestion.	ask is an ask_food ask_type in the ask_pricerange priced category, and is the ask_area of town.	['ask_area','ask_food','ask_pricerange','ask_type','ask']
+3 can i get the address and phone number?	ask is at 12_bridge_street_city_ask_area and can be reached at ask_phone. can i help you anything else today?	['ask_area','ask_address','ask_phone','ask']
+4 no, thank you. good bye.	you're welcome, enjoy your food.	[]
+
+1 cambridge_lodge_restaurant address cambridge_lodge_hotel_139_huntingdon_road_city_centre
+1 cambridge_lodge_restaurant area west
+1 cambridge_lodge_restaurant food european
+1 cambridge_lodge_restaurant location 52.217736,0.102505
+1 cambridge_lodge_restaurant phone 01223_355166
+1 cambridge_lodge_restaurant pricerange expensive
+1 cambridge_lodge_restaurant postcode c.b_3,_0_d.q
+1 cambridge_lodge_restaurant type restaurant
+1 cambridge_lodge_restaurant id 19252
+0 what is that european food place's address?	i found several places serving cambridge_lodge_restaurant_food food.  do you have a preference as to the location?	['cambridge_lodge_restaurant_food']
+1 no, any part of town is fine.	cambridge_lodge_cambridge_lodge_restaurant_type serves cambridge_lodge_restaurant_food food and is located at cambridge_lodge_restaurant_address.	['centre','cambridge_lodge_restaurant_type','cambridge_lodge_restaurant_food','cambridge_lodge_restaurant_address','cambridge_lodge_restaurant']
+2 thank you, goodbye.	have a great day and enjoy your food.	[]
+
+1 dojo_noodle_bar address 40210_millers_yard_city_centre
+1 dojo_noodle_bar area centre
+1 dojo_noodle_bar food asian_oriental
+1 dojo_noodle_bar location 52.201423,0.116661
+1 dojo_noodle_bar phone 01223_363471
+1 dojo_noodle_bar pricerange cheap
+1 dojo_noodle_bar postcode c.b_2,_1_r.q
+1 dojo_noodle_bar type restaurant
+1 dojo_noodle_bar id 19225
+0 hello, i am looking for a restaurant that serves moroccan food.	i'm sorry, there are no dojo_noodle_bar_types serving moroccan food. would you like something else?	['dojo_noodle_bar_type']
+1 can i have the asian_oriental type of food then ?	dojo_noodle_bar serves dojo_noodle_bar_food food	['dojo_noodle_bar_food','dojo_noodle_bar']
+2 do you have an address?	dojo_noodle_bar is located at 40210_millers_yard_city_dojo_noodle_bar_area	['dojo_noodle_bar_area','dojo_noodle_bar_address','dojo_noodle_bar']
+3 may i have the postcode please?	dojo_noodle_bar's postcode is dojo_noodle_bar_postcode. is there anything else i can help you with today?	['dojo_noodle_bar_postcode','dojo_noodle_bar']
+4 thank you, goodbye.	thank you, goodbye.	[]
+
+1 graffiti address hotel_felix_whitehouse_lane_huntingdon_road
+1 graffiti area west
+1 graffiti food british
+1 graffiti location 52.22414,0.09194
+1 graffiti phone 01223_277977
+1 graffiti pricerange expensive
+1 graffiti postcode c.b_3,_0_l.x
+1 graffiti type restaurant
+1 graffiti id 7492
+0 i am looking for an expensive restaurant that serves russian food.	there is no graffiti_pricerange graffiti_type that serves russian food can i help you with anything else	['graffiti_type','graffiti_pricerange']
+1 yes do you have british type food?	yes, there are 6 options.  does the part of town matter?	['graffiti_food']
+2 i don't care.	i could recommend graffiti in the graffiti_area.would you like more information?	['graffiti_area','graffiti']
+3 may i have the phone number?	their phone number is graffiti_phone.  is there anything else i can help you with?	['graffiti_phone']
+4 thank you goodbye.	you're welcome. good bye.	[]
+
+1 la_mimosa address thompsons_lane_fen_ditton
+1 la_mimosa area centre
+1 la_mimosa food mediterranean
+1 la_mimosa location 52.210012999999996,0.118007
+1 la_mimosa phone 01223_362525
+1 la_mimosa pricerange expensive
+1 la_mimosa postcode c.b_5,_8_a.q
+1 la_mimosa type restaurant
+1 la_mimosa id 19268
+0 i want to find an expensive restaurant serving mediterranean food. what is the address and phone number?	la_mimosa, at la_mimosa_address, is la_mimosa_pricerange and serves la_mimosa_food food.	['la_mimosa_type','la_mimosa_pricerange','la_mimosa_food','la_mimosa_address','la_mimosa']
+1 what is their address and phone number?	their address is la_mimosa_address and their phone number is la_mimosa_phone.	['la_mimosa_address','la_mimosa_phone']
+
+1 saint_johns_chop_house address 21_-_24_northampton_street
+1 saint_johns_chop_house area west
+1 saint_johns_chop_house food british
+1 saint_johns_chop_house location 52.21031,0.11381
+1 saint_johns_chop_house phone 01223_353110
+1 saint_johns_chop_house pricerange moderate
+1 saint_johns_chop_house postcode c.b_3,_0_a.d
+1 saint_johns_chop_house type restaurant
+1 saint_johns_chop_house id 14810
+0 i want british food that is moderately priced.	there are several saint_johns_chop_house_types serving saint_johns_chop_house_food food.  would you prefer the centre or saint_johns_chop_house_area part of town?	['centre','saint_johns_chop_house_type','saint_johns_chop_house_pricerange','saint_johns_chop_house_food','saint_johns_chop_house_area']
+1 how about the west part of town.	saint_johns_chop_house matches your request.  it is located at 21-24 northampton street saint_johns_chop_house_postcode, the phone number is saint_johns_chop_house_phone.	['saint_johns_chop_house_area','saint_johns_chop_house_postcode','north','saint_johns_chop_house_phone','saint_johns_chop_house']
+2 thank you goodbye.	thank you, goodbye.	[]
+
+1 anatolia address 30_bridge_street_city_centre
+1 anatolia area centre
+1 anatolia food turkish
+1 anatolia location 52.209632,0.117213
+1 anatolia phone 01223_362372
+1 anatolia pricerange moderate
+1 anatolia postcode c.b_2,_1_u.j
+1 anatolia type restaurant
+1 anatolia id 19232
+0 hello, i am looking for a restaurant that serves vegetarian food.	there are no anatolia_types serving vegetarian food.	['anatolia_type']
+1 how about turkish food?	three anatolia_types serve anatolia_food food. do you have a price preference?	['anatolia_type','anatolia_food']
+2 i do not care	anatolia is a anatolia_food anatolia_type, in the anatolia_pricerange price range and in the anatolia_area of town. do you want the address and phone number?	['anatolia_area','anatolia_type','anatolia_pricerange','anatolia_food','anatolia']
+3 address, please.	anatolia is located at 30_bridge_street_city_anatolia_area.	['anatolia_area','anatolia_address','anatolia']
+4 thank you goodbye	you're welcome.  goodbye.	[]
+
+1 pizza_hut_fen_ditton address cambridge_retail_park_newmarket_road_fen_ditton
+1 pizza_hut_fen_ditton area east
+1 pizza_hut_fen_ditton food italian
+1 pizza_hut_fen_ditton location 52.209742,0.146975
+1 pizza_hut_fen_ditton phone 01223_323737
+1 pizza_hut_fen_ditton pricerange moderate
+1 pizza_hut_fen_ditton postcode c.b_5,_8_w.r
+1 pizza_hut_fen_ditton type restaurant
+1 pizza_hut_fen_ditton id 19275
+1 grafton_hotel_restaurant address grafton_hotel_619_newmarket_road_fen_ditton
+1 grafton_hotel_restaurant area east
+1 grafton_hotel_restaurant food british
+1 grafton_hotel_restaurant location 52.212992,0.157569
+1 grafton_hotel_restaurant phone 01223_241387
+1 grafton_hotel_restaurant pricerange expensive
+1 grafton_hotel_restaurant postcode c.b_5,_8_p.a
+1 grafton_hotel_restaurant type restaurant
+1 grafton_hotel_restaurant id 19271
+0 i am looking for a restaurant on the eastern side of town.	pizza_hut_fen_ditton is pizza_hut_fen_ditton_pricerangely priced and at the east side of the city.	['restaurant','east','pizza_hut_fen_ditton_pricerange','pizza_hut_fen_ditton']
+1 is there another one as well?	yes there are 8 more. what type of food do you want?	[]
+2 is there anything british available?	there is one restaurant serving grafton_hotel_restaurant_food food on the east side of town. their name is grafton_hotel_restaurant. would you like their contact information?	['restaurant','east','grafton_hotel_restaurant_food','grafton_hotel_restaurant']
+3 what is the address and postcode?	grafton_hotel_restaurant is located at grafton hotel 619 newmarket_road_fen_ditton, in postal code grafton_hotel_restaurant_postcode. would you like me to find any additional information?	['restaurant','grafton_hotel_restaurant_postcode','newmarket_road_fen_ditton','grafton_hotel_restaurant']
+4 no, i think that does it. thank you for the info.	you're welcome. thank you for calling us today.	[]
+5 goodbye.	goodbye	[]
+
+1 darrys_cookhouse_and_wine_shop address 40270_king_street_city_centre
+1 darrys_cookhouse_and_wine_shop area centre
+1 darrys_cookhouse_and_wine_shop food modern_european
+1 darrys_cookhouse_and_wine_shop location 52.207312,0.124201
+1 darrys_cookhouse_and_wine_shop phone 01223_505015
+1 darrys_cookhouse_and_wine_shop pricerange expensive
+1 darrys_cookhouse_and_wine_shop postcode c.b_1,_1_l.n
+1 darrys_cookhouse_and_wine_shop type restaurant
+1 darrys_cookhouse_and_wine_shop id 19177
+0 hello, i am looking for a restaurant in the centre of town that serves indonesian food.	my apologies, but there doesn't seem to be any darrys_cookhouse_and_wine_shop_types matching your request. would you like to broaden your search?	['darrys_cookhouse_and_wine_shop_area','darrys_cookhouse_and_wine_shop_type']
+1 oh, well how about european food then? also in the centre of town please.	there are 8 listings meeting your criteria. do you have a preference on the price range?	['darrys_cookhouse_and_wine_shop_area','european']
+2 i don't care.	darrys_cookhouse_and_wine_shop is in the darrys_cookhouse_and_wine_shop_area of town and serves darrys_cookhouse_and_wine_shop_food food.	['darrys_cookhouse_and_wine_shop_area','darrys_cookhouse_and_wine_shop_food','european','darrys_cookhouse_and_wine_shop']
+3 may i have the phone number and postcode?	the phone number for darrys_cookhouse_and_wine_shop is darrys_cookhouse_and_wine_shop_phone and the postcode is darrys_cookhouse_and_wine_shop_postcode. can i help you with anything else?	['darrys_cookhouse_and_wine_shop_phone','darrys_cookhouse_and_wine_shop_postcode','darrys_cookhouse_and_wine_shop']
+4 no, that's all i need, thank you very much.	you're welcome. thank you for using this system.	[]
+5 thank you goodbye.	goodbye	[]
+
+1 frankie_and_bennys address cambridge_leisure_park_clifton_way_cherry_hinton
+1 frankie_and_bennys area south
+1 frankie_and_bennys food italian
+1 frankie_and_bennys location 52.190176,0.13699
+1 frankie_and_bennys phone 01223_412430
+1 frankie_and_bennys pricerange expensive
+1 frankie_and_bennys postcode c.b_1,_7_d.y
+1 frankie_and_bennys type restaurant
+1 frankie_and_bennys id 19195
+0 i need to find some caribbean food in south town.	there are no caribbean frankie_and_bennys_types in the frankie_and_bennys_area of town. would you like something else?	['frankie_and_bennys_type','frankie_and_bennys_area']
+1 how about an italian restaurant? i will need the phone number and postcode of the restaurant.	there is frankie_and_bennys, their post code is frankie_and_bennys_postcode and their phone number is frankie_and_bennys_phone.	['frankie_and_bennys_food','frankie_and_bennys_type','frankie_and_bennys_postcode','frankie_and_bennys_phone','frankie_and_bennys']
+2 what part of town is frankie_and_bennys located?	frankie_and_bennys is in the frankie_and_bennys_area part of town.	['frankie_and_bennys_area','frankie_and_bennys']
+3 thank you, goodbye	bye.	[]
+
+1 eraina address free_school_lane_city_centre
+1 eraina area centre
+1 eraina food european
+1 eraina location 52.203708,0.119082
+1 eraina phone 01223_368786
+1 eraina pricerange expensive
+1 eraina postcode c.b_2,_3_r.h
+1 eraina type restaurant
+1 eraina id 19245
+1 darrys_cookhouse_and_wine_shop address 40270_king_street_city_centre
+1 darrys_cookhouse_and_wine_shop area centre
+1 darrys_cookhouse_and_wine_shop food modern_european
+1 darrys_cookhouse_and_wine_shop location 52.207312,0.124201
+1 darrys_cookhouse_and_wine_shop phone 01223_505015
+1 darrys_cookhouse_and_wine_shop pricerange expensive
+1 darrys_cookhouse_and_wine_shop postcode c.b_1,_1_l.n
+1 darrys_cookhouse_and_wine_shop type restaurant
+1 darrys_cookhouse_and_wine_shop id 19177
+1 michaelhouse_cafe address st._michael's_church_trinity_street_city_centre
+1 michaelhouse_cafe area centre
+1 michaelhouse_cafe food european
+1 michaelhouse_cafe location 52.20608,0.118215
+1 michaelhouse_cafe phone 01223_309147
+1 michaelhouse_cafe pricerange expensive
+1 michaelhouse_cafe postcode c.b_2,_1_s.u
+1 michaelhouse_cafe type restaurant
+1 michaelhouse_cafe id 19227
+1 cambridge_lodge_restaurant address cambridge_lodge_hotel_139_huntingdon_road_city_centre
+1 cambridge_lodge_restaurant area west
+1 cambridge_lodge_restaurant food european
+1 cambridge_lodge_restaurant location 52.217736,0.102505
+1 cambridge_lodge_restaurant phone 01223_355166
+1 cambridge_lodge_restaurant pricerange expensive
+1 cambridge_lodge_restaurant postcode c.b_3,_0_d.q
+1 cambridge_lodge_restaurant type restaurant
+1 cambridge_lodge_restaurant id 19252
+0 i want to find an expensive restaurant serving christmas food.	is there any area you prefer!	['restaurant','expensive']
+1 no specific area.	i have found no restaurants serving christmas food in the expensive price range. would you like a different type of food?	['restaurant','expensive']
+2 are there european types of restaurants?	yes, there are four: cambridge_lodge_restaurant, eraina, and michaelhouse_cafe serve european food, with darrys_cookhouse_and_wine_shop serving darrys_cookhouse_and_wine_shop_food food	['restaurant','darrys_cookhouse_and_wine_shop_food','european','eraina','darrys_cookhouse_and_wine_shop','michaelhouse_cafe','cambridge_lodge_restaurant']
+3 phone number and address of cambridge_lodge_restaurant please	cambridge_lodge_restaurant is in the cambridge_lodge_restaurant_area part of town, at cambridge_lodge_restaurant_address. their phone number is cambridge_lodge_restaurant_phone.	['centre','restaurant','cambridge_lodge_restaurant_area','cambridge_lodge_restaurant_address','cambridge_lodge_restaurant_phone','cambridge_lodge_restaurant']
+4 thank you, goodbye.	thank you for using the cambridge restaurant system. goodbye.	['restaurant']
+
+0 i am looking for a restaurant in the west part of town serving corsica food.	there are no such restaurants. would you like to make another query?	['restaurant','west']
+1 no thank you	we have a couple of italian restaurants in the west.  would you like information on those?	['italian','restaurant','west']
+2 thank you good bye.	thank you. good bye.	[]
+
+1 the_gardenia address 2_rose_crescent_city_centre
+1 the_gardenia area centre
+1 the_gardenia food mediterranean
+1 the_gardenia location 52.206098,0.118713
+1 the_gardenia phone 01223_356354
+1 the_gardenia pricerange cheap
+1 the_gardenia postcode c.b_2,_3_l.l
+1 the_gardenia type restaurant
+1 the_gardenia id 19238
+0 a cheap jamaican restaurant, please. if you cannot find one, then mediterranean.	there are no jamaican the_gardenia_types listed. i will look for the_gardenia_food.	['the_gardenia_pricerange','the_gardenia_type','the_gardenia_food']
+1 okay what is the phone number and postcode of that mediterranean place?	the_gardenia is located in the the_gardenia_area at postcode the_gardenia_postcode and can be reached at the_gardenia_phone. can i get anything else for you?	['the_gardenia_area','the_gardenia_food','the_gardenia_phone','the_gardenia_postcode','the_gardenia']
+2 thank you	thank you for using the cambridge the_gardenia_type system. goodbye.	['the_gardenia_type']
+
+1 bedouin address 100_mill_road_city_centre
+1 bedouin area centre
+1 bedouin food african
+1 bedouin location 52.199332,0.138395
+1 bedouin phone 01223_367660
+1 bedouin pricerange expensive
+1 bedouin postcode c.b_1,_2_b.d
+1 bedouin type restaurant
+1 bedouin id 19183
+0 i am looking for african food	there is one bedouin_food bedouin_type listed called bedouin. would you like more information for this bedouin_type?	['bedouin_type','bedouin_food','bedouin']
+1 yes. i need the address please.	the address is 100 mill_road_city_bedouin_area.	['bedouin_area','mill_road_city_centre']
+2 thank you, goodbye.	thank you. goodbye.	[]
+
+1 golden_wok address 191_histon_road_chesterton
+1 golden_wok area north
+1 golden_wok food chinese
+1 golden_wok location 52.220757,0.111564
+1 golden_wok phone 01223_350688
+1 golden_wok pricerange moderate
+1 golden_wok postcode c.b_4,_3_h.l
+1 golden_wok type restaurant
+1 golden_wok id 19265
+1 hakka address milton_road_chesterton
+1 hakka area north
+1 hakka food chinese
+1 hakka location 52.215311,0.12593
+1 hakka phone 01223_568988
+1 hakka pricerange expensive
+1 hakka postcode c.b_4,_1_j.y
+1 hakka type restaurant
+1 hakka id 19260
+0 i am looking for a restaurant in the north part of town serving persian food.	there aren't any restaurants serving persian food in the north part of town. would you like me to look in a different area?	['restaurant','north']
+1 are there chinese restaurants in the north part of town?	there are three chinese restaurants in the north part of town. what price range would you like?	['restaurant','chinese','north']
+2 any price range would be fine.	there are three restaurants that serve chinese food in the north part of town. would you like me to list them?	['restaurant','chinese','north']
+3 please provide a phone number for one of the restaurants.	golden_wok is a chinese restaurant located in the north part of town, and the phone number is golden_wok_phone.	['restaurant','chinese','north','golden_wok_phone','golden_wok']
+4 can i have the phone number to one more restarant please?	the hakka also serves chinese food and is on the north side of town. their phone number is hakka_phone. is there anything else i can help you with.	['chinese','north','hakka_phone','hakka']
+5 no, thank you.  that is good.  good bye.	thank you for using our system. good bye	[]
+
+1 la_margherita address 15_magdalene_street_city_centre
+1 la_margherita area west
+1 la_margherita food italian
+1 la_margherita location 52.210226,0.115646
+1 la_margherita phone 01223_315232
+1 la_margherita pricerange cheap
+1 la_margherita postcode c.b_3,_0_a.f
+1 la_margherita type restaurant
+1 la_margherita id 19247
+0 i want a cheap restaurant in the west part of town. i need its address and phone number please	la_margherita serves la_margherita_pricerange la_margherita_food in the la_margherita_area area.  it is located at la_margherita_address, phone la_margherita_phone	['centre','la_margherita_food','la_margherita_pricerange','la_margherita_type','la_margherita_area','la_margherita_address','la_margherita_phone','la_margherita']
+1 thank you goodbye.	thank you.	[]
+
+1 la_raza address 4_-_6_rose_crescent
+1 la_raza area centre
+1 la_raza food spanish
+1 la_raza location 52.206098,0.118713
+1 la_raza phone 01223_464550
+1 la_raza pricerange cheap
+1 la_raza postcode c.b_2,_3_l.l
+1 la_raza type restaurant
+1 la_raza id 19237
+0 i want to find a restaurant in any area and serves spanish food. what is the phone number and address?	la_raza serves la_raza_pricerange la_raza_food food, located in the la_raza_area area at la_raza_address with phone number la_raza_phone	['la_raza_area','la_raza_pricerange','la_raza_type','la_raza_food','la_raza_address','la_raza_phone','la_raza']
+1 thanks, goodbye.	you're welcome. goodbye.	[]
+2 goodbye	thank you.	[]
+
+1 golden_wok address 191_histon_road_chesterton
+1 golden_wok area north
+1 golden_wok food chinese
+1 golden_wok location 52.220757,0.111564
+1 golden_wok phone 01223_350688
+1 golden_wok pricerange moderate
+1 golden_wok postcode c.b_4,_3_h.l
+1 golden_wok type restaurant
+1 golden_wok id 19265
+1 city_stop_restaurant address cambridge_city_football_club_milton_road_chesterton
+1 city_stop_restaurant area north
+1 city_stop_restaurant location 52.215157,0.125015
+1 city_stop_restaurant phone 01223_363270
+1 city_stop_restaurant pricerange expensive
+1 city_stop_restaurant postcode c.b_4,_1_u.y
+1 city_stop_restaurant type restaurant
+1 city_stop_restaurant id 19262
+0 i want a restaurant in the north part of town.	the city_stop_restaurant is in the north part of town. the golden_wok is also located in the north part of town.	['restaurant','north','golden_wok','city_stop_restaurant']
+1 i want a restaurant that is moderately priced.	golden_wok is located in the north part of town, and is golden_wok_pricerangely priced.	['restaurant','golden_wok_pricerange','north','golden_wok']
+2 what is their address and phone number?	the address for golden_wok is golden_wok_address and the phone number is golden_wok_phone.	['golden_wok_address','golden_wok_phone','golden_wok']
+3 thank you, goodbye.	goodbye.	[]
+
+1 thanh_binh address 17_magdalene_street_city_centre
+1 thanh_binh area west
+1 thanh_binh food vietnamese
+1 thanh_binh location 52.210226,0.115646
+1 thanh_binh phone 01223_362456
+1 thanh_binh pricerange cheap
+1 thanh_binh postcode c.b_3,_0_a.f
+1 thanh_binh type restaurant
+1 thanh_binh id 19248
+0 i am looking for a restaurant serving scottish food.	no thanh_binh_types serving scottish food	['thanh_binh_type']
+1 ok, how about vietnamese food?	thanh_binh is a thanh_binh_food thanh_binh_type, it is in the thanh_binh_pricerange price range, and it is on the thanh_binh_area side of town. would you like the address and phone number?	['thanh_binh_pricerange','thanh_binh_type','thanh_binh_area','thanh_binh_food','thanh_binh']
+2 can i have the address please?	the address is thanh_binh_address.	['centre','thanh_binh_address']
+3 thank you!	thank you and good bye.	[]
+
+1 nandos address cambridge_leisure_park_clifton_way
+1 nandos area south
+1 nandos food portuguese
+1 nandos location 52.19017,0.13699
+1 nandos phone 01223_327908
+1 nandos pricerange cheap
+1 nandos postcode c.b_1,_7_d.y
+1 nandos type restaurant
+1 nandos id 12238
+0 is there any place that serves bbq around here?	i'm sorry there are no bbq places in the city, is there another type of food you would be interested in?	[]
+1 i am interested in portuguese food.	there are two nandos_food nandos_types. would you prefer the nandos_area or centre part of town?	['centre','nandos_type','nandos_area','nandos_food']
+2 i don't care. can you give me one of the address ?	sure, nandos in the nandos_area and its phone number is nandos_phone	['nandos_area','nandos_phone','nandos']
+3 i don't care about the price range.	thank you for using the cambridge nandos_type system. good bye.	['nandos_type']
+
+1 cambridge_lodge_restaurant address cambridge_lodge_hotel_139_huntingdon_road_city_centre
+1 cambridge_lodge_restaurant area west
+1 cambridge_lodge_restaurant food european
+1 cambridge_lodge_restaurant location 52.217736,0.102505
+1 cambridge_lodge_restaurant phone 01223_355166
+1 cambridge_lodge_restaurant pricerange expensive
+1 cambridge_lodge_restaurant postcode c.b_3,_0_d.q
+1 cambridge_lodge_restaurant type restaurant
+1 cambridge_lodge_restaurant id 19252
+0 i am looking for a restaurant in the west part of town.	cambridge_lodge_cambridge_lodge_restaurant_type is in the cambridge_lodge_restaurant_area part of town, and it serves cambridge_lodge_restaurant_food food.	['cambridge_lodge_restaurant_type','cambridge_lodge_restaurant_food','cambridge_lodge_restaurant_area','cambridge_lodge_restaurant']
+1 thank you. can i have the address please?	yes.  their address is 139 huntingdon_road_city_centre.	['centre','huntingdon_road_city_centre']
+2 thank you. i would like their price range and phone number as well please.	cambridge_lodge_cambridge_lodge_restaurant_type is in the cambridge_lodge_restaurant_pricerange price range and the phone number is cambridge_lodge_restaurant_phone.	['cambridge_lodge_restaurant_type','cambridge_lodge_restaurant_pricerange','cambridge_lodge_restaurant_phone','cambridge_lodge_restaurant']
+3 thank you, goodbye.	you're welcome. goodbye.	[]
+4 goodbye.	enjoy your dining experience.	[]
+
+1 grafton_hotel_restaurant address grafton_hotel_619_newmarket_road_fen_ditton
+1 grafton_hotel_restaurant area east
+1 grafton_hotel_restaurant food british
+1 grafton_hotel_restaurant location 52.212992,0.157569
+1 grafton_hotel_restaurant phone 01223_241387
+1 grafton_hotel_restaurant pricerange expensive
+1 grafton_hotel_restaurant postcode c.b_5,_8_p.a
+1 grafton_hotel_restaurant type restaurant
+1 grafton_hotel_restaurant id 19271
+1 pipasha_restaurant address newmarket_road_fen_ditton
+1 pipasha_restaurant area east
+1 pipasha_restaurant food indian
+1 pipasha_restaurant location 52.212992,0.157569
+1 pipasha_restaurant phone 01223_577786
+1 pipasha_restaurant pricerange expensive
+1 pipasha_restaurant postcode c.b_5,_8_p.a
+1 pipasha_restaurant type restaurant
+1 pipasha_restaurant id 19272
+0 i am looking for an expensive restaurant in the east part of town.	the grafton_hotel_restaurant is in the east part of town and in the expensive price range. would you like their information?	['restaurant','east','expensive','grafton_hotel_restaurant']
+1 yes please	they are located at grafton hotel 619 pipasha_restaurant_address, postcode c.b_5,_8_p.a, and phone number grafton_hotel_restaurant_phone. how else may i assist you?	['c.b_5,_8_p.a','pipasha_restaurant_address','grafton_hotel_restaurant_phone']
+2 is there something else?	pipasha_restaurant is in the east part of town, and in the expensive price range. is there anything else i can help you with?	['restaurant','east','expensive','pipasha_restaurant']
+3 what is the address and phone number?	pipasha_restaurant's phone number is pipasha_restaurant_phone and they are located at pipasha_restaurant_address. is there anything else i can help you with?	['restaurant','pipasha_restaurant_address','pipasha_restaurant_phone','pipasha_restaurant']
+4 no, thank you. good bye.	thank you, goodbye!	[]
+
+1 chiquito_restaurant_bar address 2g_cambridge_leisure_park_cherry_hinton_road_cherry_hinton
+1 chiquito_restaurant_bar area south
+1 chiquito_restaurant_bar food mexican
+1 chiquito_restaurant_bar location 52.190176,0.13699
+1 chiquito_restaurant_bar phone 01223_400170
+1 chiquito_restaurant_bar pricerange expensive
+1 chiquito_restaurant_bar postcode c.b_1,_7_d.y
+1 chiquito_restaurant_bar type restaurant
+1 chiquito_restaurant_bar id 19194
+1 frankie_and_bennys address cambridge_leisure_park_clifton_way_cherry_hinton
+1 frankie_and_bennys area south
+1 frankie_and_bennys food italian
+1 frankie_and_bennys location 52.190176,0.13699
+1 frankie_and_bennys phone 01223_412430
+1 frankie_and_bennys pricerange expensive
+1 frankie_and_bennys postcode c.b_1,_7_d.y
+1 frankie_and_bennys type restaurant
+1 frankie_and_bennys id 19195
+0 i would like an expensive restaurant in the south part of town	there are five expensive restaurants in that area. do you have a preference for price range or type of food?	['restaurant','expensive','south']
+1 any type of food is fine	there is an expensive chiquito_restaurant_bar_food restraunt in the south area of town called chiquito_restaurant_bar. is that fine?	['restaurant','expensive','south','chiquito_restaurant_bar_food','chiquito_restaurant_bar']
+2 is there anything else?	frankie_and_bennys serves frankie_and_bennys_food food and is located in the south part of town.  would you like more information for them?	['frankie_and_bennys_food','south','frankie_and_bennys']
+3 i need the address.	their address is cambridge_leisure_park_clifton_way cherry hinton.  can i help you with anything else?	['cambridge_leisure_park_clifton_way']
+4 thank you goodbye.	thank you for choosing our system. good bye	[]
+5 good bye	goodbye.	[]
+
+1 da_vinci_pizzeria address 20_milton_road_chesterton
+1 da_vinci_pizzeria area north
+1 da_vinci_pizzeria food italian
+1 da_vinci_pizzeria location 52.215311,0.12593
+1 da_vinci_pizzeria phone 01223_351707
+1 da_vinci_pizzeria pricerange cheap
+1 da_vinci_pizzeria postcode c.b_4,_1_j.y
+1 da_vinci_pizzeria type restaurant
+1 da_vinci_pizzeria id 19259
+0 i am looking for italian food in the north part of town.	da_vinci_pizzeria is an da_vinci_pizzeria_food da_vinci_pizzeria_type located in the da_vinci_pizzeria_area part of town	['da_vinci_pizzeria_food','da_vinci_pizzeria_type','da_vinci_pizzeria_area','da_vinci_pizzeria']
+1 may i have the address and phone number of da_vinci_pizzeria?	da_vinci_pizzeria is located at da_vinci_pizzeria_address. their phone number is da_vinci_pizzeria_phone. is there anything else i can help you with?	['da_vinci_pizzeria_address','da_vinci_pizzeria_phone','da_vinci_pizzeria']
+2 thank you. goodbye.	you're welcome. please enjoy your day.	[]
+
+1 anatolia address 30_bridge_street_city_centre
+1 anatolia area centre
+1 anatolia food turkish
+1 anatolia location 52.209632,0.117213
+1 anatolia phone 01223_362372
+1 anatolia pricerange moderate
+1 anatolia postcode c.b_2,_1_u.j
+1 anatolia type restaurant
+1 anatolia id 19232
+1 efes_restaurant address king_street_city_centre
+1 efes_restaurant area centre
+1 efes_restaurant food turkish
+1 efes_restaurant location 52.207312,0.124201
+1 efes_restaurant phone 01223_500005
+1 efes_restaurant pricerange moderate
+1 efes_restaurant postcode c.b_1,_1_l.n
+1 efes_restaurant type restaurant
+1 efes_restaurant id 19178
+0 i'm looking for a moderately priced polish food restaurant.	i'm sorry, but there aren't any moderately priced polish restaurants. should i check other price ranges or a different type of food?	['restaurant','moderate']
+1 yes,  can you please check for a turkish restaurant?	there are two results. anatolia restaurant and efes_restaurant both server turkish food in the moderate price range. is there anything else i can help you with?	['restaurant','moderate','turkish','anatolia','efes_restaurant']
+2 may i have the address for anatolia?	yes, the address for anatolia is anatolia_address.	['centre','anatolia_address','anatolia']
+3 thank you	thank you.	[]
+
+1 prezzo address 21_-_24_northampton_road
+1 prezzo area west
+1 prezzo food italian
+1 prezzo location 52.21032,0.11367
+1 prezzo phone 01799_521260
+1 prezzo pricerange moderate
+1 prezzo postcode c.b_3,_0_a.d
+1 prezzo type restaurant
+1 prezzo id 12700
+0 hello i would like to find a restaurant in the west part of the city that costs a moderate amount.	prezzo is a prezzo_pricerangely priced prezzo_food prezzo_type in the prezzo_area part of town. would you like their phone number?	['prezzo_food','prezzo_type','prezzo_pricerange','prezzo_area','prezzo']
+1 yes and the address.	their phone number is prezzo_phone and their address is prezzo_address.	['prezzo_address','prezzo_phone','north']
+
+1 the_missing_sock address finders_corner_newmarket_road
+1 the_missing_sock area east
+1 the_missing_sock food international
+1 the_missing_sock location 52.21768,0.224907
+1 the_missing_sock phone 01223_812660
+1 the_missing_sock pricerange cheap
+1 the_missing_sock postcode c.b_25,_9_a.q
+1 the_missing_sock type restaurant
+1 the_missing_sock id 30650
+0 hello. i'm looking for a cheap restaurant in the east part of town.	the_missing_sock is a the_missing_sock_pricerange the_missing_sock_type in the the_missing_sock_area part of town.  would you like their location?	['the_missing_sock_pricerange','the_missing_sock_type','the_missing_sock_area','the_missing_sock']
+1 i want to know their address, phone number, and type of food, please	the_missing_sock serves the_missing_sock_food food and is located at the_missing_sock_address.  the phone number is the_missing_sock_phone.	['the_missing_sock_address','the_missing_sock_food','the_missing_sock_phone','the_missing_sock']
+2 thank you, that is all i needed to know.  have a good night.	thank you for using our system. good night	[]
+
+1 taj_tandoori address 64_cherry_hinton_road_cherry_hinton
+1 taj_tandoori area south
+1 taj_tandoori food indian
+1 taj_tandoori location 52.188747,0.138941
+1 taj_tandoori phone 01223_412299
+1 taj_tandoori pricerange expensive
+1 taj_tandoori postcode c.b_1,_7_a.a
+1 taj_tandoori type restaurant
+1 taj_tandoori id 19191
+0 hello, i am looking for a restaurant on the south side of town that serves unusual food.	sorry but there is no resaurants that fit your request. do you want something different?	['taj_tandoori_type','taj_tandoori_area']
+1 yes, how about indian food	i recommend taj_tandoori. it is located in the taj_tandoori_area part of town.	['taj_tandoori_food','taj_tandoori_area','taj_tandoori']
+2 what is the phone number?	taj_tandoori's phone number is taj_tandoori_phone. is there anything else i can do for you?	['taj_tandoori_phone','taj_tandoori']
+3 no that is all. thank you, goodbye.	thank for calling cambridge taj_tandoori_type system, goodbye.	['taj_tandoori_type']
+

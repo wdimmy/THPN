@@ -1,0 +1,3507 @@
+8 hi
+9 can you make a restaurant reservation at resto_rome_moderate_spanish_1stars
+10 may i have the address of the restaurant
+8 hello
+9 i'd like to book a table at resto_london_expensive_british_2stars
+10 can you provide the address
+8 good morning
+9 can you book a table at resto_bombay_moderate_french_5stars
+10 do you have its address
+11 do you have its phone number
+8 hi
+9 can you book a table at resto_madrid_moderate_french_1stars
+10 can you provide the address
+11 may i have the phone number of the restaurant
+8 hello
+9 can you make a restaurant reservation at resto_madrid_moderate_spanish_7stars
+10 do you have its address
+8 good morning
+9 can you book a table at resto_bombay_expensive_french_6stars
+10 can you provide the address
+11 do you have its phone number
+8 hello
+9 may i have a table at resto_london_expensive_italian_5stars
+10 what is the phone number of the restaurant
+8 good morning
+9 i'd like to book a table at resto_madrid_moderate_spanish_1stars
+10 may i have the phone number of the restaurant
+8 hello
+9 i'd like to book a table at resto_paris_moderate_italian_4stars
+10 do you have its address
+11 do you have its phone number
+8 hello
+9 can you make a restaurant reservation at resto_rome_cheap_indian_5stars
+10 do you have its phone number
+8 hi
+9 can you book a table at resto_rome_moderate_spanish_2stars
+10 may i have the phone number of the restaurant
+8 good morning
+9 can you book a table at resto_london_cheap_british_1stars
+10 may i have the address of the restaurant
+11 may i have the phone number of the restaurant
+8 hello
+9 i'd like to book a table at resto_bombay_expensive_indian_8stars
+10 may i have the address of the restaurant
+11 may i have the phone number of the restaurant
+8 hello
+9 can you book a table at resto_bombay_moderate_french_8stars
+10 what is the phone number of the restaurant
+8 good morning
+9 may i have a table at resto_rome_expensive_spanish_6stars
+10 can you provide the address
+11 may i have the phone number of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_bombay_moderate_indian_2stars
+10 can you provide the address
+11 what is the phone number of the restaurant
+8 hi
+9 can you book a table at resto_london_expensive_british_4stars
+10 do you have its phone number
+8 hello
+9 i'd like to book a table at resto_london_cheap_spanish_1stars
+10 do you have its phone number
+8 hi
+9 can you make a restaurant reservation at resto_paris_cheap_british_1stars
+10 what is the phone number of the restaurant
+11 do you have its address
+8 hello
+9 may i have a table at resto_rome_cheap_french_8stars
+10 do you have its phone number
+8 hello
+9 may i have a table at resto_paris_cheap_british_4stars
+10 may i have the address of the restaurant
+11 do you have its phone number
+8 hello
+9 may i have a table at resto_madrid_cheap_spanish_3stars
+10 do you have its address
+11 what is the phone number of the restaurant
+8 good morning
+9 may i have a table at resto_madrid_cheap_french_6stars
+10 may i have the address of the restaurant
+11 what is the phone number of the restaurant
+8 hi
+9 i'd like to book a table at resto_paris_moderate_indian_2stars
+10 may i have the phone number of the restaurant
+8 hi
+9 i'd like to book a table at resto_madrid_cheap_indian_7stars
+10 can you provide the address
+8 good morning
+9 may i have a table at resto_madrid_expensive_indian_8stars
+10 do you have its phone number
+8 hello
+9 can you book a table at resto_madrid_moderate_indian_1stars
+10 do you have its phone number
+8 good morning
+9 can you book a table at resto_bombay_cheap_british_7stars
+10 do you have its address
+8 hello
+9 can you make a restaurant reservation at resto_rome_cheap_italian_2stars
+10 do you have its phone number
+11 can you provide the address
+8 good morning
+9 can you make a restaurant reservation at resto_madrid_expensive_italian_5stars
+10 what is the phone number of the restaurant
+11 can you provide the address
+8 hi
+9 can you make a restaurant reservation at resto_paris_expensive_french_3stars
+10 do you have its address
+8 hello
+9 may i have a table at resto_bombay_cheap_italian_6stars
+10 what is the phone number of the restaurant
+11 do you have its address
+8 hello
+9 i'd like to book a table at resto_bombay_expensive_french_1stars
+10 may i have the address of the restaurant
+8 hello
+9 can you make a restaurant reservation at resto_madrid_moderate_british_5stars
+10 what is the phone number of the restaurant
+11 do you have its address
+8 hi
+9 can you make a restaurant reservation at resto_madrid_moderate_indian_6stars
+10 can you provide the address
+11 what is the phone number of the restaurant
+8 hello
+9 may i have a table at resto_madrid_cheap_spanish_8stars
+10 do you have its phone number
+8 hi
+9 may i have a table at resto_rome_moderate_british_1stars
+10 what is the phone number of the restaurant
+11 do you have its address
+8 hello
+9 may i have a table at resto_london_moderate_spanish_7stars
+10 what is the phone number of the restaurant
+11 can you provide the address
+8 good morning
+9 can you make a restaurant reservation at resto_madrid_cheap_indian_4stars
+10 do you have its address
+8 hello
+9 can you book a table at resto_rome_expensive_italian_2stars
+10 do you have its address
+11 what is the phone number of the restaurant
+8 hello
+9 can you book a table at resto_london_expensive_indian_7stars
+10 do you have its address
+11 may i have the phone number of the restaurant
+8 hi
+9 can you book a table at resto_madrid_expensive_indian_6stars
+10 may i have the address of the restaurant
+8 hi
+9 i'd like to book a table at resto_bombay_expensive_french_7stars
+10 do you have its address
+8 hello
+9 can you make a restaurant reservation at resto_madrid_moderate_spanish_4stars
+10 may i have the address of the restaurant
+11 what is the phone number of the restaurant
+8 hello
+9 may i have a table at resto_bombay_moderate_spanish_4stars
+10 can you provide the address
+11 do you have its phone number
+8 hello
+9 can you make a restaurant reservation at resto_rome_moderate_italian_1stars
+10 may i have the address of the restaurant
+8 hi
+9 can you make a restaurant reservation at resto_bombay_moderate_indian_2stars
+10 do you have its phone number
+11 can you provide the address
+8 good morning
+9 can you book a table at resto_bombay_expensive_french_5stars
+10 do you have its phone number
+11 do you have its address
+8 hello
+9 can you book a table at resto_rome_moderate_british_7stars
+10 may i have the phone number of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_bombay_expensive_italian_6stars
+10 do you have its address
+8 good morning
+9 can you make a restaurant reservation at resto_bombay_expensive_spanish_2stars
+10 do you have its phone number
+11 may i have the address of the restaurant
+8 good morning
+9 may i have a table at resto_london_expensive_italian_5stars
+10 what is the phone number of the restaurant
+11 do you have its address
+8 hello
+9 may i have a table at resto_rome_moderate_italian_1stars
+10 may i have the address of the restaurant
+11 what is the phone number of the restaurant
+8 hi
+9 i'd like to book a table at resto_bombay_moderate_indian_5stars
+10 what is the phone number of the restaurant
+8 hi
+9 may i have a table at resto_madrid_moderate_indian_6stars
+10 do you have its phone number
+11 do you have its address
+8 hi
+9 i'd like to book a table at resto_london_moderate_italian_8stars
+10 do you have its address
+11 may i have the phone number of the restaurant
+8 hello
+9 can you make a restaurant reservation at resto_madrid_moderate_indian_8stars
+10 may i have the address of the restaurant
+8 good morning
+9 can you book a table at resto_bombay_moderate_french_8stars
+10 can you provide the address
+11 do you have its phone number
+8 good morning
+9 can you book a table at resto_bombay_expensive_british_5stars
+10 do you have its phone number
+11 do you have its address
+8 good morning
+9 can you make a restaurant reservation at resto_rome_moderate_french_3stars
+10 do you have its address
+11 may i have the phone number of the restaurant
+8 good morning
+9 i'd like to book a table at resto_rome_cheap_french_6stars
+10 may i have the address of the restaurant
+8 good morning
+9 i'd like to book a table at resto_madrid_expensive_french_5stars
+10 what is the phone number of the restaurant
+11 may i have the address of the restaurant
+8 good morning
+9 may i have a table at resto_rome_moderate_spanish_1stars
+10 may i have the address of the restaurant
+8 good morning
+9 i'd like to book a table at resto_london_expensive_british_1stars
+10 do you have its phone number
+11 may i have the address of the restaurant
+8 hello
+9 can you make a restaurant reservation at resto_madrid_expensive_french_4stars
+10 do you have its address
+8 good morning
+9 can you book a table at resto_bombay_expensive_british_4stars
+10 may i have the address of the restaurant
+11 do you have its phone number
+8 good morning
+9 i'd like to book a table at resto_madrid_expensive_indian_8stars
+10 what is the phone number of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_madrid_moderate_indian_8stars
+10 what is the phone number of the restaurant
+8 hi
+9 i'd like to book a table at resto_madrid_expensive_indian_3stars
+10 do you have its phone number
+11 can you provide the address
+8 hello
+9 i'd like to book a table at resto_london_cheap_spanish_1stars
+10 do you have its phone number
+8 hello
+9 can you book a table at resto_london_expensive_spanish_4stars
+10 do you have its phone number
+8 hello
+9 may i have a table at resto_madrid_moderate_indian_2stars
+10 do you have its address
+11 do you have its phone number
+8 good morning
+9 i'd like to book a table at resto_london_cheap_british_5stars
+10 what is the phone number of the restaurant
+8 hi
+9 may i have a table at resto_london_moderate_spanish_6stars
+10 may i have the address of the restaurant
+11 do you have its phone number
+8 hello
+9 can you make a restaurant reservation at resto_rome_cheap_indian_8stars
+10 may i have the address of the restaurant
+11 may i have the phone number of the restaurant
+8 hello
+9 can you make a restaurant reservation at resto_madrid_cheap_french_2stars
+10 do you have its phone number
+8 hello
+9 i'd like to book a table at resto_london_moderate_indian_6stars
+10 may i have the address of the restaurant
+8 hello
+9 can you book a table at resto_london_expensive_italian_3stars
+10 may i have the address of the restaurant
+8 hello
+9 can you book a table at resto_london_expensive_spanish_6stars
+10 can you provide the address
+8 hi
+9 can you make a restaurant reservation at resto_rome_expensive_spanish_1stars
+10 do you have its phone number
+8 good morning
+9 may i have a table at resto_london_expensive_spanish_2stars
+10 may i have the address of the restaurant
+11 what is the phone number of the restaurant
+8 hi
+9 may i have a table at resto_london_moderate_spanish_2stars
+10 may i have the address of the restaurant
+8 hi
+9 may i have a table at resto_madrid_expensive_british_1stars
+10 may i have the address of the restaurant
+11 what is the phone number of the restaurant
+8 hi
+9 can you make a restaurant reservation at resto_paris_moderate_indian_4stars
+10 can you provide the address
+8 hi
+9 i'd like to book a table at resto_bombay_expensive_british_6stars
+10 may i have the phone number of the restaurant
+8 good morning
+9 may i have a table at resto_bombay_moderate_spanish_4stars
+10 may i have the address of the restaurant
+8 good morning
+9 i'd like to book a table at resto_rome_moderate_french_4stars
+10 do you have its phone number
+8 hello
+9 can you book a table at resto_london_expensive_british_6stars
+10 may i have the phone number of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_bombay_expensive_italian_6stars
+10 may i have the address of the restaurant
+8 hi
+9 can you make a restaurant reservation at resto_paris_cheap_italian_4stars
+10 do you have its phone number
+8 hello
+9 may i have a table at resto_madrid_cheap_indian_4stars
+10 may i have the address of the restaurant
+8 hello
+9 may i have a table at resto_rome_moderate_french_5stars
+10 do you have its address
+8 hi
+9 i'd like to book a table at resto_paris_moderate_indian_7stars
+10 what is the phone number of the restaurant
+11 do you have its address
+8 hello
+9 i'd like to book a table at resto_bombay_cheap_indian_6stars
+10 do you have its address
+8 good morning
+9 can you make a restaurant reservation at resto_paris_cheap_indian_6stars
+10 what is the phone number of the restaurant
+11 do you have its address
+8 good morning
+9 can you make a restaurant reservation at resto_madrid_expensive_indian_1stars
+10 do you have its phone number
+11 can you provide the address
+8 good morning
+9 can you make a restaurant reservation at resto_rome_cheap_french_2stars
+10 what is the phone number of the restaurant
+8 hi
+9 may i have a table at resto_rome_moderate_british_4stars
+10 what is the phone number of the restaurant
+11 can you provide the address
+8 hello
+9 can you book a table at resto_london_expensive_british_6stars
+10 may i have the address of the restaurant
+11 do you have its phone number
+8 hi
+9 can you book a table at resto_london_expensive_french_4stars
+10 what is the phone number of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_london_expensive_british_1stars
+10 what is the phone number of the restaurant
+11 do you have its address
+8 good morning
+9 can you book a table at resto_paris_cheap_british_1stars
+10 what is the phone number of the restaurant
+11 do you have its address
+8 hello
+9 can you make a restaurant reservation at resto_london_moderate_french_6stars
+10 what is the phone number of the restaurant
+11 do you have its address
+8 good morning
+9 can you make a restaurant reservation at resto_madrid_expensive_british_6stars
+10 may i have the phone number of the restaurant
+11 can you provide the address
+8 good morning
+9 may i have a table at resto_madrid_expensive_indian_7stars
+10 what is the phone number of the restaurant
+11 can you provide the address
+8 good morning
+9 can you book a table at resto_paris_cheap_british_2stars
+10 may i have the phone number of the restaurant
+11 may i have the address of the restaurant
+8 hello
+9 can you make a restaurant reservation at resto_paris_cheap_spanish_5stars
+10 may i have the phone number of the restaurant
+11 can you provide the address
+8 good morning
+9 can you book a table at resto_london_cheap_british_5stars
+10 do you have its address
+11 do you have its phone number
+8 hi
+9 may i have a table at resto_rome_cheap_indian_7stars
+10 do you have its address
+11 what is the phone number of the restaurant
+8 hi
+9 i'd like to book a table at resto_rome_moderate_british_3stars
+10 do you have its address
+11 what is the phone number of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_madrid_cheap_british_4stars
+10 may i have the address of the restaurant
+11 do you have its phone number
+8 hi
+9 can you book a table at resto_paris_expensive_french_8stars
+10 what is the phone number of the restaurant
+8 hi
+9 can you make a restaurant reservation at resto_madrid_moderate_italian_2stars
+10 do you have its phone number
+8 hello
+9 can you make a restaurant reservation at resto_paris_cheap_british_1stars
+10 do you have its address
+8 good morning
+9 may i have a table at resto_bombay_expensive_french_5stars
+10 what is the phone number of the restaurant
+8 hello
+9 may i have a table at resto_bombay_expensive_british_3stars
+10 can you provide the address
+8 hello
+9 may i have a table at resto_madrid_moderate_italian_1stars
+10 can you provide the address
+8 hi
+9 i'd like to book a table at resto_london_moderate_indian_6stars
+10 may i have the address of the restaurant
+8 hello
+9 i'd like to book a table at resto_madrid_cheap_french_6stars
+10 can you provide the address
+8 good morning
+9 i'd like to book a table at resto_paris_expensive_spanish_8stars
+10 do you have its address
+11 do you have its phone number
+8 hi
+9 can you make a restaurant reservation at resto_paris_cheap_british_7stars
+10 can you provide the address
+8 hello
+9 i'd like to book a table at resto_rome_expensive_french_2stars
+10 what is the phone number of the restaurant
+8 hello
+9 may i have a table at resto_bombay_cheap_british_6stars
+10 do you have its phone number
+11 do you have its address
+8 hello
+9 can you book a table at resto_bombay_moderate_french_7stars
+10 what is the phone number of the restaurant
+11 do you have its address
+8 hi
+9 can you book a table at resto_london_expensive_indian_7stars
+10 may i have the phone number of the restaurant
+8 hi
+9 may i have a table at resto_rome_expensive_british_3stars
+10 can you provide the address
+8 hi
+9 i'd like to book a table at resto_madrid_expensive_british_8stars
+10 what is the phone number of the restaurant
+11 can you provide the address
+8 hi
+9 can you book a table at resto_london_cheap_british_4stars
+10 may i have the address of the restaurant
+11 do you have its phone number
+8 hi
+9 may i have a table at resto_bombay_expensive_spanish_4stars
+10 may i have the address of the restaurant
+11 what is the phone number of the restaurant
+8 good morning
+9 i'd like to book a table at resto_bombay_expensive_british_4stars
+10 can you provide the address
+8 good morning
+9 can you book a table at resto_madrid_cheap_spanish_8stars
+10 do you have its address
+8 good morning
+9 i'd like to book a table at resto_rome_expensive_indian_4stars
+10 can you provide the address
+8 hi
+9 can you book a table at resto_bombay_moderate_french_8stars
+10 may i have the phone number of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_bombay_expensive_british_4stars
+10 may i have the address of the restaurant
+11 what is the phone number of the restaurant
+8 good morning
+9 can you book a table at resto_london_expensive_indian_7stars
+10 may i have the phone number of the restaurant
+8 good morning
+9 can you book a table at resto_rome_moderate_french_5stars
+10 can you provide the address
+8 hi
+9 i'd like to book a table at resto_rome_moderate_british_6stars
+10 may i have the phone number of the restaurant
+8 hello
+9 may i have a table at resto_madrid_expensive_indian_8stars
+10 do you have its address
+11 do you have its phone number
+8 hello
+9 may i have a table at resto_paris_cheap_british_8stars
+10 may i have the phone number of the restaurant
+11 do you have its address
+8 hello
+9 may i have a table at resto_london_moderate_italian_1stars
+10 what is the phone number of the restaurant
+11 do you have its address
+8 hello
+9 can you book a table at resto_madrid_expensive_british_1stars
+10 do you have its phone number
+8 hello
+9 i'd like to book a table at resto_paris_cheap_french_1stars
+10 do you have its address
+8 hello
+9 can you book a table at resto_london_moderate_spanish_5stars
+10 may i have the phone number of the restaurant
+11 do you have its address
+8 hi
+9 can you book a table at resto_london_expensive_spanish_7stars
+10 do you have its address
+11 what is the phone number of the restaurant
+8 good morning
+9 i'd like to book a table at resto_paris_moderate_italian_4stars
+10 do you have its phone number
+11 can you provide the address
+8 hello
+9 can you book a table at resto_bombay_cheap_italian_1stars
+10 do you have its phone number
+11 do you have its address
+8 good morning
+9 can you make a restaurant reservation at resto_bombay_expensive_italian_3stars
+10 do you have its address
+8 hello
+9 i'd like to book a table at resto_bombay_cheap_french_3stars
+10 do you have its address
+11 do you have its phone number
+8 good morning
+9 i'd like to book a table at resto_london_cheap_french_6stars
+10 what is the phone number of the restaurant
+11 may i have the address of the restaurant
+8 hello
+9 i'd like to book a table at resto_paris_moderate_french_1stars
+10 may i have the address of the restaurant
+8 hello
+9 can you book a table at resto_paris_expensive_french_3stars
+10 may i have the address of the restaurant
+11 do you have its phone number
+8 hello
+9 can you make a restaurant reservation at resto_rome_expensive_italian_8stars
+10 may i have the phone number of the restaurant
+8 hi
+9 can you make a restaurant reservation at resto_rome_expensive_italian_2stars
+10 what is the phone number of the restaurant
+11 do you have its address
+8 hi
+9 can you make a restaurant reservation at resto_bombay_expensive_indian_4stars
+10 may i have the phone number of the restaurant
+8 good morning
+9 i'd like to book a table at resto_rome_moderate_british_6stars
+10 do you have its phone number
+8 hello
+9 may i have a table at resto_bombay_expensive_british_8stars
+10 may i have the address of the restaurant
+11 what is the phone number of the restaurant
+8 hello
+9 may i have a table at resto_rome_cheap_italian_8stars
+10 what is the phone number of the restaurant
+8 hello
+9 can you book a table at resto_bombay_moderate_indian_4stars
+10 do you have its address
+8 hello
+9 can you make a restaurant reservation at resto_london_expensive_italian_8stars
+10 do you have its address
+11 may i have the phone number of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_madrid_cheap_spanish_3stars
+10 can you provide the address
+8 hello
+9 can you book a table at resto_bombay_moderate_indian_8stars
+10 can you provide the address
+8 hello
+9 may i have a table at resto_madrid_expensive_indian_8stars
+10 may i have the phone number of the restaurant
+11 may i have the address of the restaurant
+8 hi
+9 can you make a restaurant reservation at resto_paris_cheap_british_1stars
+10 do you have its address
+8 good morning
+9 may i have a table at resto_rome_moderate_italian_3stars
+10 can you provide the address
+11 what is the phone number of the restaurant
+8 hello
+9 i'd like to book a table at resto_rome_expensive_british_2stars
+10 may i have the address of the restaurant
+11 what is the phone number of the restaurant
+8 hello
+9 can you make a restaurant reservation at resto_madrid_moderate_italian_2stars
+10 may i have the address of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_paris_expensive_spanish_5stars
+10 do you have its address
+11 what is the phone number of the restaurant
+8 hello
+9 can you book a table at resto_london_cheap_spanish_6stars
+10 may i have the phone number of the restaurant
+8 good morning
+9 can you book a table at resto_madrid_expensive_indian_8stars
+10 do you have its address
+11 what is the phone number of the restaurant
+8 good morning
+9 i'd like to book a table at resto_bombay_cheap_indian_8stars
+10 can you provide the address
+8 hi
+9 can you make a restaurant reservation at resto_paris_cheap_italian_3stars
+10 may i have the phone number of the restaurant
+8 hi
+9 can you book a table at resto_rome_cheap_italian_2stars
+10 what is the phone number of the restaurant
+8 hello
+9 may i have a table at resto_bombay_cheap_british_6stars
+10 may i have the address of the restaurant
+11 may i have the phone number of the restaurant
+8 hi
+9 can you book a table at resto_madrid_moderate_british_2stars
+10 can you provide the address
+11 what is the phone number of the restaurant
+8 hello
+9 can you book a table at resto_london_expensive_british_5stars
+10 do you have its phone number
+11 may i have the address of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_london_expensive_italian_5stars
+10 may i have the address of the restaurant
+11 what is the phone number of the restaurant
+8 hi
+9 can you book a table at resto_london_moderate_italian_7stars
+10 what is the phone number of the restaurant
+8 good morning
+9 may i have a table at resto_bombay_expensive_french_5stars
+10 may i have the phone number of the restaurant
+8 hi
+9 i'd like to book a table at resto_london_moderate_spanish_3stars
+10 may i have the phone number of the restaurant
+11 may i have the address of the restaurant
+8 hello
+9 i'd like to book a table at resto_madrid_expensive_indian_3stars
+10 do you have its phone number
+8 hello
+9 may i have a table at resto_madrid_moderate_indian_2stars
+10 do you have its address
+11 what is the phone number of the restaurant
+8 hello
+9 can you make a restaurant reservation at resto_bombay_moderate_indian_6stars
+10 may i have the address of the restaurant
+11 what is the phone number of the restaurant
+8 hello
+9 can you book a table at resto_rome_cheap_indian_5stars
+10 do you have its address
+8 hello
+9 i'd like to book a table at resto_madrid_moderate_british_4stars
+10 do you have its address
+8 hi
+9 can you book a table at resto_rome_expensive_british_4stars
+10 do you have its address
+11 what is the phone number of the restaurant
+8 hi
+9 i'd like to book a table at resto_rome_moderate_indian_4stars
+10 do you have its phone number
+8 hello
+9 can you book a table at resto_madrid_expensive_french_6stars
+10 what is the phone number of the restaurant
+8 hello
+9 i'd like to book a table at resto_bombay_moderate_indian_6stars
+10 may i have the address of the restaurant
+11 what is the phone number of the restaurant
+8 hi
+9 can you make a restaurant reservation at resto_london_expensive_italian_6stars
+10 may i have the phone number of the restaurant
+8 hello
+9 can you make a restaurant reservation at resto_bombay_cheap_british_8stars
+10 do you have its phone number
+8 good morning
+9 can you book a table at resto_london_moderate_indian_6stars
+10 do you have its address
+11 may i have the phone number of the restaurant
+8 hi
+9 may i have a table at resto_bombay_expensive_british_6stars
+10 may i have the address of the restaurant
+11 may i have the phone number of the restaurant
+8 hello
+9 can you make a restaurant reservation at resto_bombay_expensive_spanish_3stars
+10 may i have the phone number of the restaurant
+11 can you provide the address
+8 hello
+9 i'd like to book a table at resto_madrid_moderate_spanish_1stars
+10 can you provide the address
+11 what is the phone number of the restaurant
+8 hi
+9 may i have a table at resto_paris_moderate_french_4stars
+10 do you have its address
+8 hello
+9 i'd like to book a table at resto_bombay_expensive_british_4stars
+10 do you have its address
+11 what is the phone number of the restaurant
+8 good morning
+9 i'd like to book a table at resto_madrid_cheap_french_6stars
+10 may i have the address of the restaurant
+11 what is the phone number of the restaurant
+8 good morning
+9 can you book a table at resto_london_moderate_italian_8stars
+10 what is the phone number of the restaurant
+11 can you provide the address
+8 hello
+9 can you book a table at resto_bombay_expensive_spanish_3stars
+10 may i have the address of the restaurant
+8 hi
+9 can you make a restaurant reservation at resto_bombay_expensive_french_5stars
+10 can you provide the address
+11 do you have its phone number
+8 hi
+9 can you book a table at resto_madrid_expensive_italian_1stars
+10 may i have the phone number of the restaurant
+11 can you provide the address
+8 hello
+9 may i have a table at resto_rome_cheap_french_3stars
+10 can you provide the address
+11 do you have its phone number
+8 hi
+9 can you make a restaurant reservation at resto_london_expensive_british_6stars
+10 do you have its address
+11 do you have its phone number
+8 hi
+9 may i have a table at resto_paris_expensive_french_3stars
+10 may i have the address of the restaurant
+8 good morning
+9 can you book a table at resto_london_cheap_french_3stars
+10 do you have its phone number
+11 do you have its address
+8 good morning
+9 can you make a restaurant reservation at resto_paris_cheap_french_1stars
+10 may i have the phone number of the restaurant
+8 good morning
+9 i'd like to book a table at resto_bombay_cheap_british_6stars
+10 can you provide the address
+8 hello
+9 i'd like to book a table at resto_london_moderate_italian_8stars
+10 do you have its address
+11 may i have the phone number of the restaurant
+8 hello
+9 can you make a restaurant reservation at resto_bombay_expensive_italian_1stars
+10 may i have the phone number of the restaurant
+11 can you provide the address
+8 hello
+9 i'd like to book a table at resto_rome_expensive_spanish_1stars
+10 what is the phone number of the restaurant
+8 hello
+9 i'd like to book a table at resto_madrid_moderate_french_3stars
+10 do you have its address
+11 what is the phone number of the restaurant
+8 hi
+9 i'd like to book a table at resto_paris_cheap_french_5stars
+10 may i have the address of the restaurant
+8 good morning
+9 i'd like to book a table at resto_rome_moderate_british_5stars
+10 may i have the phone number of the restaurant
+8 hi
+9 i'd like to book a table at resto_paris_expensive_indian_8stars
+10 do you have its phone number
+11 may i have the address of the restaurant
+8 hello
+9 can you make a restaurant reservation at resto_madrid_expensive_french_4stars
+10 may i have the phone number of the restaurant
+11 can you provide the address
+8 good morning
+9 can you make a restaurant reservation at resto_london_cheap_spanish_6stars
+10 may i have the phone number of the restaurant
+8 hi
+9 can you book a table at resto_madrid_moderate_british_6stars
+10 may i have the address of the restaurant
+8 hi
+9 may i have a table at resto_rome_expensive_british_3stars
+10 may i have the address of the restaurant
+8 good morning
+9 can you book a table at resto_paris_expensive_indian_2stars
+10 may i have the address of the restaurant
+11 what is the phone number of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_madrid_expensive_french_6stars
+10 do you have its address
+11 may i have the phone number of the restaurant
+8 hi
+9 may i have a table at resto_london_expensive_french_7stars
+10 what is the phone number of the restaurant
+8 good morning
+9 can you book a table at resto_london_expensive_british_6stars
+10 do you have its phone number
+11 may i have the address of the restaurant
+8 good morning
+9 i'd like to book a table at resto_bombay_cheap_indian_8stars
+10 what is the phone number of the restaurant
+11 may i have the address of the restaurant
+8 hi
+9 may i have a table at resto_madrid_cheap_indian_7stars
+10 may i have the phone number of the restaurant
+11 can you provide the address
+8 good morning
+9 can you book a table at resto_bombay_cheap_indian_8stars
+10 what is the phone number of the restaurant
+11 may i have the address of the restaurant
+8 good morning
+9 can you book a table at resto_madrid_expensive_indian_3stars
+10 may i have the address of the restaurant
+11 may i have the phone number of the restaurant
+8 good morning
+9 can you book a table at resto_rome_moderate_british_1stars
+10 may i have the phone number of the restaurant
+8 hi
+9 i'd like to book a table at resto_bombay_expensive_french_2stars
+10 do you have its address
+8 hello
+9 can you book a table at resto_rome_cheap_french_3stars
+10 do you have its address
+8 hello
+9 i'd like to book a table at resto_bombay_expensive_italian_6stars
+10 do you have its address
+11 may i have the phone number of the restaurant
+8 hello
+9 can you book a table at resto_rome_moderate_italian_3stars
+10 do you have its phone number
+11 can you provide the address
+8 hello
+9 can you book a table at resto_london_expensive_french_7stars
+10 do you have its phone number
+11 can you provide the address
+8 hi
+9 i'd like to book a table at resto_bombay_moderate_indian_2stars
+10 may i have the phone number of the restaurant
+11 may i have the address of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_paris_moderate_indian_7stars
+10 may i have the phone number of the restaurant
+11 may i have the address of the restaurant
+8 hi
+9 may i have a table at resto_rome_expensive_indian_4stars
+10 do you have its phone number
+8 hello
+9 i'd like to book a table at resto_bombay_expensive_indian_5stars
+10 may i have the phone number of the restaurant
+11 can you provide the address
+8 hello
+9 can you make a restaurant reservation at resto_rome_expensive_british_2stars
+10 may i have the phone number of the restaurant
+11 may i have the address of the restaurant
+8 hi
+9 may i have a table at resto_paris_cheap_french_7stars
+10 do you have its address
+8 hi
+9 may i have a table at resto_london_expensive_italian_8stars
+10 what is the phone number of the restaurant
+11 can you provide the address
+8 hi
+9 may i have a table at resto_paris_cheap_french_8stars
+10 do you have its phone number
+11 can you provide the address
+8 hi
+9 i'd like to book a table at resto_rome_cheap_italian_4stars
+10 may i have the address of the restaurant
+8 good morning
+9 may i have a table at resto_bombay_expensive_french_8stars
+10 can you provide the address
+11 do you have its phone number
+8 hi
+9 i'd like to book a table at resto_paris_expensive_french_3stars
+10 what is the phone number of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_rome_expensive_spanish_1stars
+10 may i have the phone number of the restaurant
+8 hello
+9 may i have a table at resto_london_expensive_french_7stars
+10 can you provide the address
+11 may i have the phone number of the restaurant
+8 hello
+9 may i have a table at resto_madrid_moderate_indian_2stars
+10 do you have its address
+11 what is the phone number of the restaurant
+8 hello
+9 may i have a table at resto_paris_cheap_french_5stars
+10 can you provide the address
+8 good morning
+9 i'd like to book a table at resto_rome_moderate_indian_2stars
+10 do you have its phone number
+8 good morning
+9 can you book a table at resto_paris_cheap_british_3stars
+10 may i have the phone number of the restaurant
+11 do you have its address
+8 good morning
+9 may i have a table at resto_london_cheap_british_4stars
+10 do you have its address
+8 good morning
+9 may i have a table at resto_paris_moderate_indian_7stars
+10 can you provide the address
+8 good morning
+9 can you book a table at resto_london_expensive_spanish_7stars
+10 what is the phone number of the restaurant
+8 hello
+9 can you make a restaurant reservation at resto_paris_moderate_italian_8stars
+10 may i have the phone number of the restaurant
+8 hello
+9 can you make a restaurant reservation at resto_paris_expensive_indian_6stars
+10 do you have its phone number
+8 hello
+9 i'd like to book a table at resto_london_cheap_italian_2stars
+10 do you have its address
+11 do you have its phone number
+8 good morning
+9 i'd like to book a table at resto_rome_moderate_spanish_1stars
+10 do you have its address
+8 hi
+9 may i have a table at resto_london_moderate_spanish_2stars
+10 may i have the address of the restaurant
+8 hello
+9 may i have a table at resto_bombay_moderate_italian_7stars
+10 what is the phone number of the restaurant
+11 may i have the address of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_madrid_expensive_indian_8stars
+10 what is the phone number of the restaurant
+11 may i have the address of the restaurant
+8 hi
+9 can you book a table at resto_madrid_moderate_british_5stars
+10 may i have the phone number of the restaurant
+8 hi
+9 may i have a table at resto_rome_moderate_british_3stars
+10 what is the phone number of the restaurant
+11 may i have the address of the restaurant
+8 good morning
+9 can you book a table at resto_bombay_cheap_italian_8stars
+10 may i have the address of the restaurant
+8 hello
+9 can you make a restaurant reservation at resto_rome_expensive_spanish_1stars
+10 do you have its address
+11 may i have the phone number of the restaurant
+8 hello
+9 may i have a table at resto_bombay_expensive_british_5stars
+10 do you have its phone number
+8 hello
+9 can you book a table at resto_rome_moderate_british_4stars
+10 may i have the address of the restaurant
+8 good morning
+9 i'd like to book a table at resto_london_cheap_spanish_6stars
+10 do you have its address
+8 good morning
+9 can you make a restaurant reservation at resto_rome_expensive_british_3stars
+10 what is the phone number of the restaurant
+11 do you have its address
+8 hello
+9 can you book a table at resto_madrid_expensive_british_6stars
+10 can you provide the address
+8 hello
+9 may i have a table at resto_bombay_cheap_indian_2stars
+10 may i have the phone number of the restaurant
+11 do you have its address
+8 hello
+9 i'd like to book a table at resto_london_cheap_spanish_6stars
+10 what is the phone number of the restaurant
+8 hello
+9 can you make a restaurant reservation at resto_rome_cheap_indian_5stars
+10 do you have its phone number
+8 good morning
+9 can you book a table at resto_rome_cheap_italian_4stars
+10 can you provide the address
+11 what is the phone number of the restaurant
+8 hello
+9 can you make a restaurant reservation at resto_madrid_expensive_indian_7stars
+10 what is the phone number of the restaurant
+11 can you provide the address
+8 hi
+9 may i have a table at resto_madrid_moderate_french_1stars
+10 may i have the address of the restaurant
+11 do you have its phone number
+8 good morning
+9 may i have a table at resto_bombay_expensive_french_6stars
+10 what is the phone number of the restaurant
+8 hi
+9 can you make a restaurant reservation at resto_paris_moderate_italian_4stars
+10 do you have its phone number
+8 good morning
+9 can you book a table at resto_rome_expensive_french_3stars
+10 may i have the address of the restaurant
+11 what is the phone number of the restaurant
+8 hello
+9 i'd like to book a table at resto_madrid_moderate_indian_5stars
+10 can you provide the address
+11 may i have the phone number of the restaurant
+8 hello
+9 can you book a table at resto_rome_expensive_spanish_1stars
+10 do you have its phone number
+11 can you provide the address
+8 good morning
+9 can you book a table at resto_rome_expensive_italian_8stars
+10 can you provide the address
+11 do you have its phone number
+8 good morning
+9 may i have a table at resto_paris_expensive_indian_8stars
+10 what is the phone number of the restaurant
+8 good morning
+9 can you book a table at resto_london_expensive_spanish_5stars
+10 may i have the phone number of the restaurant
+11 can you provide the address
+8 good morning
+9 can you make a restaurant reservation at resto_paris_moderate_french_4stars
+10 do you have its address
+8 good morning
+9 can you book a table at resto_rome_moderate_italian_1stars
+10 do you have its phone number
+11 do you have its address
+8 good morning
+9 may i have a table at resto_rome_cheap_italian_6stars
+10 may i have the phone number of the restaurant
+11 do you have its address
+8 hi
+9 can you make a restaurant reservation at resto_paris_expensive_italian_3stars
+10 do you have its address
+11 may i have the phone number of the restaurant
+8 good morning
+9 i'd like to book a table at resto_madrid_moderate_indian_2stars
+10 can you provide the address
+8 good morning
+9 may i have a table at resto_bombay_cheap_british_4stars
+10 may i have the address of the restaurant
+8 good morning
+9 can you book a table at resto_rome_moderate_spanish_1stars
+10 do you have its address
+8 good morning
+9 can you book a table at resto_paris_cheap_french_8stars
+10 can you provide the address
+11 do you have its phone number
+8 hi
+9 can you book a table at resto_paris_moderate_italian_3stars
+10 what is the phone number of the restaurant
+11 may i have the address of the restaurant
+8 good morning
+9 can you book a table at resto_bombay_expensive_italian_3stars
+10 can you provide the address
+11 may i have the phone number of the restaurant
+8 good morning
+9 may i have a table at resto_london_moderate_italian_3stars
+10 do you have its address
+11 may i have the phone number of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_london_expensive_spanish_7stars
+10 may i have the phone number of the restaurant
+11 can you provide the address
+8 good morning
+9 can you make a restaurant reservation at resto_rome_moderate_italian_1stars
+10 may i have the phone number of the restaurant
+8 hi
+9 can you make a restaurant reservation at resto_bombay_cheap_spanish_3stars
+10 do you have its phone number
+8 hi
+9 i'd like to book a table at resto_madrid_cheap_indian_7stars
+10 may i have the address of the restaurant
+8 hello
+9 may i have a table at resto_rome_moderate_british_2stars
+10 do you have its address
+8 good morning
+9 may i have a table at resto_bombay_cheap_spanish_5stars
+10 what is the phone number of the restaurant
+11 do you have its address
+8 hi
+9 i'd like to book a table at resto_bombay_cheap_british_4stars
+10 may i have the address of the restaurant
+8 good morning
+9 may i have a table at resto_bombay_cheap_british_7stars
+10 may i have the address of the restaurant
+8 good morning
+9 can you book a table at resto_madrid_moderate_spanish_1stars
+10 can you provide the address
+11 do you have its phone number
+8 hello
+9 may i have a table at resto_london_expensive_french_2stars
+10 do you have its address
+11 do you have its phone number
+8 hello
+9 may i have a table at resto_rome_moderate_spanish_1stars
+10 may i have the phone number of the restaurant
+11 do you have its address
+8 hello
+9 can you book a table at resto_london_cheap_british_2stars
+10 do you have its phone number
+8 hi
+9 can you make a restaurant reservation at resto_paris_moderate_italian_3stars
+10 can you provide the address
+11 do you have its phone number
+8 hi
+9 can you book a table at resto_madrid_moderate_indian_7stars
+10 can you provide the address
+11 may i have the phone number of the restaurant
+8 good morning
+9 may i have a table at resto_london_moderate_indian_2stars
+10 what is the phone number of the restaurant
+8 hi
+9 can you make a restaurant reservation at resto_bombay_expensive_indian_7stars
+10 may i have the phone number of the restaurant
+8 hello
+9 can you book a table at resto_rome_moderate_british_1stars
+10 may i have the address of the restaurant
+8 hello
+9 i'd like to book a table at resto_madrid_cheap_british_5stars
+10 can you provide the address
+8 hi
+9 can you book a table at resto_bombay_moderate_french_4stars
+10 can you provide the address
+11 may i have the phone number of the restaurant
+8 hello
+9 can you book a table at resto_paris_expensive_indian_8stars
+10 what is the phone number of the restaurant
+11 can you provide the address
+8 good morning
+9 can you make a restaurant reservation at resto_paris_moderate_indian_6stars
+10 may i have the address of the restaurant
+8 good morning
+9 i'd like to book a table at resto_london_expensive_italian_1stars
+10 can you provide the address
+8 hello
+9 i'd like to book a table at resto_paris_cheap_italian_2stars
+10 do you have its phone number
+8 hi
+9 can you book a table at resto_london_cheap_spanish_1stars
+10 may i have the phone number of the restaurant
+11 can you provide the address
+8 good morning
+9 can you book a table at resto_london_moderate_indian_3stars
+10 may i have the phone number of the restaurant
+11 do you have its address
+8 hello
+9 i'd like to book a table at resto_bombay_expensive_indian_8stars
+10 what is the phone number of the restaurant
+8 hello
+9 can you make a restaurant reservation at resto_madrid_expensive_british_4stars
+10 do you have its address
+8 good morning
+9 can you make a restaurant reservation at resto_london_moderate_spanish_2stars
+10 may i have the phone number of the restaurant
+11 may i have the address of the restaurant
+8 hello
+9 can you book a table at resto_paris_cheap_french_7stars
+10 may i have the address of the restaurant
+11 do you have its phone number
+8 hi
+9 can you book a table at resto_paris_cheap_french_5stars
+10 do you have its address
+11 may i have the phone number of the restaurant
+8 good morning
+9 i'd like to book a table at resto_bombay_moderate_indian_3stars
+10 may i have the phone number of the restaurant
+8 hello
+9 can you book a table at resto_london_expensive_british_4stars
+10 do you have its address
+8 good morning
+9 can you book a table at resto_paris_cheap_italian_3stars
+10 may i have the phone number of the restaurant
+11 may i have the address of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_rome_moderate_british_2stars
+10 can you provide the address
+8 hello
+9 may i have a table at resto_london_moderate_italian_4stars
+10 may i have the phone number of the restaurant
+8 hi
+9 i'd like to book a table at resto_paris_expensive_british_7stars
+10 do you have its address
+11 do you have its phone number
+8 hi
+9 can you book a table at resto_london_moderate_italian_8stars
+10 may i have the phone number of the restaurant
+11 can you provide the address
+8 hi
+9 can you make a restaurant reservation at resto_bombay_expensive_italian_4stars
+10 can you provide the address
+11 what is the phone number of the restaurant
+8 hi
+9 i'd like to book a table at resto_madrid_expensive_italian_6stars
+10 do you have its address
+11 what is the phone number of the restaurant
+8 hi
+9 can you book a table at resto_rome_cheap_indian_1stars
+10 can you provide the address
+8 good morning
+9 can you make a restaurant reservation at resto_bombay_cheap_indian_7stars
+10 do you have its phone number
+11 do you have its address
+8 good morning
+9 i'd like to book a table at resto_paris_cheap_italian_1stars
+10 can you provide the address
+11 what is the phone number of the restaurant
+8 good morning
+9 may i have a table at resto_bombay_moderate_indian_1stars
+10 do you have its address
+11 may i have the phone number of the restaurant
+8 good morning
+9 may i have a table at resto_paris_cheap_spanish_2stars
+10 do you have its phone number
+11 do you have its address
+8 hello
+9 may i have a table at resto_paris_expensive_italian_3stars
+10 what is the phone number of the restaurant
+8 good morning
+9 can you book a table at resto_rome_moderate_british_7stars
+10 may i have the address of the restaurant
+8 hello
+9 may i have a table at resto_london_expensive_french_8stars
+10 may i have the phone number of the restaurant
+8 hello
+9 can you make a restaurant reservation at resto_london_expensive_british_6stars
+10 do you have its phone number
+8 good morning
+9 can you make a restaurant reservation at resto_bombay_expensive_british_6stars
+10 do you have its phone number
+8 good morning
+9 may i have a table at resto_london_expensive_italian_5stars
+10 do you have its phone number
+8 hi
+9 i'd like to book a table at resto_bombay_expensive_italian_5stars
+10 may i have the address of the restaurant
+11 what is the phone number of the restaurant
+8 hi
+9 may i have a table at resto_paris_expensive_indian_8stars
+10 what is the phone number of the restaurant
+8 hello
+9 can you book a table at resto_bombay_expensive_british_6stars
+10 do you have its address
+8 hi
+9 can you make a restaurant reservation at resto_madrid_moderate_italian_8stars
+10 what is the phone number of the restaurant
+11 do you have its address
+8 hi
+9 may i have a table at resto_bombay_cheap_spanish_4stars
+10 do you have its address
+8 good morning
+9 can you book a table at resto_rome_expensive_italian_8stars
+10 do you have its address
+8 hi
+9 can you book a table at resto_bombay_moderate_spanish_4stars
+10 may i have the phone number of the restaurant
+8 good morning
+9 i'd like to book a table at resto_london_expensive_british_5stars
+10 can you provide the address
+11 may i have the phone number of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_bombay_expensive_spanish_2stars
+10 do you have its phone number
+8 hello
+9 can you make a restaurant reservation at resto_london_expensive_italian_8stars
+10 do you have its phone number
+11 may i have the address of the restaurant
+8 good morning
+9 can you book a table at resto_london_expensive_italian_8stars
+10 can you provide the address
+8 hi
+9 i'd like to book a table at resto_london_expensive_french_2stars
+10 do you have its address
+8 hello
+9 may i have a table at resto_bombay_cheap_british_7stars
+10 may i have the phone number of the restaurant
+11 can you provide the address
+8 hello
+9 i'd like to book a table at resto_paris_cheap_italian_2stars
+10 do you have its address
+11 what is the phone number of the restaurant
+8 good morning
+9 can you book a table at resto_bombay_cheap_french_4stars
+10 can you provide the address
+8 hello
+9 can you make a restaurant reservation at resto_rome_expensive_british_1stars
+10 can you provide the address
+11 may i have the phone number of the restaurant
+8 hi
+9 i'd like to book a table at resto_rome_moderate_british_3stars
+10 do you have its address
+8 good morning
+9 can you make a restaurant reservation at resto_paris_moderate_italian_8stars
+10 what is the phone number of the restaurant
+11 may i have the address of the restaurant
+8 hi
+9 can you make a restaurant reservation at resto_bombay_moderate_indian_6stars
+10 what is the phone number of the restaurant
+8 good morning
+9 i'd like to book a table at resto_rome_expensive_french_1stars
+10 can you provide the address
+8 hi
+9 may i have a table at resto_london_expensive_french_2stars
+10 what is the phone number of the restaurant
+11 may i have the address of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_madrid_moderate_italian_8stars
+10 do you have its phone number
+8 hello
+9 can you make a restaurant reservation at resto_paris_cheap_french_2stars
+10 what is the phone number of the restaurant
+8 hi
+9 i'd like to book a table at resto_madrid_moderate_french_1stars
+10 do you have its address
+11 what is the phone number of the restaurant
+8 hi
+9 may i have a table at resto_paris_cheap_french_1stars
+10 do you have its address
+8 hello
+9 i'd like to book a table at resto_rome_moderate_indian_6stars
+10 may i have the phone number of the restaurant
+11 can you provide the address
+8 good morning
+9 can you book a table at resto_bombay_expensive_spanish_8stars
+10 may i have the address of the restaurant
+11 what is the phone number of the restaurant
+8 hi
+9 may i have a table at resto_paris_moderate_italian_4stars
+10 what is the phone number of the restaurant
+8 hello
+9 can you book a table at resto_madrid_moderate_spanish_7stars
+10 do you have its address
+11 do you have its phone number
+8 good morning
+9 can you book a table at resto_london_expensive_italian_1stars
+10 do you have its phone number
+8 good morning
+9 i'd like to book a table at resto_rome_expensive_british_5stars
+10 do you have its phone number
+8 hello
+9 i'd like to book a table at resto_rome_moderate_french_7stars
+10 may i have the address of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_rome_cheap_italian_1stars
+10 can you provide the address
+11 what is the phone number of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_madrid_expensive_italian_8stars
+10 do you have its address
+11 may i have the phone number of the restaurant
+8 hello
+9 i'd like to book a table at resto_rome_expensive_british_5stars
+10 do you have its address
+11 may i have the phone number of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_paris_cheap_british_1stars
+10 may i have the address of the restaurant
+11 do you have its phone number
+8 hello
+9 can you make a restaurant reservation at resto_bombay_cheap_indian_1stars
+10 do you have its address
+8 hi
+9 i'd like to book a table at resto_madrid_cheap_spanish_8stars
+10 do you have its address
+8 good morning
+9 may i have a table at resto_rome_cheap_indian_8stars
+10 do you have its phone number
+11 can you provide the address
+8 hello
+9 may i have a table at resto_madrid_moderate_british_1stars
+10 may i have the address of the restaurant
+11 what is the phone number of the restaurant
+8 good morning
+9 can you book a table at resto_rome_expensive_french_2stars
+10 what is the phone number of the restaurant
+11 can you provide the address
+8 good morning
+9 may i have a table at resto_paris_expensive_spanish_3stars
+10 what is the phone number of the restaurant
+11 do you have its address
+8 good morning
+9 may i have a table at resto_paris_moderate_indian_3stars
+10 may i have the phone number of the restaurant
+11 can you provide the address
+8 hello
+9 i'd like to book a table at resto_madrid_expensive_french_4stars
+10 can you provide the address
+8 hi
+9 may i have a table at resto_madrid_cheap_indian_2stars
+10 do you have its address
+11 do you have its phone number
+8 hello
+9 can you make a restaurant reservation at resto_paris_expensive_french_2stars
+10 do you have its address
+8 good morning
+9 can you make a restaurant reservation at resto_london_cheap_british_4stars
+10 do you have its address
+8 hello
+9 i'd like to book a table at resto_madrid_expensive_spanish_2stars
+10 may i have the address of the restaurant
+11 do you have its phone number
+8 hello
+9 i'd like to book a table at resto_london_cheap_spanish_3stars
+10 do you have its address
+8 good morning
+9 may i have a table at resto_paris_expensive_british_7stars
+10 do you have its address
+11 what is the phone number of the restaurant
+8 hello
+9 i'd like to book a table at resto_rome_cheap_italian_1stars
+10 can you provide the address
+11 what is the phone number of the restaurant
+8 good morning
+9 can you book a table at resto_bombay_cheap_indian_2stars
+10 do you have its address
+8 hello
+9 may i have a table at resto_rome_moderate_italian_3stars
+10 do you have its phone number
+8 hello
+9 can you make a restaurant reservation at resto_paris_expensive_spanish_4stars
+10 do you have its phone number
+11 do you have its address
+8 good morning
+9 can you book a table at resto_madrid_cheap_spanish_3stars
+10 can you provide the address
+8 hello
+9 can you book a table at resto_madrid_cheap_french_2stars
+10 may i have the phone number of the restaurant
+11 do you have its address
+8 hi
+9 i'd like to book a table at resto_london_moderate_indian_3stars
+10 do you have its address
+8 hello
+9 can you book a table at resto_bombay_expensive_italian_3stars
+10 may i have the phone number of the restaurant
+8 hello
+9 can you book a table at resto_bombay_cheap_spanish_1stars
+10 what is the phone number of the restaurant
+11 can you provide the address
+8 hi
+9 can you make a restaurant reservation at resto_rome_moderate_spanish_1stars
+10 do you have its address
+11 what is the phone number of the restaurant
+8 hi
+9 i'd like to book a table at resto_london_moderate_spanish_8stars
+10 can you provide the address
+11 do you have its phone number
+8 hello
+9 may i have a table at resto_rome_expensive_british_4stars
+10 can you provide the address
+8 good morning
+9 can you make a restaurant reservation at resto_bombay_cheap_indian_4stars
+10 what is the phone number of the restaurant
+8 good morning
+9 may i have a table at resto_bombay_expensive_british_8stars
+10 may i have the address of the restaurant
+8 hello
+9 i'd like to book a table at resto_rome_expensive_spanish_1stars
+10 may i have the phone number of the restaurant
+11 may i have the address of the restaurant
+8 hello
+9 i'd like to book a table at resto_bombay_expensive_indian_7stars
+10 what is the phone number of the restaurant
+11 may i have the address of the restaurant
+8 hello
+9 can you book a table at resto_madrid_expensive_indian_6stars
+10 may i have the phone number of the restaurant
+8 hello
+9 may i have a table at resto_paris_cheap_british_4stars
+10 do you have its phone number
+11 can you provide the address
+8 hi
+9 can you book a table at resto_london_expensive_italian_3stars
+10 what is the phone number of the restaurant
+11 do you have its address
+8 hello
+9 may i have a table at resto_london_cheap_spanish_6stars
+10 can you provide the address
+8 hi
+9 i'd like to book a table at resto_bombay_cheap_french_8stars
+10 may i have the phone number of the restaurant
+11 can you provide the address
+8 good morning
+9 can you make a restaurant reservation at resto_london_expensive_indian_7stars
+10 do you have its address
+8 hi
+9 can you make a restaurant reservation at resto_rome_cheap_french_4stars
+10 do you have its phone number
+8 good morning
+9 can you book a table at resto_bombay_expensive_british_4stars
+10 may i have the phone number of the restaurant
+11 may i have the address of the restaurant
+8 good morning
+9 can you book a table at resto_bombay_cheap_italian_4stars
+10 may i have the address of the restaurant
+11 what is the phone number of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_rome_cheap_french_2stars
+10 may i have the phone number of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_madrid_cheap_french_2stars
+10 can you provide the address
+8 good morning
+9 may i have a table at resto_bombay_moderate_indian_5stars
+10 may i have the address of the restaurant
+11 may i have the phone number of the restaurant
+8 good morning
+9 i'd like to book a table at resto_bombay_moderate_spanish_4stars
+10 can you provide the address
+11 may i have the phone number of the restaurant
+8 hello
+9 can you book a table at resto_bombay_expensive_indian_7stars
+10 do you have its address
+11 do you have its phone number
+8 hi
+9 may i have a table at resto_london_moderate_indian_2stars
+10 do you have its address
+11 do you have its phone number
+8 good morning
+9 can you book a table at resto_bombay_cheap_french_2stars
+10 can you provide the address
+11 what is the phone number of the restaurant
+8 hi
+9 may i have a table at resto_madrid_expensive_indian_7stars
+10 may i have the address of the restaurant
+8 hello
+9 can you book a table at resto_london_expensive_french_4stars
+10 can you provide the address
+8 hello
+9 can you make a restaurant reservation at resto_bombay_cheap_indian_8stars
+10 do you have its phone number
+8 good morning
+9 i'd like to book a table at resto_rome_cheap_italian_3stars
+10 do you have its phone number
+8 hi
+9 can you book a table at resto_madrid_cheap_british_1stars
+10 do you have its address
+8 hello
+9 i'd like to book a table at resto_madrid_expensive_italian_6stars
+10 may i have the address of the restaurant
+11 may i have the phone number of the restaurant
+8 hi
+9 i'd like to book a table at resto_paris_expensive_british_6stars
+10 do you have its address
+11 what is the phone number of the restaurant
+8 hi
+9 may i have a table at resto_london_moderate_indian_6stars
+10 may i have the address of the restaurant
+11 may i have the phone number of the restaurant
+8 hi
+9 can you make a restaurant reservation at resto_london_cheap_british_2stars
+10 can you provide the address
+11 what is the phone number of the restaurant
+8 hi
+9 can you book a table at resto_bombay_cheap_italian_7stars
+10 do you have its phone number
+11 do you have its address
+8 hello
+9 i'd like to book a table at resto_paris_expensive_french_7stars
+10 do you have its phone number
+8 good morning
+9 can you make a restaurant reservation at resto_bombay_moderate_indian_8stars
+10 may i have the address of the restaurant
+11 what is the phone number of the restaurant
+8 good morning
+9 can you book a table at resto_madrid_moderate_spanish_8stars
+10 may i have the phone number of the restaurant
+11 may i have the address of the restaurant
+8 hello
+9 may i have a table at resto_rome_cheap_indian_5stars
+10 may i have the address of the restaurant
+11 do you have its phone number
+8 hi
+9 may i have a table at resto_paris_moderate_italian_4stars
+10 may i have the phone number of the restaurant
+11 do you have its address
+8 good morning
+9 can you book a table at resto_paris_moderate_indian_4stars
+10 may i have the address of the restaurant
+11 may i have the phone number of the restaurant
+8 hello
+9 may i have a table at resto_bombay_cheap_french_7stars
+10 do you have its phone number
+8 hello
+9 i'd like to book a table at resto_madrid_cheap_indian_4stars
+10 do you have its phone number
+8 hello
+9 can you book a table at resto_bombay_moderate_italian_7stars
+10 do you have its phone number
+11 can you provide the address
+8 hi
+9 can you make a restaurant reservation at resto_paris_cheap_british_7stars
+10 may i have the phone number of the restaurant
+11 do you have its address
+8 good morning
+9 may i have a table at resto_bombay_cheap_italian_6stars
+10 what is the phone number of the restaurant
+8 good morning
+9 may i have a table at resto_bombay_cheap_french_7stars
+10 do you have its address
+11 do you have its phone number
+8 hello
+9 can you make a restaurant reservation at resto_rome_expensive_italian_2stars
+10 do you have its address
+11 do you have its phone number
+8 hello
+9 may i have a table at resto_paris_expensive_french_3stars
+10 do you have its address
+11 do you have its phone number
+8 hello
+9 can you make a restaurant reservation at resto_rome_cheap_italian_1stars
+10 do you have its phone number
+11 may i have the address of the restaurant
+8 hi
+9 can you make a restaurant reservation at resto_madrid_moderate_british_5stars
+10 may i have the address of the restaurant
+11 what is the phone number of the restaurant
+8 hello
+9 may i have a table at resto_madrid_moderate_british_7stars
+10 do you have its address
+11 do you have its phone number
+8 hi
+9 i'd like to book a table at resto_london_expensive_british_5stars
+10 do you have its address
+11 what is the phone number of the restaurant
+8 good morning
+9 i'd like to book a table at resto_london_expensive_indian_7stars
+10 do you have its phone number
+8 good morning
+9 can you book a table at resto_rome_moderate_british_3stars
+10 do you have its phone number
+8 hi
+9 i'd like to book a table at resto_rome_expensive_french_2stars
+10 may i have the phone number of the restaurant
+11 do you have its address
+8 hi
+9 can you book a table at resto_bombay_expensive_italian_3stars
+10 can you provide the address
+8 hello
+9 i'd like to book a table at resto_paris_expensive_spanish_4stars
+10 may i have the phone number of the restaurant
+11 do you have its address
+8 hi
+9 may i have a table at resto_madrid_expensive_italian_6stars
+10 can you provide the address
+8 hello
+9 i'd like to book a table at resto_bombay_expensive_french_6stars
+10 do you have its address
+8 hello
+9 may i have a table at resto_bombay_moderate_indian_2stars
+10 may i have the phone number of the restaurant
+11 may i have the address of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_rome_expensive_indian_7stars
+10 can you provide the address
+11 do you have its phone number
+8 hello
+9 can you make a restaurant reservation at resto_london_expensive_british_8stars
+10 do you have its phone number
+8 hello
+9 can you make a restaurant reservation at resto_london_expensive_french_4stars
+10 do you have its phone number
+11 do you have its address
+8 good morning
+9 i'd like to book a table at resto_rome_cheap_indian_5stars
+10 can you provide the address
+8 good morning
+9 can you make a restaurant reservation at resto_london_moderate_spanish_5stars
+10 do you have its phone number
+8 good morning
+9 can you make a restaurant reservation at resto_bombay_cheap_british_7stars
+10 what is the phone number of the restaurant
+8 good morning
+9 can you book a table at resto_paris_cheap_spanish_5stars
+10 may i have the phone number of the restaurant
+8 hi
+9 can you book a table at resto_paris_cheap_indian_6stars
+10 may i have the phone number of the restaurant
+11 can you provide the address
+8 hi
+9 i'd like to book a table at resto_rome_expensive_french_4stars
+10 can you provide the address
+11 what is the phone number of the restaurant
+8 good morning
+9 i'd like to book a table at resto_madrid_cheap_indian_7stars
+10 can you provide the address
+11 may i have the phone number of the restaurant
+8 hello
+9 may i have a table at resto_madrid_cheap_french_6stars
+10 may i have the phone number of the restaurant
+11 may i have the address of the restaurant
+8 hi
+9 can you make a restaurant reservation at resto_london_expensive_french_4stars
+10 do you have its phone number
+8 good morning
+9 can you book a table at resto_rome_moderate_french_4stars
+10 do you have its address
+11 may i have the phone number of the restaurant
+8 hello
+9 can you make a restaurant reservation at resto_london_expensive_british_5stars
+10 do you have its address
+8 good morning
+9 i'd like to book a table at resto_bombay_cheap_indian_7stars
+10 may i have the phone number of the restaurant
+11 may i have the address of the restaurant
+8 hello
+9 can you book a table at resto_london_cheap_british_5stars
+10 may i have the address of the restaurant
+8 hello
+9 can you make a restaurant reservation at resto_rome_cheap_french_6stars
+10 do you have its phone number
+8 good morning
+9 may i have a table at resto_london_moderate_french_7stars
+10 do you have its address
+8 hello
+9 can you make a restaurant reservation at resto_rome_expensive_french_5stars
+10 can you provide the address
+8 good morning
+9 can you make a restaurant reservation at resto_london_expensive_spanish_2stars
+10 do you have its address
+8 good morning
+9 may i have a table at resto_rome_moderate_british_1stars
+10 may i have the phone number of the restaurant
+8 hi
+9 can you book a table at resto_madrid_expensive_british_6stars
+10 what is the phone number of the restaurant
+8 hi
+9 may i have a table at resto_bombay_cheap_british_6stars
+10 may i have the address of the restaurant
+8 hi
+9 can you make a restaurant reservation at resto_paris_cheap_indian_2stars
+10 do you have its address
+11 may i have the phone number of the restaurant
+8 hello
+9 can you make a restaurant reservation at resto_bombay_cheap_french_4stars
+10 may i have the address of the restaurant
+8 good morning
+9 may i have a table at resto_bombay_expensive_spanish_8stars
+10 can you provide the address
+8 good morning
+9 may i have a table at resto_paris_cheap_italian_4stars
+10 do you have its phone number
+8 hello
+9 i'd like to book a table at resto_bombay_cheap_spanish_1stars
+10 do you have its phone number
+11 may i have the address of the restaurant
+8 hi
+9 i'd like to book a table at resto_london_moderate_spanish_1stars
+10 do you have its phone number
+8 hello
+9 can you make a restaurant reservation at resto_bombay_expensive_british_8stars
+10 what is the phone number of the restaurant
+8 hello
+9 can you make a restaurant reservation at resto_paris_cheap_british_2stars
+10 may i have the phone number of the restaurant
+11 can you provide the address
+8 hi
+9 may i have a table at resto_bombay_cheap_indian_1stars
+10 may i have the phone number of the restaurant
+8 hi
+9 can you make a restaurant reservation at resto_madrid_expensive_indian_5stars
+10 do you have its address
+8 good morning
+9 can you make a restaurant reservation at resto_rome_cheap_french_2stars
+10 do you have its phone number
+8 good morning
+9 can you make a restaurant reservation at resto_madrid_expensive_italian_6stars
+10 do you have its address
+11 what is the phone number of the restaurant
+8 hello
+9 can you make a restaurant reservation at resto_london_cheap_french_3stars
+10 what is the phone number of the restaurant
+11 do you have its address
+8 hello
+9 can you make a restaurant reservation at resto_london_expensive_spanish_5stars
+10 do you have its address
+8 good morning
+9 i'd like to book a table at resto_paris_cheap_spanish_2stars
+10 what is the phone number of the restaurant
+11 can you provide the address
+8 hello
+9 may i have a table at resto_paris_cheap_italian_6stars
+10 may i have the phone number of the restaurant
+8 hello
+9 may i have a table at resto_london_expensive_british_2stars
+10 may i have the address of the restaurant
+8 hi
+9 can you make a restaurant reservation at resto_london_expensive_french_4stars
+10 can you provide the address
+11 do you have its phone number
+8 good morning
+9 i'd like to book a table at resto_london_expensive_french_4stars
+10 do you have its phone number
+8 good morning
+9 can you make a restaurant reservation at resto_paris_cheap_italian_3stars
+10 do you have its address
+8 good morning
+9 can you make a restaurant reservation at resto_paris_cheap_italian_4stars
+10 what is the phone number of the restaurant
+11 can you provide the address
+8 hello
+9 can you book a table at resto_bombay_cheap_spanish_6stars
+10 may i have the address of the restaurant
+11 do you have its phone number
+8 good morning
+9 can you book a table at resto_rome_cheap_italian_7stars
+10 may i have the address of the restaurant
+8 hello
+9 i'd like to book a table at resto_madrid_moderate_british_7stars
+10 may i have the phone number of the restaurant
+8 hello
+9 can you book a table at resto_bombay_moderate_french_4stars
+10 what is the phone number of the restaurant
+8 hello
+9 may i have a table at resto_paris_cheap_spanish_5stars
+10 do you have its address
+11 do you have its phone number
+8 good morning
+9 may i have a table at resto_rome_cheap_french_2stars
+10 do you have its address
+11 do you have its phone number
+8 hi
+9 can you book a table at resto_rome_moderate_british_3stars
+10 can you provide the address
+8 hello
+9 i'd like to book a table at resto_madrid_expensive_spanish_2stars
+10 can you provide the address
+11 do you have its phone number
+8 hi
+9 may i have a table at resto_madrid_cheap_indian_7stars
+10 may i have the address of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_paris_moderate_italian_4stars
+10 do you have its address
+8 hi
+9 can you book a table at resto_rome_expensive_french_8stars
+10 what is the phone number of the restaurant
+8 hello
+9 may i have a table at resto_paris_expensive_spanish_8stars
+10 may i have the phone number of the restaurant
+11 can you provide the address
+8 hi
+9 i'd like to book a table at resto_madrid_moderate_spanish_1stars
+10 may i have the phone number of the restaurant
+8 hello
+9 i'd like to book a table at resto_paris_cheap_french_1stars
+10 may i have the phone number of the restaurant
+11 do you have its address
+8 good morning
+9 may i have a table at resto_bombay_expensive_british_2stars
+10 may i have the phone number of the restaurant
+11 do you have its address
+8 good morning
+9 can you book a table at resto_paris_expensive_french_7stars
+10 may i have the address of the restaurant
+11 what is the phone number of the restaurant
+8 hi
+9 can you book a table at resto_bombay_expensive_indian_4stars
+10 do you have its phone number
+8 good morning
+9 i'd like to book a table at resto_london_moderate_spanish_7stars
+10 what is the phone number of the restaurant
+8 good morning
+9 can you book a table at resto_paris_cheap_british_8stars
+10 do you have its phone number
+11 can you provide the address
+8 good morning
+9 can you make a restaurant reservation at resto_paris_cheap_british_3stars
+10 may i have the phone number of the restaurant
+11 do you have its address
+8 hello
+9 may i have a table at resto_rome_moderate_spanish_4stars
+10 do you have its address
+11 do you have its phone number
+8 hello
+9 can you book a table at resto_bombay_cheap_italian_7stars
+10 may i have the address of the restaurant
+8 hello
+9 i'd like to book a table at resto_london_expensive_italian_7stars
+10 do you have its phone number
+11 can you provide the address
+8 good morning
+9 can you book a table at resto_bombay_cheap_italian_8stars
+10 do you have its phone number
+11 do you have its address
+8 hi
+9 can you book a table at resto_london_expensive_italian_7stars
+10 may i have the phone number of the restaurant
+11 do you have its address
+8 good morning
+9 may i have a table at resto_bombay_expensive_spanish_4stars
+10 may i have the address of the restaurant
+8 hello
+9 may i have a table at resto_rome_expensive_french_8stars
+10 may i have the address of the restaurant
+11 may i have the phone number of the restaurant
+8 hi
+9 i'd like to book a table at resto_rome_moderate_french_2stars
+10 can you provide the address
+11 may i have the phone number of the restaurant
+8 hello
+9 can you book a table at resto_bombay_cheap_spanish_5stars
+10 may i have the address of the restaurant
+8 hello
+9 can you make a restaurant reservation at resto_bombay_cheap_spanish_6stars
+10 may i have the address of the restaurant
+8 hi
+9 can you make a restaurant reservation at resto_madrid_cheap_spanish_1stars
+10 may i have the phone number of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_bombay_cheap_french_1stars
+10 can you provide the address
+8 hi
+9 can you book a table at resto_paris_expensive_french_3stars
+10 do you have its address
+11 do you have its phone number
+8 hello
+9 may i have a table at resto_rome_expensive_british_4stars
+10 do you have its phone number
+11 can you provide the address
+8 hi
+9 can you book a table at resto_madrid_moderate_italian_2stars
+10 can you provide the address
+11 may i have the phone number of the restaurant
+8 good morning
+9 i'd like to book a table at resto_london_expensive_french_7stars
+10 do you have its address
+8 hello
+9 may i have a table at resto_paris_expensive_indian_8stars
+10 do you have its address
+8 good morning
+9 can you book a table at resto_bombay_expensive_british_2stars
+10 do you have its address
+8 hi
+9 can you make a restaurant reservation at resto_bombay_expensive_spanish_5stars
+10 do you have its address
+8 hi
+9 can you book a table at resto_paris_cheap_french_4stars
+10 may i have the address of the restaurant
+11 what is the phone number of the restaurant
+8 good morning
+9 i'd like to book a table at resto_madrid_moderate_spanish_7stars
+10 do you have its address
+11 what is the phone number of the restaurant
+8 good morning
+9 i'd like to book a table at resto_rome_moderate_spanish_1stars
+10 may i have the phone number of the restaurant
+11 can you provide the address
+8 hello
+9 can you make a restaurant reservation at resto_madrid_cheap_french_3stars
+10 do you have its address
+8 hi
+9 may i have a table at resto_bombay_cheap_indian_3stars
+10 do you have its phone number
+11 may i have the address of the restaurant
+8 good morning
+9 can you book a table at resto_rome_cheap_indian_8stars
+10 may i have the phone number of the restaurant
+11 can you provide the address
+8 hi
+9 can you book a table at resto_madrid_moderate_indian_6stars
+10 may i have the address of the restaurant
+11 do you have its phone number
+8 hello
+9 i'd like to book a table at resto_madrid_expensive_spanish_7stars
+10 what is the phone number of the restaurant
+11 do you have its address
+8 good morning
+9 can you make a restaurant reservation at resto_london_expensive_british_8stars
+10 may i have the phone number of the restaurant
+11 do you have its address
+8 good morning
+9 i'd like to book a table at resto_paris_cheap_french_7stars
+10 may i have the phone number of the restaurant
+11 can you provide the address
+8 good morning
+9 may i have a table at resto_bombay_expensive_indian_8stars
+10 can you provide the address
+11 do you have its phone number
+8 good morning
+9 may i have a table at resto_rome_cheap_italian_1stars
+10 may i have the phone number of the restaurant
+11 do you have its address
+8 good morning
+9 i'd like to book a table at resto_paris_cheap_spanish_2stars
+10 can you provide the address
+8 hi
+9 can you book a table at resto_madrid_moderate_indian_1stars
+10 do you have its phone number
+8 good morning
+9 may i have a table at resto_madrid_cheap_indian_4stars
+10 may i have the phone number of the restaurant
+11 can you provide the address
+8 hi
+9 can you make a restaurant reservation at resto_madrid_moderate_italian_6stars
+10 do you have its address
+8 hello
+9 i'd like to book a table at resto_london_moderate_spanish_8stars
+10 do you have its address
+8 hi
+9 may i have a table at resto_madrid_moderate_italian_2stars
+10 may i have the address of the restaurant
+11 may i have the phone number of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_rome_cheap_french_8stars
+10 can you provide the address
+8 good morning
+9 can you make a restaurant reservation at resto_rome_expensive_british_2stars
+10 can you provide the address
+8 hi
+9 i'd like to book a table at resto_bombay_expensive_french_1stars
+10 can you provide the address
+11 do you have its phone number
+8 hello
+9 may i have a table at resto_london_expensive_spanish_5stars
+10 what is the phone number of the restaurant
+8 good morning
+9 i'd like to book a table at resto_madrid_expensive_spanish_2stars
+10 do you have its address
+8 hello
+9 can you make a restaurant reservation at resto_rome_cheap_italian_6stars
+10 do you have its phone number
+8 good morning
+9 i'd like to book a table at resto_london_cheap_french_3stars
+10 what is the phone number of the restaurant
+8 good morning
+9 may i have a table at resto_madrid_cheap_indian_4stars
+10 may i have the phone number of the restaurant
+11 can you provide the address
+8 good morning
+9 can you make a restaurant reservation at resto_london_expensive_spanish_6stars
+10 do you have its phone number
+11 can you provide the address
+8 good morning
+9 i'd like to book a table at resto_bombay_moderate_italian_6stars
+10 may i have the phone number of the restaurant
+11 may i have the address of the restaurant
+8 hello
+9 can you book a table at resto_london_expensive_french_4stars
+10 can you provide the address
+11 what is the phone number of the restaurant
+8 hi
+9 can you book a table at resto_madrid_expensive_indian_4stars
+10 may i have the address of the restaurant
+11 may i have the phone number of the restaurant
+8 hello
+9 can you book a table at resto_rome_moderate_spanish_2stars
+10 may i have the phone number of the restaurant
+11 may i have the address of the restaurant
+8 hi
+9 i'd like to book a table at resto_bombay_cheap_spanish_3stars
+10 do you have its address
+8 hello
+9 can you make a restaurant reservation at resto_paris_expensive_indian_8stars
+10 what is the phone number of the restaurant
+8 hi
+9 i'd like to book a table at resto_rome_moderate_british_8stars
+10 may i have the phone number of the restaurant
+11 can you provide the address
+8 good morning
+9 can you make a restaurant reservation at resto_madrid_moderate_spanish_7stars
+10 may i have the address of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_madrid_expensive_indian_3stars
+10 may i have the address of the restaurant
+8 hi
+9 can you book a table at resto_madrid_expensive_spanish_7stars
+10 may i have the phone number of the restaurant
+8 hello
+9 can you book a table at resto_bombay_moderate_spanish_7stars
+10 what is the phone number of the restaurant
+11 may i have the address of the restaurant
+8 good morning
+9 can you book a table at resto_rome_cheap_italian_8stars
+10 do you have its address
+8 hi
+9 can you book a table at resto_rome_moderate_french_2stars
+10 can you provide the address
+8 hello
+9 may i have a table at resto_paris_expensive_spanish_5stars
+10 may i have the address of the restaurant
+11 may i have the phone number of the restaurant
+8 hi
+9 may i have a table at resto_madrid_cheap_spanish_3stars
+10 may i have the phone number of the restaurant
+11 do you have its address
+8 hello
+9 can you make a restaurant reservation at resto_paris_cheap_indian_7stars
+10 do you have its phone number
+11 may i have the address of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_rome_cheap_italian_7stars
+10 do you have its phone number
+11 may i have the address of the restaurant
+8 good morning
+9 may i have a table at resto_rome_expensive_indian_7stars
+10 do you have its address
+11 what is the phone number of the restaurant
+8 hi
+9 may i have a table at resto_bombay_cheap_spanish_1stars
+10 may i have the phone number of the restaurant
+8 hello
+9 i'd like to book a table at resto_paris_cheap_spanish_8stars
+10 may i have the address of the restaurant
+8 hello
+9 can you make a restaurant reservation at resto_rome_moderate_french_4stars
+10 may i have the address of the restaurant
+8 good morning
+9 may i have a table at resto_bombay_cheap_french_3stars
+10 may i have the address of the restaurant
+11 do you have its phone number
+8 hello
+9 can you make a restaurant reservation at resto_rome_expensive_british_2stars
+10 do you have its address
+8 hi
+9 may i have a table at resto_bombay_expensive_british_8stars
+10 what is the phone number of the restaurant
+11 can you provide the address
+8 hi
+9 can you book a table at resto_rome_expensive_spanish_1stars
+10 do you have its address
+8 good morning
+9 can you book a table at resto_london_expensive_indian_7stars
+10 do you have its address
+11 do you have its phone number
+8 good morning
+9 can you book a table at resto_rome_expensive_french_5stars
+10 what is the phone number of the restaurant
+11 do you have its address
+8 good morning
+9 may i have a table at resto_rome_moderate_spanish_3stars
+10 do you have its phone number
+11 do you have its address
+8 good morning
+9 can you make a restaurant reservation at resto_bombay_cheap_indian_8stars
+10 may i have the address of the restaurant
+8 good morning
+9 i'd like to book a table at resto_rome_moderate_spanish_1stars
+10 do you have its address
+11 what is the phone number of the restaurant
+8 good morning
+9 i'd like to book a table at resto_london_expensive_spanish_2stars
+10 what is the phone number of the restaurant
+11 do you have its address
+8 hi
+9 can you book a table at resto_london_expensive_british_5stars
+10 can you provide the address
+8 hello
+9 can you book a table at resto_bombay_cheap_british_4stars
+10 do you have its phone number
+8 hello
+9 can you make a restaurant reservation at resto_bombay_expensive_french_2stars
+10 do you have its address
+11 what is the phone number of the restaurant
+8 hi
+9 can you make a restaurant reservation at resto_bombay_moderate_french_8stars
+10 do you have its phone number
+11 do you have its address
+8 hello
+9 can you book a table at resto_paris_moderate_italian_1stars
+10 may i have the address of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_bombay_moderate_french_4stars
+10 may i have the phone number of the restaurant
+8 good morning
+9 can you book a table at resto_paris_expensive_italian_3stars
+10 what is the phone number of the restaurant
+11 do you have its address
+8 hello
+9 i'd like to book a table at resto_paris_moderate_italian_8stars
+10 do you have its phone number
+8 hi
+9 i'd like to book a table at resto_london_expensive_italian_2stars
+10 may i have the phone number of the restaurant
+8 hello
+9 can you book a table at resto_london_expensive_british_2stars
+10 may i have the phone number of the restaurant
+11 may i have the address of the restaurant
+8 hi
+9 may i have a table at resto_paris_cheap_spanish_8stars
+10 what is the phone number of the restaurant
+11 can you provide the address
+8 good morning
+9 can you book a table at resto_rome_moderate_italian_1stars
+10 may i have the address of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_madrid_expensive_spanish_7stars
+10 can you provide the address
+11 what is the phone number of the restaurant
+8 good morning
+9 i'd like to book a table at resto_london_expensive_british_6stars
+10 may i have the address of the restaurant
+8 good morning
+9 may i have a table at resto_paris_moderate_italian_4stars
+10 what is the phone number of the restaurant
+8 good morning
+9 i'd like to book a table at resto_london_moderate_indian_6stars
+10 may i have the phone number of the restaurant
+8 hi
+9 can you book a table at resto_madrid_expensive_french_6stars
+10 do you have its address
+8 good morning
+9 can you book a table at resto_london_expensive_british_3stars
+10 what is the phone number of the restaurant
+11 do you have its address
+8 hi
+9 i'd like to book a table at resto_madrid_cheap_french_2stars
+10 may i have the phone number of the restaurant
+11 do you have its address
+8 hi
+9 can you make a restaurant reservation at resto_london_cheap_british_5stars
+10 do you have its address
+8 hello
+9 may i have a table at resto_london_expensive_spanish_7stars
+10 may i have the address of the restaurant
+8 hi
+9 can you make a restaurant reservation at resto_bombay_expensive_spanish_5stars
+10 do you have its address
+11 what is the phone number of the restaurant
+8 hi
+9 i'd like to book a table at resto_paris_expensive_british_6stars
+10 can you provide the address
+8 hello
+9 can you book a table at resto_london_cheap_french_3stars
+10 can you provide the address
+8 good morning
+9 can you book a table at resto_london_cheap_spanish_1stars
+10 may i have the address of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_rome_expensive_british_1stars
+10 do you have its address
+11 do you have its phone number
+8 hi
+9 can you make a restaurant reservation at resto_london_moderate_spanish_5stars
+10 may i have the phone number of the restaurant
+11 may i have the address of the restaurant
+8 hi
+9 may i have a table at resto_bombay_cheap_indian_3stars
+10 do you have its address
+11 do you have its phone number
+8 hi
+9 can you make a restaurant reservation at resto_paris_moderate_italian_4stars
+10 may i have the address of the restaurant
+11 what is the phone number of the restaurant
+8 hi
+9 can you make a restaurant reservation at resto_paris_moderate_indian_3stars
+10 can you provide the address
+11 what is the phone number of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_london_expensive_italian_2stars
+10 do you have its phone number
+11 do you have its address
+8 good morning
+9 can you book a table at resto_rome_cheap_italian_1stars
+10 do you have its address
+11 may i have the phone number of the restaurant
+8 good morning
+9 i'd like to book a table at resto_paris_expensive_indian_5stars
+10 what is the phone number of the restaurant
+11 do you have its address
+8 good morning
+9 i'd like to book a table at resto_paris_cheap_spanish_5stars
+10 may i have the phone number of the restaurant
+8 good morning
+9 may i have a table at resto_rome_moderate_italian_2stars
+10 can you provide the address
+11 do you have its phone number
+8 hello
+9 can you book a table at resto_bombay_expensive_italian_3stars
+10 do you have its address
+11 what is the phone number of the restaurant
+8 good morning
+9 may i have a table at resto_bombay_cheap_italian_6stars
+10 do you have its phone number
+8 good morning
+9 may i have a table at resto_bombay_cheap_indian_1stars
+10 may i have the address of the restaurant
+11 what is the phone number of the restaurant
+8 hi
+9 may i have a table at resto_london_cheap_spanish_1stars
+10 do you have its phone number
+8 hello
+9 can you make a restaurant reservation at resto_london_expensive_italian_6stars
+10 do you have its address
+8 hi
+9 i'd like to book a table at resto_london_expensive_italian_8stars
+10 do you have its address
+11 what is the phone number of the restaurant
+8 good morning
+9 may i have a table at resto_paris_expensive_british_6stars
+10 do you have its phone number
+11 do you have its address
+8 hi
+9 may i have a table at resto_madrid_moderate_spanish_4stars
+10 what is the phone number of the restaurant
+8 hi
+9 can you make a restaurant reservation at resto_london_expensive_italian_3stars
+10 can you provide the address
+11 do you have its phone number
+8 hello
+9 i'd like to book a table at resto_madrid_expensive_italian_6stars
+10 can you provide the address
+8 hi
+9 i'd like to book a table at resto_bombay_cheap_indian_2stars
+10 what is the phone number of the restaurant
+8 hello
+9 can you make a restaurant reservation at resto_london_expensive_spanish_6stars
+10 can you provide the address
+11 do you have its phone number
+8 hello
+9 may i have a table at resto_madrid_moderate_indian_1stars
+10 do you have its phone number
+8 hi
+9 can you make a restaurant reservation at resto_london_expensive_spanish_2stars
+10 can you provide the address
+11 may i have the phone number of the restaurant
+8 good morning
+9 may i have a table at resto_rome_moderate_spanish_2stars
+10 do you have its address
+8 good morning
+9 can you book a table at resto_bombay_cheap_french_7stars
+10 do you have its phone number
+11 can you provide the address
+8 hello
+9 may i have a table at resto_paris_moderate_italian_4stars
+10 do you have its address
+8 good morning
+9 i'd like to book a table at resto_paris_moderate_italian_1stars
+10 can you provide the address
+11 what is the phone number of the restaurant
+8 hi
+9 can you make a restaurant reservation at resto_bombay_expensive_italian_8stars
+10 do you have its address
+11 may i have the phone number of the restaurant
+8 hi
+9 i'd like to book a table at resto_paris_expensive_indian_1stars
+10 do you have its phone number
+11 can you provide the address
+8 good morning
+9 i'd like to book a table at resto_madrid_moderate_italian_8stars
+10 may i have the address of the restaurant
+8 hi
+9 can you book a table at resto_madrid_cheap_indian_4stars
+10 may i have the phone number of the restaurant
+11 may i have the address of the restaurant
+8 hello
+9 may i have a table at resto_madrid_moderate_indian_7stars
+10 do you have its phone number
+8 hi
+9 i'd like to book a table at resto_london_moderate_italian_1stars
+10 what is the phone number of the restaurant
+11 may i have the address of the restaurant
+8 good morning
+9 can you book a table at resto_madrid_moderate_indian_2stars
+10 what is the phone number of the restaurant
+8 hello
+9 can you book a table at resto_rome_moderate_british_2stars
+10 do you have its phone number
+11 do you have its address
+8 hello
+9 can you make a restaurant reservation at resto_paris_expensive_british_7stars
+10 do you have its address
+11 may i have the phone number of the restaurant
+8 good morning
+9 can you book a table at resto_bombay_expensive_french_7stars
+10 what is the phone number of the restaurant
+8 hello
+9 can you make a restaurant reservation at resto_bombay_expensive_italian_3stars
+10 may i have the address of the restaurant
+11 may i have the phone number of the restaurant
+8 good morning
+9 may i have a table at resto_rome_expensive_spanish_6stars
+10 may i have the address of the restaurant
+11 what is the phone number of the restaurant
+8 good morning
+9 i'd like to book a table at resto_bombay_expensive_british_4stars
+10 do you have its phone number
+8 hello
+9 can you book a table at resto_paris_expensive_british_7stars
+10 do you have its phone number
+8 good morning
+9 can you make a restaurant reservation at resto_paris_cheap_british_7stars
+10 can you provide the address
+11 do you have its phone number
+8 hello
+9 can you make a restaurant reservation at resto_paris_cheap_spanish_2stars
+10 can you provide the address
+8 hello
+9 i'd like to book a table at resto_london_expensive_french_4stars
+10 do you have its address
+8 good morning
+9 i'd like to book a table at resto_london_moderate_french_7stars
+10 may i have the phone number of the restaurant
+11 can you provide the address
+8 good morning
+9 can you make a restaurant reservation at resto_rome_moderate_british_4stars
+10 do you have its address
+8 good morning
+9 may i have a table at resto_london_expensive_spanish_7stars
+10 may i have the phone number of the restaurant
+8 good morning
+9 i'd like to book a table at resto_london_expensive_british_8stars
+10 can you provide the address
+11 what is the phone number of the restaurant
+8 hi
+9 i'd like to book a table at resto_rome_cheap_italian_4stars
+10 can you provide the address
+11 what is the phone number of the restaurant
+8 hi
+9 can you book a table at resto_rome_cheap_italian_1stars
+10 do you have its phone number
+11 may i have the address of the restaurant
+8 hi
+9 can you make a restaurant reservation at resto_rome_moderate_spanish_2stars
+10 do you have its address
+8 hello
+9 may i have a table at resto_madrid_moderate_indian_6stars
+10 do you have its phone number
+8 hi
+9 may i have a table at resto_bombay_cheap_italian_6stars
+10 do you have its address
+11 do you have its phone number
+8 good morning
+9 can you make a restaurant reservation at resto_bombay_expensive_spanish_5stars
+10 may i have the address of the restaurant
+11 what is the phone number of the restaurant
+8 good morning
+9 may i have a table at resto_bombay_cheap_british_8stars
+10 may i have the phone number of the restaurant
+11 may i have the address of the restaurant
+8 good morning
+9 i'd like to book a table at resto_london_expensive_french_8stars
+10 may i have the phone number of the restaurant
+11 may i have the address of the restaurant
+8 hi
+9 i'd like to book a table at resto_madrid_expensive_british_1stars
+10 what is the phone number of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_rome_moderate_british_1stars
+10 can you provide the address
+8 hi
+9 can you make a restaurant reservation at resto_madrid_cheap_spanish_6stars
+10 may i have the address of the restaurant
+8 hi
+9 i'd like to book a table at resto_madrid_expensive_british_8stars
+10 may i have the address of the restaurant
+11 may i have the phone number of the restaurant
+8 hello
+9 may i have a table at resto_bombay_expensive_spanish_4stars
+10 what is the phone number of the restaurant
+8 good morning
+9 can you book a table at resto_bombay_cheap_french_4stars
+10 what is the phone number of the restaurant
+11 may i have the address of the restaurant
+8 hi
+9 may i have a table at resto_rome_cheap_french_6stars
+10 can you provide the address
+11 what is the phone number of the restaurant
+8 hi
+9 can you make a restaurant reservation at resto_rome_cheap_italian_8stars
+10 do you have its address
+8 good morning
+9 i'd like to book a table at resto_rome_cheap_italian_1stars
+10 what is the phone number of the restaurant
+8 good morning
+9 i'd like to book a table at resto_rome_moderate_spanish_1stars
+10 may i have the address of the restaurant
+8 good morning
+9 i'd like to book a table at resto_london_moderate_french_6stars
+10 can you provide the address
+8 hi
+9 i'd like to book a table at resto_rome_expensive_italian_2stars
+10 can you provide the address
+11 do you have its phone number
+8 hello
+9 can you make a restaurant reservation at resto_london_moderate_french_6stars
+10 may i have the address of the restaurant
+11 what is the phone number of the restaurant
+8 hello
+9 may i have a table at resto_london_expensive_british_7stars
+10 do you have its phone number
+8 good morning
+9 can you book a table at resto_paris_expensive_french_8stars
+10 what is the phone number of the restaurant
+8 good morning
+9 can you book a table at resto_rome_moderate_spanish_4stars
+10 may i have the phone number of the restaurant
+8 hi
+9 can you make a restaurant reservation at resto_madrid_moderate_indian_7stars
+10 may i have the phone number of the restaurant
+8 hi
+9 may i have a table at resto_paris_moderate_indian_4stars
+10 do you have its phone number
+11 do you have its address
+8 hello
+9 can you make a restaurant reservation at resto_paris_cheap_british_3stars
+10 what is the phone number of the restaurant
+8 hi
+9 can you make a restaurant reservation at resto_madrid_expensive_italian_8stars
+10 do you have its phone number
+11 can you provide the address
+8 hello
+9 i'd like to book a table at resto_madrid_moderate_italian_4stars
+10 may i have the address of the restaurant
+8 hi
+9 can you make a restaurant reservation at resto_london_expensive_british_6stars
+10 may i have the phone number of the restaurant
+8 hello
+9 can you book a table at resto_madrid_expensive_spanish_2stars
+10 do you have its phone number
+11 do you have its address
+8 hello
+9 may i have a table at resto_bombay_expensive_french_6stars
+10 what is the phone number of the restaurant
+8 hello
+9 can you make a restaurant reservation at resto_bombay_cheap_indian_6stars
+10 what is the phone number of the restaurant
+11 do you have its address
+8 hi
+9 i'd like to book a table at resto_rome_expensive_french_5stars
+10 do you have its address
+8 hello
+9 can you make a restaurant reservation at resto_bombay_cheap_spanish_8stars
+10 may i have the phone number of the restaurant
+8 hello
+9 may i have a table at resto_rome_moderate_french_5stars
+10 can you provide the address
+8 hello
+9 may i have a table at resto_madrid_cheap_french_6stars
+10 may i have the phone number of the restaurant
+8 good morning
+9 can you book a table at resto_madrid_moderate_british_5stars
+10 do you have its address
+8 hello
+9 can you book a table at resto_bombay_expensive_french_1stars
+10 do you have its phone number
+8 good morning
+9 can you book a table at resto_bombay_cheap_spanish_5stars
+10 may i have the phone number of the restaurant
+11 may i have the address of the restaurant
+8 hello
+9 can you make a restaurant reservation at resto_rome_cheap_indian_1stars
+10 do you have its phone number
+8 hi
+9 can you book a table at resto_bombay_moderate_italian_5stars
+10 can you provide the address
+8 good morning
+9 may i have a table at resto_london_moderate_spanish_1stars
+10 may i have the address of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_madrid_moderate_italian_6stars
+10 may i have the phone number of the restaurant
+8 hi
+9 can you book a table at resto_bombay_moderate_italian_5stars
+10 can you provide the address
+8 good morning
+9 can you make a restaurant reservation at resto_paris_moderate_italian_1stars
+10 may i have the address of the restaurant
+11 may i have the phone number of the restaurant
+8 hello
+9 i'd like to book a table at resto_paris_cheap_italian_2stars
+10 may i have the phone number of the restaurant
+11 do you have its address
+8 hello
+9 can you make a restaurant reservation at resto_london_moderate_french_6stars
+10 may i have the address of the restaurant
+8 hello
+9 i'd like to book a table at resto_bombay_expensive_italian_5stars
+10 may i have the phone number of the restaurant
+8 hi
+9 i'd like to book a table at resto_paris_expensive_spanish_4stars
+10 can you provide the address
+11 what is the phone number of the restaurant
+8 hi
+9 may i have a table at resto_madrid_cheap_british_4stars
+10 do you have its phone number
+8 hi
+9 i'd like to book a table at resto_madrid_cheap_indian_2stars
+10 what is the phone number of the restaurant
+11 can you provide the address
+8 hello
+9 can you book a table at resto_paris_moderate_indian_6stars
+10 may i have the phone number of the restaurant
+8 hi
+9 may i have a table at resto_rome_moderate_french_6stars
+10 do you have its address
+8 good morning
+9 can you make a restaurant reservation at resto_bombay_moderate_french_4stars
+10 do you have its phone number
+8 good morning
+9 i'd like to book a table at resto_madrid_moderate_italian_4stars
+10 what is the phone number of the restaurant
+8 hello
+9 i'd like to book a table at resto_paris_cheap_italian_1stars
+10 do you have its address
+8 hello
+9 can you make a restaurant reservation at resto_bombay_expensive_british_5stars
+10 may i have the address of the restaurant
+11 do you have its phone number
+8 good morning
+9 can you make a restaurant reservation at resto_rome_moderate_indian_6stars
+10 may i have the address of the restaurant
+8 hi
+9 may i have a table at resto_london_cheap_british_5stars
+10 can you provide the address
+11 do you have its phone number
+8 hello
+9 i'd like to book a table at resto_rome_cheap_french_3stars
+10 what is the phone number of the restaurant
+11 may i have the address of the restaurant
+8 good morning
+9 can you book a table at resto_paris_moderate_indian_2stars
+10 can you provide the address
+8 good morning
+9 can you make a restaurant reservation at resto_rome_expensive_indian_7stars
+10 do you have its phone number
+11 may i have the address of the restaurant
+8 good morning
+9 can you book a table at resto_paris_expensive_indian_4stars
+10 do you have its address
+8 hello
+9 may i have a table at resto_london_cheap_spanish_1stars
+10 can you provide the address
+11 what is the phone number of the restaurant
+8 hello
+9 can you make a restaurant reservation at resto_madrid_cheap_spanish_8stars
+10 do you have its phone number
+8 good morning
+9 can you make a restaurant reservation at resto_london_expensive_indian_7stars
+10 can you provide the address
+11 what is the phone number of the restaurant
+8 hi
+9 can you book a table at resto_madrid_expensive_french_4stars
+10 may i have the address of the restaurant
+8 hi
+9 may i have a table at resto_london_cheap_spanish_1stars
+10 do you have its address
+11 may i have the phone number of the restaurant
+8 hi
+9 i'd like to book a table at resto_madrid_cheap_french_6stars
+10 may i have the phone number of the restaurant
+8 hi
+9 can you make a restaurant reservation at resto_madrid_moderate_british_4stars
+10 what is the phone number of the restaurant
+11 may i have the address of the restaurant
+8 hello
+9 can you make a restaurant reservation at resto_bombay_expensive_french_8stars
+10 do you have its phone number
+8 hi
+9 i'd like to book a table at resto_london_expensive_french_2stars
+10 what is the phone number of the restaurant
+8 good morning
+9 may i have a table at resto_bombay_cheap_italian_7stars
+10 do you have its address
+11 what is the phone number of the restaurant
+8 hi
+9 can you make a restaurant reservation at resto_paris_cheap_indian_2stars
+10 may i have the phone number of the restaurant
+8 good morning
+9 i'd like to book a table at resto_rome_expensive_british_3stars
+10 may i have the address of the restaurant
+11 may i have the phone number of the restaurant
+8 hello
+9 may i have a table at resto_paris_cheap_french_1stars
+10 may i have the phone number of the restaurant
+11 can you provide the address
+8 hi
+9 may i have a table at resto_paris_cheap_french_6stars
+10 can you provide the address
+11 may i have the phone number of the restaurant
+8 hello
+9 can you make a restaurant reservation at resto_bombay_expensive_french_6stars
+10 may i have the address of the restaurant
+8 hello
+9 can you book a table at resto_madrid_moderate_spanish_1stars
+10 can you provide the address
+11 what is the phone number of the restaurant
+8 hi
+9 i'd like to book a table at resto_madrid_moderate_spanish_5stars
+10 may i have the phone number of the restaurant
+11 do you have its address
+8 hello
+9 can you book a table at resto_rome_cheap_italian_8stars
+10 do you have its phone number
+11 may i have the address of the restaurant
+8 hi
+9 i'd like to book a table at resto_madrid_moderate_italian_2stars
+10 can you provide the address
+8 good morning
+9 can you book a table at resto_bombay_expensive_spanish_3stars
+10 can you provide the address
+11 do you have its phone number
+8 hi
+9 can you make a restaurant reservation at resto_madrid_moderate_indian_2stars
+10 may i have the address of the restaurant
+11 do you have its phone number
+8 hi
+9 can you make a restaurant reservation at resto_paris_cheap_british_6stars
+10 what is the phone number of the restaurant
+11 may i have the address of the restaurant
+8 hello
+9 can you book a table at resto_london_expensive_italian_2stars
+10 do you have its phone number
+11 do you have its address
+8 good morning
+9 may i have a table at resto_rome_expensive_french_2stars
+10 may i have the address of the restaurant
+8 hi
+9 i'd like to book a table at resto_paris_expensive_french_2stars
+10 do you have its address
+8 good morning
+9 i'd like to book a table at resto_rome_cheap_italian_8stars
+10 what is the phone number of the restaurant
+11 may i have the address of the restaurant
+8 hello
+9 may i have a table at resto_rome_cheap_indian_7stars
+10 do you have its address
+11 do you have its phone number
+8 good morning
+9 i'd like to book a table at resto_bombay_cheap_indian_6stars
+10 can you provide the address
+8 good morning
+9 can you make a restaurant reservation at resto_madrid_moderate_italian_2stars
+10 do you have its address
+11 may i have the phone number of the restaurant
+8 hi
+9 can you make a restaurant reservation at resto_paris_cheap_british_6stars
+10 may i have the phone number of the restaurant
+8 hi
+9 i'd like to book a table at resto_rome_moderate_italian_3stars
+10 do you have its phone number
+11 can you provide the address
+8 good morning
+9 can you make a restaurant reservation at resto_madrid_moderate_indian_6stars
+10 do you have its address
+8 hi
+9 can you book a table at resto_bombay_expensive_italian_3stars
+10 may i have the address of the restaurant
+8 good morning
+9 i'd like to book a table at resto_london_moderate_spanish_8stars
+10 can you provide the address
+8 hello
+9 may i have a table at resto_paris_moderate_italian_1stars
+10 do you have its address
+8 hi
+9 can you make a restaurant reservation at resto_rome_expensive_french_1stars
+10 can you provide the address
+8 good morning
+9 i'd like to book a table at resto_madrid_expensive_italian_8stars
+10 may i have the phone number of the restaurant
+11 may i have the address of the restaurant
+8 hello
+9 i'd like to book a table at resto_madrid_expensive_french_4stars
+10 can you provide the address
+11 what is the phone number of the restaurant
+8 hello
+9 can you book a table at resto_paris_moderate_indian_3stars
+10 do you have its address
+8 hello
+9 can you make a restaurant reservation at resto_rome_expensive_italian_2stars
+10 do you have its address
+11 do you have its phone number
+8 good morning
+9 can you make a restaurant reservation at resto_madrid_moderate_indian_7stars
+10 do you have its phone number
+11 may i have the address of the restaurant
+8 hi
+9 can you make a restaurant reservation at resto_rome_moderate_spanish_1stars
+10 may i have the address of the restaurant
+8 hello
+9 can you book a table at resto_paris_moderate_italian_4stars
+10 can you provide the address
+8 good morning
+9 i'd like to book a table at resto_bombay_cheap_french_3stars
+10 do you have its phone number
+8 good morning
+9 can you book a table at resto_bombay_cheap_french_2stars
+10 what is the phone number of the restaurant
+11 may i have the address of the restaurant
+8 hi
+9 can you make a restaurant reservation at resto_bombay_moderate_indian_6stars
+10 do you have its address
+8 hello
+9 can you book a table at resto_rome_cheap_french_8stars
+10 do you have its address
+8 good morning
+9 can you make a restaurant reservation at resto_madrid_moderate_italian_1stars
+10 can you provide the address
+8 good morning
+9 may i have a table at resto_bombay_cheap_indian_8stars
+10 may i have the phone number of the restaurant
+11 do you have its address
+8 hello
+9 i'd like to book a table at resto_london_expensive_italian_5stars
+10 do you have its address
+8 good morning
+9 can you make a restaurant reservation at resto_london_cheap_british_4stars
+10 can you provide the address
+11 may i have the phone number of the restaurant
+8 hello
+9 can you make a restaurant reservation at resto_madrid_expensive_italian_6stars
+10 do you have its phone number
+8 hi
+9 can you book a table at resto_bombay_expensive_indian_8stars
+10 do you have its address
+11 may i have the phone number of the restaurant
+8 hi
+9 may i have a table at resto_paris_cheap_french_1stars
+10 may i have the address of the restaurant
+8 hi
+9 can you book a table at resto_bombay_cheap_italian_8stars
+10 can you provide the address
+8 hello
+9 i'd like to book a table at resto_rome_moderate_british_1stars
+10 do you have its address
+11 what is the phone number of the restaurant
+8 hi
+9 may i have a table at resto_madrid_moderate_french_1stars
+10 may i have the address of the restaurant
+11 may i have the phone number of the restaurant
+8 hi
+9 can you make a restaurant reservation at resto_rome_moderate_spanish_1stars
+10 do you have its phone number
+11 can you provide the address
+8 hello
+9 can you book a table at resto_paris_expensive_spanish_1stars
+10 may i have the phone number of the restaurant
+11 can you provide the address
+8 hello
+9 can you make a restaurant reservation at resto_london_expensive_indian_7stars
+10 do you have its address
+8 hello
+9 can you make a restaurant reservation at resto_bombay_expensive_italian_4stars
+10 may i have the address of the restaurant
+8 hello
+9 can you book a table at resto_rome_expensive_spanish_6stars
+10 do you have its address
+11 what is the phone number of the restaurant
+8 hi
+9 i'd like to book a table at resto_paris_moderate_french_1stars
+10 may i have the phone number of the restaurant
+8 good morning
+9 may i have a table at resto_rome_cheap_italian_8stars
+10 do you have its phone number
+8 hello
+9 can you book a table at resto_london_expensive_indian_7stars
+10 may i have the phone number of the restaurant
+8 good morning
+9 i'd like to book a table at resto_rome_moderate_italian_2stars
+10 may i have the address of the restaurant
+8 hello
+9 i'd like to book a table at resto_london_expensive_french_7stars
+10 can you provide the address
+8 hi
+9 i'd like to book a table at resto_rome_cheap_french_8stars
+10 can you provide the address
+8 hello
+9 i'd like to book a table at resto_london_moderate_spanish_7stars
+10 do you have its phone number
+8 hello
+9 can you book a table at resto_rome_expensive_italian_8stars
+10 what is the phone number of the restaurant
+8 good morning
+9 can you book a table at resto_rome_expensive_spanish_1stars
+10 can you provide the address
+11 may i have the phone number of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_paris_expensive_british_7stars
+10 may i have the phone number of the restaurant
+8 hello
+9 may i have a table at resto_london_expensive_italian_8stars
+10 may i have the address of the restaurant
+8 hi
+9 can you book a table at resto_madrid_cheap_british_4stars
+10 may i have the phone number of the restaurant
+11 can you provide the address
+8 good morning
+9 i'd like to book a table at resto_paris_expensive_italian_3stars
+10 what is the phone number of the restaurant
+8 good morning
+9 i'd like to book a table at resto_london_moderate_spanish_7stars
+10 can you provide the address
+8 hello
+9 can you book a table at resto_rome_moderate_british_2stars
+10 what is the phone number of the restaurant
+8 good morning
+9 may i have a table at resto_paris_moderate_indian_7stars
+10 do you have its phone number
+11 do you have its address
+8 hi
+9 may i have a table at resto_bombay_cheap_indian_3stars
+10 do you have its phone number
+11 do you have its address
+8 hello
+9 can you make a restaurant reservation at resto_rome_moderate_british_3stars
+10 do you have its address
+11 do you have its phone number
+8 good morning
+9 may i have a table at resto_rome_expensive_italian_2stars
+10 can you provide the address
+8 hi
+9 i'd like to book a table at resto_madrid_moderate_french_3stars
+10 may i have the phone number of the restaurant
+11 can you provide the address
+8 hi
+9 may i have a table at resto_rome_moderate_british_6stars
+10 what is the phone number of the restaurant
+8 hello
+9 i'd like to book a table at resto_bombay_expensive_french_6stars
+10 what is the phone number of the restaurant
+8 hi
+9 can you book a table at resto_bombay_cheap_french_1stars
+10 what is the phone number of the restaurant
+8 hi
+9 may i have a table at resto_paris_moderate_italian_7stars
+10 can you provide the address
+11 may i have the phone number of the restaurant
+8 good morning
+9 i'd like to book a table at resto_rome_expensive_spanish_2stars
+10 do you have its phone number
+11 do you have its address
+8 good morning
+9 can you make a restaurant reservation at resto_london_moderate_italian_8stars
+10 do you have its phone number
+11 may i have the address of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_paris_moderate_italian_1stars
+10 do you have its phone number
+8 good morning
+9 may i have a table at resto_paris_moderate_french_4stars
+10 may i have the phone number of the restaurant
+8 hello
+9 can you book a table at resto_london_expensive_french_2stars
+10 do you have its phone number
+11 may i have the address of the restaurant
+8 hello
+9 can you book a table at resto_madrid_cheap_british_1stars
+10 may i have the phone number of the restaurant
+11 can you provide the address
+8 hi
+9 can you book a table at resto_madrid_moderate_italian_2stars
+10 do you have its phone number
+8 hi
+9 may i have a table at resto_london_cheap_french_6stars
+10 do you have its address
+8 hello
+9 can you make a restaurant reservation at resto_rome_expensive_british_1stars
+10 can you provide the address
+11 may i have the phone number of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_bombay_expensive_french_7stars
+10 may i have the phone number of the restaurant
+8 hello
+9 can you make a restaurant reservation at resto_madrid_cheap_indian_2stars
+10 what is the phone number of the restaurant
+11 do you have its address
+8 good morning
+9 can you book a table at resto_paris_cheap_british_1stars
+10 do you have its phone number
+8 hello
+9 can you make a restaurant reservation at resto_bombay_cheap_italian_6stars
+10 what is the phone number of the restaurant
+8 good morning
+9 may i have a table at resto_madrid_moderate_french_1stars
+10 do you have its phone number
+11 may i have the address of the restaurant
+8 good morning
+9 can you book a table at resto_rome_expensive_indian_7stars
+10 do you have its address
+8 hello
+9 can you make a restaurant reservation at resto_madrid_cheap_indian_7stars
+10 do you have its address
+11 may i have the phone number of the restaurant
+8 hello
+9 may i have a table at resto_madrid_moderate_british_6stars
+10 do you have its phone number
+8 good morning
+9 may i have a table at resto_rome_expensive_italian_8stars
+10 may i have the phone number of the restaurant
+11 may i have the address of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_paris_expensive_indian_6stars
+10 do you have its phone number
+11 can you provide the address
+8 good morning
+9 may i have a table at resto_paris_expensive_french_2stars
+10 may i have the address of the restaurant
+11 what is the phone number of the restaurant
+8 hi
+9 can you make a restaurant reservation at resto_rome_expensive_british_7stars
+10 do you have its phone number
+8 hi
+9 may i have a table at resto_madrid_moderate_british_5stars
+10 may i have the address of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_madrid_expensive_french_6stars
+10 do you have its phone number
+8 hello
+9 can you book a table at resto_paris_cheap_italian_3stars
+10 do you have its phone number
+11 do you have its address
+8 good morning
+9 can you make a restaurant reservation at resto_rome_moderate_french_6stars
+10 what is the phone number of the restaurant
+11 do you have its address
+8 hello
+9 may i have a table at resto_bombay_expensive_spanish_3stars
+10 may i have the phone number of the restaurant
+11 may i have the address of the restaurant
+8 good morning
+9 may i have a table at resto_bombay_expensive_italian_1stars
+10 do you have its phone number
+11 may i have the address of the restaurant
+8 good morning
+9 i'd like to book a table at resto_madrid_expensive_indian_8stars
+10 may i have the phone number of the restaurant
+8 hi
+9 can you make a restaurant reservation at resto_madrid_cheap_british_6stars
+10 may i have the phone number of the restaurant
+8 hello
+9 may i have a table at resto_bombay_cheap_spanish_3stars
+10 may i have the phone number of the restaurant
+8 hello
+9 may i have a table at resto_rome_cheap_french_6stars
+10 do you have its address
+8 hello
+9 i'd like to book a table at resto_madrid_moderate_italian_2stars
+10 can you provide the address
+11 what is the phone number of the restaurant
+8 hello
+9 may i have a table at resto_bombay_cheap_indian_2stars
+10 may i have the address of the restaurant
+11 do you have its phone number
+8 hi
+9 can you book a table at resto_paris_cheap_spanish_5stars
+10 do you have its address
+11 do you have its phone number
+8 hi
+9 can you book a table at resto_bombay_cheap_spanish_4stars
+10 may i have the address of the restaurant
+11 do you have its phone number
+8 hello
+9 can you make a restaurant reservation at resto_paris_expensive_indian_7stars
+10 do you have its address
+8 good morning
+9 may i have a table at resto_paris_moderate_italian_4stars
+10 may i have the phone number of the restaurant
+11 can you provide the address
+8 good morning
+9 can you book a table at resto_rome_moderate_indian_4stars
+10 can you provide the address
+11 may i have the phone number of the restaurant
+8 hi
+9 i'd like to book a table at resto_madrid_expensive_indian_8stars
+10 may i have the phone number of the restaurant
+8 good morning
+9 may i have a table at resto_rome_moderate_italian_2stars
+10 do you have its address
+11 may i have the phone number of the restaurant
+8 hi
+9 i'd like to book a table at resto_london_cheap_french_3stars
+10 can you provide the address
+11 what is the phone number of the restaurant
+8 hi
+9 can you book a table at resto_madrid_expensive_french_4stars
+10 what is the phone number of the restaurant
+11 can you provide the address
+8 good morning
+9 may i have a table at resto_paris_moderate_italian_1stars
+10 may i have the phone number of the restaurant
+11 do you have its address
+8 good morning
+9 i'd like to book a table at resto_paris_cheap_italian_6stars
+10 do you have its address
+11 may i have the phone number of the restaurant
+8 good morning
+9 may i have a table at resto_london_cheap_british_5stars
+10 what is the phone number of the restaurant
+8 good morning
+9 i'd like to book a table at resto_madrid_moderate_spanish_1stars
+10 do you have its phone number
+8 hello
+9 can you make a restaurant reservation at resto_paris_expensive_indian_5stars
+10 may i have the phone number of the restaurant
+11 may i have the address of the restaurant
+8 good morning
+9 can you book a table at resto_london_cheap_french_3stars
+10 may i have the address of the restaurant
+11 may i have the phone number of the restaurant
+8 hi
+9 can you book a table at resto_paris_expensive_spanish_1stars
+10 may i have the phone number of the restaurant
+11 may i have the address of the restaurant
+8 hello
+9 i'd like to book a table at resto_madrid_cheap_british_8stars
+10 do you have its address
+11 what is the phone number of the restaurant
+8 good morning
+9 i'd like to book a table at resto_madrid_cheap_french_6stars
+10 can you provide the address
+8 good morning
+9 may i have a table at resto_bombay_cheap_italian_1stars
+10 what is the phone number of the restaurant
+11 may i have the address of the restaurant
+8 good morning
+9 can you book a table at resto_rome_moderate_spanish_2stars
+10 can you provide the address
+11 do you have its phone number
+8 good morning
+9 may i have a table at resto_rome_cheap_italian_1stars
+10 do you have its phone number
+11 do you have its address
+8 good morning
+9 can you make a restaurant reservation at resto_bombay_expensive_french_7stars
+10 may i have the address of the restaurant
+11 do you have its phone number
+8 hello
+9 may i have a table at resto_paris_cheap_french_1stars
+10 do you have its address
+11 what is the phone number of the restaurant
+8 good morning
+9 i'd like to book a table at resto_paris_expensive_indian_5stars
+10 do you have its address
+8 hi
+9 can you book a table at resto_london_cheap_french_6stars
+10 may i have the phone number of the restaurant
+8 good morning
+9 i'd like to book a table at resto_paris_cheap_italian_6stars
+10 may i have the address of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_paris_expensive_french_2stars
+10 do you have its phone number
+8 good morning
+9 can you book a table at resto_madrid_moderate_british_6stars
+10 may i have the address of the restaurant
+8 hi
+9 i'd like to book a table at resto_rome_moderate_italian_8stars
+10 what is the phone number of the restaurant
+11 may i have the address of the restaurant
+8 good morning
+9 can you book a table at resto_bombay_moderate_spanish_7stars
+10 do you have its phone number
+8 hello
+9 i'd like to book a table at resto_madrid_expensive_italian_1stars
+10 do you have its address
+8 hello
+9 i'd like to book a table at resto_bombay_expensive_british_4stars
+10 can you provide the address
+8 hi
+9 can you make a restaurant reservation at resto_london_expensive_italian_1stars
+10 what is the phone number of the restaurant
+11 can you provide the address
+8 hi
+9 may i have a table at resto_paris_expensive_indian_8stars
+10 may i have the address of the restaurant
+8 good morning
+9 can you book a table at resto_rome_cheap_french_2stars
+10 what is the phone number of the restaurant
+11 do you have its address
+8 hello
+9 can you make a restaurant reservation at resto_paris_expensive_indian_8stars
+10 may i have the phone number of the restaurant
+11 do you have its address
+8 hi
+9 can you make a restaurant reservation at resto_paris_moderate_indian_7stars
+10 may i have the address of the restaurant
+11 may i have the phone number of the restaurant
+8 hello
+9 may i have a table at resto_london_expensive_french_4stars
+10 do you have its address
+11 do you have its phone number
+8 good morning
+9 may i have a table at resto_bombay_cheap_spanish_4stars
+10 do you have its phone number
+8 hello
+9 can you book a table at resto_london_cheap_spanish_1stars
+10 can you provide the address
+11 do you have its phone number
+8 hi
+9 may i have a table at resto_paris_moderate_italian_4stars
+10 may i have the address of the restaurant
+11 do you have its phone number
+8 hi
+9 can you make a restaurant reservation at resto_bombay_expensive_british_4stars
+10 may i have the phone number of the restaurant
+11 can you provide the address
+8 good morning
+9 can you make a restaurant reservation at resto_rome_expensive_british_4stars
+10 can you provide the address
+11 do you have its phone number
+8 hi
+9 may i have a table at resto_bombay_cheap_italian_1stars
+10 do you have its phone number
+11 may i have the address of the restaurant
+8 good morning
+9 i'd like to book a table at resto_madrid_expensive_italian_8stars
+10 do you have its address
+11 what is the phone number of the restaurant
+8 good morning
+9 may i have a table at resto_bombay_expensive_spanish_4stars
+10 what is the phone number of the restaurant
+11 do you have its address
+8 good morning
+9 can you book a table at resto_london_expensive_italian_7stars
+10 may i have the phone number of the restaurant
+11 can you provide the address
+8 hi
+9 may i have a table at resto_london_expensive_italian_7stars
+10 may i have the address of the restaurant
+11 what is the phone number of the restaurant
+8 hi
+9 can you make a restaurant reservation at resto_london_moderate_indian_6stars
+10 do you have its address
+8 hi
+9 can you book a table at resto_madrid_moderate_indian_6stars
+10 what is the phone number of the restaurant
+11 may i have the address of the restaurant
+8 hi
+9 i'd like to book a table at resto_bombay_expensive_british_4stars
+10 do you have its address
+11 may i have the phone number of the restaurant
+8 good morning
+9 may i have a table at resto_london_expensive_spanish_4stars
+10 may i have the phone number of the restaurant
+11 can you provide the address
+8 good morning
+9 i'd like to book a table at resto_bombay_cheap_french_1stars
+10 do you have its address
+11 may i have the phone number of the restaurant
+8 hello
+9 can you book a table at resto_bombay_cheap_spanish_5stars
+10 may i have the phone number of the restaurant
+8 hello
+9 can you make a restaurant reservation at resto_paris_expensive_french_3stars
+10 can you provide the address
+8 hello
+9 may i have a table at resto_london_expensive_indian_7stars
+10 can you provide the address
+8 hi
+9 may i have a table at resto_paris_cheap_french_8stars
+10 do you have its phone number
+8 hello
+9 i'd like to book a table at resto_madrid_expensive_indian_4stars
+10 do you have its address
+8 hello
+9 can you make a restaurant reservation at resto_bombay_expensive_british_5stars
+10 what is the phone number of the restaurant
+11 can you provide the address
+8 hello
+9 can you make a restaurant reservation at resto_paris_cheap_italian_1stars
+10 can you provide the address
+11 do you have its phone number
+8 hi
+9 can you make a restaurant reservation at resto_rome_cheap_italian_8stars
+10 may i have the address of the restaurant
+11 do you have its phone number
+8 hello
+9 can you book a table at resto_madrid_expensive_indian_8stars
+10 may i have the phone number of the restaurant
+11 may i have the address of the restaurant
+8 hello
+9 can you book a table at resto_bombay_moderate_italian_2stars
+10 may i have the phone number of the restaurant
+11 may i have the address of the restaurant
+8 hello
+9 can you book a table at resto_rome_moderate_spanish_1stars
+10 what is the phone number of the restaurant
+8 good morning
+9 may i have a table at resto_rome_expensive_french_5stars
+10 do you have its phone number
+8 hello
+9 can you make a restaurant reservation at resto_madrid_moderate_italian_2stars
+10 do you have its address
+8 good morning
+9 can you make a restaurant reservation at resto_bombay_moderate_indian_5stars
+10 may i have the address of the restaurant
+11 what is the phone number of the restaurant
+8 hi
+9 can you book a table at resto_madrid_moderate_british_1stars
+10 can you provide the address
+11 may i have the phone number of the restaurant
+8 hello
+9 can you make a restaurant reservation at resto_rome_cheap_french_3stars
+10 may i have the address of the restaurant
+8 hello
+9 can you make a restaurant reservation at resto_rome_cheap_italian_2stars
+10 can you provide the address
+11 do you have its phone number
+8 good morning
+9 i'd like to book a table at resto_madrid_cheap_french_6stars
+10 do you have its phone number
+8 good morning
+9 i'd like to book a table at resto_bombay_cheap_italian_8stars
+10 what is the phone number of the restaurant
+8 hello
+9 may i have a table at resto_rome_moderate_spanish_4stars
+10 may i have the address of the restaurant
+8 hi
+9 can you book a table at resto_madrid_expensive_indian_7stars
+10 may i have the address of the restaurant
+8 hi
+9 can you book a table at resto_london_cheap_spanish_1stars
+10 do you have its phone number
+11 may i have the address of the restaurant
+8 hello
+9 i'd like to book a table at resto_madrid_cheap_indian_7stars
+10 may i have the phone number of the restaurant
+8 hello
+9 i'd like to book a table at resto_london_cheap_british_6stars
+10 do you have its address
+8 good morning
+9 i'd like to book a table at resto_rome_expensive_french_8stars
+10 may i have the address of the restaurant
+8 hello
+9 can you book a table at resto_paris_expensive_spanish_1stars
+10 may i have the phone number of the restaurant
+8 hi
+9 can you make a restaurant reservation at resto_london_expensive_french_4stars
+10 can you provide the address
+8 hi
+9 can you make a restaurant reservation at resto_rome_moderate_british_5stars
+10 what is the phone number of the restaurant
+8 hello
+9 i'd like to book a table at resto_paris_cheap_british_2stars
+10 can you provide the address
+11 do you have its phone number
+8 hello
+9 may i have a table at resto_london_moderate_indian_6stars
+10 may i have the phone number of the restaurant
+11 can you provide the address
+8 hello
+9 can you make a restaurant reservation at resto_london_cheap_british_5stars
+10 do you have its phone number
+8 hello
+9 can you book a table at resto_rome_moderate_italian_1stars
+10 may i have the phone number of the restaurant
+11 may i have the address of the restaurant
+8 hello
+9 i'd like to book a table at resto_rome_moderate_italian_3stars
+10 do you have its address
+8 hi
+9 i'd like to book a table at resto_bombay_expensive_indian_5stars
+10 may i have the phone number of the restaurant
+11 can you provide the address
+8 hello
+9 can you book a table at resto_bombay_expensive_italian_3stars
+10 what is the phone number of the restaurant
+11 may i have the address of the restaurant
+8 hello
+9 i'd like to book a table at resto_london_expensive_british_2stars
+10 what is the phone number of the restaurant
+11 may i have the address of the restaurant
+8 hello
+9 i'd like to book a table at resto_rome_expensive_indian_7stars
+10 may i have the address of the restaurant
+8 hello
+9 can you make a restaurant reservation at resto_bombay_cheap_spanish_7stars
+10 can you provide the address
+11 do you have its phone number
+8 good morning
+9 may i have a table at resto_bombay_expensive_italian_6stars
+10 do you have its phone number
+11 can you provide the address
+8 hello
+9 i'd like to book a table at resto_london_expensive_french_7stars
+10 may i have the address of the restaurant
+11 may i have the phone number of the restaurant
+8 hello
+9 may i have a table at resto_rome_expensive_italian_2stars
+10 can you provide the address
+11 what is the phone number of the restaurant
+8 hello
+9 may i have a table at resto_rome_expensive_italian_8stars
+10 may i have the address of the restaurant
+11 may i have the phone number of the restaurant
+8 good morning
+9 i'd like to book a table at resto_paris_cheap_french_1stars
+10 do you have its address
+11 what is the phone number of the restaurant
+8 hello
+9 can you make a restaurant reservation at resto_madrid_moderate_spanish_8stars
+10 may i have the address of the restaurant
+11 what is the phone number of the restaurant
+8 good morning
+9 i'd like to book a table at resto_madrid_cheap_spanish_3stars
+10 may i have the phone number of the restaurant
+8 hello
+9 may i have a table at resto_paris_cheap_spanish_1stars
+10 may i have the address of the restaurant
+11 may i have the phone number of the restaurant
+8 hello
+9 can you book a table at resto_madrid_moderate_indian_6stars
+10 what is the phone number of the restaurant
+11 do you have its address
+8 good morning
+9 may i have a table at resto_paris_expensive_indian_8stars
+10 may i have the address of the restaurant
+11 do you have its phone number
+8 hi
+9 can you book a table at resto_madrid_expensive_italian_6stars
+10 what is the phone number of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_rome_cheap_indian_7stars
+10 can you provide the address
+11 do you have its phone number
+8 hi
+9 may i have a table at resto_rome_expensive_spanish_1stars
+10 may i have the phone number of the restaurant
+11 can you provide the address
+8 good morning
+9 can you make a restaurant reservation at resto_rome_expensive_spanish_1stars
+10 may i have the phone number of the restaurant
+11 may i have the address of the restaurant
+8 hi
+9 can you make a restaurant reservation at resto_paris_expensive_british_7stars
+10 may i have the phone number of the restaurant
+11 can you provide the address
+8 hello
+9 can you book a table at resto_bombay_moderate_indian_3stars
+10 what is the phone number of the restaurant
+11 can you provide the address
+8 hello
+9 can you book a table at resto_london_expensive_french_8stars
+10 do you have its phone number
+11 do you have its address
+8 hi
+9 can you book a table at resto_bombay_expensive_spanish_2stars
+10 what is the phone number of the restaurant
+11 may i have the address of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_rome_expensive_indian_7stars
+10 may i have the address of the restaurant
+11 do you have its phone number
+8 hi
+9 can you make a restaurant reservation at resto_bombay_cheap_indian_5stars
+10 do you have its address
+8 hi
+9 can you make a restaurant reservation at resto_madrid_moderate_british_4stars
+10 can you provide the address
+11 may i have the phone number of the restaurant
+8 hello
+9 may i have a table at resto_madrid_cheap_spanish_3stars
+10 what is the phone number of the restaurant
+8 hello
+9 can you book a table at resto_paris_cheap_british_6stars
+10 may i have the address of the restaurant
+8 hi
+9 i'd like to book a table at resto_rome_moderate_british_7stars
+10 do you have its phone number
+8 hello
+9 i'd like to book a table at resto_london_cheap_british_3stars
+10 do you have its phone number
+8 hello
+9 i'd like to book a table at resto_rome_cheap_indian_8stars
+10 may i have the phone number of the restaurant
+11 can you provide the address
+8 hello
+9 i'd like to book a table at resto_bombay_expensive_indian_5stars
+10 what is the phone number of the restaurant
+8 hi
+9 can you book a table at resto_london_expensive_british_5stars
+10 do you have its address
+8 hi
+9 may i have a table at resto_paris_expensive_spanish_7stars
+10 what is the phone number of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_paris_moderate_indian_4stars
+10 do you have its phone number
+8 good morning
+9 can you book a table at resto_madrid_cheap_british_2stars
+10 do you have its phone number
+11 may i have the address of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_madrid_expensive_spanish_7stars
+10 do you have its phone number
+8 hello
+9 may i have a table at resto_madrid_expensive_indian_6stars
+10 do you have its address
+8 hello
+9 i'd like to book a table at resto_rome_expensive_italian_2stars
+10 can you provide the address
+8 hello
+9 can you make a restaurant reservation at resto_madrid_moderate_french_8stars
+10 can you provide the address
+8 hi
+9 can you book a table at resto_madrid_moderate_british_5stars
+10 do you have its phone number
+11 may i have the address of the restaurant
+8 hello
+9 may i have a table at resto_bombay_moderate_indian_5stars
+10 can you provide the address
+8 hello
+9 i'd like to book a table at resto_bombay_cheap_french_2stars
+10 can you provide the address
+11 may i have the phone number of the restaurant
+8 hi
+9 can you book a table at resto_madrid_expensive_spanish_7stars
+10 what is the phone number of the restaurant
+11 can you provide the address
+8 good morning
+9 i'd like to book a table at resto_bombay_cheap_italian_3stars
+10 do you have its phone number
+8 good morning
+9 can you make a restaurant reservation at resto_rome_cheap_italian_8stars
+10 can you provide the address
+8 good morning
+9 i'd like to book a table at resto_bombay_cheap_indian_1stars
+10 can you provide the address
+8 hi
+9 can you book a table at resto_london_expensive_italian_1stars
+10 may i have the address of the restaurant
+11 what is the phone number of the restaurant
+8 hello
+9 can you make a restaurant reservation at resto_london_expensive_spanish_2stars
+10 do you have its address
+11 do you have its phone number
+8 hello
+9 i'd like to book a table at resto_bombay_expensive_french_5stars
+10 what is the phone number of the restaurant
+11 may i have the address of the restaurant
+8 hi
+9 can you book a table at resto_rome_moderate_french_5stars
+10 do you have its address
+11 may i have the phone number of the restaurant
+8 hi
+9 can you make a restaurant reservation at resto_bombay_expensive_italian_3stars
+10 what is the phone number of the restaurant
+8 hi
+9 may i have a table at resto_bombay_expensive_italian_3stars
+10 may i have the phone number of the restaurant
+8 good morning
+9 can you make a restaurant reservation at resto_rome_moderate_british_4stars
+10 can you provide the address
+11 do you have its phone number
+8 good morning
+9 i'd like to book a table at resto_paris_moderate_italian_4stars
+10 may i have the phone number of the restaurant

@@ -1,0 +1,551 @@
+0 i need the address and phone number of a restaurant that serves polish.
+1 ok, how about a thai restaurant? i want address and phone number.
+2 thank you, goodbye.
+0 i am looking for a restaurant serving mediterranean food.
+1 is there another venue?
+2 what is the address and phone number?
+3 thank you, goodbye.
+4 i don't care about the price. thank you goodbye.
+0 i would like an expensive restaurant in the east part of town, please.
+1 i don't have a preference.
+2 what is the address?
+3 thank you and good bye.
+4 bye.
+5 goodbye.
+0 moderately priced restaurant in the west part of town please
+1 please give me the address of the british restaurant.
+2 what type of food do they serve ?
+3 thank you, goodbye.
+0 i am interested in finding an expensive restaurant serving italian food.
+1 i don't care which area the restaurant is located in.
+2 can i have the address and phone number please?
+3 what type of food do they serve?
+4 thank you
+0 i'm looking for malaysian food.
+1 how about asian_oriental type of food?
+2 no particular area, but i'm looking for an expensive restaurant.
+3 is there anything else?
+4 thank you, goodbye
+0 hello, i am looking for a moderately priced restaurant on the north side of town.
+1 what is their address?
+2 thank you good  bye
+0 i would like some lebanese food in the west part of town. are there any available?
+1 how about thai food?
+2 yes, the address, phone number, and their price range please.
+3 thank you goodbye.
+0 can you recommend a restaurant to me in the south part of town?  i don't want to spend a lot of money.
+1 the type of food doesn't matter to me.
+2 is there anything else?
+3 what is the phone number?
+4 that will be good. thank you!
+0 is there a cheap restaurant in the north part of town?
+1 is there anything else?
+2 what is the address and phone number?
+3 thank you goodbye.
+0 hi.  can you please help me find a moderately priced restaurant in the south part of town?
+1 may i have the address and phone number please
+2 thank you. goodbye.
+0 i'm looking for a cheap restaurant in the south part of town.
+1 can i have the address and phone number?
+2 no, thank you goodbye
+0 i am looking for a restaurant that is in the moderate price range and in the west part of town.
+1 any type of food will be fine as long as it is moderately priced and in the west part of town.
+2 great, can i please have their address and postcode?
+3 thank you good bye.
+0 i am looking for a restaurant that serves catalan food in any price range.
+1 it does not matter.
+2 no, i don't care
+3 is there a restaurant that serves international food? can you give me the address?
+4 i will try that one.  thank you and good bye.
+0 can i have a moderately priced restaurant in the west ?
+1 i do not care.
+2 yes it will do. can i have the phone number please ?
+3 thank you , good bye.
+0 hello, i'm looking for an expensive restaurant located in the south part of town.
+1 i don't care
+2 are there any other options?
+3 yes, please give me the phone number, address, and postcode.
+4 what is the postcode again?
+5 thank you, goodbye
+0 i am looking for a cheap restaurant in the north part of town. i will need their address.
+1 thank you goodbye.
+0 i need a restaurant that serves turkish food.
+1 i do not have a preference.
+2 what is the other turkish restaurant in the moderate price range?
+3 what is the address and price range?
+4 what is the food type they are good at ?
+5 thank you goodbye.
+0 looking for a cheap restaurant.
+1 do you have brazilian or portuguese?
+2 what is the address?
+0 i'm looking for a restaurant in the east part of town that serves cantonese food.
+1 what about an indian restaurant?
+2 what is the phone number?
+3 address please
+4 thank you. good bye.
+0 i'm looking for a restaurant the serves spanish food.
+1 i have no preference.
+2 yes, i would like the address of la_raza please.
+3 no. thank you, goodbye.
+0 i want a cheap portuguese restaurant. give me their address, phone number, and area, please.
+1 thank you, goodbye
+0 i want to find a cheap restaurant in the south part of town.
+1 are there any other places?
+2 sorry what is the food type of that restaurant ?
+3 what is the price range ?
+4 that sounds yummy. what is their address and phone number?
+5 no thank you.  bye bye!
+0 i'm looking for an english restaurant that's moderately priced..
+1 okay, then i'm looking for a restaurant with chinese food that's moderately priced.
+0 i would like a moderately priced restaurant in the north part of town
+1 is there anything else?
+2 what kind of food does the_nirala serve?
+3 what is their phone number?
+4 no, thank you. i have all the information that i need now.
+5 good bye
+0 i'm looking for a swedish restaurant, preferably in the expensive price range.
+1 mediterranean food.
+2 i prefer the expensive price range.
+3 thank you. goodbye.
+0 is there an expensive restaurant serving caribbean food?
+1 how about thai?
+2 great, what is the address and phone number for bangkok_city?
+0 i would like a hungarian restaurant in the west of town.
+1 is there any indian food on the west side of town.
+2 the price range doesn't matter.
+3 yes, but just for one.
+4 thank you!
+5 nope, i'm good. thanks again.
+0 is there a thai restaurant in the centre of town?
+1 what is the address?
+2 what is the phone number and price range?
+3 no, that's all the information i needed. thank you. good bye.
+0 i am looking for an expensive restaurant that serves persian food.
+1 how about a restaurant that serves european food?
+2 the area doesn't matter.
+3 yes please. and the address as well.
+4 thank you goodbye.
+0 i want a moroccan restaurant.
+1 any price range will be fine.
+2 yes. can you find any mediterranean restaurant please
+3 i would like the address, phone number, and post code information for la_mimosa please. thank you!
+4 that's it. thank you, goodbye
+0 i would like a cheap restaurant in the south part of town.
+1 what is the price range there?
+2 excellent. what is their address and phone number?
+3 thank you, goodbye!
+0 i'd like to find an east side restaurant that is expensive.
+1 chinese food sound good.
+2 what is their address and postcode?
+3 thank you goodbye.
+0 is there a cheap restaurant serving belgian food?
+1 i do not care what area it is in.
+2 how about a cheap restaurant serving italian food?
+0 i want an expensive restaurant in the east part of town. i would also like its phone number.
+1 i appreciate your help. good bye.
+0 i am looking for an expensive restaurant that serves welsh food.
+1 how about korean food?
+2 yes, i would like their address and what part of town they are located in.
+3 thank you, goodbye.
+0 i am looking for a restaurant that serves thai food and is in the expensive price range.
+1 what is the address and phone number ?
+2 thank you good bye.
+3 no further assistance needed. goodbye.
+0 i need some portuguese food! i need a restaurant in any area. please give me a phone number.
+1 is there anything else?
+2 thank you. goodbye.
+0 is there a restaurant in the centre of town serving halal food?
+1 is there any restaurant in the centre serving spanish food?
+2 i don't care.
+3 la_raza sounds lovely. may i have the number and postcode please?
+4 no, thank you, i have all i need.  goodbye!
+5 again, goodbye!
+0 i am looking for a restaurant that serves caribbean food and in the moderate price range.
+1 are there any spanish restaurants?
+2 what is the address, phone number, and postcode?
+3 thank you good bye.
+0 need a restrauant serving turkish style venue
+1 any area would be fine! could i please get the address and postcode of a turkish restaurant?
+2 thank you goodbye.
+0 i need the phone number of a restaurant in the west part of town that serves italian ood.
+1 thank you, goodbye.
+0 i want to find a cheap restaurant serving swedish food
+1 how about indian food?
+2 yes, what is the address for royal_spice please?
+3 thank you. goodbye.
+0 i want something in the north part of town. moderately priced.
+1 any type of food will be fine as long as it's moderately priced and in the north part of town.
+2 i've actually had a bad experience at the gold wok. is there another moderately priced restaurant in the north?
+3 sounds good.  what is the postcode and phone number?
+4 thank you. goodbye.
+0 i want to find a cheap restaurant in the north part of town. what is the phone number?
+1 thank you. goodbye.
+0 i'd like information about a restaurant in south that serves english food.
+1 how about chinese food?
+2 cheap price range
+3 yes, i would like to know the address please
+4 thank you, goodbye.
+0 i need to find a restaurant in the north side of town
+1 i don't have a price range. i'm looking for a restaurant that serves catalan food.
+2 how about french type food?
+3 yes. can i get the name and phone number of one of those restaurants?
+4 what is the area again sorry ?
+5 thank you for your help. have a great evening.
+0 i would like a moderately priced restaurant in the north part of town.
+1 what type of food does golden_wok serve?
+2 yes what is the address for the business?
+3 great. i have everything i need, thank you
+0 hi.  i'm trying to find a good restaurant in the south part of town.
+1 yes, i'd like a restaurant that serves portuguese food.
+2 nandos sounds great. thank you.
+3 goodbye.
+0 can you give me the address for an indian restaurant in the south part of town?
+1 what is the address and price range?
+2 thank you, goodbye.
+0 i'm trying to find a moderately priced restaurant in the east part of town.  can you recommend one to me?
+1 can you suggest me some indian ones ?
+2 thank you, can you please give me the address and phone number?
+3 thank you, goodbye
+0 i would like a moderately priced restaurant in the north part of town
+1 can i have the phone number of the chinese place please?
+2 ok,  thank you
+0 i am looking for a cheap restaurant in the north part of town.
+1 i don't care what type of food it is.
+2 what are their phone numbers?
+3 thank you good bye.
+0 i want to find a cheap restaurant serving hungarian food.
+1 i do not care about the area as long as it is hungarian food and cheap.
+2 yes, how about a restaurant that serves modern_european food?
+3 can i get the address and postcode?
+4 that's it, thank you, goodbye
+0 hello, i am looking for an expensive restaurant that serves irish food.
+1 yes, i would like an expensive restaurant that serves british food. can i have the phone number please?
+2 perfect! thanks, good-bye!
+0 hi.  i'm looking for a moderately priced restaurant.
+1 i need something that's in the east part of town.
+2 what is the phone number?
+3 no thank you.  that is all i needed.  bye bye!
+0 i am looking for a cantonese restaurant in the north part of town.
+1 i don't care.
+2 okay then, how about a restaurant that serves asian_oriental type of food in the north part of town then?
+3 what is the address and phone number?
+4 thank you for the information. bye now
+0 i am looking for a restaurant in the center of town that serves russian food.
+1 yes please, is there any restaurant serve british food?
+2 no. what is the address and phone number?
+3 thank you, good bye
+0 find a moderately priced place for me please.
+1 i don't care.
+2 on the east side of town, please.
+3 great! what is the phone number?
+4 thank you, goodbye.
+0 a north part of town restaurant
+1 i do not care about the price range but would like somewhere serving indian food.
+2 what is the address and phone number?
+3 nope, that was all i needed.  thank you.  bye bye.
+0 do you know of any moderately priced restaurants in the north part of town? i'll need the address and phone number.
+1 thank you good bye.
+0 hello! i am looking for the address and phone number of a lebanese restaurant in the centre.
+1 thank you, goodbye.
+0 hello. i want a cheap barbeque restaurant.
+1 are there any cheap indian restaurants?
+2 i don't care.
+3 yes please
+4 thank you, goodbye.
+0 i am looking for an expensive restaurant.
+1 french food.
+2 i don't care.
+3 i really have no desire for cote. are there other restaurants available?
+4 ok i will try this one. i would like the address and phone number please.
+5 no, thank you.
+0 i want to find an expensive restaurant in the east part of town. what is the phone number and type of food?
+1 ok, thank you.
+0 i'm looking for a good restaurant anywhere in town serving french food. could you please give me their phone numbers?
+1 thank you, goodbye.
+0 looking for a restaurant on the south part of town?
+1 i do not have a preference.
+2 i would like something in the cheap price range, please.
+3 can i have the address and phone number please?
+4 thank you goodbye.
+0 i want to find a restaurant in the south part of town serving singaporean food.
+1 indian food of course and what is the phone number?
+2 no that will be all. thank you, goodbye.
+0 what's a good mid price restaurant?
+1 i would like catalan food.
+2 how about spanish food?
+3 could i have the address, phone number and postcode please?
+4 thank you, goodbye
+5 bye.
+0 looking for an expensive restaurant
+1 are there any in the east part of town?
+2 what is the phone number and post code of pipasha_restaurant?
+3 thank you, goodbye.
+0 i want to find a restaurant in the centre part of town and serves barbeque food. if not then how about modern_european food?
+1 i want the most expensive one available.
+2 what is the address?
+0 i would like an expensive restaurant in the south of town.
+1 i don't care.
+2 can you tell me what type of food they serve and give me the phone number?
+0 i would like a restaurant in the south part of town that serves christmas food
+1 how about chinese food?
+2 i dont care
+3 can i have the address of them, also the price range ?
+4 thank you good bye
+0 i would like a restaurant that serves world food. it should be a really good restaurant, and it's ok if it's expensive.
+1 how about italian ? i would like to go to nice place with great atmosphere and expensive, i would like the address, phone number and area
+2 thank you goodbye
+0 is there a moderate priced restaurant?
+1 yes, in the east part of town.
+2 what is the address of one of them?
+3 excellent, thanks!
+4 that's it, goodbye
+0 i would like a cheap restaurant in the east part of town, please.
+1 address and phone number, please
+2 thank you good bye
+3 thanks so much.  bye bye.
+0 i am interested in a restaurant located in the north part of town that specializes in indonesian food, please.
+1 what about italian food?
+2 yes, may i have the address and phone number please?
+3 thank you, goodbye.
+4 bye.
+0 hello, i am looking for a lebanese restaurant in the centre of town.
+1 what is the address and phone number?
+2 thank  you. good bye.
+0 caribbean food in the east part of town. if no such place, indian.
+1 great!  did you find any indian restaurants in the east part of town?
+2 no.
+3 yes, i'd like the address and phone number please.
+4 thank you goodbye.
+0 i need a south restaurant with british food.
+1 is there a chinese restaurant in the south part of town?
+2 no, any price range is fine. i would just like to know the address and price range of one of the restaurants.
+3 no, thank you.
+0 can i get the address and cuisine type of a  moderately priced restaurant in the east part of town?
+1 what type of food do they serve?
+2 thank you goodbye.
+0 get me a restaurant that serves european food.
+1 i dont really care.
+2 any price range is fine.
+3 could i have the phone number and postcode for that restaurant please?
+4 no, thank you.
+0 i want your most expensive restaurant in the south town.
+1 i don't care
+2 ok, can you tell me the other restaurants?
+3 great! can you please tell me the address and the phone number of frankie_and_bennys?
+4 thank you, goodbye.
+0 i need a really inexpensive restaurant on the east side.
+1 i don't care.
+2 what is the address?
+3 how about their postcode?
+4 thank you, goodbye.
+0 i'm looking for an expensive restaurant in the south.
+1 i don't have any preference.
+2 do you have a phone number for them?
+3 have a good evening.
+0 i'm looking for a cheap restaurant in the north part of town.
+1 i do not have a preference.
+2 da_vinci_pizzeria serves italian food. it is in the north part of town.
+3 of course!
+4 no, thank you. that is all.
+0 i'm looking for an indian restaurant in the south area of town.
+1 i don't care. what have you found?
+2 yes, please. phone number and address
+3 thank you. bye.
+0 i'm looking for a gastropub restaurant.
+1 can i have the address and postcode.
+2 thank you, goodbye
+0 hello, i am looking for a malaysian restaurant on the north side of town.
+1 no, how about a french restaurant instead?
+2 phone number, please.
+3 thanks, goodbye!
+0 hi, i want a tuscan restaurant that's expensively priced.
+1 how about korean food?
+2 yes please.
+3 no, thank you.
+0 hello, i am looking for a restaurant that serves japanese food.
+1 can i please have the phone number and address ?
+2 thank you goodbye.
+0 i would like an expensive restaurant that serves turkish food
+1 how about a moderate one ?
+2 yes. address and phone number for anatolia.
+3 what is the postcode?
+4 thank you goodbye.
+0 i need a south restaurant with some greek food.
+1 no, any price range is fine.
+2 how about italian?
+3 phone number and postcode, please.
+4 thank you goodbye.
+5 thank you goodbye.
+0 a moderately priced restaurant in the east part of town
+1 is there anything else?
+2 address and phone number please
+3 that's all i need.. thank you and good bye.
+0 can you recommend me a moderately priced restaurant in the north part of town ?
+1 i do not care what kind of food.
+2 what is the address and phone number of the golden_wok?
+3 thank you, goodbye.
+0 i would like a cheap restaurant in the north part of town, please.
+1 is there anything else?
+2 is there anything else in the cheap price range on the north side of town?
+3 address and phone number for royal_spice, yes please.
+4 no, that's everything. thank you. goodbye.
+0 i am looking for an expensive restaurant in the east part of town.
+1 is there anything else?
+2 no, that's okay. what chinese restaurants are there on the east side?
+3 is there another chinese restaurant in the east?
+4 what is the phone number for yu_garden?
+5 no, i think that's it. thank you for your help.
+0 a moderately priced restaurant in the south, please.
+1 i would like the address and phone number for one of those restaurants please.
+2 what is the postcode?
+3 thank you, that'll be all!
+0 is there an expensive french restaurant in town?
+1 which is closest to me?
+2 what is the food type they serve ?
+3 i don't know.
+4 thank you
+0 do you have any restaurants that serve caribbean food?
+1 what about a restaurant that serves chinese food? what is their phone number?
+2 no, it doesn't matter
+3 thank you, goodbye
+0 a moderately priced restaurant in the north part of town, please.
+1 yes please.
+2 phone number?
+3 that's it, thank you. good bye.
+0 yes. i am looking for a moderately priced restaurant in the west part of town.
+1 indian, please.
+2 yes, please. and also the address.
+3 thank you goodbye.
+0 i want to find a restaurant in any area and servings persian food.
+1 vietnamese, please. give me their address and phone number as well.
+0 i want to visit an expensive restaurant in the south part of town. i need the address, phone number, and type of food.
+1 mexican will be fine. could i have the address and phone please?
+2 thank you. goodbye.
+0 i'd like a place that serves world food in the east part of town.
+1 how about indian food?
+2 i would like the address and phone number of curry_prince.
+3 no, thank you goobye.
+0 can you find me a restaurant in the north part of the city?
+1 i don't care.
+2 yes, i would like world food.
+3 maybe some indian food?
+0 i am looking for a german restaurant in the west part of town.
+1 how about italian?
+2 what is the phone number of one of them?
+3 thank you goodbye.
+0 i would like to find a restaurant in the east part of town that serves gastropub food.
+1 what is the phone number?
+2 thank you very much, bye
+0 i would like inexpensive turkish food.
+1 ok, how about an italian restaurant?
+2 i do not have a preference of area as long as it's cheap. please make a suggestion.
+3 can i get the address and phone number?
+4 no, thank you. good bye.
+0 what is that european food place's address?
+1 no, any part of town is fine.
+2 thank you, goodbye.
+0 hello, i am looking for a restaurant that serves moroccan food.
+1 can i have the asian_oriental type of food then ?
+2 do you have an address?
+3 may i have the postcode please?
+4 thank you, goodbye.
+0 i am looking for an expensive restaurant that serves russian food.
+1 yes do you have british type food?
+2 i don't care.
+3 may i have the phone number?
+4 thank you goodbye.
+0 i want to find an expensive restaurant serving mediterranean food. what is the address and phone number?
+1 what is their address and phone number?
+0 i want british food that is moderately priced.
+1 how about the west part of town.
+2 thank you goodbye.
+0 hello, i am looking for a restaurant that serves vegetarian food.
+1 how about turkish food?
+2 i do not care
+3 address, please.
+4 thank you goodbye
+0 i am looking for a restaurant on the eastern side of town.
+1 is there another one as well?
+2 is there anything british available?
+3 what is the address and postcode?
+4 no, i think that does it. thank you for the info.
+5 goodbye.
+0 hello, i am looking for a restaurant in the centre of town that serves indonesian food.
+1 oh, well how about european food then? also in the centre of town please.
+2 i don't care.
+3 may i have the phone number and postcode?
+4 no, that's all i need, thank you very much.
+5 thank you goodbye.
+0 i need to find some caribbean food in south town.
+1 how about an italian restaurant? i will need the phone number and postcode of the restaurant.
+2 what part of town is frankie_and_bennys located?
+3 thank you, goodbye
+0 i want to find an expensive restaurant serving christmas food.
+1 no specific area.
+2 are there european types of restaurants?
+3 phone number and address of cambridge_lodge_restaurant please
+4 thank you, goodbye.
+0 i am looking for a restaurant in the west part of town serving corsica food.
+1 no thank you
+2 thank you good bye.
+0 a cheap jamaican restaurant, please. if you cannot find one, then mediterranean.
+1 okay what is the phone number and postcode of that mediterranean place?
+2 thank you
+0 i am looking for african food
+1 yes. i need the address please.
+2 thank you, goodbye.
+0 i am looking for a restaurant in the north part of town serving persian food.
+1 are there chinese restaurants in the north part of town?
+2 any price range would be fine.
+3 please provide a phone number for one of the restaurants.
+4 can i have the phone number to one more restarant please?
+5 no, thank you.  that is good.  good bye.
+0 i want a cheap restaurant in the west part of town. i need its address and phone number please
+1 thank you goodbye.
+0 i want to find a restaurant in any area and serves spanish food. what is the phone number and address?
+1 thanks, goodbye.
+2 goodbye
+0 i want a restaurant in the north part of town.
+1 i want a restaurant that is moderately priced.
+2 what is their address and phone number?
+3 thank you, goodbye.
+0 i am looking for a restaurant serving scottish food.
+1 ok, how about vietnamese food?
+2 can i have the address please?
+3 thank you!
+0 is there any place that serves bbq around here?
+1 i am interested in portuguese food.
+2 i don't care. can you give me one of the address ?
+3 i don't care about the price range.
+0 i am looking for a restaurant in the west part of town.
+1 thank you. can i have the address please?
+2 thank you. i would like their price range and phone number as well please.
+3 thank you, goodbye.
+4 goodbye.
+0 i am looking for an expensive restaurant in the east part of town.
+1 yes please
+2 is there something else?
+3 what is the address and phone number?
+4 no, thank you. good bye.
+0 i would like an expensive restaurant in the south part of town
+1 any type of food is fine
+2 is there anything else?
+3 i need the address.
+4 thank you goodbye.
+5 good bye
+0 i am looking for italian food in the north part of town.
+1 may i have the address and phone number of da_vinci_pizzeria?
+2 thank you. goodbye.
+0 i'm looking for a moderately priced polish food restaurant.
+1 yes,  can you please check for a turkish restaurant?
+2 may i have the address for anatolia?
+3 thank you
+0 hello i would like to find a restaurant in the west part of the city that costs a moderate amount.
+1 yes and the address.
+0 hello. i'm looking for a cheap restaurant in the east part of town.
+1 i want to know their address, phone number, and type of food, please
+2 thank you, that is all i needed to know.  have a good night.
+0 hello, i am looking for a restaurant on the south side of town that serves unusual food.
+1 yes, how about indian food
+2 what is the phone number?
+3 no that is all. thank you, goodbye.

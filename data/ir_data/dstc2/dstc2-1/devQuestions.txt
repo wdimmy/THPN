@@ -1,0 +1,4159 @@
+1 <SILENCE>
+2 expensive restaurant in the south part of town
+3 any
+4 address
+5 type of food
+6 thank you good bye
+1 <SILENCE>
+2 lebanese restaurant in the west part of town
+3 lebanese
+5 <SILENCE>
+6 thai food in the west of town
+14 <SILENCE>
+15 address
+16 phone number
+17 price range
+18 what is the price range
+19 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 cheap
+4 uh dont care but can it be vegetarian food
+6 <SILENCE>
+7 what about indian then
+36 <SILENCE>
+37 cheap indian food
+38 in the cheap price range
+39 can i have the address
+40 thank you good bye
+1 <SILENCE>
+2 im looking for an expensive restaurant that serves
+3 cantonese food
+5 <SILENCE>
+6 okay what about north_american food
+14 <SILENCE>
+15 can i have the phone number
+16 can i have the post code
+17 thank you good bye
+1 <SILENCE>
+2 expensive restaurant it should serve persian food
+4 <SILENCE>
+5 european type of food
+34 <SILENCE>
+35 address
+36 phone number
+37 area of venue
+38 thank you good bye
+1 <SILENCE>
+2 restaurant in the east part of town international food
+10 <SILENCE>
+11 phone number
+12 thank you good bye
+1 <SILENCE>
+2 moderately priced priced restaurant chinese food
+31 <SILENCE>
+32 address and postcode
+33 thank you goodbye
+1 <SILENCE>
+2 sea food
+3 any
+5 <SILENCE>
+6 address
+7 thank you good bye
+1 <SILENCE>
+2 looking for a cheap restaurant that serves spanish food
+10 <SILENCE>
+11 whats the address
+12 and whats the postcode
+13 thank you goodbye
+1 <SILENCE>
+2 <SILENCE>
+3 um im looking for a moderately priced restaurant in the south part of town
+18 <SILENCE>
+19 whats the address
+20 and whats the phone number
+21 thank you good bye
+1 <SILENCE>
+2 id like a portuguese restaurant
+10 <SILENCE>
+11 what is the address
+12 thank you good bye
+1 <SILENCE>
+2 west part of town cuban food
+4 <SILENCE>
+5 italian
+20 <SILENCE>
+21 phone number
+22 yes
+23 what is the phone number
+24 good bye
+1 <SILENCE>
+2 id like a moderately priced restaurant in the north part of town
+24 <SILENCE>
+25 whats the address
+26 what type of food do they serve
+27 thank you good bye
+1 <SILENCE>
+2 moderately priced north part of town
+3 yes
+25 <SILENCE>
+26 what is the address and phone number
+27 thank you good bye
+1 <SILENCE>
+2 expensive
+3 south
+4 dont care
+33 <SILENCE>
+34 what is the address
+35 thank you good bye
+1 <SILENCE>
+2 mediterranean
+3 cheap
+5 <SILENCE>
+6 mediterranean
+14 <SILENCE>
+15 what is the phone number and post code
+16 thank you good bye
+1 <SILENCE>
+2 european food
+3 european
+4 dont care
+61 <SILENCE>
+62 expensive
+91 <SILENCE>
+92 what is the phone number
+93 thank you good bye
+1 <SILENCE>
+2 gastropub
+3 gastropub
+18 <SILENCE>
+19 gastropub food
+20 what is the address
+21 <SILENCE>
+22 what is the phone number
+23 thank you good bye
+1 <SILENCE>
+2 italian food
+3 moderate
+4 north
+6 <SILENCE>
+7 thank you good bye
+1 <SILENCE>
+2 portuguese food
+10 <SILENCE>
+11 whats the address
+12 thank you good bye
+1 <SILENCE>
+2 hello welcome
+3 south
+4 would you like something
+54 <SILENCE>
+55 steak house
+56 indian
+64 <SILENCE>
+65 and whats the phone number
+66 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 <SILENCE>
+5 <SILENCE>
+6 system
+1 <SILENCE>
+2 i want to find a restaurant in the center and it should serve corsica food
+4 <SILENCE>
+5 how about north_american
+6 how about north_american type of food
+14 <SILENCE>
+15 how about north_american type of food
+16 whats the phone number
+17 thank you good bye
+1 <SILENCE>
+2 bistro food
+3 moderate
+207 <SILENCE>
+208 what do they serve
+209 what type of food do they serve
+210 what about bistro food
+211 how about british
+212 and the price range
+213 how about a moderately priced
+214 price range
+215 whats the price range
+216 id like to find a moderately priced restaurant
+217 the price range
+218 may i get the phone number
+219 thank you good bye
+1 <SILENCE>
+2 id like to find japanese food
+3 any
+11 <SILENCE>
+12 can i get the address
+13 how about the phone number
+14 and the food type
+1 <SILENCE>
+2 i need to find one in the south part of town
+3 danish
+5 <SILENCE>
+6 portuguese
+14 <SILENCE>
+15 can i get the address
+16 phone number
+17 thank you good bye
+1 <SILENCE>
+2 moderately priced restaurant
+3 any part
+4 lebanese
+12 <SILENCE>
+13 address
+14 and the phone number
+15 thank you good bye
+1 <SILENCE>
+2 uh it doesnt matter
+3 expensive
+4 japanese
+6 <SILENCE>
+7 italian
+9 <SILENCE>
+10 moderate
+39 <SILENCE>
+40 phone number
+41 thank you good bye
+1 <SILENCE>
+2 caribbean food
+3 thai food
+4 west part of town
+6 <SILENCE>
+7 thai
+15 <SILENCE>
+16 price range
+17 phone number
+18 address
+19 address
+20 thank you good bye
+1 <SILENCE>
+2 venetian
+3 center
+4 vegetarian
+6 <SILENCE>
+7 phone number
+8 phone number
+9 thank you good bye
+1 <SILENCE>
+2 expensive restaurant that serves vegetarian food
+3 thanks us
+4 vegetarian food
+5 asian_oriental type of food
+20 <SILENCE>
+21 expensive restaurant asian food
+22 what is the phone number
+23 and the area
+24 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 <SILENCE>
+5 <SILENCE>
+6 looking for moderately priced restaurant that serves creative food
+8 <SILENCE>
+9 how about british food
+38 <SILENCE>
+39 how about creative food
+110 <SILENCE>
+111 how about creative food
+112 and british food
+113 what is the telephone number
+114 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 looking for welsh food
+4 how about french food
+19 <SILENCE>
+20 what is the phone number
+21 thank you
+22 good bye
+1 <SILENCE>
+2 <SILENCE>
+3 any part
+385 <SILENCE>
+386 it should serve french food
+401 <SILENCE>
+402 what is the phone number
+403 thank you good bye
+1 <SILENCE>
+2 expensive restaurant east part of town
+3 expensive
+4 any
+40 <SILENCE>
+41 address
+42 good bye
+1 <SILENCE>
+2 <SILENCE>
+3 cheap restaurant in the east part of town
+11 <SILENCE>
+12 phone number
+13 <SILENCE>
+14 phone number
+15 good bye
+1 <SILENCE>
+2 find australian restaurant in north part of town
+4 <SILENCE>
+5 find indian restaurant in north of town
+34 <SILENCE>
+35 the price range
+36 what is the address and phone number
+37 thank you good bye
+1 <SILENCE>
+2 doesnt matter
+3 doesnt matter
+87 <SILENCE>
+88 what is the address and phone number
+89 cough
+90 what is the address
+91 thank you good bye
+1 <SILENCE>
+2 moderate price
+3 brazilian food
+5 <SILENCE>
+6 gastropub
+7 address
+8 phone number
+9 location
+10 thank you good bye
+1 <SILENCE>
+2 cheap restaurant south part of town
+10 <SILENCE>
+11 address
+12 phone number
+13 thank you goodbye
+1 <SILENCE>
+2 moderately priced west part of town
+17 <SILENCE>
+18 phone number
+19 address
+20 thank you good bye
+1 <SILENCE>
+2 irish
+3 irish fdod
+5 <SILENCE>
+6 modern_european
+7 address
+8 phone number
+9 thank you good bye
+1 <SILENCE>
+2 moderately
+3 price
+207 <SILENCE>
+208 west
+299 <SILENCE>
+300 can i have the address
+301 phone number
+302 post code
+303 thank you good bye
+1 <SILENCE>
+2 im looking for a restaurant in the south part of town
+3 polynesian
+5 <SILENCE>
+6 italian
+21 <SILENCE>
+22 phone number
+23 post code
+24 thank you good bye
+1 <SILENCE>
+2 expensive
+3 any
+4 corsica
+6 <SILENCE>
+7 thai
+22 <SILENCE>
+23 <SILENCE>
+24 thai food
+25 thai
+26 thai thai
+27 address
+28 phone number
+29 thank you good bye
+1 <SILENCE>
+2 moderately
+3 any
+207 <SILENCE>
+208 moderately
+209 moderately
+210 south
+225 <SILENCE>
+226 moderately
+227 address
+228 phone number
+229 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 <SILENCE>
+5 <SILENCE>
+6 indian food
+159 <SILENCE>
+160 address
+161 phone number
+162 price range
+163 thank you good bye
+1 <SILENCE>
+2 restaurant north
+3 welsh food
+87 <SILENCE>
+88 asian_oriental
+89 address
+90 phone number
+91 thank you good bye
+1 <SILENCE>
+2 i need to find an expensive restaurant in the south part of town
+3 i dont care
+32 <SILENCE>
+33 is there anything else
+34 can i get the address
+35 and what is their phone number
+36 <SILENCE>
+37 can i get their post code
+38 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 british food in north part of town
+5 <SILENCE>
+6 just fuck every time i do it and this moron says that its indian sucks
+35 <SILENCE>
+36 indian food
+37 want indian food
+38 address phone number prices
+39 address
+40 price range
+41 thank you
+42 thank you goodbye
+1 <SILENCE>
+2 moderately priced in the south part of town
+3 any
+4 south
+19 <SILENCE>
+20 phone number
+21 south part of town
+22 address
+23 thank you good bye
+1 <SILENCE>
+2 i would like afghan food
+3 expensive
+4 any
+386 <SILENCE>
+387 <SILENCE>
+388 oriental
+389 thank you good bye
+390 thank you good bye
+391 phone number
+392 area
+393 what area
+394 asian_oriental
+395 phone number
+396 <SILENCE>
+397 good bye
+1 <SILENCE>
+2 <SILENCE>
+3 cantonese food
+4 british food
+5 west
+27 <SILENCE>
+28 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 east
+4 moderately priced
+26 <SILENCE>
+27 anything else
+28 thank you good bye
+1 <SILENCE>
+2 yes i would like portuguese food
+10 <SILENCE>
+11 can i get the address and phone number
+12 thank you good bye
+1 <SILENCE>
+2 i want a cheap restaurant that serves european food
+4 <SILENCE>
+5 how about vietnamese food
+13 <SILENCE>
+14 whats their phone number
+15 thank you good bye
+1 <SILENCE>
+2 i need a cheap restaurant serving italian food
+3 i dont care
+39 <SILENCE>
+40 could i get the address
+41 thank you bye
+1 <SILENCE>
+2 i need restaurant serves spanish food
+17 <SILENCE>
+18 whats the phone number
+19 thank you good bye
+1 <SILENCE>
+2 can i have a british restaurant in the east please
+3 east
+4 moderate
+5 east
+209 <SILENCE>
+210 can i have the address
+211 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 i want
+5 <SILENCE>
+6 i want to find a restaurant in the center
+7 does it serve fusion food
+15 <SILENCE>
+16 i want fusion food
+17 how about european food
+18 what is the phone number
+19 what is the post code
+20 <SILENCE>
+21 what is the post code
+22 good bye
+1 <SILENCE>
+2 im looking for a restaurant in the north part of town
+3 i dont care
+4 australian
+88 <SILENCE>
+89 how about asian_oriental
+90 how about asian_oriental
+91 what is the address
+92 what is the phone number
+93 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 i dont care
+5 <SILENCE>
+6 im looking for a restaurant in the center of town
+7 im looking for traditional food
+9 <SILENCE>
+10 how about turkish food
+32 <SILENCE>
+33 what is the address
+34 what is the price range
+35 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 <SILENCE>
+5 <SILENCE>
+6 chinese food
+104 <SILENCE>
+105 address
+106 telephone number
+107 thank you good bye
+1 <SILENCE>
+2 center
+3 center
+5 <SILENCE>
+6 italian food
+105 <SILENCE>
+106 thank you good bye
+1 <SILENCE>
+2 japanese
+3 japanese
+11 <SILENCE>
+12 address
+13 the address
+14 phone
+15 phone
+16 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 west
+18 <SILENCE>
+19 thank you good bye
+1 <SILENCE>
+2 moderately priced restaurant
+3 any
+4 south
+19 <SILENCE>
+20 thank you good bye
+1 <SILENCE>
+2 im looking for a moderately priced restaurant in the east part of town
+24 <SILENCE>
+25 can i get the address
+26 can i get the phone number
+27 thank you good bye
+1 <SILENCE>
+2 im looking for a cheap restaurant that serves portuguese food
+10 <SILENCE>
+11 whats the phone number
+12 whats the area
+13 thank you good bye
+1 <SILENCE>
+2 moderately priced
+3 indian food
+32 <SILENCE>
+33 phone number
+34 thank you good bye
+1 <SILENCE>
+2 traditional food
+3 traditional
+4 spanish food
+5 spanish
+20 <SILENCE>
+21 address
+22 price range
+23 thank you good bye
+1 <SILENCE>
+2 moderately
+3 moderate
+4 dont care
+208 <SILENCE>
+209 hello
+210 serve hello food
+211 how about asian_oriental type of food
+212 price range
+213 price range
+214 phone number
+215 address
+216 whats the address
+217 no
+218 thank you good bye
+1 <SILENCE>
+2 cheap restaurant
+3 european
+5 <SILENCE>
+6 thank you good bye
+1 <SILENCE>
+2 restaurant in the north part of town that serves turkish food
+86 <SILENCE>
+87 asian_oriental type of food
+88 what is the address
+89 what is the phone number
+90 thank you good bye
+1 <SILENCE>
+2 expensive mediterranean food
+3 expensive
+4 i dont care
+19 <SILENCE>
+20 mediterranean food
+21 what kind of food do they serve
+22 mediterranean food
+23 is there anything else
+24 what is the price range
+25 what is the address
+26 what is the phone number
+27 what area is it in
+28 thank you good bye
+1 <SILENCE>
+2 expensive restaurant
+3 expensive
+385 <SILENCE>
+386 south part of town
+415 <SILENCE>
+416 expensive price range
+417 is there any expensive restaurant
+418 what is the address
+419 thank you good bye
+1 <SILENCE>
+2 cheap restaurant in the north
+17 <SILENCE>
+18 what is the phone number
+19 thank you good bye
+1 <SILENCE>
+2 expensive restaurant in the east
+3 i dont care
+385 <SILENCE>
+386 where is the phone number
+387 thank you goodbye
+1 <SILENCE>
+2 mexican food
+3 mexican
+11 <SILENCE>
+12 yes
+13 price range address phone number
+14 address
+15 phone number
+16 thank you good bye
+1 <SILENCE>
+2 mexican food
+3 mexican food
+11 <SILENCE>
+12 phone number
+13 thank you good bye
+1 <SILENCE>
+2 south part of town
+3 expensive
+385 <SILENCE>
+386 address
+387 phone number
+388 type of food
+389 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 japanese food
+11 <SILENCE>
+12 spice
+13 phone number
+14 phone number
+15 address
+16 post code
+17 thank you good bye
+18 thank you good bye
+1 <SILENCE>
+2 thai
+3 west
+11 <SILENCE>
+12 address
+13 phone number
+14 post code
+15 thank you good bye
+1 <SILENCE>
+2 north part of town
+3 dont care
+4 christmas food
+88 <SILENCE>
+89 address
+90 address
+91 phone number
+92 thank you goodbye
+1 <SILENCE>
+2 restaurant in the west part of town
+3 west
+94 <SILENCE>
+95 welch food
+96 british food
+118 <SILENCE>
+119 phone number
+120 address
+121 price range
+122 thank you goodbye
+1 <SILENCE>
+2 cheap restaurant
+3 indian food
+32 <SILENCE>
+33 address
+34 phone number
+35 phone number
+36 thank you good bye
+1 <SILENCE>
+2 gastropub
+3 dont care
+18 <SILENCE>
+19 address
+20 address
+21 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 east
+67 <SILENCE>
+68 phone number
+76 <SILENCE>
+77 address
+78 thank you good bye
+1 <SILENCE>
+2 im looking for a moderately priced restaurant in the west part of town
+17 <SILENCE>
+18 whats the address
+19 is there anything else
+20 whats the address
+21 phone number
+22 and the type of food they serve
+23 wha what type of food
+24 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 <SILENCE>
+4 <SILENCE>
+5 <SILENCE>
+6 moroccan food
+7 <SILENCE>
+8 what is it by
+1 <SILENCE>
+2 id like to find a restaurant serving french food
+17 <SILENCE>
+18 is there anything else
+19 is there anything else
+20 is there anything else
+21 what is the address
+22 thanks good bye
+23 thank you good bye
+1 <SILENCE>
+2 id like to find a restaurant in any area serving mediterranean food
+3 mediterranean food
+25 <SILENCE>
+26 does it serve mediterranean food
+27 what is the phone number
+28 thank you good bye
+1 <SILENCE>
+2 id like a restaurant in the north part of town serving swiss food
+4 <SILENCE>
+5 id like an indian restaurant
+34 <SILENCE>
+35 what is the address phone number and price range
+36 what is the price range
+37 thank you good bye
+1 <SILENCE>
+2 im looking for a restaurant in north part of town serving austrian food
+4 <SILENCE>
+5 what about indian
+34 <SILENCE>
+35 what is the address and phone number
+36 what is the price range
+37 thank you good bye
+1 <SILENCE>
+2 im looking for a restaurant in the center of town serving german food
+4 <SILENCE>
+5 how about international food
+27 <SILENCE>
+28 what is the phone number and price range
+29 good bye
+1 <SILENCE>
+2 im looking for a expensive restaurant serving mediterranean food
+17 <SILENCE>
+18 what is the phone number and post code
+19 thank you good bye
+1 <SILENCE>
+2 im looking for an expensive restaurant that serves belgium food
+4 <SILENCE>
+5 what about european food
+34 <SILENCE>
+35 what is the address
+36 what is the phone number
+37 what is the area
+38 thank you good bye
+1 <SILENCE>
+2 im looking for a moderately priced restaurant in the north part of town
+24 <SILENCE>
+25 what is the phone number
+26 thank you goodbye
+1 <SILENCE>
+2 i want to find a restaurant that serves french food
+17 <SILENCE>
+18 i dont care about the price range what is the address
+19 thank you good bye
+1 <SILENCE>
+2 im looking for a restaurant in the center of town that serves thai food
+3 doesnt matter
+4 thai food
+19 <SILENCE>
+20 what is the phone number
+21 what is the address
+22 thank you good bye
+1 <SILENCE>
+2 im looking for a moderately priced restaurant in the east part of town
+24 <SILENCE>
+25 what is the address
+26 thank you good bye
+1 <SILENCE>
+2 expensive restaurant in the south
+3 any
+4 south
+386 <SILENCE>
+387 expensive
+388 would like expensive
+389 south part of town
+390 south
+391 phone number
+392 south area
+393 dont care
+394 north
+395 thank you goodbye
+396 address
+397 south
+398 thank you goodbye
+1 <SILENCE>
+2 cheap restaurant in the north
+3 cheap
+18 <SILENCE>
+19 address
+20 phone number
+21 bye
+22 thank you good bye
+1 <SILENCE>
+2 expensive french food
+3 any
+4 french food
+19 <SILENCE>
+20 expensive
+21 expensive
+22 anything else
+23 expensive
+24 phone number
+25 thank you good bye
+1 <SILENCE>
+2 im looking for a restaurant in the north part of town
+3 moderate price range
+25 <SILENCE>
+26 can i get the address and phone number
+27 okay thank you good bye
+1 <SILENCE>
+2 a cheap restaurant in the south part of town
+10 <SILENCE>
+11 no is there anything else
+12 whats the phone number
+13 alright good bye thank you
+1 <SILENCE>
+2 is there anything that serves caribbean food
+3 i need an expensive restaurant that serves french food
+18 <SILENCE>
+19 whats the phone number
+20 thank you good bye
+1 <SILENCE>
+2 are there any restaurants that serve english food
+3 how about european food
+60 <SILENCE>
+61 is it moderately priced
+62 uh yes
+119 <SILENCE>
+120 whats the price range
+121 i need a moderately priced restaurant
+122 whats the address
+123 um kay whats the post code
+124 thank you good bye
+1 <SILENCE>
+2 moderately priced restaurant north part of town
+24 <SILENCE>
+25 address and phone number
+26 phone number
+27 post code
+28 thank you good bye
+1 <SILENCE>
+2 i want a cheap restaurant in the west part of town
+17 <SILENCE>
+18 <SILENCE>
+19 <SILENCE>
+20 can i get the phone number and address
+21 thank you good bye
+1 <SILENCE>
+2 i am looking for an expensive restaurant that serves australian food
+3 i am looking for an expensive restaurant that serves australian food
+4 ye
+386 <SILENCE>
+387 how about asian_oriental food
+388 what is the area
+389 what is the phone number a
+390 what is the area of the venue
+391 thank you goodbye
+1 <SILENCE>
+2 an expensive restaurant in the south part of town
+3 doesnt matter
+32 <SILENCE>
+33 sounds good whats the address
+34 how about the phone number
+35 thank you goodbye
+1 <SILENCE>
+2 looking for something with gastropub on the east side of town
+3 gastropub
+11 <SILENCE>
+12 good whats the address
+13 cool give me that phone number
+14 thank you good bye
+1 <SILENCE>
+2 looking for something moderately priced on the north side of town
+24 <SILENCE>
+25 good whats the address
+26 whats the phone number
+27 thank you good bye
+1 <SILENCE>
+2 looking for caribbean food
+3 how about indian food
+4 yea i want indian food
+5 i dont care but i want it to be in the east part of town
+34 <SILENCE>
+35 cool whats the phone number
+36 okay how about the address
+37 awesome thank you good bye
+1 <SILENCE>
+2 looking for a moderately priced restaurant in the east part of town
+24 <SILENCE>
+25 whats the address
+26 thank you good bye
+27 thank you good bye
+1 <SILENCE>
+2 i want a cheap restaurant in the north part of town
+17 <SILENCE>
+18 can i have their phone number
+19 and the post code
+20 thank you good bye
+1 <SILENCE>
+2 i would like a restaurant
+3 that serves
+5 <SILENCE>
+6 belgian food
+7 korean
+8 what about korean food
+10 <SILENCE>
+11 what about korean
+19 <SILENCE>
+20 are they expensive
+28 <SILENCE>
+29 whats their address
+30 and their phone number
+31 and what area of town are they
+32 thank you good bye
+1 <SILENCE>
+2 i want a cheap restaurant that serves cuban food
+4 <SILENCE>
+5 how about chinese
+34 <SILENCE>
+35 is it chinese food
+36 yes that serves chinese food
+37 whats their address
+38 and their phone number
+39 thank you good bye
+1 <SILENCE>
+2 im looking for a restaurant that serves scandinavian food
+3 scandinavian food
+4 how about a restaurant that serves french food
+19 <SILENCE>
+20 my i have the phone number
+21 thank you good bye
+1 <SILENCE>
+2 im looking for something in the west side
+3 doesnt matter as long as it is moderately priced
+18 <SILENCE>
+19 can i have the address of it
+20 whats its phone number
+21 thank you
+22 goodbye
+1 <SILENCE>
+2 im looking for a cheap vietnamese restaurant
+10 <SILENCE>
+11 <SILENCE>
+12 im looking for a vietnamese restaurant
+13 whats its phone number
+14 <SILENCE>
+15 im looking for a cheap restaurant
+16 whats its address
+17 may i have its phone number
+18 thank you good bye
+1 <SILENCE>
+2 restaurant
+3 any
+5 <SILENCE>
+6 italian food
+7 italian food
+106 <SILENCE>
+107 cheap
+143 <SILENCE>
+144 address
+145 phone number
+146 thank you good bye
+1 <SILENCE>
+2 expensive restaurant in the east part of town
+3 east
+4 expensive
+68 <SILENCE>
+69 address
+70 thank you good bye
+1 <SILENCE>
+2 im looking for a restaurant in the north part of town that serves thai food
+3 thai
+5 <SILENCE>
+6 is it in the north part of town
+7 north part of town
+8 how about in the west area
+9 is there one in the west area
+10 how about west
+11 how about the west area
+12 thank you good bye
+1 <SILENCE>
+2 any
+3 any
+5 <SILENCE>
+6 whats the address
+7 thank you goodbye
+1 <SILENCE>
+2 cheap restaurant
+3 west part of town
+18 <SILENCE>
+19 what is the address and phone number
+20 thank you good bye
+21 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 um
+4 whats the address and phone number
+5 is it expensive
+6 thank you good bye
+1 <SILENCE>
+2 christmas food west of town
+3 christmas food
+5 <SILENCE>
+6 what about british food
+28 <SILENCE>
+29 whats the address
+30 phone number
+31 price range
+32 whats the price range
+33 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 polynesian food east of town
+4 what about indian
+33 <SILENCE>
+34 in the east of town
+35 whats the address
+36 phone number
+37 thank you good bye
+1 <SILENCE>
+2 cheap italian
+3 any
+39 <SILENCE>
+40 address
+41 thank you good bye
+1 <SILENCE>
+2 japanese food
+10 <SILENCE>
+11 moderate price range
+215 <SILENCE>
+216 asian_oriental
+217 address
+218 phone number
+219 thank you good bye
+1 <SILENCE>
+2 portuguese food
+3 cheap restaurant portuguese
+11 <SILENCE>
+12 address
+13 phone number
+14 area
+15 thank you good bye
+1 <SILENCE>
+2 im looking for a moderately priced restaurant in the east part of town
+24 <SILENCE>
+25 whats the address
+26 what type of food
+27 thank you good bye
+1 <SILENCE>
+2 im looking for a moderately priced restaurant in the south part of town
+17 <SILENCE>
+18 whats the address
+19 and the phone number
+20 thank you good bye
+1 <SILENCE>
+2 hi i want to find a moderately priced restaurant in the north part of town
+24 <SILENCE>
+25 i hate golden_wok is there anything else
+26 yes
+27 are there any other restaurants
+28 great whats the address
+29 whats the type of food they serve
+30 what type of food is it
+31 alright thank you bye
+1 <SILENCE>
+2 im looking for a restaurant in the center and it should serve traditional food
+3 traditional food
+5 <SILENCE>
+6 how about turkish
+28 <SILENCE>
+29 thank you good bye
+1 <SILENCE>
+2 im looking for an expensive restaurant that serves venetian food
+4 <SILENCE>
+5 turkish food
+13 <SILENCE>
+14 can i get the address
+15 thank you good bye
+1 <SILENCE>
+2 im looking for a cheap restaurant in the east part of town
+10 <SILENCE>
+11 can i get the phone number and address
+12 thank you good bye
+1 <SILENCE>
+2 im looking for an expensive restaurant that serves european food
+31 <SILENCE>
+32 phone number and address
+33 thank you good bye
+1 <SILENCE>
+2 i want a restaurant in the center
+3 the center
+4 i want english food in the center of town
+6 <SILENCE>
+7 is there mediterranean food
+29 <SILENCE>
+30 what is the address
+31 what is the phone number
+32 thank you good bye
+1 <SILENCE>
+2 i want a restaurant
+3 that serves
+5 <SILENCE>
+6 i want a restaurant that serves cantonese food
+7 how about north_american food
+15 <SILENCE>
+16 north_american
+17 north_american food
+18 what is the address
+19 what is the phone number
+20 what is the price range
+21 thank you good bye
+1 <SILENCE>
+2 i want a moderately priced restaurant in the north town
+24 <SILENCE>
+25 what is the address
+26 what is the phone number
+27 thank you good bye
+1 <SILENCE>
+2 im looking for a moderately priced restaurant in the north part of town
+24 <SILENCE>
+25 what is the phone number
+26 what is the type of food
+27 what type of food
+28 thank you good bye
+1 <SILENCE>
+2 im looking for an expensive restaurant serving turkish food
+3 turkish
+11 <SILENCE>
+12 what is the post code
+13 thank you good bye
+1 <SILENCE>
+2 moderately
+3 restaurant
+207 <SILENCE>
+208 moderately
+209 priced
+210 north part of town
+232 <SILENCE>
+233 thank you good bye
+1 <SILENCE>
+2 south part of town italian food
+3 cheap
+102 <SILENCE>
+103 thank you good bye
+1 <SILENCE>
+2 spanish food
+3 cheap
+11 <SILENCE>
+12 phone number
+13 spanish food
+14 thank you goodbye
+1 <SILENCE>
+2 expensive restaurant
+3 catalan
+4 any
+386 <SILENCE>
+387 address
+388 address
+389 phone number
+390 area
+391 thank you good bye
+1 <SILENCE>
+2 irish food
+3 european food
+4 any
+5 any
+62 <SILENCE>
+63 address
+64 post number
+65 thank you good bye
+1 <SILENCE>
+2 swiss food
+3 any
+5 <SILENCE>
+6 address
+7 address
+8 thank you good bye
+1 <SILENCE>
+2 im looking for a korean restaurant
+3 korean restaurant
+11 <SILENCE>
+12 whats the address
+13 phone number
+14 whats the post code
+15 thank you good bye
+1 <SILENCE>
+2 i want a restaurant that serves creative food
+3 how about north_american type of food
+4 north_american type of food
+12 <SILENCE>
+13 whats the address
+14 phone number
+15 post code
+16 thank you good bye
+1 <SILENCE>
+2 i need a restaurant that serves thai food
+3 i dont care
+18 <SILENCE>
+19 whats the address
+20 whats the phone number
+21 and whats the post code
+22 thank you good bye
+1 <SILENCE>
+2 i need a moderately priced restaurant in the north part of town
+24 <SILENCE>
+25 phone number
+26 <SILENCE>
+27 what type of food
+28 thank you good bye
+1 <SILENCE>
+2 i need an expensive restaurant in the east part of town
+3 oh i dont care
+39 <SILENCE>
+40 whats the address
+41 alright thank you good bye
+1 <SILENCE>
+2 im looking for a cheap restaurant in the north part of town
+17 <SILENCE>
+18 anything else
+19 yes
+20 anything else
+21 okay do you have the address for da_vinci_pizzeria
+22 and the phone number
+23 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 vietnamese
+11 <SILENCE>
+12 is there another
+13 and the address
+14 what area is that
+15 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 <SILENCE>
+5 <SILENCE>
+6 im sorry im looking for a moderate priced restaurant
+210 <SILENCE>
+211 in the south part of town
+226 <SILENCE>
+227 what is their address
+228 and the post code
+229 and the phone number
+230 okay thank you good bye
+1 <SILENCE>
+2 any food
+3 any kind of food
+32 <SILENCE>
+33 what is the phone number
+34 what is the phone number
+35 thank you good bye
+1 <SILENCE>
+2 pizza
+3 steak
+39 <SILENCE>
+40 anything else
+41 what is the address phone number and type of food
+42 what type of food
+43 thank you good bye
+1 <SILENCE>
+2 im looking for a cheap restaurant in the east part of town that serves gastropub food
+10 <SILENCE>
+11 whats the phone number
+12 thank you good bye
+1 <SILENCE>
+2 restaurant in the south part of town
+3 any
+53 <SILENCE>
+54 address
+55 what is the address
+56 thank you good bye
+57 thank you good bye
+1 <SILENCE>
+2 i want a restaurant in the north part of town
+3 i dont care
+4 lebanese food
+6 <SILENCE>
+7 italian food
+15 <SILENCE>
+16 what is the address and phone number
+17 thank you good bye
+1 <SILENCE>
+2 im looking for a restaurant in the center of town
+3 romanian
+4 asian_oriental
+5 <SILENCE>
+41 <SILENCE>
+42 what is the phone number
+43 thank you good bye
+1 <SILENCE>
+2 i want a moderate priced restaurant that serves indian food
+3 moderate priced restaurant that serves indian food
+156 <SILENCE>
+157 the address
+158 what is the address
+159 see you goodbye
+160 see you goodbye
+1 <SILENCE>
+2 im looking for an expensive restaurant in the south part of town
+3 i dont care
+32 <SILENCE>
+33 is it what price range
+34 is there anything else
+35 anything else
+36 what is the address
+37 what is the address
+38 thank you goodbye
+1 <SILENCE>
+2 hm
+3 im looking for korean food any price range
+11 <SILENCE>
+12 korean food price range
+13 address
+14 phone number
+15 post code
+16 thank you good bye
+1 <SILENCE>
+2 im looking for a moderately priced restaurant in the south part of town
+17 <SILENCE>
+18 is there anything else
+19 can i have the address and phone number please
+20 could i have their phone number as well
+21 thank you good bye
+1 <SILENCE>
+2 im looking for a cheap restaurant that serves malaysian food
+4 <SILENCE>
+5 is there any that serve european food
+7 <SILENCE>
+8 thank you good bye
+1 <SILENCE>
+2 im looking for a restaurant in a area that serves
+3 turkish
+25 <SILENCE>
+26 can i have the address and the post code please
+27 the post code as well please
+28 thank you good bye
+1 <SILENCE>
+2 looking for a restaurant that serves turkish food
+24 <SILENCE>
+25 is there any other restaurant that serves turkish food
+26 are their any other restaurants that serve turkish food
+27 okay can i have the address and post code please
+28 thank you good bye
+1 <SILENCE>
+2 im looking for a cheap restaurant in the south part of town
+10 <SILENCE>
+11 im good can i have the address and phone number please
+12 and the phone number
+13 thank you good bye
+1 <SILENCE>
+2 expensive restaurant
+3 any
+4 south
+33 <SILENCE>
+34 what is the phone number and post code
+35 what is the post code
+36 thank you good bye
+1 <SILENCE>
+2 restauarant south part of town vanessa food
+3 yes
+53 <SILENCE>
+54 thank you good bye
+1 <SILENCE>
+2 traditional food
+3 any
+5 <SILENCE>
+6 phone number
+7 thank you good bye
+1 <SILENCE>
+2 cheap restaurant in the west part of town
+17 <SILENCE>
+18 phone number
+19 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 <SILENCE>
+4 expensive french
+19 <SILENCE>
+20 expensive french food
+21 no something else
+22 i want french food
+23 french food any part of town
+24 expensive
+25 address and phone number
+26 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 <SILENCE>
+4 <SILENCE>
+6 <SILENCE>
+7 thank you good bye
+22 <SILENCE>
+23 cheap restaurant north part of town
+24 yes cheap restaurant
+165 <SILENCE>
+166 north part of town
+167 address
+168 <SILENCE>
+169 thank you good bye
+1 <SILENCE>
+2 expensive restaurant tuscan food
+4 <SILENCE>
+5 good bye
+6 <SILENCE>
+8 <SILENCE>
+9 thank you good bye
+1 <SILENCE>
+2 im looking
+3 or
+5 <SILENCE>
+6 greek food
+7 okay what about european
+9 <SILENCE>
+10 what about european
+67 <SILENCE>
+68 what is the address
+69 thank you good bye
+1 <SILENCE>
+2 i want brazilian food
+3 care
+5 <SILENCE>
+6 what is the address and phone number
+7 thank you good bye
+8 thank you good bye
+1 <SILENCE>
+2 im looking for a restaurant in the center that serves romanian food
+3 romanian food
+5 <SILENCE>
+6 okay what is the address and phone number
+7 thank you good bye
+1 <SILENCE>
+2 im looking for a restaurant that serves romanian food
+3 dont care
+5 <SILENCE>
+6 romanian
+7 how about thai
+8 what is the phone number and price range
+9 what is the price range
+10 thank you good bye
+11 thank you good bye
+1 <SILENCE>
+2 i want to find a restaurant in the centre that serves thai food
+3 thai
+11 <SILENCE>
+12 what is the phone number and address
+13 what is the address
+14 what type of food is it
+15 <SILENCE>
+16 what about thai
+17 yeah what about thai food
+18 does it serve thai food
+19 what is the address and phone number
+20 what is the phone number
+21 thank you goodbye
+1 <SILENCE>
+2 i want to find a cheap restaurant in the south part of town
+3 cheap
+4 thank you
+145 <SILENCE>
+146 in the inner south
+147 i want something in the south part of town
+148 i want something in the south
+149 i want something in the south part of town
+150 what is the address and the type of food
+151 what is the address
+152 thank you goodbye
+153 thank you goodbye
+1 <SILENCE>
+2 im trying to find a cheap restaurant in the east of town
+3 cheap
+67 <SILENCE>
+68 is it in the east of town
+69 what is the address and post code
+70 what is the address
+71 what is the address
+72 thank you good bye
+1 <SILENCE>
+2 chinese restaurant in the south part of town
+3 chinese
+4 can i get the phone number
+5 can i get the price range
+6 thank you good bye
+1 <SILENCE>
+2 african food in any price range
+3 yes african food
+11 <SILENCE>
+12 address phone number and area
+13 what area is it in
+14 thank you good bye
+1 <SILENCE>
+2 id like to find a moderately priced restaurant
+3 moderate
+207 <SILENCE>
+208 i need it in the north part of town
+230 <SILENCE>
+231 is there anything else
+232 what is the address
+233 and what kind of food does the venue ser
+234 thank you goodbye
+1 <SILENCE>
+2 moderately priced restaurant that serves indian food
+3 indian
+32 <SILENCE>
+33 and what part of town is it in
+34 uh yes
+35 and where is it
+36 is that in the north part of town
+51 <SILENCE>
+52 and whats the phone number
+53 thank you good bye
+1 <SILENCE>
+2 id like a restaurant in the center that serves danish food
+3 yes
+5 <SILENCE>
+6 how about a restaurant that serves thai food
+21 <SILENCE>
+22 id like a restaurant that serves thai food
+23 id like thai food
+24 thank you goodbye
+1 <SILENCE>
+2 id like a restaurant that serves australian asian food
+3 could i have a restaurant that serves turkish food
+25 <SILENCE>
+26 could i get the address and post code please
+27 thank you good bye
+1 <SILENCE>
+2 breath id like a cheap restaurant in the north part of town
+17 <SILENCE>
+18 breath is there anything else
+19 could i have the address and phone number please
+20 breath thank you goodbye
+1 <SILENCE>
+2 id like a restaurant in the center that serves mediterranean food
+24 <SILENCE>
+25 a restaurant in the center that serves mediterranean food
+26 could i have the address and phone number please
+27 thank you good bye
+1 <SILENCE>
+2 id like a cheap restaurant in the south part of town
+143 <SILENCE>
+144 can i have the phone number and type of food please
+145 what type of food do they serve
+146 thank you good bye
+1 <SILENCE>
+2 id like a restaurant in the north part of town that serves traditional food
+86 <SILENCE>
+87 could i have the asian_oriental restaurant
+88 could i have the address and phone number
+89 thank you good bye
+1 <SILENCE>
+2 i need to find a restaurant in the center and it should serve irish food
+3 irish food
+4 french food
+19 <SILENCE>
+20 what is the phone number
+21 price range
+22 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 <SILENCE>
+5 <SILENCE>
+6 what type of food do they serve
+7 korean
+15 <SILENCE>
+16 phone number
+17 unintelligent
+18 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 <SILENCE>
+5 <SILENCE>
+6 moderate
+1 <SILENCE>
+2 <SILENCE>
+3 <SILENCE>
+5 <SILENCE>
+6 polynesian food
+7 korean food
+15 <SILENCE>
+16 address
+17 what is their price range
+18 thank you good bye
+1 <SILENCE>
+2 cheap restaurant
+3 any where
+4 mediterranean
+12 <SILENCE>
+13 price range
+14 address and phone number
+15 good bye
+1 <SILENCE>
+2 price range
+3 any
+5 <SILENCE>
+6 east part of town
+70 <SILENCE>
+71 austrian food
+73 <SILENCE>
+74 chinese
+82 <SILENCE>
+83 address
+84 phone number
+85 post code
+86 good bye
+1 <SILENCE>
+2 creative food
+3 north_american
+11 <SILENCE>
+12 address phone number and post code
+13 post code
+14 good bye
+1 <SILENCE>
+2 in the east part of town
+3 moderate
+25 <SILENCE>
+26 phone number
+27 <SILENCE>
+28 phone number
+29 good bye
+1 <SILENCE>
+2 a cheap restaurant serving mexican food
+4 <SILENCE>
+5 how about chinese
+34 <SILENCE>
+35 address
+36 phone number
+37 good bye
+1 <SILENCE>
+2 cheap restaurant
+3 east
+11 <SILENCE>
+12 address
+13 food
+14 thank you good bye
+1 <SILENCE>
+2 cheap restaurant
+3 dont care
+4 greek
+6 <SILENCE>
+7 italian
+43 <SILENCE>
+44 address
+45 address
+46 phone number
+47 thank you good bye
+1 <SILENCE>
+2 im looking for a restaurant in the north part of town uh tuscan food
+3 i dont care
+4 tuscan
+88 <SILENCE>
+89 phone number
+90 phone number
+91 thank you good bye
+1 <SILENCE>
+2 uh cheap restaurant serving scandinavian food
+4 <SILENCE>
+5 how about italian food
+41 <SILENCE>
+42 address
+43 phone number
+44 thank you good bye
+1 <SILENCE>
+2 steak house
+3 british food
+4 moderate
+5 any part
+209 <SILENCE>
+210 phone number
+211 phone number
+212 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 east
+67 <SILENCE>
+68 british food
+139 <SILENCE>
+140 address
+141 phone number
+142 <SILENCE>
+143 post code
+144 thank you good bye
+1 <SILENCE>
+2 greek food
+3 french food
+18 <SILENCE>
+19 center
+20 yes
+21 address
+22 phone number
+23 price range
+24 thank you good bye
+1 <SILENCE>
+2 im looking for an expensive restaurant
+3 um that serves
+4 im looking for an expensive restaurant that serves turkish food
+5 whats the post code
+6 thank you good bye
+1 <SILENCE>
+2 im looking for a moderately priced restaurant in the north part of town
+24 <SILENCE>
+25 anything else
+26 can i get their phone number
+27 type of food do they serve
+28 thank you good bye
+1 <SILENCE>
+2 im looking for a restaurant in the west part of town that serves canapes food
+3 cheap
+18 <SILENCE>
+19 can i get a phone number please
+20 thank you good bye
+1 <SILENCE>
+2 im looking for a cheap restaurant in the east part of town
+10 <SILENCE>
+11 whats the address
+12 whats the phone number
+13 what type of food do they serve
+14 thank you good bye
+1 <SILENCE>
+2 im looking for an expensive restaurant that serves gastropub food
+384 <SILENCE>
+385 yea whats the address
+386 whats the post code
+387 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 east
+67 <SILENCE>
+68 expensive restaurant
+450 <SILENCE>
+451 whats the address
+452 phone number
+453 whats the post code
+454 thank you good bye
+1 <SILENCE>
+2 cantonese food
+3 how about thai food
+5 <SILENCE>
+6 i want thai food
+7 any
+22 <SILENCE>
+23 i dont give a damn about chinese food i want thai food
+24 address
+25 food from thailand
+26 i dont give a fuck if hk_fusion serves chinese food im looking for thai food
+27 how about cantonese food
+28 how about thai food
+29 address
+30 address
+31 phone number
+32 thank you
+33 good bye
+1 <SILENCE>
+2 <SILENCE>
+3 i would like
+5 <SILENCE>
+6 what about international food
+28 <SILENCE>
+29 may i have the address and phone number
+30 where is the restaurant
+31 oh thank you good bye
+1 <SILENCE>
+2 food type
+3 i dont care
+5 <SILENCE>
+6 french food
+21 <SILENCE>
+22 address
+23 area
+24 what area of town
+25 thank you
+26 thank you good bye
+1 <SILENCE>
+2 hello
+3 north
+87 <SILENCE>
+88 address
+89 phone number
+90 thank you good bye
+1 <SILENCE>
+2 im looking for a restaurant in the north part of town that serves french food
+3 yea
+4 french food
+88 <SILENCE>
+89 um whats the price range
+90 okay can i have the address and phone number
+91 can i have the address and phone number
+92 well whats the phone number
+93 thank you good bye
+1 <SILENCE>
+2 im looking for a restaurant that serves mexican food
+10 <SILENCE>
+11 whats the price range
+12 do you have the phone number of the address
+13 thank you good bye
+1 <SILENCE>
+2 im looking for a moderate priced restaurant in the south part of town
+3 moderately priced
+4 the south part of
+208 <SILENCE>
+209 can i have the address
+210 can i have the phone number
+211 whats the phone number
+212 in the south part of town
+213 thank you good bye
+1 <SILENCE>
+2 european food
+3 doesnt matter
+60 <SILENCE>
+61 phone number
+62 address
+63 good bye
+1 <SILENCE>
+2 lebanese food
+10 <SILENCE>
+11 phone number
+12 thank you
+13 good bye
+1 <SILENCE>
+2 im looking for a moderately priced restaurant in the east part of town
+4 <SILENCE>
+5 good bye
+1 <SILENCE>
+2 polynesian food
+3 any
+5 <SILENCE>
+6 venue
+7 what type of venue
+8 polynesian food
+9 european food
+10 address
+11 phone number
+12 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 a restaurant in the center of town serving carraibean food
+5 <SILENCE>
+6 caribbean
+8 <SILENCE>
+9 modern euorpean
+66 <SILENCE>
+67 address
+68 thank you good bye
+1 <SILENCE>
+2 east part of town
+3 i dont care
+4 expensive
+68 <SILENCE>
+69 phone number
+70 address
+71 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 cheap
+144 <SILENCE>
+145 cheap
+153 <SILENCE>
+154 south
+155 address
+156 south
+157 phone number
+158 address
+159 <SILENCE>
+160 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 thai
+4 thai
+5 thai food
+20 <SILENCE>
+21 probably an address
+22 telephone number
+23 price range
+24 thank you good bye
+1 <SILENCE>
+2 im looking for an expensive restaurant in the east part of town
+3 doesnt matter
+39 <SILENCE>
+40 whats the phone number
+41 is it an expensive restaurant
+42 thank you goodbye
+1 <SILENCE>
+2 restaurant in the center
+3 <SILENCE>
+4 modern_european
+61 <SILENCE>
+62 address
+63 thank you good bye
+1 <SILENCE>
+2 i want to find a cheap restaurant
+3 in the north part of town
+18 <SILENCE>
+19 thank you good bye
+1 <SILENCE>
+2 modereate
+3 british
+4 moderate
+5 any
+34 <SILENCE>
+35 address
+36 phone number
+37 good bye
+1 <SILENCE>
+2 european food
+3 in the center
+60 <SILENCE>
+61 what is the address
+62 what is the phone number
+63 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 north
+4 cheap
+19 <SILENCE>
+20 what is the phone number
+21 thank you good bye
+1 <SILENCE>
+2 i would like some danish food
+3 how about asian food
+5 <SILENCE>
+6 i would like an expensive asian food restaurant
+7 north
+8 expensive
+57 <SILENCE>
+58 what is the phone number
+59 thank you good bye
+1 <SILENCE>
+2 yea id like a
+3 european
+60 <SILENCE>
+61 mediterranean food
+62 about portuguese
+63 portuguese food in the south part of town
+71 <SILENCE>
+72 what is the phone number
+73 what is the address
+74 thank you good bye
+1 <SILENCE>
+2 im looking for a cheap restaurant in the south part of town
+3 yes
+11 <SILENCE>
+12 what type of food
+13 what is the address and phone number
+14 thank you good bye
+1 <SILENCE>
+2 i would like a cheap restaurant in the north part of town
+17 <SILENCE>
+18 is there anything else
+19 yes
+20 is there anything else
+21 what is the address and phone number
+22 thank you goodbye
+1 <SILENCE>
+2 i would like to find a restaurant in the north part of town that serves kosher food
+4 <SILENCE>
+5 italian food
+13 <SILENCE>
+14 can i have their address and phone number
+15 how about the address
+16 great thank you good bye
+1 <SILENCE>
+2 i want a restaurant that serves welsh food
+3 how about modern_european type of food
+4 modern_european type food
+5 any area
+7 <SILENCE>
+8 what is the uh
+9 phone number
+10 thank you good bye
+1 <SILENCE>
+2 im looking for an expensive restaurant in the north part of town
+86 <SILENCE>
+87 whats the address and phone number
+88 thank you good bye
+1 <SILENCE>
+2 im looking for moderately priced restaurant in the east part of town
+24 <SILENCE>
+25 whats the address
+26 whats the post code
+27 thank you good bye
+1 <SILENCE>
+2 moderately priced west part of town
+17 <SILENCE>
+18 phone number
+19 the address
+20 thank you good bye
+1 <SILENCE>
+2 im looking for a moderately priced restaurant that serves scottish food
+4 <SILENCE>
+5 im looking for a moderately priced restaurant that serves british food
+6 it doesnt matter
+35 <SILENCE>
+36 phone number
+37 what is the phone number
+38 thank you good bye
+1 <SILENCE>
+2 im looking for a moderately priced restaurant in the west part of town
+17 <SILENCE>
+18 is there anything else
+19 is there anything else
+20 are there any other options
+21 whats the phone number
+22 whats the post code
+23 thank you good bye
+1 <SILENCE>
+2 im looking for an expensive restaurant that serves french food
+17 <SILENCE>
+18 what is the address
+19 and the phone number
+20 thank you good bye
+1 <SILENCE>
+2 im looking for a restaurant in the south part of town that serves french food
+4 <SILENCE>
+5 how about indian food
+13 <SILENCE>
+14 indian food in the south part of town
+15 indian food in the south
+16 what is the phone number
+17 thank you good bye
+1 <SILENCE>
+2 i am looking for a moderately priced restaurant in the south part of town
+3 yes
+4 any food
+19 <SILENCE>
+20 im looking for a restaurant in the south part of town
+21 is it in the moderate price range
+22 is there anything else
+23 what is the address
+24 thank you goodbye
+1 <SILENCE>
+2 im looking for an expensive restaurant in the south part of town
+3 any type of food
+32 <SILENCE>
+33 what is the phone number
+34 thank you good bye
+1 <SILENCE>
+2 restaurant
+3 german
+4 european
+5 expensive
+34 <SILENCE>
+35 is it expensive
+36 address
+37 phone number
+38 an area
+39 thank you good bye
+1 <SILENCE>
+2 do you have christmas food
+3 um north_american food
+11 <SILENCE>
+12 um whats the price range
+13 yes the address
+14 and the phone number
+15 and whats the post code
+16 thank you good bye
+1 <SILENCE>
+2 the center of town
+3 barbecue food
+5 <SILENCE>
+6 how about indian
+159 <SILENCE>
+160 no italian food
+161 um doesnt matter if its in the center of the town
+260 <SILENCE>
+261 how about italian food
+262 doesnt matter
+263 whats their price range
+264 and their phone number
+265 thank you good bye
+1 <SILENCE>
+2 ah what have you got for thai food
+3 it doesnt matter
+18 <SILENCE>
+19 no thai food
+20 thai
+21 thai
+22 alright whats their address
+23 their address
+24 and their phone number
+25 and the price range
+26 thank you goodbye
+1 <SILENCE>
+2 im looking for an expensive restaurant
+3 in the north part of town
+4 im looking for an expensive restaurant in the south part of town
+5 i dont care
+34 <SILENCE>
+35 what is the address and phone number
+36 what is the phone number
+37 thank you good bye
+1 <SILENCE>
+2 im looking for a cheap restaurant that serves malaysian food
+4 <SILENCE>
+5 how about european food
+6 european food
+8 <SILENCE>
+9 malaysian
+11 <SILENCE>
+12 european food
+69 <SILENCE>
+70 moderately priced
+71 the address and phone number
+72 phone number
+73 thank you good bye
+1 <SILENCE>
+2 im looking for a restaurant in the north part of town that serves korean food
+10 <SILENCE>
+11 what about any area
+12 whats the address
+13 whats the price range
+14 thank you good bye
+1 <SILENCE>
+2 moderately priced restaurant in the north part of town
+3 moderate
+25 <SILENCE>
+26 what type of food
+27 address and phone number
+28 thank you good bye
+1 <SILENCE>
+2 restaurant in the east part of town that serves indonesian food
+4 <SILENCE>
+5 how about chinese food
+13 <SILENCE>
+14 address phone number post code
+15 address
+16 thank you good bye
+1 <SILENCE>
+2 japanese food
+3 japanese food
+11 <SILENCE>
+12 price range
+13 address
+14 thank you good bye
+1 <SILENCE>
+2 expensive restaurant in the south part of town
+3 expensive
+4 any
+33 <SILENCE>
+34 phone number
+35 thank you
+36 good bye
+1 <SILENCE>
+2 id like a cheap restaurant in the south part of town
+143 <SILENCE>
+144 what is the address
+145 and the telephone number
+146 and what type of food do they serve
+147 good bye thank you
+1 <SILENCE>
+2 i want to find a restaurant in the west part of town that serves vietnamese food
+16 <SILENCE>
+17 what is the phone number
+18 and what is the price range
+19 thank you good bye
+1 <SILENCE>
+2 i want to find a restaurant in the east part of town that serves basque food
+4 <SILENCE>
+5 what about indian food
+34 <SILENCE>
+35 what is the address
+36 and the telephone number
+37 thank you good bye
+1 <SILENCE>
+2 looking for a cheap restaurant in the north part of town
+17 <SILENCE>
+18 whats the address
+19 thank you good bye
+1 <SILENCE>
+2 brazilian food
+3 how about french food
+18 <SILENCE>
+19 what is the address and phone number
+20 thank you good bye
+1 <SILENCE>
+2 moderately priced restaurant in the north part of town
+24 <SILENCE>
+25 what is the address and phone number worth
+26 thank you good bye
+1 <SILENCE>
+2 sea food
+3 sea food
+5 <SILENCE>
+6 address
+7 <SILENCE>
+8 address
+9 thank you good bye
+1 <SILENCE>
+2 cheap restaurant in the north part of town
+3 anything
+4 <SILENCE>
+88 <SILENCE>
+89 doesnt matter
+90 anything else
+91 address
+92 phone number
+93 address
+94 address
+95 thank you good bye
+1 <SILENCE>
+2 cheap restaurant
+3 east
+4 any
+68 <SILENCE>
+69 what is the address
+70 thank you goodbye
+1 <SILENCE>
+2 im looking for a cheap restaurant in the south part of town
+143 <SILENCE>
+144 what is the address
+145 thank you good bye
+1 <SILENCE>
+2 looking for moderately priced restaurant in the north part of town
+24 <SILENCE>
+25 what is the address
+26 thank you good bye
+1 <SILENCE>
+2 looking for a cheap restaurant
+3 north
+4 cheap
+19 <SILENCE>
+20 what is the phone number and address
+21 address
+22 thank you good bye
+1 <SILENCE>
+2 um i would like to find an expensive restaurant in the south part of town
+3 um it doesnt matter
+32 <SILENCE>
+33 um can i get the address and phone number
+34 <SILENCE>
+35 can you repeat the phone number and address please
+36 can you repeat the address please
+37 thank you
+38 okay thank you goodbye
+1 <SILENCE>
+2 <SILENCE>
+3 <SILENCE>
+5 <SILENCE>
+6 i would like to find a moderately priced restaurant in the north part of town please
+28 <SILENCE>
+29 um what is the address and phone number
+30 what is its phone number
+31 <SILENCE>
+32 what is the phone number please
+33 <SILENCE>
+34 um thank you goodbye
+1 <SILENCE>
+2 im looking for a restaurant in the north part of town
+3 yes
+87 <SILENCE>
+88 i want a restaurant in the north part of town
+89 im looking for a restaurant that serves japanese food in the north part of town
+91 <SILENCE>
+92 im looking for an indian restaurant in the north part of town
+121 <SILENCE>
+122 what is the address
+123 and whats the phone number
+124 and whats the price range
+125 thank you good bye
+1 <SILENCE>
+2 im looking for a moderately priced restaurant
+3 it doesnt matter
+4 the south part of town
+19 <SILENCE>
+20 can i get the address
+21 and whats the phone number for that
+22 okay thank you good bye
+1 <SILENCE>
+2 i want to find a cheap restaurant that serves
+3 tuscan food
+4 how about italian food
+40 <SILENCE>
+41 can i have the address and phone number
+42 thank you good bye
+1 <SILENCE>
+2 i am looking for an expensive restaurant on the east part of town
+3 italian
+39 <SILENCE>
+40 any food that serves any restaurant thats expensive
+41 can i have the address and post code
+42 the post code
+43 thank you goodbye
+1 <SILENCE>
+2 i need a restaurant in the west part of town that serves english food
+4 <SILENCE>
+5 how about one that serves british food
+27 <SILENCE>
+28 what is the address and phone number
+29 what is the price range
+30 thank you good bye
+1 <SILENCE>
+2 gonville and caius college
+3 east part of town i need an expensive restaurant
+4 spanish
+40 <SILENCE>
+41 can i get address
+42 what type of food do they serve
+43 thank you good bye
+1 <SILENCE>
+2 im looking for a moderately priced restaurant in the north part of town
+24 <SILENCE>
+25 um is there anything else
+26 is there anything else besides golden_wok
+27 is there anything else
+28 whats the phone number
+29 thank you good bye
+1 <SILENCE>
+2 static
+3 east
+4 dont care
+68 <SILENCE>
+69 is it moderately priced
+91 <SILENCE>
+92 is it moderately priced
+93 whats the address
+94 <SILENCE>
+95 whats the address
+96 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 cheap
+4 north
+145 <SILENCE>
+146 address
+147 <SILENCE>
+148 thank you good bye
+1 <SILENCE>
+2 moderately priced priced restaurant
+3 serving mexican food
+5 <SILENCE>
+6 international food
+21 <SILENCE>
+22 address and postcode
+23 postcode
+24 thank you goodbye
+1 <SILENCE>
+2 yes could you recommend me a place that serves british food in a moderate price range
+3 in a moderate price range
+4 doesnt it does not matter
+33 <SILENCE>
+34 great could you tell me the address and phone number to that place
+35 whats the phone number
+36 thank you goodbye
+1 <SILENCE>
+2 im looking for an expensive restaurant
+3 doesnt matter
+385 <SILENCE>
+386 um anything else
+387 is it the east part of town
+423 <SILENCE>
+424 whats the phone number
+425 whats
+426 thank you good bye
+1 <SILENCE>
+2 looking for an expensive restaurant
+3 part of town
+4 yes
+5 any kind
+387 <SILENCE>
+388 south part of town
+417 <SILENCE>
+418 uh whats the phone number
+419 thank you good bye
+1 <SILENCE>
+2 trying to find a cheap restaurant
+3 south part of town
+11 <SILENCE>
+12 is there anything else
+13 yes
+14 is there anything else
+15 uh whats the address and phone number
+16 and the address
+17 whats the address
+18 what type of food is it
+19 thank you good bye
+1 <SILENCE>
+2 i got to find a cheap restaurant that serves mexican food
+4 <SILENCE>
+5 is it in the cheap price range
+6 is there a cheap restaurant that serves vietnamese food
+7 can i please have their phone number
+8 no thank you good bye
+9 thank you good bye
+1 <SILENCE>
+2 im looking for a cheap restaurant in the west part of town
+3 cheap
+18 <SILENCE>
+19 can i get their phone number please
+20 and what type of food do they serve
+21 thank you good bye
+1 <SILENCE>
+2 im looking for a cheap restaurant in the south part of the town
+10 <SILENCE>
+11 could i get their address and phone number
+12 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 im looking for a thai food restaurant and i dont care the price
+18 <SILENCE>
+19 holy cow
+20 thank you good bye
+1 <SILENCE>
+2 im looking for an expensive restaurant in the south part of town
+3 <SILENCE>
+4 is there
+5 is there any other restaurant
+387 <SILENCE>
+388 can i have the address
+389 <SILENCE>
+390 can i get the address and phone number
+391 what type of food do they serve
+392 okay thank you good bye
+1 <SILENCE>
+2 korean
+10 <SILENCE>
+11 what is the address
+12 phone number
+13 thank you good bye
+1 <SILENCE>
+2 moderate
+3 moderate
+207 <SILENCE>
+208 do you have cuban food
+209 what about british
+238 <SILENCE>
+239 what the price range
+240 how about moderate
+241 what is the phone number
+242 thank you good bye
+1 <SILENCE>
+2 cheap
+3 dont care
+4 east
+145 <SILENCE>
+146 address
+147 phone number phone number
+148 thank you good bye
+1 <SILENCE>
+2 spanish food
+3 dont care
+18 <SILENCE>
+19 spanish food
+20 what is the address
+21 thank you good bye
+1 <SILENCE>
+2 moderately priced restaurant in the west
+3 west
+18 <SILENCE>
+19 price range
+20 moderate price range
+21 what part of town
+22 west part of town moderately priced
+23 what is the phone number and address
+24 the address
+25 thank you good bye
+1 <SILENCE>
+2 expensive restaurant in the south part of town
+3 dont care
+4 price range
+5 what is the phone number and post code
+6 thank you good bye
+1 <SILENCE>
+2 im looking for a world food restaurant in the east part of town
+4 <SILENCE>
+5 how about chinese food
+13 <SILENCE>
+14 whats the address
+15 whats the phone number
+16 whats the post code
+17 thank you good bye
+1 <SILENCE>
+2 looking for a sea food restaurant
+3 i dont care
+5 <SILENCE>
+6 <SILENCE>
+7 whats the address
+8 whats the phone number
+9 what kind of food does it serve
+10 im looking for a sea food restaurant
+11 thank you good bye
+1 <SILENCE>
+2 im looking for a cheap restaurant in the north part of town
+17 <SILENCE>
+18 whats the address
+19 thank you good bye
+1 <SILENCE>
+2 hi im looking for a moderately priced restaurant in the south part of town
+52 <SILENCE>
+53 what is the address
+54 what is the phone number
+55 thank you good bye
+1 <SILENCE>
+2 i want a cheap restaurant in the north part of town
+17 <SILENCE>
+18 whats the address and phone number
+19 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 uh cheap restaurant in the north part of town
+18 <SILENCE>
+19 the phone number and post code
+20 thank you goodbye
+1 <SILENCE>
+2 i want a cheap restaurant in the north part of town
+17 <SILENCE>
+18 whats the phone number
+19 what kind of food do they serve there
+20 thank you good bye
+1 <SILENCE>
+2 i want an irish restaurant thats expensive
+4 <SILENCE>
+5 how about italian
+41 <SILENCE>
+42 whats the address phone number and area
+43 thank you good bye
+1 <SILENCE>
+2 i want an expensive restaurant in the east part of town
+3 dont care
+39 <SILENCE>
+40 is there anything else
+41 is there anything else
+42 whats the address phone number and post code
+43 what is the post code
+44 thank you good bye
+1 <SILENCE>
+2 just a moment
+3 i want a scottish restaurant
+5 <SILENCE>
+6 i dont care about the price range
+7 how about a gastropub restaurant
+22 <SILENCE>
+23 id like
+24 whats the phone number
+25 whats the address
+26 thank you good bye
+1 <SILENCE>
+2 i would like a moderately priced restaurant
+3 spanish food
+11 <SILENCE>
+12 what is the address
+13 what is the phone number
+14 what is the area
+15 thank you good bye
+1 <SILENCE>
+2 im looking for swedish food
+3 how about north_american food
+11 <SILENCE>
+12 what is the address
+13 what is the price range
+14 what is the phone number
+15 what is the post code
+16 thank you good bye
+1 <SILENCE>
+2 im looking for a moderately priced restaurant in the west part of town
+17 <SILENCE>
+18 is there anything else
+19 is there anything else
+20 is there something else
+21 what is the phone number
+22 whats the address
+23 thank you good bye
+1 <SILENCE>
+2 im looking for a cheap restaurant in the west part of town
+17 <SILENCE>
+18 west is the address and phone number
+19 thank you good bye
+1 <SILENCE>
+2 im looking for a cheap restaurant
+3 moroccan food
+5 <SILENCE>
+6 okay how about indian food
+35 <SILENCE>
+36 what is the address
+37 thank you goodbye
+1 <SILENCE>
+2 im looking for an expensive restaurant in the east part of town
+3 uh it doesnt matter
+39 <SILENCE>
+40 do you have anything else
+41 alright do you have the phone number for that one
+42 okay what about the post code
+43 thank you good bye
+44 thank you good bye
+1 <SILENCE>
+2 im looking for a restaurant in the center of town that serves romanian food
+3 romanian
+5 <SILENCE>
+6 okay what about a a modern_european
+63 <SILENCE>
+64 type of food
+65 it doesnt matter
+66 ah could you give me the address
+67 thank you goodbye
+1 <SILENCE>
+2 im looking for a restaurant in the west part of town that should serve english food
+3 english
+4 british
+75 <SILENCE>
+76 can i have the address
+77 phone number
+78 price range
+79 good bye
+80 i dont care
+81 thank you good bye
+82 thank you good bye
+1 <SILENCE>
+2 im looking for a restaurant in the south part of town that serves greek food
+4 <SILENCE>
+5 chinese food
+20 <SILENCE>
+21 address
+22 price range
+23 thank you good bye
+1 <SILENCE>
+2 im looking for a restaurant in the west part of town that serves christmas food
+4 <SILENCE>
+5 what about italian
+20 <SILENCE>
+21 can i get the phone number
+22 thank you good bye
+1 <SILENCE>
+2 im looking for moderately priced restaurant in the south part of town
+17 <SILENCE>
+18 address
+19 phone number
+20 thank you good bye
+21 thank you good bye
+22 thank you good bye
+1 <SILENCE>
+2 im looking for a restaurant
+3 in the center part of
+4 in the center part of town french food
+19 <SILENCE>
+20 can i have the phone number
+21 address
+22 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 mexican food
+11 <SILENCE>
+12 could i have the address and phone number
+13 thank you good bye
+1 <SILENCE>
+2 cheap restaurant in the east part of town
+10 <SILENCE>
+11 could i have the address
+12 thank you good bye
+1 <SILENCE>
+2 any
+3 any price range
+18 <SILENCE>
+19 whats the phone number
+20 whats the address
+21 moderate price range
+29 <SILENCE>
+30 spanish
+31 thank you good bye
+1 <SILENCE>
+2 could i have brazilian food
+3 korean food type
+4 korean
+5 korea
+13 <SILENCE>
+14 what is the phone number
+15 thank you good bye
+1 <SILENCE>
+2 uh yes im looking for a belgian restaurant in new york city
+3 um portuguese
+11 <SILENCE>
+12 okay thank you good bye
+1 <SILENCE>
+2 eritrean food in the east part of town
+4 <SILENCE>
+5 chinese food
+13 <SILENCE>
+14 may i get the address phone number
+15 and postcode
+16 may i get the address and phone number
+17 may i get the address
+18 thank you goodbye
+1 <SILENCE>
+2 im looking for a cheap restaurant in the south part of town
+10 <SILENCE>
+11 may i have the address and phone number
+12 may i have the phone number
+13 thank you good bye
+1 <SILENCE>
+2 korean food in the north part of town
+4 <SILENCE>
+5 persian food
+7 <SILENCE>
+8 chinese food
+30 <SILENCE>
+31 may i have the phone number
+32 thank you good bye
+1 <SILENCE>
+2 and expensive restaurant that serves tuscan food
+4 <SILENCE>
+5 french food
+20 <SILENCE>
+21 may i have the phone number
+22 thank you good bye
+1 <SILENCE>
+2 like to find a moderately priced restaurant in the west part of town
+17 <SILENCE>
+18 the address
+19 thank you good bye
+1 <SILENCE>
+2 i want to find a moderately priced restaurant in the south part of time
+17 <SILENCE>
+18 can i get the address phone number and price of food
+19 <SILENCE>
+20 and what type of food
+21 thank you good bye
+1 <SILENCE>
+2 world food any price range
+3 <SILENCE>
+4 <SILENCE>
+5 portuguese food
+13 <SILENCE>
+14 the phone number
+15 address
+16 thank you good bye
+1 <SILENCE>
+2 yeah im looking for food cheap restaurant
+3 <SILENCE>
+4 anything cheap
+145 <SILENCE>
+146 is it in the south part
+287 <SILENCE>
+288 how about the south part of town
+289 whats the address
+290 thank you good bye
+1 <SILENCE>
+2 i want to find a moderately priced restaurant and it should be in the north part of town
+24 <SILENCE>
+25 anything else
+26 yes
+27 anything else
+28 can i get the address and type of food
+29 what type of food does the venue
+30 thank you good bye
+1 <SILENCE>
+2 uh yes id like an expensive restaurant that serves vegetarian food
+384 <SILENCE>
+385 okay uh how about a bristish
+386 type of food
+387 um east part
+423 <SILENCE>
+424 okay and is that british food
+425 uh yes iam looking for a british type of food restaurant
+433 <SILENCE>
+434 okay and can i get their phone number
+435 thats all
+436 uh no thats it thank you and good bye
+1 <SILENCE>
+2 uh yeah can i find a restaurant in the south part of town serving turkish food
+4 <SILENCE>
+5 okay how about chinese food
+20 <SILENCE>
+21 uh chinese
+22 okay and whats the price range
+23 okay and price range
+24 and whats their address
+25 okay thank you good bye
+1 <SILENCE>
+2 i would like to find a restaurant in the north part of town
+3 scandinavian food
+5 <SILENCE>
+6 italian
+7 italian food
+15 <SILENCE>
+16 ok i would like to find a restaurant that serves italian food
+17 whats the address
+18 and the phone number
+19 thank you goodbye
+1 <SILENCE>
+2 im looking for a cheap restaurant in the north part of town
+3 north
+18 <SILENCE>
+19 anything else
+20 anything else
+21 type of food
+22 what type of food does it serve
+23 address
+24 what is the address
+25 the phone number
+26 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 im looking for a restaurant in the north part of town
+4 french
+12 <SILENCE>
+13 phone number
+14 thank you good bye
+1 <SILENCE>
+2 jamaican food
+3 i dont care
+5 <SILENCE>
+6 im looking for a restaurant that serves jamaican food
+7 jamaican food
+8 portuguese food
+9 phone number
+10 and the address
+11 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 a restaurant in the west part of town that serves hungarian food
+5 <SILENCE>
+6 how about indian food
+35 <SILENCE>
+36 address and phone number
+37 phone number
+38 thank you good bye
+1 <SILENCE>
+2 looking for a cheap restaurant in the east part of town
+10 <SILENCE>
+11 address and phone number
+12 phone number
+13 thank you good bye
+1 <SILENCE>
+2 im looking for a cheap restaurant in the north part of town
+17 <SILENCE>
+18 address and phone number
+19 phone number
+20 phone number
+21 thank you goodbye
+1 <SILENCE>
+2 im looking for a cheap restaurant in the north part of town
+17 <SILENCE>
+18 can i have the phone number
+19 thanks bye bye
+1 <SILENCE>
+2 im looking for a moderately priced restaurant that serves austria asian food
+3 yes
+4 what about modern_european
+33 <SILENCE>
+34 what is the phone number
+35 <SILENCE>
+36 thank you good bye
+1 <SILENCE>
+2 restaurant in the south part of town that serves mexican food
+10 <SILENCE>
+11 whats the address phone number and price range
+12 whats the price range
+13 no
+14 no thank you
+1 <SILENCE>
+2 south part of town
+3 italian food
+18 <SILENCE>
+19 phone number
+20 post code
+21 thank you good bye
+1 <SILENCE>
+2 hi i need a cheap restaurant in the south part of town
+143 <SILENCE>
+144 can i have the address and phone number
+145 okay thank you good bye
+1 <SILENCE>
+2 hi im looking for a restaurant that serves lebanese food
+3 yes
+11 <SILENCE>
+12 um whats the address
+13 okay and the phone number
+14 okay thank you bye
+1 <SILENCE>
+2 <SILENCE>
+3 im looking for a restaurant in the west part of town
+4 doesnt matter
+95 <SILENCE>
+96 what about british food
+118 <SILENCE>
+119 can i have the address phone number
+120 thank you good bye
+1 <SILENCE>
+2 im looking for a restaurant that serves austrian food
+3 austrian food
+4 what about turkish food
+26 <SILENCE>
+27 can i have the address and postal code
+28 thank you good bye
+1 <SILENCE>
+2 cheap restaurant
+3 any
+4 south
+12 <SILENCE>
+13 address
+14 phone number
+15 thank you good bye
+1 <SILENCE>
+2 tuscan food
+3 east
+4 tuscan food
+6 <SILENCE>
+7 european
+9 <SILENCE>
+10 north
+11 thank you good bye
+1 <SILENCE>
+2 scandinavian
+3 scandinavian
+5 <SILENCE>
+6 asian_oriental
+7 phone number
+8 address
+9 <SILENCE>
+10 address
+11 thank you good bye
+1 <SILENCE>
+2 portuguese food
+3 portuguese
+11 <SILENCE>
+12 address
+13 thank you goodbye
+1 <SILENCE>
+2 swedish food
+3 center
+4 swedish
+6 <SILENCE>
+7 indian
+160 <SILENCE>
+161 address
+162 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 cheap
+144 <SILENCE>
+145 south
+153 <SILENCE>
+154 address
+155 post code
+156 thank you good bye
+1 <SILENCE>
+2 christmas food
+3 indian food
+4 center
+6 <SILENCE>
+7 indian food
+160 <SILENCE>
+161 address
+162 thank you good bye
+1 <SILENCE>
+2 im looking for african food
+10 <SILENCE>
+11 whats the address and phone number
+12 thank you good bye
+1 <SILENCE>
+2 im looking for polish food
+3 yes
+4 what about thai food
+6 <SILENCE>
+7 thai food
+22 <SILENCE>
+23 whats the address
+24 what about the phone number
+25 thank you good bye
+1 <SILENCE>
+2 i need a caribbean restaurant in the south part of town
+4 <SILENCE>
+5 what about italian food
+20 <SILENCE>
+21 whats the phone number
+22 whats the post code
+23 thank you good bye
+1 <SILENCE>
+2 goodbye
+3 <SILENCE>
+5 <SILENCE>
+6 what kind of food does it serve
+28 <SILENCE>
+29 im looking for turkish food
+30 turkish
+31 turkish
+32 is there anything else
+33 whats the address
+34 whats the price range
+35 <SILENCE>
+36 whats the price range
+37 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 im looking for a re
+5 <SILENCE>
+6 im looking for romanian food
+7 romanian food
+9 <SILENCE>
+10 what about asian_oriental food
+11 whats the phone number
+12 thank you good bye
+1 <SILENCE>
+2 im looking for air tran food in the south part of town
+4 <SILENCE>
+5 what about portuguese
+7 <SILENCE>
+8 portuguese food
+9 whats the phone number
+10 whats the address
+11 thank you good bye
+1 <SILENCE>
+2 vietnamese food in any area
+3 yes
+17 <SILENCE>
+18 yes
+19 the phone numeber
+20 the post code
+21 thank you good bye
+1 <SILENCE>
+2 im looking for turkish food in the center
+24 <SILENCE>
+25 any thing else
+26 yes
+27 is there anything else
+28 can i have the price range
+29 thank you good bye
+1 <SILENCE>
+2 um im looking for something in the west thats moderately priced
+3 i dont care
+4 west
+19 <SILENCE>
+20 what type of food
+21 can i get the address
+22 thank you good bye
+1 <SILENCE>
+2 im looking for a restaurant in the west part of town
+3 european
+11 <SILENCE>
+12 european
+13 im looking for a restaurant in the west
+14 european food
+15 european food
+16 italian food
+17 a restaurant in the west that serves italian food
+18 can i get the phone number
+19 thank you good bye
+1 <SILENCE>
+2 i dont care
+3 i dont care
+32 <SILENCE>
+33 the address
+34 phone number
+35 thank you good bye
+1 <SILENCE>
+2 ya im looking for a restaurant serving persian food
+3 persian
+5 <SILENCE>
+6 okay is it in the north side of town
+90 <SILENCE>
+91 awesome um whats the number
+92 thank you goodbye
+93 oh my god thank you goodbye
+1 <SILENCE>
+2 im looking for a restaurant in the south part of town it should serve jamaican food
+3 south
+4 i dont care
+54 <SILENCE>
+55 what is the address
+56 what type of food does it serve
+57 do you have jamaican restaurant
+58 how about chinese
+59 okay thank you good bye
+1 <SILENCE>
+2 cough
+3 im looking for a restaurant in the north part of town that serves european food
+5 <SILENCE>
+6 what about indian food
+35 <SILENCE>
+36 what is the price range
+37 whats the phone number
+38 what is the address
+39 thank you good bye
+1 <SILENCE>
+2 im looking for a restaurant in the south part of town it should serve kosher food
+4 <SILENCE>
+5 what about portuguese
+13 <SILENCE>
+14 whats the phone number
+15 whats the address
+16 thank you good bye
+1 <SILENCE>
+2 im looking for a restaurant in the center
+3 it should serve belgian food
+5 <SILENCE>
+6 what about belgian food
+7 what about korean food
+8 what is the phone number
+9 <SILENCE>
+10 whats the phone number
+11 whats the address
+12 thank you good bye
+1 <SILENCE>
+2 im looking for an expensive restaurant and it should be east part of town
+3 any
+39 <SILENCE>
+40 is it expensive
+41 whats the address
+42 food
+43 what type of food
+44 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 south part
+4 expensive
+33 <SILENCE>
+34 expensive
+35 expensive
+36 address
+37 expensive
+38 <SILENCE>
+39 yes address
+40 phone number
+41 thank you goodbye
+42 thank you goodbye
+43 <SILENCE>
+44 thank you goodbye
+45 thank you goodbye
+46 okay thank you goodbye
+1 <SILENCE>
+2 cheap restaurant in the north part of town
+17 <SILENCE>
+18 is there anything else
+19 what else
+20 anything else
+21 address
+22 phone number
+23 thank you good bye
+1 <SILENCE>
+2 cheap restaurant in the north part of town
+17 <SILENCE>
+18 address
+19 phone number
+20 thank you good bye
+1 <SILENCE>
+2 moderately priced restaurant in the east part of town
+24 <SILENCE>
+25 address
+26 thank you good bye
+1 <SILENCE>
+2 im looking for a restaurant in the north part of town serving
+3 eartrain
+87 <SILENCE>
+88 earatrain
+89 <SILENCE>
+90 okay fine what about asian food
+91 what about asian food
+92 can i have the address
+93 can i have the phone number
+94 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 cheap
+4 i dont care
+145 <SILENCE>
+146 in the west part of town
+161 <SILENCE>
+162 what is the address
+163 thank you goodbye
+1 <SILENCE>
+2 european food expensive restaurant
+31 <SILENCE>
+32 um whats the address and post code
+33 what is the
+34 whats the promo code
+35 is there anything else
+36 is there anything else
+37 address and post code
+38 is there anything else
+39 expensive price range
+40 whats the code
+41 whats the code
+42 thank you
+43 good bye
+1 <SILENCE>
+2 moderately priced international food
+17 <SILENCE>
+18 anything else
+19 any thing else
+20 phone number
+21 thank you good bye
+1 <SILENCE>
+2 west part of town basque food
+4 <SILENCE>
+5 italian
+20 <SILENCE>
+21 phone number
+22 phone number
+23 phone number
+24 thank you goodbye
+1 <SILENCE>
+2 looking for a cheap restaurant in the east part of town
+10 <SILENCE>
+11 whats the address
+12 and the phone number
+13 thank you good bye
+1 <SILENCE>
+2 looking for romanian food in the center of town
+4 <SILENCE>
+5 how about european
+62 <SILENCE>
+63 ts the phone number
+64 and whats the postcode
+65 thank you goodbye
+1 <SILENCE>
+2 im looking for polynesian food
+3 how about thai food
+18 <SILENCE>
+19 whats their phone number
+20 and what is the price range
+21 thank you good bye
+1 <SILENCE>
+2 looking for a cheap restaurant in the east part of town
+10 <SILENCE>
+11 whats the phone number
+12 and the post code
+13 thank you good bye
+1 <SILENCE>
+2 id like a restaurant in the south part of town that serves
+3 world food
+5 <SILENCE>
+6 how about portuguese
+14 <SILENCE>
+15 what is the phone number and address
+16 what is the address
+17 good bye
+1 <SILENCE>
+2 id like a international restaurant in the north part of town
+4 <SILENCE>
+5 how about italian
+13 <SILENCE>
+14 what is the address and phone number
+15 good bye
+1 <SILENCE>
+2 id like a cheap italian restaurant
+3 any part of town
+39 <SILENCE>
+40 is it cheap
+41 what is the address and post code
+42 thank you good bye
+1 <SILENCE>
+2 id like a restaurant in the east part of town
+3 any price range
+4 <SILENCE>
+68 <SILENCE>
+69 what kind of food does it serve
+70 how about cantonese food
+134 <SILENCE>
+135 how about cantonates food
+136 how about cantonese food
+137 how about chinese food
+138 what is the address and post code
+139 what is the phone number
+140 thank you good bye
+1 <SILENCE>
+2 uh id like a cheap restaurant in the
+3 any kind of food
+4 east
+12 <SILENCE>
+13 whats the phone number and address
+14 thank you good bye
+1 <SILENCE>
+2 id like a restaurant in any area that serves japanese food
+10 <SILENCE>
+11 phone number
+12 what is the phone number
+13 thank you good bye
+1 <SILENCE>
+2 i would like to find a cheap restaurant
+3 the west part of town
+18 <SILENCE>
+19 can i get the address
+20 can i have the phone number
+21 thank you good bye
+1 <SILENCE>
+2 can i get a restaurant in the south part of town that serves cuban food
+4 <SILENCE>
+5 how about portuguese
+13 <SILENCE>
+14 okay can i have the phone number
+15 address
+16 thank you good bye
+1 <SILENCE>
+2 can i get a moderately priced restaurant in the north
+24 <SILENCE>
+25 anything else
+26 okay can i have the phone number
+27 and the address
+28 thank you good bye
+1 <SILENCE>
+2 moderate
+3 swedish food
+5 <SILENCE>
+6 chinese food
+35 <SILENCE>
+36 can i have the phone number
+37 thank you good bye
+1 <SILENCE>
+2 cheap restaurant west part of town
+17 <SILENCE>
+18 address
+19 phone number
+20 type of food
+21 what type of food
+22 thank you good bye
+1 <SILENCE>
+2 oh
+3 i want to find
+5 <SILENCE>
+6 okay thank you
+7 thank you bye
+1 <SILENCE>
+2 south part of town
+3 expensive
+4 dont care
+33 <SILENCE>
+34 what is the address and post code
+35 thank you good bye
+1 <SILENCE>
+2 west part of town
+3 cantonese
+5 <SILENCE>
+6 british
+28 <SILENCE>
+29 what is the price range
+30 what is the address and phone number
+31 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 cantonese
+4 north_american
+12 <SILENCE>
+13 address
+14 what is the
+15 what is the phone number
+16 what is the address
+17 price range
+18 what is the price range
+19 thank you good bye
+1 <SILENCE>
+2 sea food restaurant
+3 south
+53 <SILENCE>
+54 thank you good bye
+1 <SILENCE>
+2 a cheap restaurant
+3 north
+4 german food
+145 <SILENCE>
+146 asian_oriental
+147 whats the phone number and address
+148 thank you good bye
+1 <SILENCE>
+2 moderately priced restaurant
+3 chinese
+32 <SILENCE>
+33 thank you good bye
+1 <SILENCE>
+2 expensive restaurant
+3 vegetarian food
+5 <SILENCE>
+6 mediterranean food
+21 <SILENCE>
+22 whats the address
+23 thank you
+24 thank you good bye
+1 <SILENCE>
+2 barbecue food
+3 vietnamese food
+17 <SILENCE>
+18 whats the address
+19 thank you good bye
+1 <SILENCE>
+2 turkish food
+24 <SILENCE>
+25 moderately priced
+40 <SILENCE>
+41 anything else
+42 what else
+43 expensive
+51 <SILENCE>
+52 anything else
+53 turkish food
+54 anything else
+55 address
+56 phone number
+57 thank you good bye
+1 <SILENCE>
+2 im looking for a moderately priced restaurant in the north
+3 the north part of town
+25 <SILENCE>
+26 whats their address
+27 whats the phone number
+28 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 i dont care
+5 <SILENCE>
+6 east part of town
+70 <SILENCE>
+71 caribbean food
+73 <SILENCE>
+74 what about chinese food
+82 <SILENCE>
+83 whats their address
+84 and their phone number
+85 and their post code
+86 thank you good bye
+1 <SILENCE>
+2 im looking for a restaurant in the south part of town
+3 i dont care
+4 mediterranean food
+26 <SILENCE>
+27 what about any area
+28 whats their address
+29 and their post code
+30 and whats the phone number
+31 thank you good bye
+1 <SILENCE>
+2 im looking for a restaurant in the west part of town serving
+3 polish food
+5 <SILENCE>
+6 what about indian foods
+35 <SILENCE>
+36 whats their address
+37 and their phone number
+38 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 i dont care
+5 <SILENCE>
+6 any part of town
+7 what about chinese food
+105 <SILENCE>
+106 im looking for cheap food
+135 <SILENCE>
+136 whats their address
+137 and their phone number
+138 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 i dont care
+5 <SILENCE>
+6 im looking for a cheap restaurant in south part of
+14 <SILENCE>
+15 im looking for a cheap restaurant in the south part of town
+16 and whats their address
+17 and their phone number
+18 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 <SILENCE>
+5 <SILENCE>
+6 whats the address
+7 <SILENCE>
+8 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 <SILENCE>
+5 <SILENCE>
+6 id like to find a restaurant in the north part of town and it should serve greek food
+90 <SILENCE>
+91 <SILENCE>
+92 <SILENCE>
+93 can i get the phone number
+94 <SILENCE>
+95 thank you goodbye
+1 <SILENCE>
+2 i want to find a restaurant in the west part of town and it should
+3 any
+4 fusion food
+95 <SILENCE>
+96 no thank you
+97 not european fusion
+98 how about british food
+99 whats the address
+100 phone number
+101 and the price range
+102 thank you good bye
+1 <SILENCE>
+2 i am looking for a cheap restaurant and it should serve seafood
+3 seafood
+5 <SILENCE>
+6 how about chinese
+35 <SILENCE>
+36 whats the address
+37 phone number
+38 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 in the north part of town
+4 chinese food
+26 <SILENCE>
+27 chinese food
+28 is there anything else
+29 whats the address
+30 and the phone number
+31 thank you good bye
+1 <SILENCE>
+2 i want to find a restaurant in the south part of town and it shows
+3 any
+4 lebanese food
+6 <SILENCE>
+7 how about chinese
+22 <SILENCE>
+23 whats the address
+24 and the price range
+25 thank you good bye
+1 <SILENCE>
+2 im looking for a restaurant in any area and it should serve turkish
+24 <SILENCE>
+25 whats the address
+26 and the post code
+27 thank you good bye
+1 <SILENCE>
+2 im looking for a cheap restaurant and it should be in north part of town
+17 <SILENCE>
+18 whats the phone number
+19 and the post code
+20 thank you good bye
+1 <SILENCE>
+2 im looking for a moderately priced restaurant and it should be in the north
+24 <SILENCE>
+25 is there anything else
+26 whats the address
+27 phone number
+28 and what type of food
+29 thank you goodbye
+1 <SILENCE>
+2 uh north
+3 north
+18 <SILENCE>
+19 address
+20 thank you good bye
+1 <SILENCE>
+2 i need a cheap restaurant
+3 any
+4 italian
+40 <SILENCE>
+41 can i get the address
+42 phone number
+43 thank you good bye
+1 <SILENCE>
+2 cheap restaurant
+3 any
+4 south
+145 <SILENCE>
+146 price range
+147 address
+148 phone number
+149 thank you goodbye
+1 <SILENCE>
+2 moderately priced restaurant in the south part of town
+17 <SILENCE>
+18 address and phone number
+19 yes
+20 address and phone number
+21 thank you good bye
+1 <SILENCE>
+2 polish food
+3 expensive restaurant
+5 <SILENCE>
+6 north_american food
+14 <SILENCE>
+15 what is the phone number and post code
+16 thank you good bye
+1 <SILENCE>
+2 im looking for a restaurant in the east part of town that serves australian
+3 moderate
+25 <SILENCE>
+26 australian food
+27 indian food
+28 what is the address
+29 and what is telephone number
+30 thank you good bye
+1 <SILENCE>
+2 yea im looking for an expensive restaurant that serves portuguese
+4 <SILENCE>
+5 how about north_american food
+387 <SILENCE>
+388 how about north_american food
+389 yes
+390 how about north_american food
+391 expensive restaurants
+392 north_american food
+393 whats the telephone number
+394 and the price code
+395 thank you good bye
+1 <SILENCE>
+2 im looking for expensive restaurants in the east part of town
+3 any kind of food
+39 <SILENCE>
+40 <SILENCE>
+41 anything else
+42 what is the phone number
+43 what is the address
+44 okay thank you good bye
+1 <SILENCE>
+2 im looking for a cheap restaurant in the west part of town
+17 <SILENCE>
+18 whats the address
+19 whats the phone number
+20 thank you good bye
+1 <SILENCE>
+2 lebanese food
+3 any
+11 <SILENCE>
+12 phone number
+13 phone number
+14 address
+15 good bye
+1 <SILENCE>
+2 <SILENCE>
+3 mexican
+11 <SILENCE>
+12 the phone number
+13 what part of town is it in
+14 what part of town is chiquito mexican restaurant in
+15 what part of town are they in
+16 thank you good bye
+1 <SILENCE>
+2 find restaurant in south of town serving international f
+24 <SILENCE>
+25 how about the center of town
+26 the price range
+27 what is the phone number
+28 thank you goodbye
+1 <SILENCE>
+2 find gastro pub type food
+3 okay start over
+4 doesnt matter
+5 find gastropub restaurant
+20 <SILENCE>
+21 what is the address
+22 what is the post code
+23 what is the post code
+24 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 french food
+18 <SILENCE>
+19 address
+20 phone number
+21 price range
+22 thank you good bye
+1 <SILENCE>
+2 moderate restaurant north part of town
+24 <SILENCE>
+25 address
+26 phone number
+27 type of food
+28 type of food
+29 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 cheap restaurant gastropub food
+4 doesnt matter
+145 <SILENCE>
+146 cheap gastropub
+147 type of food
+148 gastropub food
+149 gastropub moderate
+150 cheap restaurant gastropub
+151 type of food
+152 gastropub
+153 thank you good bye
+1 <SILENCE>
+2 cheap restaurant south part of town
+10 <SILENCE>
+11 anything else
+12 address
+13 thank you good bye
+1 <SILENCE>
+2 hi im looking for
+3 im looking for an expensive restaurant and it should be in the south part of town
+4 i dont care
+33 <SILENCE>
+34 is it an expensive restaurant
+35 could i have the address please
+36 thank you good bye
+1 <SILENCE>
+2 i am looking
+3 for a
+5 <SILENCE>
+6 i am looking for a moderately priced restaurant in the
+210 <SILENCE>
+211 in the south part of town
+226 <SILENCE>
+227 could i have the address and phone number please
+228 could i have the phone number and post code
+229 thank you good bye
+1 <SILENCE>
+2 i am looking for a cheap restaurant
+3 and it should be in the west part of town
+18 <SILENCE>
+19 could i get the phone number please
+20 thank you good bye
+1 <SILENCE>
+2 iam looking for a cheap restaurant and it should be in the north part of town
+17 <SILENCE>
+18 there any other
+19 could i have another one
+20 is there anything else
+21 could i have the address and phone number of the venue
+22 thank you good bye
+1 <SILENCE>
+2 uh i want a cheap restaurant and it should be in the north part of town
+17 <SILENCE>
+18 can i have the phone number please
+19 whats the address
+20 thank you
+21 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 downtown
+4 yes italian food
+5 italian food
+41 <SILENCE>
+42 address
+43 phone number
+44 thank you
+45 thank you goodbye
+1 <SILENCE>
+2 expensive restaurant
+3 any
+39 <SILENCE>
+40 and whats the address
+41 and the phone number
+42 thank you good bye
+1 <SILENCE>
+2 <SILENCE>
+3 hungarian
+5 <SILENCE>
+6 hungarian
+7 south town
+8 south
+9 hungarian food
+10 modern_european
+60 <SILENCE>
+61 address
+62 phone number
+63 thank you good bye
+1 <SILENCE>
+2 barbecue
+3 european
+4 any
+5 any
+62 <SILENCE>
+63 phone number
+64 thank you good bye
+1 <SILENCE>
+2 german food
+3 any
+5 <SILENCE>
+6 german food
+7 moderate european
+64 <SILENCE>
+65 phone number
+66 phone number
+67 thank you good bye
+1 <SILENCE>
+2 cheap restaurant
+3 west
+18 <SILENCE>
+19 anything else
+20 west
+21 address
+22 post code
+23 thank you good bye
+1 <SILENCE>
+2 expensive restaurant
+3 swiss food
+5 <SILENCE>
+6 mediterranean food
+21 <SILENCE>
+22 address
+23 phone number
+24 thank you good bye
+1 <SILENCE>
+2 persian food
+3 portugeuse food
+5 <SILENCE>
+6 price range
+7 phone number
+8 phone number
+9 address
+10 thank you goodbye
+1 <SILENCE>
+2 i want to find a restaurant in any area
+3 persian food
+4 how about vietnamese
+6 <SILENCE>
+7 how about vietnamese
+21 <SILENCE>
+22 vietnamese food
+23 may i have the address and phone nymber
+24 and the phone number
+25 thank you good bye
+1 <SILENCE>
+2 im looking for a restaurant in the center
+3 that serves cuban food
+5 <SILENCE>
+6 how about european food
+63 <SILENCE>
+64 may i have the phone number and post code
+65 thank you good bye
+1 <SILENCE>
+2 im looking for a cheap restaurant in the south part of town
+10 <SILENCE>
+11 may i have the address
+12 thank you good bye
+1 <SILENCE>
+2 i want to find a moderate priced restaurant that serves
+3 cuban food
+5 <SILENCE>
+6 how about british food
+35 <SILENCE>
+36 may i have the phone number
+37 thank you good bye
+1 <SILENCE>
+2 i want to find
+3 i want to find a cheap restaurant in the north part of town
+18 <SILENCE>
+19 is there anything else
+20 may i have the address and type of food
+21 the type of food
+22 thank you good bye
+1 <SILENCE>
+2 pan asian
+3 chinses
+5 <SILENCE>
+6 south part of town
+56 <SILENCE>
+57 south part of town
+58 address
+59 price range
+60 thank you good bye
+1 <SILENCE>
+2 i would like a cheap restaurant in the south part of town
+143 <SILENCE>
+144 south part of town
+145 address and phone number
+146 phone number
+147 thank you good bye
+1 <SILENCE>
+2 a cheap restaurant in the north part of town
+17 <SILENCE>
+18 address
+19 no
+20 chinese
+22 <SILENCE>
+23 thank you good bye
+1 <SILENCE>
+2 yes id like hungarian food in the south part of town
+3 it doesnt matter
+4 hungarian food
+54 <SILENCE>
+55 hungarian
+56 do you have modern_european food
+57 what is the address and phone number
+58 <SILENCE>
+59 no thank you good bye
+1 <SILENCE>
+2 polynesian food in the south part of town
+4 <SILENCE>
+5 italian food
+20 <SILENCE>
+21 phone number and post code
+22 post code
+23 thank you good bye
+1 <SILENCE>
+2 i need a restaurant serving turkish food
+24 <SILENCE>
+25 can i get a address
+26 yes
+27 oh whats the address
+28 thank you good bye
+1 <SILENCE>
+2 i need a restaurant serving af
+3 <SILENCE>
+4 afghan
+6 <SILENCE>
+7 i need a restaurant serving modern_european food
+8 i need a restaurant serving modern_european food
+65 <SILENCE>
+66 can i get the phone number
+67 thank you good bye
+1 <SILENCE>
+2 can i have a caribbean food
+3 can i have french food in the center
+18 <SILENCE>
+19 can i have an address and phone number
+20 what is the price range
+21 what is the phone number
+22 thank you good bye
+1 <SILENCE>
+2 can i have a cheap restaurant in the west part of town
+17 <SILENCE>
+18 can i have the phone number
+19 thank you good bye
+1 <SILENCE>
+2 looking for a moderately priced restaurant in the south part of
+17 <SILENCE>
+18 what kind of food
+19 can i have the address please
+20 thank you good bye
+1 <SILENCE>
+2 i am looking for a singaporean restaurant in the north part of town
+86 <SILENCE>
+87 can i have an asian_oriental restaurant in the
+88 can i have the address please
+89 can i have the phone number
+90 thank you good bye
+1 <SILENCE>
+2 im looking for a restaurant in the west part of town
+3 i dont care
+4 bask food
+6 <SILENCE>
+7 how about vietnamese
+21 <SILENCE>
+22 how about vietnamese
+23 okay whats the phone number
+24 thank you good bye
+1 <SILENCE>
+2 im looking for a moderately priced restaurant
+3 i dont care
+4 australian
+6 <SILENCE>
+7 how about a gastropub
+9 <SILENCE>
+10 what about gastropub
+11 what is the address
+12 what is the phone number
+13 what is the area
+14 thank you good bye
+1 <SILENCE>
+2 i want to find an expensive restaurant in the south part of town
+3 i dont care
+4 is there anything else
+33 <SILENCE>
+34 what is the phone number
+35 thank you good bye
+1 <SILENCE>
+2 im looking for russian food in the center of town
+4 <SILENCE>
+5 how about british food
+76 <SILENCE>
+77 what is the address and phone number
+78 thank you good bye
+1 <SILENCE>
+2 im looking for an expensive restaurant in the south part of town
+3 i dont care
+32 <SILENCE>
+33 what is the address
+34 what is the price range
+35 thank you goodbye
+1 <SILENCE>
+2 <SILENCE>
+3 i am looking for a cheap restaurant in the west part of town
+18 <SILENCE>
+19 what is the phone number
+20 thank you good bye
+1 <SILENCE>
+2 moderately priced
+3 doesnt matter
+4 north part
+26 <SILENCE>
+27 okay the address
+28 thank you good bye
+1 <SILENCE>
+2 north
+3 dont care
+4 european
+61 <SILENCE>
+62 phone number
+63 phone number
+64 post code
+65 thank you good bye
+1 <SILENCE>
+2 expensive
+3 dont care
+385 <SILENCE>
+386 um world food
+387 italian
+423 <SILENCE>
+424 address
+425 phone number
+426 thank you good bye
+1 <SILENCE>
+2 spensive
+3 expensive
+4 asian
+386 <SILENCE>
+387 phone number
+388 in the area
+389 thank you goodbye
+1 <SILENCE>
+2 spanish food
+17 <SILENCE>
+18 phone number
+19 address
+20 the address
+21 thank you good bye
+1 <SILENCE>
+2 a want a cheap restaurant in the north part of town
+17 <SILENCE>
+18 whats the address
+19 thank you good bye
+1 <SILENCE>
+2 restaurant in the south
+3 that serves turkish food
+25 <SILENCE>
+26 whats the address
+27 the price range
+28 thank you good bye
+1 <SILENCE>
+2 expensive restaurant
+3 i dont care
+385 <SILENCE>
+386 what is the phone number
+387 address
+388 thank you good bye
+1 <SILENCE>
+2 kosher food in the north
+4 <SILENCE>
+5 french food
+13 <SILENCE>
+14 whats the phone number
+15 thank you good bye
+1 <SILENCE>
+2 a moderately priced restaurant in the south part of town
+17 <SILENCE>
+18 what is the address
+19 thank you good bye
+1 <SILENCE>
+2 im looking for a restaurant in the west part of town
+3 i dont care
+4 english food
+6 <SILENCE>
+7 uh how about italian food
+22 <SILENCE>
+23 italian food
+24 italian food
+25 uh can i get the phone number
+26 thank you good bye
+1 <SILENCE>
+2 looking for a restaurant in the west part of town
+3 thai food
+11 <SILENCE>
+12 im looking for thai food
+13 can i get address
+14 the phone number
+15 whats the price range
+16 thank you good bye
+1 <SILENCE>
+2 moderately priced
+3 west
+18 <SILENCE>
+19 address
+20 phone number
+21 thank you
+22 good bye
+1 <SILENCE>
+2 expensive
+3 south part of town
+4 expensive
+5 dont care
+34 <SILENCE>
+35 address
+36 phone number
+37 post code
+38 thank you good bye
+1 <SILENCE>
+2 expensive african food
+10 <SILENCE>
+11 phone number
+12 area
+13 what area
+14 thank you goodbye
+1 <SILENCE>
+2 i want a moderately priced restaurant in the east part of town
+24 <SILENCE>
+25 is there anything else
+26 yes
+27 is there anything else
+28 what is the address
+29 what is the phone number
+30 thank you good bye
+1 <SILENCE>
+2 i want a european restaurant in the center part of town
+59 <SILENCE>
+60 what is the address
+61 what is the phone number
+62 thank you good bye

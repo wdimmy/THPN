@@ -1,0 +1,551 @@
+the_cow_pizza_kitchen_and_bar serves the_cow_pizza_kitchen_and_bar_food food.  their address is the_cow_pizza_kitchen_and_bar_address in the the_cow_pizza_kitchen_and_bar_area area.
+there is thanh_binh in the thanh_binh_area area at thanh_binh_address, phone number is thanh_binh_phone.
+enjoy your meal!
+i have found two expensive mediterranean restaurants, la_mimosa and shiraz_restaurant. both are in the centre area. would you like more information on either one of these restaurants?
+yes, there is also the_nirala which is an the_nirala_food restaurant.  would you be interested in more information on that one?
+the address is pizza_hut_cherry_hinton_address. the phone number is pizza_hut_cherry_hinton_phone.
+enjoy your meal!
+peking_peking_restaurant_type is an peking_restaurant_pricerange peking_restaurant_food peking_restaurant_type in the peking_restaurant_area part of town. would you like their information?
+there are five restaurants in the expensive price range and in the east part of town. what kind of food would you like?
+prezzo is an prezzo_food prezzo_type in the area of prezzo_area in the prezzo_pricerange price range.
+their address is da_vinci_pizzeria_address
+thank you for using this system. goodbye.
+thank you and have a great day!
+good bye.
+of course. may i suggest meghna, an meghna_food restaurant?
+cote is located at bridge_street_city_cote_area and their postcode is cote_postcode.  may i help you with anything else?
+jinling_noodle_bar is a nice jinling_noodle_bar_food jinling_noodle_bar_type .
+enjoy your meal!
+i have found two expensive mediterranean restaurants, la_mimosa and shiraz_restaurant. both are in the centre area. would you like more information on either one of these restaurants?
+there are no moderately priced moroccan restaurants in any area. might another type of food interest you?
+bangkok_city bangkok_city_type is located at 24_green_street_city_bangkok_city_area and its phone number is bangkok_city_phone. is there anything else i can help you with?
+they serve grafton_hotel_restaurant_food food.
+you're welcome. good bye.
+there are no malaysian dojo_noodle_bar_types in this area.
+dojo_noodle_bar serves dojo_noodle_bar_food food in the dojo_noodle_bar_area of town. would you like their number?
+what area are you interested in today?
+peking_restaurant is a peking_restaurant_food restaurant located in the south part of town and is expensive price range.  do you need any additional information?
+goodbye
+i recommend golden_wok. it is in the north part of town with a moderate price range.
+cambridge_leisure_park_clifton_way cherry hinton
+thank you
+restaurant_two_two is a nice place that serves french food in the expensive price range and is in the restaurant_two_two_area part of town.
+of course, how about sala_thong? it is a sala_thong_food restraunt in the sala_thong_area part of town.
+gourmet_burger_kitchen is in the gourmet_burger_kitchen_pricerange price range their phone number is gourmet_burger_kitchen_phone and their address is gourmet_burger_kitchen_address
+have a nice day.
+i found two golden_wok_types in the golden_wok_pricerange price range in the golden_wok_area part of town. would you prefer golden_wok_food or indian food?
+the royal_standard is located in city centre
+peking_restaurant is a peking_restaurant_food restaurant located in the south part of town and is expensive price range.  do you need any additional information?
+the phone number for dojo_noodle_bar is dojo_noodle_bar_phone.  would you like any other information?
+thank you and good bye
+i have found two. they are da_vinci_pizzeria and royal_spice.
+peking_restaurant is a peking_restaurant_food restaurant located in the south part of town and is expensive price range.  do you need any additional information?
+the address is pizza_hut_cherry_hinton_address. the phone number is pizza_hut_cherry_hinton_phone.
+have a nice day.
+what type of food would you like?
+caffe_uno's telephone number is caffe_uno_phone and the address is 32 bridge_street_city_caffe_uno_area.
+you're welcome. thank you for calling. goodbye.
+there are two nandos_types serving nandos_pricerange food in the nandos_area part of town.  do you have a preference of nandos_food or chinese food?
+the address is cambridge_lodge_restaurant_address, postcode cambridge_lodge_restaurant_postcode , phone is cambridge_lodge_restaurant_phone
+have a great day and enjoy your food.
+there are two moderately priced restaurants in the north part of town. one specializes in indian cuisine and the other is a chinese restaurant.
+golden_wok is in the north part of town, and is moderately priced.  it serves golden_wok_food food.
+sure, their address is grafton hotel 619 newmarket_road_fen_ditton, grafton_hotel_restaurant_postcode
+you're welcome, goodbye
+i'm sorry, there are no la_margherita_types that serve australian food.
+la_mimosa is a nice la_mimosa_food la_mimosa_type in the la_mimosa_area.
+jinling_noodle_bar is a nice place that fits your requirement
+the anatolia is located at 30_bridge_street_city_anatolia_area.  is there any other information you need?
+thank you, goodbye.
+meghna is an meghna_food meghna_type in the meghna_area part of town and in the meghna_pricerange price range.
+there are two restaurants: pizza_hut_cherry_hinton and restaurant_alimentum.
+there phone number is the_missing_sock_phone is there anything else i can help you with?
+you're welcome, goodbye
+do you have a certain type of food in mind?
+cote is a good cote_food cote_type. it is located at bridge_street_city_cote_area and its phone number is cote_phone. is there anything else i can help you with?
+royal_spice serves royal_spice_food food in the cheap price range and is in the north part of town.
+i can recommend 2 restaurants serving french cuisine:  cote, located at bridge_street_city_cote_area c.b2, 1 u.f, phone number cote_phone or restaurant_two_two located at restaurant_two_two_address, restaurant_two_two_postcode, phone number restaurant_two_two_phone
+it is located in the south part of town
+goodbye
+there are two restaurants that fit your criteria, would you prefer da_vinci_pizzeria_food or royal_spice_food food?
+have a nice day.
+the_cow_pizza_kitchen_and_bar serves the_cow_pizza_kitchen_and_bar_food food.  their address is the_cow_pizza_kitchen_and_bar_address in the the_cow_pizza_kitchen_and_bar_area area.
+nandos is the nandos_food place, and the_lucky_star is the_lucky_star_food.  would you like more information on one or both of those?
+there is also efes_restaurant in the moderate price range. it is located in the centre of town.
+little_seoul is at 108 regent_street_city_little_seoul_area and is an little_seoul_pricerange little_seoul_type.  do you want the phone number?
+they serve chiquito_restaurant_bar_food food .
+have a nice day.
+what type of food are you looking for?
+i'm sorry. there are no thanh_binh_types that serve fusion food in your area.
+their address is da_vinci_pizzeria_address
+there are no welsh da_vinci_pizzeria_types in the da_vinci_pizzeria_area of town. would you like something else?
+curry_prince serves curry_prince_food food and is on the curry_prince_area side of town.
+the phone number for dojo_noodle_bar is dojo_noodle_bar_phone.  would you like any other information?
+anatolia is located at anatolia_address. is there anything else i can help you with?
+thank you good bye
+i'm sorry but there are no swiss thanh_binh_types in town. can i offer you something else?
+there are no frankie_and_bennys_types in the frankie_and_bennys_area part of town serving unusual type food.
+the address of little_seoul little_seoul_food little_seoul_type is 108 regent_street_city_little_seoul_area, postcode little_seoul_postcode
+thank you. goodbye.
+gourmet_burger_kitchen is in the gourmet_burger_kitchen_pricerange price range their phone number is gourmet_burger_kitchen_phone and their address is gourmet_burger_kitchen_address
+goodbye
+the_missing_sock is a the_missing_sock_pricerange the_missing_sock_type in the the_missing_sock_area .
+royal_spice serves royal_spice_food food in the cheap price range and is in the north part of town.
+they serve da_vinci_pizzeria_food food.
+they are in the cheap price range.
+their phone number is la_margherita_phone.
+you're welcome.  good bye.
+no meze_bar_restaurant_type matching your description have been found.
+there are several the_lucky_star_pricerange the_lucky_star_food the_lucky_star_types.  would you prefer any certain area of town?
+golden_wok is located in the north part of town and is the moderate price range.   their address is golden_wok_address.
+peking_restaurant is a peking_restaurant_food restaurant located in the south part of town and is expensive price range.  do you need any additional information?
+la_margherita is an la_margherita_food la_margherita_type in the area of la_margherita_area in the la_margherita_pricerange price range.
+restaurant_two_two_type_two_two's phone number is restaurant_two_two_phone. is there anything else i can do for you?
+goodbye
+good bye
+no caffe_uno_types match that request. can i search for something different for you?
+i have found two expensive mediterranean restaurants, la_mimosa and shiraz_restaurant. both are in the centre area. would you like more information on either one of these restaurants?
+no caffe_uno_types match that request. can i search for something different for you?
+you're welcome. thank you for calling. goodbye.
+i'm sorry, there are no australian kymmoy_types.  would you like another type of food?
+there are two bangkok_city_types serving bangkok_city_food food. is the bangkok_city_pricerange price range okay for you?
+la_margherita is located at la_margherita_address and the phone number is la_margherita_phone. is there anything else i can help you with?
+there are 14 graffiti_types that are in the graffiti_area area of town. what kind of food would you like?
+there are no matching prezzo_types. would you like me to perform another search?
+golden_wok serves golden_wok_food food and is located in the golden_wok_area part of town.
+the peking_peking_restaurant_type is at peking_restaurant_address.  can i be of further help?
+thank you, and have a good day.
+thank you for using the cambridge peking_restaurant_type system. goodbye.
+there are no the_gardenia_types matching those preferences.  would you like a different the_gardenia_type?
+their address is da_vinci_pizzeria_address
+bloomsbury_bloomsbury_restaurant_type is bloomsbury_restaurant_pricerangely priced, and you can reach them at bloomsbury_restaurant_phone.
+thank you for choosing our system. good bye
+i have to options for thai food in the expensive price range, bangkok_city and sala_thong.
+de_luca_cucina_and_bar is de_luca_cucina_and_bar_pricerangely priced and serves de_luca_cucina_and_bar_food food.
+how about da_vinci_pizzeria? it is located at da_vinci_pizzeria_address and the phone number is da_vinci_pizzeria_phone.
+the address is  yippee_noodle_bar_address and the phone number is yippee_noodle_bar_phone.
+have a nice day.
+what part of town would you like?
+what area are you looking for?
+la_mimosa is an la_mimosa_pricerange la_mimosa_food la_mimosa_type in the la_mimosa_area part of town.  would you like their location?
+their phone number is la_tasca_phone, their address is la_tasca_address and their postcode is la_tasca_postcode.
+you're welcome. good bye.
+there is nandos_food and chinese nandos_types that are nandos_pricerange in the nandos_area part of town. which do you prefer?
+they are in the cheap price range.
+bloomsbury_bloomsbury_restaurant_type is located at bloomsbury_restaurant_address and their phone number is bloomsbury_restaurant_phone. may i help you with anything else?
+you're welcome!
+there is not matching places that fits your request. can i help you with something else?
+i'm showing 4 golden_wok_types matching that description, 3 in the city centre and 1 in the golden_wok_area. do you have a preference for area?
+there address is bloomsbury_restaurant_address and the post code is cb23dt is there anything else i can help you with?
+have a nice day.
+i found three in the kohinoor_area part of town and one in the north. which area do you prefer?
+there are no moderately priced moroccan restaurants in any area. might another type of food interest you?
+there are 15 results for prezzo_food food. do you have an area of town or price range in mind?
+what type of food are you looking for?
+goodbye.
+i have to options for thai food in the expensive price range, bangkok_city and sala_thong.
+little_seoul is a little_seoul_food little_seoul_type.
+their address is cambridge_leisure_park_clifton_way cherry hinton and phone number is frankie_and_bennys_phone
+enjoy your meal!
+there is not a little_seoul_type serving irish food in the little_seoul_pricerange price range.  would you like another little_seoul_type?
+frankie_and_bennys address is cambridge_leisure_park_clifton_way cherry hinton. their phone number is frankie_and_bennys_phone
+you're welcome, goodbye
+thank you for using this system. goodbye.
+in what part of town?
+peking_restaurant is a peking_restaurant_food restaurant located in the south part of town and is expensive price range.  do you need any additional information?
+you're welcome. thank you for calling. goodbye.
+i'm sorry, there are no australian kymmoy_types.  would you like another type of food?
+i found three in the kohinoor_area part of town and one in the north. which area do you prefer?
+do you have a preference on the price?
+the address is efes_restaurant_address, and the phone number is efes_restaurant_phone. will there be anything else?
+you're welcome. thanks for your call! goodbye.
+have a nice day.
+i'm sorry, there are no la_margherita_types that serve australian food.
+there is saint_johns_chop_house with moderate pricing in the west part of town.
+the gourmet_burger_kitchen's phone number is gourmet_burger_kitchen_phone , they are loated at gourmet_burger_kitchen_address, and there post code is .gourmet_burger_kitchen_postcode
+you're welcome, goodbye
+there are three anatolia_types, the locations are bridge_street_city_anatolia_area, king_street_city_anatolia_area, and the more expensive is on mill_road_city_anatolia_area. which do you prefer?
+there are no cambridge_lodge_restaurant_types serving vegetarian food.
+have a nice day.
+how about la_margherita?
+enjoy your meal!
+de_luca_cucina_and_bar is in the de_luca_cucina_and_bar_area part of town and in the de_luca_cucina_and_bar_pricerange price range.
+curry_prince serves curry_prince_food food and is on the curry_prince_area side of town.
+restaurant_alimentum_address
+you're welcome. thank you for calling. goodbye.
+what area would you like?
+golden_wok is in the north part of town, and is moderately priced.  it serves golden_wok_food food.
+the_nirala is a moderately priced restaurant in the north of town, and it serves the_nirala_food food. would you like the phone number?
+the phone number is darrys_cookhouse_and_wine_shop_phone. would you like any additional information?
+you're welcome. thank you for calling. goodbye.
+da_vinci_pizzeria, which is in the da_vinci_pizzeria_area part of town and the da_vinci_pizzeria_pricerange price range, is at da_vinci_pizzeria_address and the phone number is da_vinci_pizzeria_phone.
+you're welcome. thank you for calling. goodbye.
+im sorry there are no thanh_binh_types offering swiss food in your area.
+peking_peking_restaurant_type serves peking_restaurant_food food, it is in the peking_restaurant_pricerange price range, and it is in the peking_restaurant_area part of town. would you like the address and phone number?
+would you  like something in the north or jinling_noodle_bar_area of town?
+it is at la_margherita_phone.
+enjoy your meal!
+there are no saigon_city_types that seve christmas food.
+there are several restaurants serving international food.  would you prefer one in the centre or east part of town?
+cote is a cote_food cote_type located in the cote_area part of town and is in the cote_pricerange price range.   is there anything else i can help you with today?
+charlie_chan's phone number is charlie_chan_phone and the address is charlie_chan_address. may i help you with anything else?
+it is located in the south part of town
+you're welcome, enjoy your food.
+there are two golden_wok_pricerangely priced golden_wok_types in the golden_wok_area, an italian golden_wok_type and a golden_wok_food golden_wok_type. would you like more information?
+they serve grafton_hotel_restaurant_food food.
+nandos's address is nandos_address nandos_postcode
+thank you for using our system. good bye
+i'm afraid there are no danish bangkok_city_types in the city. is there another cuisine you'd like?
+im sorry there are no thanh_binh_types offering swiss food in your area.
+you're welcome. goodbye!
+good bye.
+there are two the_lucky_star_types that are in the the_lucky_star_pricerange price range and in the the_lucky_star_area part of town. would you like portuguese or the_lucky_star_food food?
+little_seoul is at 108 regent_street_city_little_seoul_area and is an little_seoul_pricerange little_seoul_type.  do you want the phone number?
+enjoy your meal!
+unfortunately there are no cotto_types that serve swiss food in this area. would you consider trying a different cuisine?
+there are no kosher restaurants in that area. would you like to search another area or food type?
+their address is hotel_du_vin_and_bistro_address and phone number is hotel_du_vin_and_bistro_phone.
+goodbye
+golden_wok is located in the north part of town and is the moderate price range.   their address is golden_wok_address.
+curry_prince's phone number is curry_prince_phone. can i help you with anything else?
+you're welcome. enjoy your meal!
+there are two restaurants that fit your criteria, would you prefer da_vinci_pizzeria_food or royal_spice_food food?
+there are nine restaurants in the south area. is there a price range you would like in particular?
+their address is cambridge_leisure_park_clifton_way cherry hinton and phone number is frankie_and_bennys_phone
+you're welcome, goodbye
+de_luca_cucina_and_bar is in the de_luca_cucina_and_bar_area part of town and in the de_luca_cucina_and_bar_pricerange price range.
+there are no moderately priced moroccan restaurants in any area. might another type of food interest you?
+eraina is a great eraina_food eatery. what other information can i provide to you?
+of course, prezzo's address is prezzo_address and postcode is prezzo_postcode.
+thank you, goodbye.
+i'm sorry, there are no fusion restaurants listed in the cheap price range.  would you like to try something else?
+it does not appear there are any restaurants serving afghan food
+thank you, goodbye.
+what type of food are you looking for?
+would you prefer grafton_hotel_restaurant_food, indian, or chinese food, or a gastropub?
+the phone number for dojo_noodle_bar is dojo_noodle_bar_phone.  would you like any other information?
+you're welcome.  good bye.
+there are two restaurants that fit your criteria, would you prefer da_vinci_pizzeria_food or royal_spice_food food?
+do you have a preference on the price?
+dojo_noodle_bar serves dojo_noodle_bar_food food in the dojo_noodle_bar_area of town. would you like their number?
+the address is pizza_hut_cherry_hinton_address. the phone number is pizza_hut_cherry_hinton_phone.
+you're welcome, goodbye.
+eraina would fit the bill.
+fitzbillies_fitzbillies_restaurant_type serves fitzbillies_restaurant_food food. would you like more information about this location?
+the dojo_noodle_bar serves dojo_noodle_bar_food food.  they are located at 40210_millers_yard_city_dojo_noodle_bar_area and their phone number is dojo_noodle_bar_phone.
+good bye
+meghna is an meghna_food meghna_type in the meghna_area part of town and in the meghna_pricerange price range.
+do you have a preference on the price?
+there are five restaurants in the expensive price range and in the east part of town. what kind of food would you like?
+the phone number for dojo_noodle_bar is dojo_noodle_bar_phone. can i help you with anything else?
+enjoy your meal!
+what type of food would you like?
+there are no gourmet_burger_kitchen_types serving barbeque.
+the address is pizza_hut_cherry_hinton_address. the phone number is pizza_hut_cherry_hinton_phone.
+goodbye
+yes, there are two.  pizza_hut_cherry_hinton serves pizza_hut_cherry_hinton_food food while restaurant_alimentum serves restaurant_alimentum_food food.  would you like any additional info on those or help finding something else?
+you're welcome, goodbye
+are you looking for a darrys_cookhouse_and_wine_shop_type in the darrys_cookhouse_and_wine_shop_pricerange, moderate or cheap price range?
+enjoy your meal!
+where would you like to search for a gourmet_burger_kitchen_type, and what price range would you prefer?
+there is saint_johns_chop_house with moderate pricing in the west part of town.
+do you have a preference on the price?
+la_raza's phone number is la_raza_phone and the address is la_raza_address.  anything else i can help you with?
+enjoy your meal!
+what area are you interested in today?
+cote is an cote_pricerange cote_food cote_type in the city cote_area.
+do you have a preference on the price?
+restaurant_two_two is a nice place that serves french food in the expensive price range and is in the restaurant_two_two_area part of town.
+their phone number is thanh_binh_phone. how else may i assist you?
+excellent, have a wonderful evening.
+what is the food type you would prefer?
+you're welcome. enjoy your meal!
+the_missing_sock is in the the_missing_sock_area part of town and it serves the_missing_sock_food food.
+enjoy your meal!
+yes, chiquito_restaurant_bar is a nice restaurant in the south part of town.
+nandos is the nandos_food place, and the_lucky_star is the_lucky_star_food.  would you like more information on one or both of those?
+what part of town would you like to dine in?
+bangkok_city bangkok_city_type is located at 24_green_street_city_bangkok_city_area and its phone number is bangkok_city_phone. is there anything else i can help you with?
+have a nice day.
+there are three anatolia_types serving anatolia_food food in the center of town. what price range would you like?
+bangkok_city is located in 24_green_street_city_bangkok_city_area and their phone number is bangkok_city_phone.
+you're welcome!
+anatolia is in the anatolia_pricerange price range.
+frankie_and_bennys serves frankie_and_bennys_food food in the frankie_and_bennys_area part of town. is there anything else i can help you with?
+there are no matching records found for that request.
+the phone number is thanh_binh_phone.
+goodbye
+thank you and have a great day!
+no meze_bar_restaurant_type matching your description have been found.
+yes. da_vinci_pizzeria da_vinci_pizzeria_type in the da_vinci_pizzeria_area part of town and in the da_vinci_pizzeria_pricerange price range.  would you like more information for them?
+their postcode is shiraz_restaurant_postcode and their phone number is shiraz_restaurant_phone.
+enjoy your meal!
+we have four darrys_cookhouse_and_wine_shop_type that serves darrys_cookhouse_and_wine_shop_food food in the darrys_cookhouse_and_wine_shop_area area, is there anything else i can help you with?
+the phone number for the_cow_pizza_kitchen_and_bar is the_cow_pizza_kitchen_and_bar_phone and they are located at the the_cow_pizza_kitchen_and_bar_address. can i help you with anything else?
+their address is da_vinci_pizzeria_address
+chiquito_restaurant_bar is an expensive restaurant on the south part of town. would you like the phone number?
+do you have a preference on the price?
+restaurant_alimentum_type_alimentum serves restaurant_alimentum_food food.
+there are two pizza_hut_cherry_hinton_food pizza_hut_cherry_hinton_types in the pizza_hut_cherry_hinton_area part of town. would you prefer a pizza_hut_cherry_hinton_pricerange or expensive option?
+peking_peking_restaurant_type serves peking_restaurant_food food, it is in the peking_restaurant_pricerange price range, and it is in the peking_restaurant_area part of town. would you like the address and phone number?
+meghna is a meghna_type  in the meghna_area part of town and meghna_pricerangely priced. would you like their phone number and address?
+galleria is an galleria_food galleria_type in the galleria_pricerange price range and the galleria_area part of town, the address is galleria_address and the phone number is 01223_356666
+thank you goo bye
+im sorry, there are no nandos_types that serve world food. can i help you with something else?
+their phone number is royal_spice_phone and their address is royal_spice_address royal_spice_postcode
+thank you, goodbye.
+there is not.
+yu_garden is a great, but yu_garden_pricerange, yu_garden_food yu_garden_type. they are located at yu_garden_address. is there anything else i can do for you?
+the peking_restaurant is located at peking_restaurant_address, and the phone number is peking_restaurant_phone.
+you're welcome.
+thank you, goodbye.
+the cambridge_lodge_cambridge_lodge_restaurant_type serves cambridge_lodge_restaurant_food food in the cambridge_lodge_restaurant_area part of town
+grafton hotel 619 newmarket_road_fen_ditton.  the phone number is grafton_hotel_restaurant_phone.
+thank you goo bye
+nice talking to you, thank you. good bye
+royal_spice is in the north part of town and is in the cheap price range.
+frankie_and_bennys is an frankie_and_bennys_food frankie_and_bennys_type in the frankie_and_bennys_area part of town and is in the frankie_and_bennys_pricerange price range.
+it's phone number is pizza_hut_cherry_hinton_phone and its address is pizza_hut_cherry_hinton_address.
+enjoy your meal!
+thank you and have a great day!
+la_raza is a la_raza_pricerange la_raza_food la_raza_type in the la_raza_area of town.
+the address is pizza_hut_cherry_hinton_address. the phone number is pizza_hut_cherry_hinton_phone.
+thank you, goodbye!
+unfortunately, no caribbean pizza_hut_cherry_hinton_types can be found in the pizza_hut_cherry_hinton_area of town. can i help you with something else?
+yes. da_vinci_pizzeria da_vinci_pizzeria_type in the da_vinci_pizzeria_area part of town and in the da_vinci_pizzeria_pricerange price range.  would you like more information for them?
+you're welcome.
+it is located at la_mimosa_address and you can reach them at la_mimosa_phone .
+have a nice day.
+what area of town are you looking for?
+there are two pizza_hut_cherry_hinton_types serving pizza_hut_cherry_hinton_food food in the pizza_hut_cherry_hinton_area of town. what price range would you like?
+bloomsbury_restaurant is an international restaurant in the bloomsbury_restaurant_area area.
+excellent, have a wonderful evening.
+would you like golden_wok_food or indian food?
+they serve grafton_hotel_restaurant_food food.
+have a nice day.
+would the hotel_du_vin_and_bistro_area part of town be convenient for you?
+prezzo is an italian restaurant in the west of town, and is in the prezzo_pricerange price range. the address is prezzo_address and the phone number is prezzo_phone.
+i'm sorry, but our system does not show any matches for your inquiry.
+the phone number is thanh_binh_phone.
+excellent, have a wonderful evening.
+there are several expensive restaurants in the south part of town. do you prefer mexican , indian, italian, or chinese?
+cote is a good cote_food cote_type. it is located at bridge_street_city_cote_area and its phone number is cote_phone. is there anything else i can help you with?
+there is saint_johns_chop_house with moderate pricing in the west part of town.
+the_nirala is located at the_nirala_address and can be reached at the_nirala_phone. will that be all or can i assist you further?
+enjoy your meal!
+i'm sorry, there are no la_margherita_types serving basque food in the la_margherita_area part of town. would you like a different type of food?
+do you have a preference on the price?
+their address is da_vinci_pizzeria_address
+the postcode is cb41jy is there anything else i can help you with?
+enjoy your meal!
+there are 5 royal_standard_pricerange royal_standard_types in the royal_standard_area, what food type do you want ?
+the grafton_hotel_grafton_hotel_restaurant_type serves grafton_hotel_restaurant_food food, is in the grafton_hotel_restaurant_area part of town and is in the grafton_hotel_restaurant_pricerange price range.  would you like their location?
+the_nirala's phone number is the_nirala_phone
+you're quite welcome.  good bye.
+how about charlie_chan? it is cheap and delicious.
+nandos is the nandos_food place, and the_lucky_star is the_lucky_star_food.  would you like more information on one or both of those?
+do you have a preference on food type? there are three saint_johns_chop_house_types with the following food types: indian, italian, and saint_johns_chop_house_food.
+their address is royal_spice_address, postal code royal_spice_postcode. what else can i do for you?
+my pleasure.  goodbye.
+do you have a certain type of food in mind?
+we have four charlie_chan_type in the charlie_chan_pricerange price serving charlie_chan_food food, can i help you with anything else?
+here is the information you have requested. phone number is da_vinci_pizzeria_phone, and address is da_vinci_pizzeria_address. will that be all?
+good bye
+what type of food are you looking for?
+the address is la_tasca_address and the postcode is la_tasca_postcode  is there anything else i can help you with?
+goodbye
+i recommend golden_wok. it is in the north part of town with a moderate price range.
+the_river_bar_steakhouse_and_grill is a the_river_bar_steakhouse_and_grill_food the_river_bar_steakhouse_and_grill_type that looks like the least expensive option available.  it is located in the the_river_bar_steakhouse_and_grill_area of town.  how does that sound?
+golden_wok's phone number is golden_wok_phone
+thank you, goodbye.
+what area would you like?
+little_seoul is a little_seoul_food little_seoul_type.
+for which would you like more information, the royal_spice, or the da_vinci_pizzeria.
+excellent, have a wonderful evening.
+nandos_city_nandos_city_centre_area serves portuguese food.  they are in the nandos_city_centre_area of town and are in the cheap price range.
+there phone number is the_missing_sock_phone is there anything else i can help you with?
+have a nice day.
+it does not appear there are any restaurants serving afghan food
+there is one meze_bar_restaurant_pricerange meze_bar_restaurant_food meze_bar_restaurant_type in town: meze_bar_meze_bar_restaurant_type.
+pizza_hut_cherry_hinton is phone number is pizza_hut_cherry_hinton_phone.
+the postcode is c.b. 1 7 d.y
+have a nice day.
+unfortunately, no caribbean pizza_hut_cherry_hinton_types can be found in the pizza_hut_cherry_hinton_area of town. can i help you with something else?
+what area are you looking for?
+la_margherita serves great la_margherita_food food. can i help with anything else ?
+the phone number is the_nirala_phone. and the postcode is the_nirala_postcode.
+have a nice day.
+have a nice day.
+may i suggest curry_prince, a moderately priced indian restaurant in the curry_prince_area?
+peking_restaurant is a peking_restaurant_food restaurant located in the south part of town and is expensive price range.  do you need any additional information?
+zizzi_cambridge in the zizzi_cambridge_area of the city. they are located at zizzi_cambridge_address and their phone number is zizzi_cambridge_phone.
+you're welcome. goodbye.
+i found two golden_wok_types in the golden_wok_pricerange price range in the golden_wok_area part of town. would you prefer golden_wok_food or indian food?
+does the price range matter to you?
+restaurant_alimentum is located at restaurant_alimentum_address and the phone number is restaurant_alimentum_phone.
+enjoy your meal!
+golden_wok serves golden_wok_food food. would you like their address and phone number?
+peking_restaurant is a peking_restaurant_food restaurant located in the south part of town and is expensive price range.  do you need any additional information?
+yes, the_nirala is the_nirala_food restaurant in the moderate price range and in the north. it is located at the_nirala_address and its phone number is the_nirala_phone. is there anything else i can help you with?
+charlie_chan is located at charlie_chan_address and its phone number is charlie_chan_phone. is there anything else i can help you with?
+have a nice day!
+the grafton_hotel_restaurant serves grafton_hotel_restaurant_food food in the east part of town and is in the expensive price range.
+peking_restaurant is a peking_restaurant_food restaurant located in the south part of town and is expensive price range.  do you need any additional information?
+there are several grafton_hotel_restaurant_types in the grafton_hotel_restaurant_area part of town.  would you like something in the moderate, cheap or grafton_hotel_restaurant_pricerange price range?
+the_nirala is a moderately priced restaurant in the north of town, and it serves the_nirala_food food. would you like the phone number?
+frankie_and_bennys address is cambridge_leisure_park_clifton_way cherry hinton. their phone number is frankie_and_bennys_phone
+thank you and goodbye!
+what kind of food would you like to have?
+rajmahal is located at rajmahal_address and the phone number is rajmahal_phone. will that be all?
+the postcode is c.b. 1 7 d.y
+you're welcome, enjoy your food.
+restaurant_two_two_type_two_two serves restaurant_two_two_food food, and is located in the restaurant_two_two_area part of town.
+nandos serves nandos_food food. will there be anything else i can help you with today?
+they serve cocum_food food .
+thank you, have a good day!
+you're welcome. good bye.
+fitzbillies_fitzbillies_restaurant_type serves fitzbillies_restaurant_food food. would you like more information about this location?
+restaurant_two_two_type_two_two's phone number is restaurant_two_two_phone. is there anything else i can do for you?
+curry_prince is a curry_prince_pricerangely priced curry_prince_type in the curry_prince_area of town that serves curry_prince_food food.
+goodbye
+there are three, rajmahal_pricerangely priced rajmahal_types in the rajmahal_area part of town. do you have a cuisine preference?
+for which would you like more information, the royal_spice, or the da_vinci_pizzeria.
+their phone number is curry_prince_phone.
+thank you for calling. goodbye.
+what kind of food would you like?
+the_nirala is an the_nirala_food the_nirala_type in the the_nirala_pricerange price range on the the_nirala_area side.
+their address is nandos_address.  would you also like the phone number?
+have a nice day.
+there are no eraina_types serving scottish food.  would you like to try something else?
+gourmet_burger_kitchen is in the gourmet_burger_kitchen_pricerange price range their phone number is gourmet_burger_kitchen_phone and their address is gourmet_burger_kitchen_address
+there are several expensive restaurants in the south part of town. do you prefer mexican , indian, italian, or chinese?
+you're welcome, goodbye.
+you're welcome. thank you for calling. goodbye.
+im sorry, there are no nandos_types that serve world food. can i help you with something else?
+curry_prince serves curry_prince_food food and is on the curry_prince_area side of town.
+the golden_wok is located at golden_wok_address and their phone number is golden_wok_phone. may i help you with anything else?
+you're welcome
+i found two golden_wok_types in the golden_wok_pricerange price range in the golden_wok_area part of town. would you prefer golden_wok_food or indian food?
+do you have a preference on the price?
+im sorry, there are no nandos_types that serve world food. can i help you with something else?
+curry_prince serves curry_prince_food food and is on the curry_prince_area side of town.
+there are 14 graffiti_types in the graffiti_area. are you looking for a particular cuisine?
+la_margherita serves great la_margherita_food food. can i help with anything else ?
+the lan_hong_house is great. their phone number is lan_hong_house_phone. would you like any additional information about them?
+have a nice day.
+that would be the royal_standard at 280 mill_road_city_centre. they can be reached at royal_standard_phone.
+the phone number for dojo_noodle_bar is dojo_noodle_bar_phone.  would you like any other information?
+enjoy!
+i find 3 restaurants matching your request.
+there is thanh_binh in the thanh_binh_area area at thanh_binh_address, phone number is thanh_binh_phone.
+meghna is an indian restaurant, it is in the moderate price range, and it is in the meghna_area part of town. the address is meghna_address.
+little_seoul's address is 108 regent_street_city_little_seoul_area. their phone number is little_seoul_phone.
+thank you for choosing our system. good bye
+galleria serves galleria_food food and is in the galleria_pricerange price range.  would you like their location?
+there are no cambridge_lodge_restaurant_types serving vegetarian food.
+enjoy your meal!
+i'm showing three restaurants that fit that description. are you interested in a particular area or price range?
+saigon_city serves saigon_city_food food and is in the saigon_city_area part of town. would you like the address and phone number?
+there aren't any jamaican the_gardenia_types nearby, would you like another type of cuisine?
+their address is restaurant_alimentum_address.
+enjoy your meal!
+i have to options for thai food in the expensive price range, bangkok_city and sala_thong.
+there are 3 graffiti_food graffiti_types in the graffiti_area. do you like moderate or graffiti_pricerange price range?
+do you have a preference on the price?
+the phone number is rajmahal_phone.  is there anything else i can help you with?
+have a nice day.
+i have quite a few ask_types that match your request.  would you like to narrow it down by area?
+bloomsbury_bloomsbury_restaurant_type is located at bloomsbury_restaurant_address and their phone number is bloomsbury_restaurant_phone. may i help you with anything else?
+which area would you like?
+meghna is located in the west part of town.
+have a nice day.
+there is not a cambridge_lodge_restaurant_type matching your request.  would you like another cambridge_lodge_restaurant_type?
+there are three anatolia_types that serve anatolia_food food in the center of town. what price range would you like?
+does the price range matter to you?
+the peking_peking_restaurant_type is at peking_restaurant_address.  can i be of further help?
+thank you, goodbye.
+there is a place called nandos that specializes in nandos_food food on the nandos_area side of town.
+yes, there is also the_nirala which is an the_nirala_food restaurant.  would you be interested in more information on that one?
+no, there are only 2 restaurants in the area. is there anything else i can help with?
+the address for galleria is galleria_address and the postcode is galleria_postcode. can i help you with anything else?
+thank you goodbye
+good bye.
+there are no dojo_noodle_bar_types matching your request.
+the_river_bar_steakhouse_and_grill is a the_river_bar_steakhouse_and_grill_food the_river_bar_steakhouse_and_grill_type that looks like the least expensive option available.  it is located in the the_river_bar_steakhouse_and_grill_area of town.  how does that sound?
+do you have a preference on the price?
+caffe_uno's telephone number is caffe_uno_phone and the address is 32 bridge_street_city_caffe_uno_area.
+you're welcome and thank you for using this system. goodbye.
+have a nice day.
+unfortunately, no caribbean pizza_hut_cherry_hinton_types can be found in the pizza_hut_cherry_hinton_area of town. can i help you with something else?
+an caffe_uno_pricerange caffe_uno_food caffe_uno_type is found in the center of town, caffe_uno. the address is 32 bridge_street_city_caffe_uno_area. the phone number is caffe_uno_phone.
+it's in the meze_bar_restaurant_area of town, the address is 196 mill_road_city_meze_bar_restaurant_area.
+goodbye
+i'm sorry, there is no cocum_type listed serving christmas food.  would you like to try something else?
+nandos is a nandos_food nandos_type in the nandos_area part of town.
+there is saint_johns_chop_house with moderate pricing in the west part of town.
+zizzi_cambridge in the zizzi_cambridge_area of the city. they are located at zizzi_cambridge_address and their phone number is zizzi_cambridge_phone.
+enjoy your meal!
+do you have a certain price range or food type you are looking for?
+have a great day. thank you for using the services
+you're welcome, goodbye
+what part of town would you like to dine in?
+the phone number is curry_prince_phone and the postcode is cb58jj.
+you're welcome. good bye.
+bedouin_food huh? where are you now? id hate to send you somewhere far away
+the address for tanh binh is thanh_binh_address. is ther anything else i can help you with?
+enjoy your meal!
+there are no mathcing records found for that request
+yes there is one, its name is da_vinci_pizzeria.
+i'm sorry, but our system does not show any matches for your inquiry.
+bedouin is located at 100 mill_road_city_bedouin_area and their phone number is bedouin_phone.
+curry_prince's phone number is curry_prince_phone. can i help you with anything else?
+thank you for using the system. good bye.
+i have found two that may work. first, la_margherita is at la_margherita_address, phone is la_margherita_phone. second one serves vietnamese at 17_magdalene_street_city_centre, number is 01223_362456
+have a nice day.
+there are no eraina_types serving scottish food.  would you like to try something else?
+thank you, goodbye.
+good day!
+da_vinci_pizzeria serves da_vinci_pizzeria_food food, is in the north part of town and is in the cheap price range.
+which area would you like?
+bloomsbury_bloomsbury_restaurant_type is located at bloomsbury_restaurant_address and their phone number is bloomsbury_restaurant_phone. may i help you with anything else?
+enjoy your meal!
+there are two ali_baba_types serving spanish food in the cheap and ali_baba_pricerange price range. which price range would you prefer?
+there is thanh_binh in the thanh_binh_area area at thanh_binh_address, phone number is thanh_binh_phone.
+bangkok_city bangkok_city_type is located at 24_green_street_city_bangkok_city_area and its phone number is bangkok_city_phone. is there anything else i can help you with?
+thank you, and have a good day.
+what price range would you like?
+unfortunately there are no jamaican darrys_cookhouse_and_wine_shop_types in the darrys_cookhouse_and_wine_shop_area area. is there another area or food type that you would like?
+cambridge_lodge_cambridge_lodge_restaurant_type serves cambridge_lodge_restaurant_food food and it is in the cambridge_lodge_restaurant_pricerange price range. the phone number is cambridge_lodge_restaurant_phone and the address is cambridge_lodge_restaurant_address.
+anatolia serves anatolia_food food in the anatolia_area of town. would you like their phone number?
+there are 14 graffiti_types in the graffiti_area. are you looking for a particular cuisine?
+bangkok_city bangkok_city_type is located at 24_green_street_city_bangkok_city_area and its phone number is bangkok_city_phone. is there anything else i can help you with?
+royal_spice is a royal_spice_pricerange royal_spice_food royal_spice_type located at royal_spice_address. their number is royal_spice_phone. is there anything else i can do for you today?
+enjoy your meal!
+good bye.
+the grafton_hotel_restaurant serves grafton_hotel_restaurant_food food in the east part of town and is in the expensive price range.
+la_raza's phone number is la_raza_phone and the address is la_raza_address.  anything else i can help you with?
+da_vinci_pizzeria serves is in the north part of town and in the cheap price range.  would you like their location?
+the address is pizza_hut_cherry_hinton_address. the phone number is pizza_hut_cherry_hinton_phone.
+thank you for choosing our system. good bye
+chiquito_chiquito_restaurant_bar_type_bar is a chiquito_restaurant_bar_food chiquito_restaurant_bar_type located in the chiquito_restaurant_bar_area part of town and the price range is chiquito_restaurant_bar_pricerange.   would you like their address?
+there is prezzo which is prezzo_food at prezzo_address, phone number is prezzo_phone.
+peking_restaurant is a peking_restaurant_food restaurant located in the south part of town and is expensive price range.  do you need any additional information?
+peking is at peking_restaurant_address.  do you need their phone number?
+have a nice day.
+good bye
+there are two royal_spice_types serving royal_spice_food food in the royal_spice_area part of town. what price range do you want?
+nandos' address is nandos_address and their phone number is 01223_327908.
+you're welcome. thank you for calling. goodbye.
+what type of food are you looking for?
+there are three the_cow_pizza_kitchen_and_bar_food the_cow_pizza_kitchen_and_bar_types listed. one is in the east part of town and the rest are in the the_cow_pizza_kitchen_and_bar_area.
+the address is anatolia_address.
+you're welcome. good bye.
+prezzo is a prezzo_pricerangely priced prezzo_food prezzo_type in the prezzo_area part of town.  there is also indian and british food available in that area and price range.  would you like more info?
+ask is located at 12_bridge_street_city_ask_area. their telephone number is ask_phone.
+the_missing_sock is a nice the_missing_sock_type in the the_missing_sock_area part of town in the the_missing_sock_pricerange price range
+yu_garden is located at yu_garden_address and their number is yu_garden_phone. also, their postcode is yu_garden_postcode. is there anything else i can help you with?
+you're welcome.  good night.
+i'm sorry, there aren't any peking_restaurant_types serving christmas food. would you like something else instead?
+there are two the_nirala_food the_nirala_types in the the_nirala_area part of town. what price range are you looking for?
+the phone number for dojo_noodle_bar is dojo_noodle_bar_phone.  would you like any other information?
+thank you and have a great day!
