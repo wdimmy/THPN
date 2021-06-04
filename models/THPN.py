@@ -23,15 +23,15 @@ import logging.handlers
 
 LOG_FILE = str(args['dataset']) + '_' + str(TOP_K) + '_' + str(args['task']) + '_' + str(args['hidden']) + '_' + str(
     args['batch']) + '_' + str(args['learn']) + '_' + str(args['drop']) + '_' + str(args['layer'])
-logger = logging.getLogger(LOG_FILE)  # 获取名为tst的logger
+logger = logging.getLogger(LOG_FILE)  # get the logger named tst
 if not logger.handlers:
     # LOG_FILE = str(args['dataset']) + '_' + str(TOP_K) + '_' + args['task'] + '.log'
-    handler = logging.handlers.RotatingFileHandler(LOG_FILE + '.log', maxBytes=1024 * 1024, backupCount=5)  # 实例化handler
+    handler = logging.handlers.RotatingFileHandler(LOG_FILE + '.log', maxBytes=1024 * 1024, backupCount=5)  # initialize the handler
     fmt = '%(asctime)s - %(filename)s:%(lineno)s - %(name)s - %(message)s'
-    formatter = logging.Formatter(fmt)  # 实例化formatter
-    handler.setFormatter(formatter)  # 为handler添加formatter
+    formatter = logging.Formatter(fmt)  # initialize the formatter
+    handler.setFormatter(formatter)  # add the formatter to the handler
     handler.setLevel(logging.INFO)
-    logger.addHandler(handler)  # 为logger添加hand
+    logger.addHandler(handler)  # add handle to the logger
 file_result = open('./analysis_camrest.txt', 'w')
 
 
@@ -47,7 +47,7 @@ class THPN(nn.Module):
         self.max_r = max_r  # max responce len
         self.lang = lang
         self.lr = lr
-        self.n_layers = n_layers  # 这里的n_layers指的是hop的数量，不一定要是3，可见decoder代码
+        self.n_layers = n_layers  # n_layers refers to the number of hops
         self.dropout = dropout
         self.unk_mask = unk_mask
         self.newsoftmax = nn.Softmax(dim=2)
@@ -76,7 +76,7 @@ class THPN(nn.Module):
         self.loss = 0
         self.loss_ptr = 0
         self.loss_vac = 0
-        self.print_every = 1  # 每1个iteration/batch就打印一次当前的各种average loss
+        self.print_every = 1  # Print average loss for each iteration/batch
         self.batch_size = 0
         self.loss_ans = 0
         # Move models to GPU
@@ -89,7 +89,7 @@ class THPN(nn.Module):
         print_loss_ptr = self.loss_ptr / self.print_every
         print_loss_vac = self.loss_vac / self.print_every
         print_loss_ans = self.loss_ans / self.print_every
-        self.print_every += 1  # +1的意思并不是打印loss的every变多了，而是为了求当前loss的平均值
+        self.print_every += 1
         return 'L:{:.2f}, VL:{:.2f}, PL:{:.2f},AL:{:.2f}'.format(print_loss_avg, print_loss_vac, print_loss_ptr,
                                                                  print_loss_ans)
 
@@ -128,7 +128,7 @@ class THPN(nn.Module):
             self.loss_ptr = 0
             self.loss_vac = 0
             self.loss_ans = 0
-            self.print_every = 1  # 重置也需要将print_every置为1，用于累计求loss的平均值
+            self.print_every = 1
         self.batch_size = batch_size
         # Zero gradients of both optimizers
         self.encoder_optimizer.zero_grad()
@@ -340,7 +340,7 @@ class THPN(nn.Module):
             hop_inform[index - 1, :, :] = i
         p = []
         for elm in src_plain:
-            elm_temp = [word_triple[0] for word_triple in elm]  # 仍是取一个词的三元组里面的第一个值
+            elm_temp = [word_triple[0] for word_triple in elm]  # Choose the first value of the triplet
             p.append(elm_temp)
         ans = []
         for elm in conv_seqs:
@@ -542,8 +542,8 @@ class THPN(nn.Module):
                                             data_dev[12], data_dev[-3])
                 # acc_P += acc_ptr
             # acc_V += acc_vac
-            acc = 0  # 每个batch之后都会置为0，但acc_avg会累计下来
-            w = 0  # 同上
+            acc = 0
+            w = 0
             temp_gen = []
 
             for i, row in enumerate(np.transpose(words)):
@@ -595,7 +595,7 @@ class THPN(nn.Module):
 
             acc_avg += acc / float(len(data_dev[1]))
             wer_avg += w / float(len(data_dev[1]))
-            pbar.set_description("R:{:.4f},W:{:.4f}".format(acc_avg / float(len(dev)),  # len(dev)是指有多少个batch
+            pbar.set_description("R:{:.4f},W:{:.4f}".format(acc_avg / float(len(dev)),  # len(dev) denotes how many batches
                                                             wer_avg / float(len(dev))))
         # dialog accuracy
         logger.info('================one res======================')
@@ -682,8 +682,7 @@ class THPN(nn.Module):
             for word in sent1:
                 if word[1] in kb_slot:
                     KB_turn = KB_turn + 1
-            # 加起来是为了找到当前u在整个dialogue（包括KB）中的行数，以便检索answer
-            # 因为这里检索除了需要u的utterance还需要这句话的行号, 和trnQuestion中每行的格式一致
+
             turn = int(turn) + KB_turn
             str1 = str(turn) + ' ' + str1
             res.append(str1)
@@ -782,7 +781,6 @@ class THPN(nn.Module):
 
 
 def computeF1(entity, st, correct):
-    # 其实并未用到correct，因为entity中的entitiy就是在y_ture中出现了的
     y_pred = [0 for z in range(len(entity))]
     y_true = [1 for z in range(len(entity))]
     for k in st.lstrip().rstrip().split(' '):
