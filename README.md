@@ -1,5 +1,5 @@
 # THPN
-This repository contains the code for ou ACL 2021 Workshop Paper 
+This repository contains the code for our ACL 2021 Workshop Paper 
 "A Template-guided Hybrid Pointer Network for Knowledge-basedTask-oriented Dialogue Systems".
 
 <p align="center">
